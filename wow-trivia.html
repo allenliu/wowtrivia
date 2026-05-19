@@ -1,0 +1,1261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WoW Dungeon Trivia — Know Your Voicelines?</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --gold: #c8a951;
+    --gold-light: #e8c96a;
+    --gold-dark: #8a6e28;
+    --gold-glow: rgba(200, 169, 81, 0.4);
+    --stone-dark: #0d0b08;
+    --stone-mid: #1a1510;
+    --stone-light: #2a2018;
+    --stone-border: #3d2e18;
+    --parchment: #f5e6c0;
+    --parchment-dark: #d4b97a;
+    --text-main: #e8d9b0;
+    --text-dim: #8a7a58;
+    --green-gem: #3a8a3a;
+    --green-gem-light: #5ab85a;
+    --red-gem: #8a2020;
+    --red-gem-light: #c04040;
+    --panel-bg: rgba(20, 14, 8, 0.95);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background-color: var(--stone-dark);
+    background-image:
+      radial-gradient(ellipse at 20% 20%, rgba(80, 50, 10, 0.15) 0%, transparent 60%),
+      radial-gradient(ellipse at 80% 80%, rgba(60, 30, 5, 0.2) 0%, transparent 60%),
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+    color: var(--text-main);
+    font-family: 'Crimson Text', Georgia, serif;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+
+  .container {
+    width: 100%;
+    max-width: 680px;
+  }
+
+  /* ─── HEADER ─── */
+  .header {
+    text-align: center;
+    margin-bottom: 28px;
+  }
+
+  .header-eyebrow {
+    font-family: 'Cinzel', serif;
+    font-size: 10px;
+    letter-spacing: 4px;
+    color: var(--gold-dark);
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+
+  .header h1 {
+    font-family: 'Cinzel', serif;
+    font-size: clamp(22px, 5vw, 34px);
+    font-weight: 900;
+    color: var(--gold-light);
+    text-shadow: 0 0 30px var(--gold-glow), 0 2px 4px rgba(0,0,0,0.8);
+    line-height: 1.1;
+    letter-spacing: 1px;
+  }
+
+  .header-sub {
+    font-size: 15px;
+    color: var(--text-dim);
+    font-style: italic;
+    margin-top: 6px;
+  }
+
+  /* ─── GOLD DIVIDER ─── */
+  .divider {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 16px 0;
+  }
+  .divider-line {
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(to right, transparent, var(--gold-dark), transparent);
+  }
+  .divider-gem {
+    width: 8px; height: 8px;
+    background: var(--gold);
+    transform: rotate(45deg);
+    box-shadow: 0 0 6px var(--gold-glow);
+  }
+
+  /* ─── PANEL ─── */
+  .panel {
+    background: var(--panel-bg);
+    border: 1px solid var(--stone-border);
+    border-radius: 4px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .panel::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(200,169,81,0.04) 0%, transparent 50%);
+    pointer-events: none;
+  }
+
+  /* Gold corner decorations */
+  .panel-corners {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+  }
+  .panel-corners::before,
+  .panel-corners::after {
+    content: '';
+    position: absolute;
+    width: 20px; height: 20px;
+    border-color: var(--gold-dark);
+    border-style: solid;
+  }
+  .panel-corners::before {
+    top: 6px; left: 6px;
+    border-width: 1px 0 0 1px;
+  }
+  .panel-corners::after {
+    bottom: 6px; right: 6px;
+    border-width: 0 1px 1px 0;
+  }
+
+  .panel-inner {
+    padding: 32px 36px;
+  }
+
+  /* ─── PROGRESS BAR ─── */
+  .progress-wrap {
+    margin-bottom: 24px;
+  }
+
+  .progress-label {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+
+  .progress-label span {
+    font-family: 'Cinzel', serif;
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: var(--text-dim);
+    text-transform: uppercase;
+  }
+
+  .progress-label .score-live {
+    color: var(--gold);
+    font-weight: 600;
+  }
+
+  .progress-track {
+    height: 4px;
+    background: var(--stone-light);
+    border-radius: 2px;
+    overflow: hidden;
+    border: 1px solid var(--stone-border);
+  }
+
+  .progress-fill {
+    height: 100%;
+    background: linear-gradient(to right, var(--gold-dark), var(--gold));
+    transition: width 0.4s ease;
+    box-shadow: 0 0 8px var(--gold-glow);
+  }
+
+  /* ─── QUESTION DOTS ─── */
+  .question-dots {
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+    margin-bottom: 24px;
+    justify-content: center;
+  }
+
+  .q-dot {
+    width: 12px; height: 12px;
+    border-radius: 50%;
+    background: var(--stone-light);
+    border: 1px solid var(--stone-border);
+    transition: all 0.3s ease;
+  }
+  .q-dot.correct { background: var(--green-gem); border-color: var(--green-gem-light); box-shadow: 0 0 4px rgba(90,184,90,0.4); }
+  .q-dot.wrong   { background: var(--red-gem);   border-color: var(--red-gem-light);   box-shadow: 0 0 4px rgba(192,64,64,0.4); }
+  .q-dot.current { border-color: var(--gold); box-shadow: 0 0 6px var(--gold-glow); }
+
+  /* ─── AUDIO PLAYER ─── */
+  .audio-section {
+    text-align: center;
+    margin-bottom: 28px;
+  }
+
+  .audio-label {
+    font-family: 'Cinzel', serif;
+    font-size: 10px;
+    letter-spacing: 3px;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    margin-bottom: 16px;
+  }
+
+  .play-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background: linear-gradient(180deg, #2a1f0e 0%, #1a1208 100%);
+    border: 1px solid var(--gold-dark);
+    border-radius: 4px;
+    color: var(--gold-light);
+    font-family: 'Cinzel', serif;
+    font-size: 13px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 14px 32px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .play-btn::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg, rgba(200,169,81,0.1) 0%, transparent 100%);
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+
+  .play-btn:hover::before { opacity: 1; }
+  .play-btn:hover {
+    border-color: var(--gold);
+    box-shadow: 0 0 16px var(--gold-glow);
+    color: var(--gold-light);
+  }
+
+  .play-btn:active { transform: translateY(1px); }
+
+  .play-btn.playing {
+    border-color: var(--gold);
+    box-shadow: 0 0 20px var(--gold-glow);
+  }
+
+  .play-icon {
+    width: 0; height: 0;
+    border-style: solid;
+    border-width: 6px 0 6px 10px;
+    border-color: transparent transparent transparent var(--gold);
+    flex-shrink: 0;
+  }
+
+  .play-icon.pause {
+    width: 10px; height: 12px;
+    border: none;
+    border-left: 3px solid var(--gold);
+    border-right: 3px solid var(--gold);
+    box-sizing: border-box;
+  }
+
+  .replay-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: none;
+    border: 1px solid var(--stone-border);
+    color: var(--text-dim);
+    font-family: 'Cinzel', serif;
+    font-size: 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 8px 16px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: all 0.2s ease;
+  }
+
+  .replay-btn:hover {
+    border-color: var(--gold-dark);
+    color: var(--gold);
+  }
+
+  /* ─── ANSWER BUTTONS ─── */
+  .answers-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+
+  .answer-btn {
+    background: linear-gradient(180deg, #201810 0%, #150f08 100%);
+    border: 1px solid var(--stone-border);
+    border-radius: 3px;
+    color: var(--text-main);
+    font-family: 'Crimson Text', Georgia, serif;
+    font-size: 15px;
+    padding: 14px 16px;
+    cursor: pointer;
+    text-align: left;
+    transition: all 0.2s ease;
+    line-height: 1.3;
+    position: relative;
+  }
+
+  .answer-btn::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 3px;
+    background: var(--gold-dark);
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+
+  .answer-btn:not(:disabled):hover {
+    border-color: var(--gold-dark);
+    background: linear-gradient(180deg, #2a2010 0%, #1a1408 100%);
+    color: var(--gold-light);
+  }
+
+  .answer-btn:not(:disabled):hover::before { opacity: 1; }
+
+  .answer-btn:disabled { cursor: default; }
+
+  .answer-btn.correct {
+    background: linear-gradient(180deg, #0d2b0d 0%, #071a07 100%);
+    border-color: var(--green-gem-light);
+    color: #a0e0a0;
+    box-shadow: 0 0 12px rgba(90, 184, 90, 0.2);
+  }
+  .answer-btn.correct::before { background: var(--green-gem-light); opacity: 1; }
+
+  .answer-btn.wrong {
+    background: linear-gradient(180deg, #2b0d0d 0%, #1a0707 100%);
+    border-color: var(--red-gem-light);
+    color: #e08080;
+    box-shadow: 0 0 12px rgba(192, 64, 64, 0.2);
+  }
+  .answer-btn.wrong::before { background: var(--red-gem-light); opacity: 1; }
+
+  .answer-btn.dimmed {
+    opacity: 0.35;
+  }
+
+  /* ─── REVEAL ─── */
+  .reveal-box {
+    background: linear-gradient(180deg, rgba(30, 20, 8, 0.8) 0%, rgba(15, 10, 4, 0.8) 100%);
+    border: 1px solid var(--stone-border);
+    border-left: 3px solid var(--gold-dark);
+    border-radius: 3px;
+    padding: 14px 18px;
+    margin-bottom: 20px;
+    animation: fadeSlideIn 0.3s ease;
+  }
+
+  @keyframes fadeSlideIn {
+    from { opacity: 0; transform: translateY(-6px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  .reveal-npc {
+    font-family: 'Cinzel', serif;
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: var(--gold);
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+
+  .reveal-quote {
+    font-style: italic;
+    font-size: 16px;
+    color: var(--parchment);
+    line-height: 1.5;
+  }
+
+  .reveal-result {
+    font-family: 'Cinzel', serif;
+    font-size: 11px;
+    letter-spacing: 1px;
+    margin-top: 8px;
+  }
+  .reveal-result.correct { color: var(--green-gem-light); }
+  .reveal-result.wrong   { color: var(--red-gem-light); }
+
+  /* ─── NEXT BUTTON ─── */
+  .next-btn {
+    width: 100%;
+    background: linear-gradient(180deg, #3a2a10 0%, #251a08 100%);
+    border: 1px solid var(--gold-dark);
+    border-radius: 3px;
+    color: var(--gold-light);
+    font-family: 'Cinzel', serif;
+    font-size: 12px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    padding: 14px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    animation: fadeSlideIn 0.3s ease;
+  }
+
+  .next-btn:hover {
+    background: linear-gradient(180deg, #4a3a18 0%, #352810 100%);
+    border-color: var(--gold);
+    box-shadow: 0 0 16px var(--gold-glow);
+  }
+
+  /* ─── SCREEN TRANSITIONS ─── */
+  .screen { display: none; }
+  .screen.active { display: block; animation: screenFade 0.4s ease; }
+
+  @keyframes screenFade {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+  }
+
+  /* ─── START SCREEN ─── */
+  .start-content { text-align: center; padding: 40px 36px; }
+
+  .start-content p {
+    font-size: 17px;
+    color: var(--text-main);
+    line-height: 1.7;
+    margin-bottom: 12px;
+  }
+
+  .start-rules {
+    background: rgba(200, 169, 81, 0.05);
+    border: 1px solid var(--stone-border);
+    border-radius: 3px;
+    padding: 16px 20px;
+    margin: 20px 0 28px;
+    text-align: left;
+  }
+
+  .start-rules li {
+    font-size: 15px;
+    color: var(--text-dim);
+    list-style: none;
+    padding: 4px 0;
+    padding-left: 16px;
+    position: relative;
+  }
+
+  .start-rules li::before {
+    content: '◆';
+    position: absolute;
+    left: 0;
+    color: var(--gold-dark);
+    font-size: 8px;
+    top: 7px;
+  }
+
+  .start-btn {
+    background: linear-gradient(180deg, #4a3818 0%, #2e2010 100%);
+    border: 1px solid var(--gold);
+    border-radius: 3px;
+    color: var(--gold-light);
+    font-family: 'Cinzel', serif;
+    font-size: 14px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    padding: 16px 48px;
+    cursor: pointer;
+    transition: all 0.25s ease;
+    box-shadow: 0 0 20px rgba(200,169,81,0.15), inset 0 1px 0 rgba(200,169,81,0.2);
+  }
+
+  .start-btn:hover {
+    background: linear-gradient(180deg, #5a4820 0%, #3e2c14 100%);
+    box-shadow: 0 0 32px rgba(200,169,81,0.3), inset 0 1px 0 rgba(200,169,81,0.3);
+    transform: translateY(-1px);
+  }
+
+  /* ─── RESULT SCREEN ─── */
+  .result-header {
+    text-align: center;
+    padding: 32px 36px 20px;
+    border-bottom: 1px solid var(--stone-border);
+  }
+
+  .result-rank-label {
+    font-family: 'Cinzel', serif;
+    font-size: 10px;
+    letter-spacing: 4px;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+
+  .result-rank {
+    font-family: 'Cinzel', serif;
+    font-size: clamp(24px, 6vw, 38px);
+    font-weight: 900;
+    color: var(--gold-light);
+    text-shadow: 0 0 24px var(--gold-glow);
+    letter-spacing: 1px;
+    margin-bottom: 12px;
+  }
+
+  .result-score {
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--parchment);
+    line-height: 1;
+    margin-bottom: 4px;
+  }
+
+  .result-score span { color: var(--text-dim); font-size: 32px; }
+
+  .result-subtitle {
+    font-size: 15px;
+    font-style: italic;
+    color: var(--text-dim);
+  }
+
+  /* Question breakdown grid */
+  .result-grid {
+    padding: 20px 36px;
+    border-bottom: 1px solid var(--stone-border);
+  }
+
+  .result-grid-label {
+    font-family: 'Cinzel', serif;
+    font-size: 10px;
+    letter-spacing: 3px;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    text-align: center;
+  }
+
+  .result-dots {
+    display: flex;
+    gap: 6px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .result-dot {
+    width: 28px; height: 28px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .result-dot.correct { background: var(--green-gem); color: #a0e0a0; }
+  .result-dot.wrong   { background: var(--red-gem);   color: #e08080; }
+
+  /* Share section */
+  .result-share {
+    padding: 20px 36px 28px;
+    text-align: center;
+  }
+
+  .share-label {
+    font-family: 'Cinzel', serif;
+    font-size: 10px;
+    letter-spacing: 3px;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    margin-bottom: 14px;
+  }
+
+  .share-text-box {
+    background: rgba(0,0,0,0.4);
+    border: 1px solid var(--stone-border);
+    border-radius: 3px;
+    padding: 14px 16px;
+    font-family: monospace;
+    font-size: 13px;
+    color: var(--text-main);
+    text-align: left;
+    white-space: pre-wrap;
+    line-height: 1.6;
+    margin-bottom: 12px;
+    user-select: all;
+  }
+
+  .share-buttons {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .share-btn {
+    background: linear-gradient(180deg, #2a2010 0%, #1a1408 100%);
+    border: 1px solid var(--gold-dark);
+    border-radius: 3px;
+    color: var(--gold);
+    font-family: 'Cinzel', serif;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .share-btn:hover {
+    border-color: var(--gold);
+    box-shadow: 0 0 10px var(--gold-glow);
+    color: var(--gold-light);
+  }
+
+  .share-btn.copied {
+    border-color: var(--green-gem-light);
+    color: var(--green-gem-light);
+  }
+
+  .play-again-btn {
+    background: none;
+    border: 1px solid var(--stone-border);
+    border-radius: 3px;
+    color: var(--text-dim);
+    font-family: 'Cinzel', serif;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    margin-top: 12px;
+  }
+
+  .play-again-btn:hover {
+    border-color: var(--text-dim);
+    color: var(--text-main);
+  }
+
+  /* ─── WAVEFORM ANIMATION ─── */
+  .waveform {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    height: 16px;
+  }
+  .waveform span {
+    display: block;
+    width: 3px;
+    background: var(--gold);
+    border-radius: 2px;
+    animation: wave 0.8s ease-in-out infinite;
+  }
+  .waveform span:nth-child(1) { animation-delay: 0s;    height: 6px; }
+  .waveform span:nth-child(2) { animation-delay: 0.15s; height: 12px; }
+  .waveform span:nth-child(3) { animation-delay: 0.3s;  height: 8px; }
+  .waveform span:nth-child(4) { animation-delay: 0.15s; height: 14px; }
+  .waveform span:nth-child(5) { animation-delay: 0s;    height: 6px; }
+
+  @keyframes wave {
+    0%, 100% { transform: scaleY(1); }
+    50%       { transform: scaleY(2.2); }
+  }
+
+  .waveform.paused span { animation-play-state: paused; }
+
+  /* ─── RESPONSIVE ─── */
+  @media (max-width: 480px) {
+    .panel-inner { padding: 24px 20px; }
+    .answers-grid { grid-template-columns: 1fr; }
+    .result-share { padding: 16px 20px 24px; }
+    .result-header { padding: 24px 20px 16px; }
+    .result-grid { padding: 16px 20px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="header">
+    <div class="header-eyebrow">World of Warcraft</div>
+    <h1>Know Your Voicelines?</h1>
+    <p class="header-sub">15 dungeon quotes. Which boss said it?</p>
+  </div>
+
+  <div class="panel">
+    <div class="panel-corners"></div>
+
+    <!-- START SCREEN -->
+    <div class="screen active" id="screen-start">
+      <div class="start-content">
+        <p>You'll hear a voiceline from a WoW dungeon boss or NPC.<br>Guess which dungeon it's from.</p>
+        <ul class="start-rules">
+          <li>15 questions — all expansions from Legion to The War Within</li>
+          <li>4 choices per question — pick the right dungeon</li>
+          <li>Answer revealed after each guess, win or lose</li>
+          <li>Your result card is shareable when you're done</li>
+        </ul>
+        <button class="start-btn" onclick="startGame()">Enter the Instance</button>
+      </div>
+    </div>
+
+    <!-- GAME SCREEN -->
+    <div class="screen" id="screen-game">
+      <div class="panel-inner">
+        <!-- Progress -->
+        <div class="progress-wrap">
+          <div class="progress-label">
+            <span id="q-label">Question 1 of 15</span>
+            <span class="score-live" id="score-live">0 correct</span>
+          </div>
+          <div class="progress-track">
+            <div class="progress-fill" id="progress-fill" style="width:0%"></div>
+          </div>
+        </div>
+
+        <!-- Dots -->
+        <div class="question-dots" id="q-dots"></div>
+
+        <div class="divider">
+          <div class="divider-line"></div>
+          <div class="divider-gem"></div>
+          <div class="divider-line"></div>
+        </div>
+
+        <!-- Audio -->
+        <div class="audio-section">
+          <div class="audio-label">Listen to the voiceline</div>
+          <button class="play-btn" id="play-btn" onclick="toggleAudio()">
+            <span class="play-icon" id="play-icon"></span>
+            <span id="play-text">Play Voiceline</span>
+            <span class="waveform paused" id="waveform">
+              <span></span><span></span><span></span><span></span><span></span>
+            </span>
+          </button>
+          <br>
+          <button class="replay-btn" id="replay-btn" onclick="replayAudio()" style="display:none">
+            ↺ &nbsp;Replay
+          </button>
+        </div>
+
+        <!-- Answers -->
+        <div class="answers-grid" id="answers-grid"></div>
+
+        <!-- Reveal -->
+        <div class="reveal-box" id="reveal-box" style="display:none"></div>
+
+        <!-- Next -->
+        <button class="next-btn" id="next-btn" style="display:none" onclick="nextQuestion()">
+          Continue &nbsp;→
+        </button>
+      </div>
+    </div>
+
+    <!-- RESULT SCREEN -->
+    <div class="screen" id="screen-result">
+      <div class="result-header">
+        <div class="result-rank-label">Your Rank</div>
+        <div class="result-rank" id="result-rank"></div>
+        <div class="result-score" id="result-score"></div>
+        <div class="result-subtitle" id="result-subtitle"></div>
+      </div>
+
+      <div class="result-grid">
+        <div class="result-grid-label">Question Breakdown</div>
+        <div class="result-dots" id="result-dots"></div>
+      </div>
+
+      <div class="result-share">
+        <div class="share-label">Share your result</div>
+        <div class="share-text-box" id="share-text-box"></div>
+        <div class="share-buttons">
+          <button class="share-btn" id="copy-btn" onclick="copyResult()">Copy to Clipboard</button>
+        </div>
+        <br>
+        <button class="play-again-btn" onclick="resetGame()">Play Again</button>
+      </div>
+    </div>
+
+  </div><!-- /panel -->
+</div><!-- /container -->
+
+<audio id="audio-player" preload="auto"></audio>
+
+<script>
+// ─────────────────────────────────────────────
+// QUESTION DATA
+// Each question: { wowheadId, filename, npc, quote, dungeon, expansion }
+// Audio URL: https://www.wowhead.com/sound={wowheadId}/{filename}
+// ─────────────────────────────────────────────
+const ALL_QUESTIONS = [
+  {
+    wowheadId: 60103,
+    filename: "vo-701-odyn-17",
+    npc: "Odyn",
+    quote: "It has been ages since I faced a worthy opponent. Let the battle begin!",
+    dungeon: "Halls of Valor",
+    expansion: "Legion"
+  },
+  {
+    wowheadId: 208066,
+    filename: "vo-100-headteacher-doragosa-08-f",
+    npc: "Echo of Doragosa",
+    quote: "Your continued existence is... unacceptable.",
+    dungeon: "Algeth'ar Academy",
+    expansion: "Dragonflight"
+  },
+  // ── Placeholders — fill in wowheadId + filename from Wowhead Sounds tab ──
+  // The quotes and dungeon assignments below are confirmed correct.
+  // Replace wowheadId: 0 and filename: "TBD" once you look up each sound.
+  {
+    wowheadId: 0,
+    filename: "TBD",
+    npc: "Mueh'zala",
+    quote: "Death comes for you, little mortal. Mueh'zala is dat death.",
+    dungeon: "De Other Side",
+    expansion: "Shadowlands"
+  },
+  {
+    wowheadId: 0,
+    filename: "TBD",
+    npc: "Dargrul the Underking",
+    quote: "I AM THE SHAPER AND FORGER OF THIS WORLD!",
+    dungeon: "Neltharion's Lair",
+    expansion: "Legion"
+  },
+  {
+    wowheadId: 0,
+    filename: "TBD",
+    npc: "Priscilla Ashvane",
+    quote: "This city should have been mine!",
+    dungeon: "Siege of Boralus",
+    expansion: "Battle for Azeroth"
+  },
+  {
+    wowheadId: 0,
+    filename: "TBD",
+    npc: "Gorak Tul",
+    quote: "The coven is mine to command. As is your soul.",
+    dungeon: "Waycrest Manor",
+    expansion: "Battle for Azeroth"
+  },
+  {
+    wowheadId: 0,
+    filename: "TBD",
+    npc: "Scourgelord Tyrannus",
+    quote: "Rimefang! To me!",
+    dungeon: "Pit of Saron",
+    expansion: "Wrath of the Lich King"
+  },
+  {
+    wowheadId: 0,
+    filename: "TBD",
+    npc: "Mordretha",
+    quote: "I have ruled death since before your world was born!",
+    dungeon: "Theater of Pain",
+    expansion: "Shadowlands"
+  },
+  {
+    wowheadId: 0,
+    filename: "TBD",
+    npc: "Goldie Baronbottom",
+    quote: "Nobody ruins my meadery! NOBODY!",
+    dungeon: "Cinderbrew Meadery",
+    expansion: "The War Within"
+  },
+  {
+    wowheadId: 0,
+    filename: "TBD",
+    npc: "Moroes",
+    quote: "Dinner... is served.",
+    dungeon: "Return to Karazhan: Lower",
+    expansion: "Legion"
+  },
+  {
+    wowheadId: 0,
+    filename: "TBD",
+    npc: "Advisor Vandros",
+    quote: "I have not survived for ten thousand years just to fall to a swarm of rats.",
+    dungeon: "The Arcway",
+    expansion: "Legion"
+  },
+  {
+    wowheadId: 0,
+    filename: "TBD",
+    npc: "King Mechagon",
+    quote: "Flesh is weakness. The future is mechanical!",
+    dungeon: "Operation: Mechagon – Workshop",
+    expansion: "Battle for Azeroth"
+  },
+  {
+    wowheadId: 0,
+    filename: "TBD",
+    npc: "Balakar Khan",
+    quote: "I am the storm that ends all things!",
+    dungeon: "Nokhud Offensive",
+    expansion: "Dragonflight"
+  },
+  {
+    wowheadId: 0,
+    filename: "TBD",
+    npc: "E.D.N.A.",
+    quote: "UNAUTHORIZED ACCESS DETECTED. INITIATING EXTERMINATION PROTOCOL.",
+    dungeon: "The Stonevault",
+    expansion: "The War Within"
+  },
+  {
+    wowheadId: 0,
+    filename: "TBD",
+    npc: "Devos, Paragon of Loyalty",
+    quote: "I serve a higher justice now. One the Arbiter could never understand.",
+    dungeon: "Spires of Ascension",
+    expansion: "Shadowlands"
+  },
+];
+
+// All dungeon names (for wrong answer pool)
+const ALL_DUNGEONS = [
+  "Black Rook Hold","Court of Stars","Darkheart Thicket","Eye of Azshara","Halls of Valor",
+  "Maw of Souls","Neltharion's Lair","The Arcway","Vault of the Wardens","Cathedral of Eternal Night",
+  "Return to Karazhan: Lower","Return to Karazhan: Upper","Seat of the Triumvirate",
+  "Grimrail Depot","Iron Docks","Skyreach","The Everbloom",
+  "Atal'Dazar","Freehold","Kings' Rest","Operation: Mechagon – Junkyard","Operation: Mechagon – Workshop",
+  "Shrine of the Storm","Siege of Boralus","Temple of Sethraliss","The MOTHERLODE!!","Tol Dagor",
+  "The Underrot","Waycrest Manor",
+  "Throne of the Tides","Vortex Pinnacle","Grim Batol",
+  "De Other Side","Halls of Atonement","Mists of Tirna Scithe","Plaguefall","Sanguine Depths",
+  "Spires of Ascension","Tazavesh: So'leah's Gambit","Tazavesh: Streets of Wonder",
+  "The Necrotic Wake","Theater of Pain",
+  "Pit of Saron",
+  "Algeth'ar Academy","Azure Vault","Brackenhide Hollow","Dawn of the Infinite: Galakrond's Fall",
+  "Dawn of the Infinite: Murozond's Rise","Halls of Infusion","Neltharus","Nokhud Offensive",
+  "Ruby Life Pools","Uldaman: Legacy of Tyr",
+  "Ara-Kara, City of Echoes","Cinderbrew Meadery","City of Threads","Darkflame Cleft",
+  "Operation: Floodgate","Priory of the Sacred Flame","The Dawnbreaker","The Rookery","The Stonevault",
+];
+
+// Rank thresholds
+const RANKS = [
+  { min: 15, title: "High Warlord",      flavor: "Uncanny. You know these dungeons like your own hotkeys." },
+  { min: 13, title: "Grand Marshal",     flavor: "Exceptional. You've cleared these wings more than once." },
+  { min: 11, title: "Knight-Champion",   flavor: "Solid. A seasoned delver with sharp ears." },
+  { min:  9, title: "Stone Guard",       flavor: "Decent. You know your M+ but a few caught you off guard." },
+  { min:  7, title: "Grunt",             flavor: "Rough night at the keys. Better luck next pull." },
+  { min:  5, title: "Scout",             flavor: "You've heard of these dungeons. Mostly." },
+  { min:  0, title: "Fresh 70",          flavor: "The voicelines heard you coming." },
+];
+
+// ─────────────────────────────────────────────
+// GAME STATE
+// ─────────────────────────────────────────────
+let questions = [];
+let current = 0;
+let score = 0;
+let results = []; // true/false per question
+let answered = false;
+let audioEl;
+let isPlaying = false;
+
+function shuffle(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+function getWrongAnswers(correct) {
+  const pool = ALL_DUNGEONS.filter(d => d !== correct);
+  return shuffle(pool).slice(0, 3);
+}
+
+function buildQuestions() {
+  // Use all 15 questions in fixed order (swap for shuffle if desired)
+  questions = ALL_QUESTIONS;
+}
+
+// ─────────────────────────────────────────────
+// SCREENS
+// ─────────────────────────────────────────────
+function showScreen(id) {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById('screen-' + id).classList.add('active');
+}
+
+function startGame() {
+  buildQuestions();
+  current = 0;
+  score = 0;
+  results = [];
+  answered = false;
+  renderDots();
+  showScreen('game');
+  loadQuestion();
+}
+
+function resetGame() {
+  stopAudio();
+  startGame();
+}
+
+// ─────────────────────────────────────────────
+// QUESTION RENDERING
+// ─────────────────────────────────────────────
+function renderDots() {
+  const el = document.getElementById('q-dots');
+  el.innerHTML = questions.map((_, i) =>
+    `<div class="q-dot${i === current ? ' current' : ''}" id="dot-${i}"></div>`
+  ).join('');
+}
+
+function updateDot(index, correct) {
+  const dot = document.getElementById('dot-' + index);
+  if (dot) {
+    dot.classList.remove('current');
+    dot.classList.add(correct ? 'correct' : 'wrong');
+  }
+  // Mark next as current
+  const next = document.getElementById('dot-' + (index + 1));
+  if (next) next.classList.add('current');
+}
+
+function loadQuestion() {
+  answered = false;
+  stopAudio();
+
+  const q = questions[current];
+  const pct = (current / questions.length) * 100;
+
+  document.getElementById('q-label').textContent = `Question ${current + 1} of ${questions.length}`;
+  document.getElementById('score-live').textContent = `${score} correct`;
+  document.getElementById('progress-fill').style.width = pct + '%';
+
+  // Reset audio UI
+  document.getElementById('play-btn').classList.remove('playing');
+  document.getElementById('play-btn').style.opacity = '';
+  document.getElementById('play-icon').classList.remove('pause');
+  document.getElementById('play-text').textContent = 'Play Voiceline';
+  document.getElementById('waveform').classList.add('paused');
+  document.getElementById('replay-btn').style.display = 'none';
+
+  // Reset answer/reveal/next
+  document.getElementById('reveal-box').style.display = 'none';
+  document.getElementById('next-btn').style.display = 'none';
+
+  // Build answer buttons
+  const wrong = getWrongAnswers(q.dungeon);
+  const options = shuffle([q.dungeon, ...wrong]);
+  const grid = document.getElementById('answers-grid');
+  grid.innerHTML = options.map(opt =>
+    `<button class="answer-btn" onclick="guess('${opt.replace(/'/g,"\\'")}')">
+      ${opt}
+    </button>`
+  ).join('');
+
+  // Load audio
+  audioEl = document.getElementById('audio-player');
+  if (q.wowheadId && q.wowheadId !== 0) {
+    audioEl.src = `https://www.wowhead.com/sound=${q.wowheadId}/${q.filename}`;
+  } else {
+    audioEl.src = ''; // No audio yet for this question
+  }
+
+  audioEl.onended = () => {
+    isPlaying = false;
+    document.getElementById('play-btn').classList.remove('playing');
+    document.getElementById('play-icon').classList.remove('pause');
+    document.getElementById('play-text').textContent = 'Play Voiceline';
+    document.getElementById('waveform').classList.add('paused');
+    document.getElementById('replay-btn').style.display = 'inline-flex';
+  };
+}
+
+// ─────────────────────────────────────────────
+// AUDIO
+// ─────────────────────────────────────────────
+function toggleAudio() {
+  if (!audioEl.src || audioEl.src === window.location.href) {
+    // No audio loaded yet
+    showNoAudio();
+    return;
+  }
+  if (isPlaying) {
+    audioEl.pause();
+    isPlaying = false;
+    document.getElementById('play-btn').classList.remove('playing');
+    document.getElementById('play-icon').classList.remove('pause');
+    document.getElementById('play-text').textContent = 'Play Voiceline';
+    document.getElementById('waveform').classList.add('paused');
+  } else {
+    audioEl.currentTime = 0;
+    audioEl.play().catch(() => showNoAudio());
+    isPlaying = true;
+    document.getElementById('play-btn').classList.add('playing');
+    document.getElementById('play-icon').classList.add('pause');
+    document.getElementById('play-text').textContent = 'Playing...';
+    document.getElementById('waveform').classList.remove('paused');
+    document.getElementById('replay-btn').style.display = 'inline-flex';
+  }
+}
+
+function replayAudio() {
+  if (!audioEl.src || audioEl.src === window.location.href) return;
+  audioEl.currentTime = 0;
+  audioEl.play().catch(() => {});
+  isPlaying = true;
+  document.getElementById('play-btn').classList.add('playing');
+  document.getElementById('play-icon').classList.add('pause');
+  document.getElementById('play-text').textContent = 'Playing...';
+  document.getElementById('waveform').classList.remove('paused');
+}
+
+function stopAudio() {
+  if (audioEl) {
+    audioEl.pause();
+    audioEl.currentTime = 0;
+  }
+  isPlaying = false;
+}
+
+function showNoAudio() {
+  // Audio not yet loaded — just flag it, never reveal quote or NPC before guessing
+  document.getElementById('play-text').textContent = '⚠ Audio pending';
+  document.getElementById('play-btn').style.opacity = '0.5';
+}
+
+// ─────────────────────────────────────────────
+// GUESSING
+// ─────────────────────────────────────────────
+function guess(selected) {
+  if (answered) return;
+  answered = true;
+  stopAudio();
+
+  const q = questions[current];
+  const correct = selected === q.dungeon;
+  if (correct) score++;
+  results.push(correct);
+
+  // Color the buttons
+  document.querySelectorAll('.answer-btn').forEach(btn => {
+    btn.disabled = true;
+    const label = btn.textContent.trim();
+    if (label === q.dungeon) {
+      btn.classList.add('correct');
+    } else if (label === selected && !correct) {
+      btn.classList.add('wrong');
+    } else {
+      btn.classList.add('dimmed');
+    }
+  });
+
+  // Update dot
+  updateDot(current, correct);
+
+  // Update live score
+  document.getElementById('score-live').textContent = `${score} correct`;
+
+  // Reveal box
+  const reveal = document.getElementById('reveal-box');
+  reveal.style.display = 'block';
+  reveal.innerHTML = `
+    <div class="reveal-npc">${q.npc} &mdash; ${q.dungeon}</div>
+    <div class="reveal-quote">"${q.quote}"</div>
+    <div class="reveal-result ${correct ? 'correct' : 'wrong'}">
+      ${correct ? '✓ Correct' : '✗ Wrong — the answer was ' + q.dungeon}
+    </div>`;
+
+  // Show next / finish
+  const nextBtn = document.getElementById('next-btn');
+  nextBtn.style.display = 'block';
+  nextBtn.textContent = current < questions.length - 1 ? 'Continue →' : 'See Results';
+}
+
+// ─────────────────────────────────────────────
+// NEXT / RESULTS
+// ─────────────────────────────────────────────
+function nextQuestion() {
+  current++;
+  if (current >= questions.length) {
+    showResults();
+  } else {
+    loadQuestion();
+    // Scroll dots into view on mobile
+    document.getElementById('q-dots').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  }
+}
+
+function getRank(s) {
+  return RANKS.find(r => s >= r.min) || RANKS[RANKS.length - 1];
+}
+
+function buildShareText(rank) {
+  const grid = results.map(r => r ? '🟩' : '🟥').join('');
+  // Group into rows of 5
+  const rows = [];
+  for (let i = 0; i < results.length; i += 5) {
+    rows.push(results.slice(i, i+5).map(r => r ? '🟩' : '🟥').join(''));
+  }
+  return `🔊 WoW Dungeon Trivia
+${rank.title} — ${score}/${questions.length}
+
+${rows.join('\n')}
+
+Can you beat me?
+wow-dungeon-trivia.netlify.app`;
+}
+
+function showResults() {
+  stopAudio();
+  const rank = getRank(score);
+
+  document.getElementById('result-rank').textContent = rank.title;
+  document.getElementById('result-score').innerHTML = `${score}<span>/${questions.length}</span>`;
+  document.getElementById('result-subtitle').textContent = rank.flavor;
+
+  // Dots
+  const dotsEl = document.getElementById('result-dots');
+  dotsEl.innerHTML = results.map((r, i) =>
+    `<div class="result-dot ${r ? 'correct' : 'wrong'}" title="Q${i+1}">${r ? '✓' : '✗'}</div>`
+  ).join('');
+
+  // Share text
+  const shareText = buildShareText(rank);
+  document.getElementById('share-text-box').textContent = shareText;
+
+  showScreen('result');
+}
+
+function copyResult() {
+  const text = document.getElementById('share-text-box').textContent;
+  navigator.clipboard.writeText(text).then(() => {
+    const btn = document.getElementById('copy-btn');
+    btn.textContent = '✓ Copied!';
+    btn.classList.add('copied');
+    setTimeout(() => {
+      btn.textContent = 'Copy to Clipboard';
+      btn.classList.remove('copied');
+    }, 2000);
+  });
+}
+</script>
+</body>
+</html>

@@ -8,7 +8,7 @@ A shareable, self-contained trivia game: hear a voiceline from a World of Warcra
 
 | File | Purpose |
 |------|---------|
-| `wow-trivia.html` | The game (single-file HTML/CSS/JS) |
+| `index.html` | The game (single-file HTML/CSS/JS) |
 | `wow-mplus-voicelines.md` | Dataset of ~368 candidate voicelines |
 | `wow-trivia-design-research.md` | Design decisions and rationale |
 | `wow-trivia-ranks.md` | Rank system options + suggested set |
@@ -16,7 +16,7 @@ A shareable, self-contained trivia game: hear a voiceline from a World of Warcra
 
 ## Run locally
 
-It's a single HTML file — open `wow-trivia.html` in a browser, or serve the directory with any static server.
+It's a single HTML file — open `index.html` in a browser, or serve the directory with any static server.
 
 ## Roadmap
 

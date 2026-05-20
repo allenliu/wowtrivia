@@ -138,7 +138,7 @@ The output schema is intentionally flat — one record per playable quote, no NP
 }
 ```
 
-[index.html](index.html) fetches this on page load, filters by expansion (Legion → Midnight), and runs `pickRandomQuestions` with rules:
+[index.html](index.html) fetches this on page load and runs `pickRandomQuestions` with rules:
 
 - All `selected: true` quotes go in first (NPC-deduped).
 - Remaining slots fill randomly with max 1 per NPC and max 2 per dungeon.

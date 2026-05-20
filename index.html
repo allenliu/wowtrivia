@@ -771,7 +771,7 @@
       <div class="start-content">
         <p>You'll hear a voiceline from a WoW dungeon boss or NPC.<br>Guess which dungeon it's from.</p>
         <ul class="start-rules">
-          <li>15 questions — all expansions from Legion through Midnight</li>
+          <li>15 questions drawn from a hand-curated voiceline pool</li>
           <li>4 choices per question — pick the right dungeon</li>
           <li>Answer revealed after each guess</li>
           <li>Your result card is shareable when you're done</li>
@@ -883,16 +883,9 @@ let quoteById   = {};   // full pool indexed by soundId — used to resolve shar
 const NUM_QUESTIONS = 15;
 const Q_PARAM = 'q';    // URL query param: comma-separated soundIds for resilient sharing
 
-// Game scope: Legion onward (the M+ era). Older expansions (WotLK/Cata/WoD)
-// are still in the pool but excluded from random pick + distractors.
-const INCLUDE_EXPANSIONS = new Set([
-  'Legion',
-  'Battle for Azeroth',
-  'Shadowlands',
-  'Dragonflight',
-  'The War Within',
-  'Midnight',
-]);
+// Game scope: whatever is in the curated pool. build-game-pool.ps1 filters to
+// quotes the curator has Accepted in curate.html, so we trust that here and
+// don't apply any additional expansion filter.
 
 async function loadPool() {
   if (allQuotes.length > 0) return;
@@ -901,7 +894,7 @@ async function loadPool() {
   const data = await resp.json();
   const raw = data.quotes || [];
   quoteById   = Object.fromEntries(raw.map(q => [q.soundId, q]));
-  allQuotes   = raw.filter(q => INCLUDE_EXPANSIONS.has(q.expansion));
+  allQuotes   = raw;
   allDungeons = Array.from(new Set(allQuotes.map(q => q.dungeon))).sort();
 }
 

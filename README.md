@@ -12,7 +12,7 @@ Hear a voiceline from a World of Warcraft dungeon boss or NPC. Guess which dunge
 - Audio streams directly from Wowhead's CDN (zamimg).
 - Share URL encodes the run's actual sound IDs (packed 20-bit base64url, ~51 chars) so the link replays the same questions even after the pool changes.
 
-Game scope: Legion → Midnight. Older expansions (Wrath/Cata/WoD) live in the pool but are excluded from random picks.
+Game scope is whatever has been accepted in `curate.html` — there is no expansion filter on the client. Tier-2 configs and voicelines files for every dungeon (Wrath of the Lich King through Midnight) live in the repo; a dungeon appears in the game once one of its quotes is marked Accepted.
 
 ## Files
 

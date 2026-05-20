@@ -898,7 +898,9 @@ function pickRandomQuestions(pool, n = NUM_QUESTIONS) {
       picked.push(q);
     }
   }
-  return picked.slice(0, n);
+  // Shuffle the final order — selected quotes were front-loaded during
+  // assembly, but they shouldn't always land at the start of the game.
+  return shuffle(picked.slice(0, n));
 }
 
 // Letter-grade scale for 15 questions, ordered high to low.
@@ -1106,7 +1108,8 @@ function showNoAudio() {
 function guess(selected) {
   if (answered) return;
   answered = true;
-  stopAudio();
+  // Audio keeps playing through the reveal — it stops when the user clicks
+  // Continue (loadQuestion calls stopAudio) or when results are shown.
 
   const q = questions[current];
   const correct = selected === q.dungeon;

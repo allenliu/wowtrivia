@@ -771,7 +771,7 @@
       <div class="start-content">
         <p>You'll hear a voiceline from a WoW dungeon boss or NPC.<br>Guess which dungeon it's from.</p>
         <ul class="start-rules">
-          <li>15 questions drawn from a hand-curated voiceline pool</li>
+          <li id="rule-scope">15 questions from the curated pool</li>
           <li>4 choices per question — pick the right dungeon</li>
           <li>Answer revealed after each guess</li>
           <li>Your result card is shareable when you're done</li>
@@ -886,6 +886,28 @@ const Q_PARAM = 'q';    // URL query param: comma-separated soundIds for resilie
 // Game scope: whatever is in the curated pool. build-game-pool.ps1 filters to
 // quotes the curator has Accepted in curate.html, so we trust that here and
 // don't apply any additional expansion filter.
+const EXPANSION_ORDER = [
+  'Classic',
+  'The Burning Crusade',
+  'Wrath of the Lich King',
+  'Cataclysm',
+  'Mists of Pandaria',
+  'Warlords of Draenor',
+  'Legion',
+  'Battle for Azeroth',
+  'Shadowlands',
+  'Dragonflight',
+  'The War Within',
+  'Midnight',
+];
+
+function describeExpansionScope() {
+  const present = new Set(allQuotes.map(q => q.expansion).filter(Boolean));
+  const inOrder = EXPANSION_ORDER.filter(e => present.has(e));
+  if (inOrder.length === 0) return 'the curated pool';
+  if (inOrder.length === 1) return `all of ${inOrder[0]}`;
+  return `all expansions from ${inOrder[0]} through ${inOrder[inOrder.length - 1]}`;
+}
 
 async function loadPool() {
   if (allQuotes.length > 0) return;
@@ -896,6 +918,8 @@ async function loadPool() {
   quoteById   = Object.fromEntries(raw.map(q => [q.soundId, q]));
   allQuotes   = raw;
   allDungeons = Array.from(new Set(allQuotes.map(q => q.dungeon))).sort();
+  const rule = document.getElementById('rule-scope');
+  if (rule) rule.textContent = `15 questions — ${describeExpansionScope()}`;
 }
 
 // Resilient share link: URL contains the actual sound IDs, not a seed.

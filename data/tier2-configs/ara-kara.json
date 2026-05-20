@@ -1,0 +1,23 @@
+{
+  "dungeon": "Ara-Kara, City of Echoes",
+  "slug": "ara-kara-city-of-echoes",
+  "wowheadZoneId": 15093,
+  "expansion": "The War Within",
+  "bosses": [
+    {
+      "id": 215407,
+      "name": "Ki'katal the Harvester",
+      "filterName": "kikatal",
+      "quotes": [
+        { "context": "Intro", "text": "Once, my people thrived under guidance of the Black Empire." },
+        { "context": "Intro", "text": "Queen Neferess refused to reclaim that glory. But no more." },
+        { "context": "Intro", "text": "Ansurek and the Black Blood will usher in a new age for Azj-Kahet!" },
+        { "context": "Aggro", "text": "The harvest will prevail!" },
+        { "context": "Cosmic Singularity", "text": "Void take you all!" },
+        { "context": "Death", "text": "My blood...weeps..." }
+      ]
+    },
+    { "id": 213179, "name": "Avanoxx", "filterName": "avanoxx", "quotes": [] },
+    { "id": 215405, "name": "Anub'zekt", "filterName": "anub_zekt", "namePattern": "^VO_.*Anub", "quotes": [] }
+  ]
+}

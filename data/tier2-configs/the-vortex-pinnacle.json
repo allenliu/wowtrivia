@@ -1,0 +1,19 @@
+{
+  "dungeon": "The Vortex Pinnacle",
+  "slug": "the-vortex-pinnacle",
+  "wowheadZoneId": 5035,
+  "expansion": "Cataclysm",
+  "bosses": [
+    {
+      "id": 43875,
+      "name": "Asaad",
+      "filterName": "asaad",
+      "quotes": [
+        { "context": "Aggro", "text": "YOU tread upon the sacrosanct! Mortals have no place amidst the clouds." },
+        { "context": "Unstable Grounding Field", "text": "Al'Akir, your servant calls for aid!" },
+        { "context": "Player Killed", "text": "BACK to the earth with you!" },
+        { "context": "Death", "text": "The winds take me!" }
+      ]
+    }
+  ]
+}

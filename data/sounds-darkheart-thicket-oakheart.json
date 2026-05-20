@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "npc": "Oakheart",
+    "dungeon": "Darkheart Thicket",
+    "filterName": "oakheart",
+    "namePattern": "^VO_.*Oakheart",
+    "generated": "2026-05-19T17:51:15-07:00",
+    "soundCount": 22
+  },
+  "sounds": [
+    {
+      "soundId": 58529,
+      "filename": "VO_70_OAKHEART_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/215/1351383/VO_70_Oakheart_Wound_01.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Now!"
+    },
+    {
+      "soundId": 57873,
+      "filename": "VO_701_Oakheart_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/61/1334077/VO_701_Oakheart_02.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I told you to leave me alone!"
+    },
+    {
+      "soundId": 57884,
+      "filename": "VO_701_Oakheart_13",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/72/1334088/VO_701_Oakheart_13.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Prepare to become kindling."
+    },
+    {
+      "soundId": 57879,
+      "filename": "VO_701_Oakheart_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1334083/VO_701_Oakheart_08.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "You will be uprooted!"
+    },
+    {
+      "soundId": 57881,
+      "filename": "VO_701_Oakheart_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/69/1334085/VO_701_Oakheart_10.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I pluck you like a flower."
+    },
+    {
+      "soundId": 57889,
+      "filename": "VO_701_Oakheart_18",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/1334093/VO_701_Oakheart_18.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I... I think I have a crush on you."
+    },
+    {
+      "soundId": 57872,
+      "filename": "VO_701_Oakheart_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/60/1334076/VO_701_Oakheart_01.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "My bark is worse than my bite."
+    },
+    {
+      "soundId": 57875,
+      "filename": "VO_701_Oakheart_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/1334079/VO_701_Oakheart_04.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "See you next fall!"
+    },
+    {
+      "soundId": 57876,
+      "filename": "VO_701_Oakheart_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/1334080/VO_701_Oakheart_05.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I want to say something clever, but I am stompter."
+    },
+    {
+      "soundId": 57885,
+      "filename": "VO_701_Oakheart_14",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/73/1334089/VO_701_Oakheart_14.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "And BOOM"
+    },
+    {
+      "soundId": 57887,
+      "filename": "VO_701_Oakheart_16",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/1334091/VO_701_Oakheart_16.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": ""
+    },
+    {
+      "soundId": 57874,
+      "filename": "VO_701_Oakheart_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/62/1334078/VO_701_Oakheart_03.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Why don't you make like a tree and get out of here?"
+    },
+    {
+      "soundId": 57877,
+      "filename": "VO_701_Oakheart_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/1334081/VO_701_Oakheart_06.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "To MOUGE!"
+    },
+    {
+      "soundId": 57878,
+      "filename": "VO_701_Oakheart_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/66/1334082/VO_701_Oakheart_07.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "It's time we get to the root of the problem."
+    },
+    {
+      "soundId": 57880,
+      "filename": "VO_701_Oakheart_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/1334084/VO_701_Oakheart_09.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "You have been rooting around here too long. Oh."
+    },
+    {
+      "soundId": 57882,
+      "filename": "VO_701_Oakheart_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/70/1334086/VO_701_Oakheart_11.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "My limbs will grow back. Yours will not."
+    },
+    {
+      "soundId": 57883,
+      "filename": "VO_701_Oakheart_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/1334087/VO_701_Oakheart_12.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I snap you like a twig."
+    },
+    {
+      "soundId": 57886,
+      "filename": "VO_701_Oakheart_15",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/1334090/VO_701_Oakheart_15.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "You will be my campfire!"
+    },
+    {
+      "soundId": 57888,
+      "filename": "VO_701_Oakheart_17",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/76/1334092/VO_701_Oakheart_17.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I will crush you to splinters!"
+    },
+    {
+      "soundId": 58527,
+      "filename": "VO_70_OAKHEART_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/1351368/VO_70_Oakheart_Attack_01.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "AfDX"
+    },
+    {
+      "soundId": 58528,
+      "filename": "VO_70_OAKHEART_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/210/1351378/VO_70_Oakheart_AttackCrit_01.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "für"
+    },
+    {
+      "soundId": 58530,
+      "filename": "VO_70_OAKHEART_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/225/1351393/VO_70_Oakheart_WoundCrit_01.ogg",
+      "npc": "Oakheart",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Pyro."
+    }
+  ]
+}

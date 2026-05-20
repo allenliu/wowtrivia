@@ -1,0 +1,22 @@
+{
+  "dungeon": "The Arcway",
+  "slug": "the-arcway",
+  "wowheadZoneId": 7855,
+  "expansion": "Legion",
+  "bosses": [
+    { "id": 98208, "name": "Advisor Vandros", "filterName": "vandros", "quotes": [
+      { "context": "Intro", "text": "Someone has made quite a mess down here. It has been too long since we purged these catacombs of refuse." },
+      { "context": "Aggro", "text": "I have not survived for ten thousand years just to fall to a swarm of rats." },
+      { "context": "Chrono Shards", "text": "Have you vermin ever witnessed such raw power? I think not." },
+      { "context": "Banish in Time", "text": "I am a conduit of the Nightwell's glorious power! I am NIGHTBORNE!" },
+      { "context": "Boss defeated", "text": "Enough! You little beasts are getting out of hand!" },
+      { "context": "Player Killed", "text": "For the glory of Elisande!" },
+      { "context": "Wipe", "text": "Alas... blind courage only triumphs in the fairy tales." },
+      { "context": "Death", "text": "The Grand Magistrix... will have your heads for this..." }
+    ]},
+    { "id": 98203, "name": "Ivanyr", "filterName": "ivanyr", "quotes": [] },
+    { "id": 98205, "name": "Corstilax", "filterName": "corstilax", "quotes": [] },
+    { "id": 98206, "name": "General Xakal", "filterName": "xakal", "namePattern": "^VO_.*Xakal", "quotes": [] },
+    { "id": 98207, "name": "Nal'tira", "filterName": "naltira", "quotes": [] }
+  ]
+}

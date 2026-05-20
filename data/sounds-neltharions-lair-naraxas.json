@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "npc": "Naraxas",
+    "dungeon": "Neltharion's Lair",
+    "filterName": "naraxas",
+    "namePattern": "",
+    "generated": "2026-05-19T17:09:27-07:00",
+    "soundCount": 23
+  },
+  "sounds": [
+    {
+      "soundId": 73520,
+      "filename": "Spell_Naraxas_Emerge_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/565426/GO_ExplodingStoneImpact01_05.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "BOOM!"
+    },
+    {
+      "soundId": 69601,
+      "filename": "Spell_Naraxas_Putrid_Skies_Spit_Cast1",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/978355/SPELL_Poison_Cast_01.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 73821,
+      "filename": "Spell_Naraxas_Boss_Intro_Emerge",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/645422/MON_Sha_Boss_BattleRoar.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Especially with the"
+    },
+    {
+      "soundId": 73820,
+      "filename": "Spell_Naraxas_Boss_Intro_Mystic_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/18/1345042/SPELL_NightmareMagic_Channel_MED_loop_02.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 73588,
+      "filename": "Spell_Naraxas_SpikedTongue_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/189/978365/SPELL_Poison_Precast_Loop.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 73533,
+      "filename": "MON_Naraxas_Aggro_Boss",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/553653/LavaWorm_Aggro_01.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 73583,
+      "filename": "Spell_Naraxas_Devour_Chew_Loop",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/246/564214/BiteMediumA.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "You"
+    },
+    {
+      "soundId": 73529,
+      "filename": "MON_Naraxas_AttackCrit_Boss",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/180/553652/LavaWorm_Attack_Crit_04.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Listen to parts by wearing or touching theandoos."
+    },
+    {
+      "soundId": 73528,
+      "filename": "MON_Naraxas_Attack_Boss",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/183/553655/LavaWorm_Attack_10.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 73531,
+      "filename": "MON_Naraxas_WoundCrt_Boss",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/177/553649/LavaWorm_Wound_Crit_04.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "aram background music playing nice pop-rock lagi at a he at"
+    },
+    {
+      "soundId": 73530,
+      "filename": "MON_Naraxas_Wound_Boss",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/553651/LavaWorm_Wound_03.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 73584,
+      "filename": "Spell_Naraxas_Devour_SpitOut_State_Done",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/28/632860/FX_Amber_Explosion01.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "THANKS FOR WATCHING!"
+    },
+    {
+      "soundId": 73522,
+      "filename": "Spell_Naraxas_Putrid_Skies_Missle_Loop",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/978335/SPELL_Breath_Poison01_Loop.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 73542,
+      "filename": "Spell_Naraxas_Rancid_Maw_Target_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/166/1361062/Spell_RO_Poison_Bomb_Impact_01.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "BOOM!"
+    },
+    {
+      "soundId": 73577,
+      "filename": "Spell_Naraxas_Yell",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/60/638268/SPELL_AZURESERPENT_BREATH_01.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Merry Christmas from Color Εptich Victory season 3"
+    },
+    {
+      "soundId": 73532,
+      "filename": "MON_Naraxas_Death_Boss",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/194/553666/LavaWorm_Death_09.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Arggghhh."
+    },
+    {
+      "soundId": 73582,
+      "filename": "Spell_Naraxas_BarbedTongue_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/567302/EVENT_VashjirIntro_CaptVomitGoo_01.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "🔔"
+    },
+    {
+      "soundId": 73579,
+      "filename": "Spell_Naraxas_Devour_Bite",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/246/564214/BiteMediumA.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "You"
+    },
+    {
+      "soundId": 73580,
+      "filename": "Spell_Naraxas_Devour_Bite_Squish",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/668973/FX_GIBS_ChunkSquish11.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Factory"
+    },
+    {
+      "soundId": 73535,
+      "filename": "Spell_Naraxas_Putrid_Skies_Spit_Cast2",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/69/1302597/FX_Whoosh_Medium_Revamp_02.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 73536,
+      "filename": "SPELL_Naraxas_Putrid_Skies_Target_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/1120207/Spell_Corruption_Impact01.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "You"
+    },
+    {
+      "soundId": 73524,
+      "filename": "SPELL_Naraxas_Putried_Skies_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/978335/SPELL_Breath_Poison01_Loop.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 73578,
+      "filename": "Spell_Naraxas_Vomit_Element",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/568177/FrostBreath.ogg",
+      "npc": "Naraxas",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Thanks for evenly adjusting the gear pass. drastic"
+    }
+  ]
+}

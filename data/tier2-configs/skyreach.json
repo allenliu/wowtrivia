@@ -1,0 +1,22 @@
+{
+  "dungeon": "Skyreach",
+  "slug": "skyreach",
+  "wowheadZoneId": 6988,
+  "expansion": "Warlords of Draenor",
+  "bosses": [
+    {
+      "id": 75964,
+      "name": "Ranjit",
+      "filterName": "ranjit",
+      "quotes": [
+        { "context": "Aggro",         "text": "I will slice the flesh from your bones!" },
+        { "context": "Four Winds",    "text": "Your doom is coming." },
+        { "context": "Four Winds",    "text": "You cannot outrun the wind!" },
+        { "context": "Player Killed", "text": "We will feed your corpse to the Kaliri!" },
+        { "context": "Player Killed", "text": "Move faster ground dweller!" },
+        { "context": "Wipe",          "text": "As long as we rule the skies, none shall oppose us!" },
+        { "context": "Death",         "text": "I... perish..." }
+      ]
+    }
+  ]
+}

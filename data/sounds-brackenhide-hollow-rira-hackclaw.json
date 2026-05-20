@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "npc": "Rira Hackclaw",
+    "dungeon": "Brackenhide Hollow",
+    "filterName": "hackclaw",
+    "namePattern": "",
+    "generated": "2026-05-19T18:16:37-07:00",
+    "soundCount": 8
+  },
+  "sounds": [
+    {
+      "soundId": 203429,
+      "filename": "VO_100_Rira_Hackclaw_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/236/4663532/VO_100_Rira_Hackclaw_01_F.ogg",
+      "npc": "Rira Hackclaw",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "HACK YOU THE PIECES!"
+    },
+    {
+      "soundId": 203460,
+      "filename": "VO_100_Rira_Hackclaw_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/43/4663595/VO_100_Rira_Hackclaw_04_F.ogg",
+      "npc": "Rira Hackclaw",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Wake, I call it Tiger! Hack fashioned!"
+    },
+    {
+      "soundId": 203466,
+      "filename": "VO_100_Rira_Hackclaw_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/83/4663635/VO_100_Rira_Hackclaw_05_F.ogg",
+      "npc": "Rira Hackclaw",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "HAT TO BITS!"
+    },
+    {
+      "soundId": 203483,
+      "filename": "VO_100_Rira_Hackclaw_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/127/4663679/VO_100_Rira_Hackclaw_06_F.ogg",
+      "npc": "Rira Hackclaw",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Here, come for us, meat thieves! We rip you apart!"
+    },
+    {
+      "soundId": 203432,
+      "filename": "VO_100_Rira_Hackclaw_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/239/4663535/VO_100_Rira_Hackclaw_02_F.ogg",
+      "npc": "Rira Hackclaw",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "NOW! SHUT THEM DOWN!"
+    },
+    {
+      "soundId": 203442,
+      "filename": "VO_100_Rira_Hackclaw_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/4663545/VO_100_Rira_Hackclaw_03_F.ogg",
+      "npc": "Rira Hackclaw",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Grip of a pot!"
+    },
+    {
+      "soundId": 203484,
+      "filename": "VO_100_Rira_Hackclaw_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/4663680/VO_100_Rira_Hackclaw_07_F.ogg",
+      "npc": "Rira Hackclaw",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "What you waiting for? Bring us meat thieves!"
+    },
+    {
+      "soundId": 213440,
+      "filename": "VO_100_Rira_Hackclaw_Idle1_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/48/4743728/VO_100_Rira_Hackclaw_Idle1_01.ogg",
+      "npc": "Rira Hackclaw",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "It's alright!"
+    }
+  ]
+}

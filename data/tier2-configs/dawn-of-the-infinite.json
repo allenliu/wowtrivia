@@ -1,0 +1,12 @@
+{
+  "dungeon": "Dawn of the Infinite",
+  "slug": "dawn-of-the-infinite",
+  "wowheadZoneId": 14514,
+  "expansion": "Dragonflight",
+  "bosses": [
+    { "id": 198999, "name": "Morchie", "filterName": "morchie", "quotes": [
+      { "context": "Death", "text": "It was supposed to be... [her] time..." }
+    ]},
+    { "id": 199000, "name": "Chrono-Lord Deios", "filterName": "deios", "namePattern": "^VO_.*Deios", "quotes": [] }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "npc": "Geezle Gigazap",
+    "dungeon": "Operation: Floodgate",
+    "filterName": "gigazap",
+    "namePattern": "",
+    "generated": "2026-05-19T13:44:04-07:00",
+    "soundCount": 24
+  },
+  "sounds": [
+    {
+      "soundId": 277968,
+      "filename": "11.1_NPC_Geezle_Gigazap_Battleroar_6431430",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/6431430/11.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "YAAAAAAA"
+    },
+    {
+      "soundId": 269172,
+      "filename": "VO_111_Geezle_Gigazap_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/90/6178138/VO_111_Geezle_Gigazap_03_M.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "You dare question me? Base annihilation!"
+    },
+    {
+      "soundId": 277970,
+      "filename": "11.1_NPC_Geezle_Gigazap_Wound_6431444",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/212/6431444/11.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "UGH!"
+    },
+    {
+      "soundId": 269179,
+      "filename": "VO_111_Geezle_Gigazap_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/6178145/VO_111_Geezle_Gigazap_10_M.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "This isn't over! I will prove my genius!"
+    },
+    {
+      "soundId": 132420,
+      "filename": "SPELL_8.2_Mechagon_Dungeon_KingMechagon_GigaZap_Cast_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/1417607/FX_Spell_Energy_Electrical_Impact_Med_01.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "You"
+    },
+    {
+      "soundId": 269181,
+      "filename": "VO_111_Geezle_Gigazap_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/6178147/VO_111_Geezle_Gigazap_12_M.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "GIGGAS UP!"
+    },
+    {
+      "soundId": 132422,
+      "filename": "SPELL_8.2_Mechagon_Dungeon_KingMechagon_GigaZap_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/145/1417617/FX_Spell_Energy_Electrical_Impact_Small_01.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "You"
+    },
+    {
+      "soundId": 269171,
+      "filename": "VO_111_Geezle_Gigazap_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/89/6178137/VO_111_Geezle_Gigazap_02_M.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "Innovated black blood will make me invincible!"
+    },
+    {
+      "soundId": 269173,
+      "filename": "VO_111_Geezle_Gigazap_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/91/6178139/VO_111_Geezle_Gigazap_04_M.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "POWER! POWER! POWER!"
+    },
+    {
+      "soundId": 269176,
+      "filename": "VO_111_Geezle_Gigazap_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/94/6178142/VO_111_Geezle_Gigazap_07_M.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "The superior mind wins!"
+    },
+    {
+      "soundId": 269180,
+      "filename": "VO_111_Geezle_Gigazap_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/98/6178146/VO_111_Geezle_Gigazap_11_M.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "And to think they called me mad."
+    },
+    {
+      "soundId": 269170,
+      "filename": "VO_111_Geezle_Gigazap_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/87/6178135/VO_111_Geezle_Gigazap_01_M.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "Soon I shall have the power I require!"
+    },
+    {
+      "soundId": 269174,
+      "filename": "VO_111_Geezle_Gigazap_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/92/6178140/VO_111_Geezle_Gigazap_05_M.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "It's working! It's working!"
+    },
+    {
+      "soundId": 269175,
+      "filename": "VO_111_Geezle_Gigazap_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/93/6178141/VO_111_Geezle_Gigazap_06_M.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "You dare pit your wits against mine?"
+    },
+    {
+      "soundId": 269178,
+      "filename": "VO_111_Geezle_Gigazap_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/96/6178144/VO_111_Geezle_Gigazap_09_M.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "No one can stop me!"
+    },
+    {
+      "soundId": 277966,
+      "filename": "11.1_NPC_Geezle_Gigazap_AttackHeavy_6431410",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/6431410/11.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "Niaaaaaa!"
+    },
+    {
+      "soundId": 277967,
+      "filename": "11.1_NPC_Geezle_Gigazap_AttackLight_6431420",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/188/6431420/11.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "Yeah!"
+    },
+    {
+      "soundId": 277969,
+      "filename": "11.1_NPC_Geezle_Gigazap_Death_6431440",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/6431440/11.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "brotha you"
+    },
+    {
+      "soundId": 132421,
+      "filename": "SPELL_8.2_Mechagon_Dungeon_KingMechagon_GigaZap_Cast_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/2913391/FX_Gnome_Laser_Blaster_Fire_Cast_01.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "You"
+    },
+    {
+      "soundId": 132460,
+      "filename": "SPELL_8.2_Mechagon_Dungeon_KingMechagon_GigaZap_P2_Cast_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/1715012/Spell_SH_Revamp_ChainLightning_Cast02.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "You"
+    },
+    {
+      "soundId": 132461,
+      "filename": "SPELL_8.2_Mechagon_Dungeon_KingMechagon_GigaZap_P2_Cast_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/15/800783/Spell_LeiShen_LightningWhip02.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": ""
+    },
+    {
+      "soundId": 132459,
+      "filename": "SPELL_8.2_Mechagon_Dungeon_KingMechagon_GigaZap_P2_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/84/1417556/FX_Spell_Energy_Electrical_Beam_Large_LOOP_03.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": ""
+    },
+    {
+      "soundId": 132419,
+      "filename": "SPELL_8.2_Mechagon_Dungeon_KingMechagon_GigaZap_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/897843/FX_TESLA_COIL_ELECTRICAL_ENERGY_LOOP.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": ""
+    },
+    {
+      "soundId": 269182,
+      "filename": "VO_111_Geezle_Gigazap_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/100/6178148/VO_111_Geezle_Gigazap_13_M.ogg",
+      "npc": "Geezle Gigazap",
+      "dungeon": "Operation: Floodgate",
+      "transcript": "FRIENDS! DIE!"
+    }
+  ]
+}

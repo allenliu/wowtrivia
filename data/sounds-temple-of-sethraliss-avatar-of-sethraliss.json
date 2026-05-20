@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "npc": "Avatar of Sethraliss",
+    "dungeon": "Temple of Sethraliss",
+    "filterName": "sethraliss",
+    "namePattern": "^VO_.*Sethraliss",
+    "generated": "2026-05-19T13:21:04-07:00",
+    "soundCount": 31
+  },
+  "sounds": [
+    {
+      "soundId": 102960,
+      "filename": "VO_801_Avatar_of_Sethraliss_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/174/1957550/VO_801_Avatar_of_Sethraliss_12_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "Though it will be some time before my full power is restored, the curse that prevented my return has been broken."
+    },
+    {
+      "soundId": 102957,
+      "filename": "VO_801_Avatar_of_Sethraliss_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/1957547/VO_801_Avatar_of_Sethraliss_09_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "Your screams will echo for eternity!"
+    },
+    {
+      "soundId": 114416,
+      "filename": "VO_801_AVATAR_OF_SETHRALISS_DEATH",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/76/2124620/VO_801_Avatar_of_Sethraliss_Death_01.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "HOOOOORRIוסix"
+    },
+    {
+      "soundId": 114398,
+      "filename": "VO_801_Avatar_of_Sethraliss_GREETINGS",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/175/2000559/VO_801_Avatar_of_Sethraliss_20_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "I am weakened, but I am here."
+    },
+    {
+      "soundId": 114417,
+      "filename": "VO_801_Avatar_of_Sethraliss_PreAggro",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/81/2124625/VO_801_Avatar_of_Sethraliss_PreAggro_01.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "yeah"
+    },
+    {
+      "soundId": 114418,
+      "filename": "VO_801_AVATAR_OF_SETHRALISS_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/85/2124629/VO_801_Avatar_of_Sethraliss_WoundCrit_01.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "GAAaaaaaaaaaarrggggggpg essays"
+    },
+    {
+      "soundId": 102949,
+      "filename": "VO_801_Avatar_of_Sethraliss_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/163/1957539/VO_801_Avatar_of_Sethraliss_01_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "I will rend your souls!"
+    },
+    {
+      "soundId": 102955,
+      "filename": "VO_801_Avatar_of_Sethraliss_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/1957545/VO_801_Avatar_of_Sethraliss_07_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "The storm has broken, and I am myself again. Thank you."
+    },
+    {
+      "soundId": 102956,
+      "filename": "VO_801_Avatar_of_Sethraliss_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/1957546/VO_801_Avatar_of_Sethraliss_08_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "I hold dominion over all!"
+    },
+    {
+      "soundId": 114415,
+      "filename": "VO_801_AVATAR_OF_SETHRALISS_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/72/2124616/VO_801_Avatar_of_Sethraliss_BattleShout_01.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "AHHHHHHHH"
+    },
+    {
+      "soundId": 114397,
+      "filename": "VO_801_Avatar_of_Sethraliss_FAREWELLS",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/172/2000556/VO_801_Avatar_of_Sethraliss_17_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "I will watch over you."
+    },
+    {
+      "soundId": 102959,
+      "filename": "VO_801_Avatar_of_Sethraliss_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/173/1957549/VO_801_Avatar_of_Sethraliss_11_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "You have my gratitude heroes."
+    },
+    {
+      "soundId": 103121,
+      "filename": "VO_801_Avatar_of_Sethraliss_15_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/239/1960431/VO_801_Avatar_of_Sethraliss_15_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "Should you fail, I am lost."
+    },
+    {
+      "soundId": 106458,
+      "filename": "VO_801_Avatar_of_Sethraliss_20_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/175/2000559/VO_801_Avatar_of_Sethraliss_20_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "I am weakened, but I am here."
+    },
+    {
+      "soundId": 106459,
+      "filename": "VO_801_Avatar_of_Sethraliss_21_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/176/2000560/VO_801_Avatar_of_Sethraliss_21_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "We all have our place. Mine is here."
+    },
+    {
+      "soundId": 114413,
+      "filename": "VO_801_AVATAR_OF_SETHRALISS_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/56/2124600/VO_801_Avatar_of_Sethraliss_AttackCrit_01.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 102950,
+      "filename": "VO_801_Avatar_of_Sethraliss_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/164/1957540/VO_801_Avatar_of_Sethraliss_02_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "The hex is shattered, but the temple's defences have awakened."
+    },
+    {
+      "soundId": 102951,
+      "filename": "VO_801_Avatar_of_Sethraliss_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/165/1957541/VO_801_Avatar_of_Sethraliss_03_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "Restore me, and I will disable them!"
+    },
+    {
+      "soundId": 102952,
+      "filename": "VO_801_Avatar_of_Sethraliss_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/166/1957542/VO_801_Avatar_of_Sethraliss_04_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "RIDE IN AGONY!"
+    },
+    {
+      "soundId": 102953,
+      "filename": "VO_801_Avatar_of_Sethraliss_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/167/1957543/VO_801_Avatar_of_Sethraliss_05_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "Your torment will be endless."
+    },
+    {
+      "soundId": 102954,
+      "filename": "VO_801_Avatar_of_Sethraliss_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/168/1957544/VO_801_Avatar_of_Sethraliss_06_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "DEFINITELY!"
+    },
+    {
+      "soundId": 102958,
+      "filename": "VO_801_Avatar_of_Sethraliss_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/172/1957548/VO_801_Avatar_of_Sethraliss_10_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "Your lives were meaningless, and in death you are forgotten."
+    },
+    {
+      "soundId": 103119,
+      "filename": "VO_801_Avatar_of_Sethraliss_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/237/1960429/VO_801_Avatar_of_Sethraliss_13_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "Your wounds cannot mend so long as the curse has you."
+    },
+    {
+      "soundId": 103120,
+      "filename": "VO_801_Avatar_of_Sethraliss_14_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/238/1960430/VO_801_Avatar_of_Sethraliss_14_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "You must not fall!"
+    },
+    {
+      "soundId": 103122,
+      "filename": "VO_801_Avatar_of_Sethraliss_16_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/240/1960432/VO_801_Avatar_of_Sethraliss_16_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "This cannot be the end."
+    },
+    {
+      "soundId": 106455,
+      "filename": "VO_801_Avatar_of_Sethraliss_17_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/172/2000556/VO_801_Avatar_of_Sethraliss_17_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "I will watch over you."
+    },
+    {
+      "soundId": 106456,
+      "filename": "VO_801_Avatar_of_Sethraliss_18_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/173/2000557/VO_801_Avatar_of_Sethraliss_18_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "This war must end!"
+    },
+    {
+      "soundId": 106457,
+      "filename": "VO_801_Avatar_of_Sethraliss_19_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/174/2000558/VO_801_Avatar_of_Sethraliss_19_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "Mythrax has no place in this world."
+    },
+    {
+      "soundId": 106460,
+      "filename": "VO_801_Avatar_of_Sethraliss_22_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/177/2000561/VO_801_Avatar_of_Sethraliss_22_F.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "Order must be restored."
+    },
+    {
+      "soundId": 114414,
+      "filename": "VO_801_AVATAR_OF_SETHRALISS_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/62/2124606/VO_801_Avatar_of_Sethraliss_Attack_01.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "HUEH!"
+    },
+    {
+      "soundId": 114419,
+      "filename": "VO_801_AVATAR_OF_SETHRALISS_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/90/2124634/VO_801_Avatar_of_Sethraliss_Wound_01.ogg",
+      "npc": "Avatar of Sethraliss",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "Ugh!"
+    }
+  ]
+}

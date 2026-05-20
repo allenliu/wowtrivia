@@ -1,0 +1,20 @@
+{
+  "dungeon": "Grim Batol",
+  "slug": "grim-batol",
+  "wowheadZoneId": 4950,
+  "expansion": "Cataclysm",
+  "bosses": [
+    {
+      "id": 40484,
+      "name": "Erudax",
+      "filterName": "erudax",
+      "quotes": [
+        { "context": "Aggro",         "text": "The darkest days are still ahead!" },
+        { "context": "Summon Guardian","text": "Come, suffering... Enter, chaos!" },
+        { "context": "Shadow Gale",   "text": "F'lakh ghet! The shadow's hunger cannot be sated!" },
+        { "context": "Player Killed", "text": "Flesh for the offering!" },
+        { "context": "Death",         "text": "Ywaq maq oou; ywaq maq ssaggh. Yawq ma shg'fhn." }
+      ]
+    }
+  ]
+}

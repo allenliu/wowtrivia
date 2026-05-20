@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "npc": "Advisor Vandros",
+    "dungeon": "The Arcway",
+    "filterName": "vandros",
+    "namePattern": "",
+    "generated": "2026-05-19T17:53:31-07:00",
+    "soundCount": 37
+  },
+  "sounds": [
+    {
+      "soundId": 57784,
+      "filename": "VO_701_Advisor_Vandros_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/55/1332791/VO_701_Advisor_Vandros_09.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "I am a conduit of the Nightwell's glorious power! I am Nightborn!"
+    },
+    {
+      "soundId": 57786,
+      "filename": "VO_701_Advisor_Vandros_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/59/1332795/VO_701_Advisor_Vandros_11.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "Enough! You little beasts are getting out of hand!"
+    },
+    {
+      "soundId": 73653,
+      "filename": "SPELL_Advisor_Vandros_ForceBomb_PreCast_Loop - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/987214/SPELL_Breath_Arcane_Precast_State_Loop.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 74417,
+      "filename": "SPELL_Vandross_BanishInTime_Channel - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/605323/AMB_DreadWastes_Base.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 74456,
+      "filename": "SPELL_Vandross_BanishInTime_PreCast - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/642927/FX_Spirit_Channel02.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 125971,
+      "filename": "VO_701_Advisor_Vandros_01 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/39/1332775/VO_701_Advisor_Vandros_01.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "Alas, blind courage only triumphs in the fairy tales."
+    },
+    {
+      "soundId": 57782,
+      "filename": "VO_701_Advisor_Vandros_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/1332787/VO_701_Advisor_Vandros_07.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "The Grand Magistrics will have your heads for this."
+    },
+    {
+      "soundId": 74469,
+      "filename": "SPELL_Vandros_AcceleratingBlast_Cast - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/95/1417567/FX_Spell_Energy_Electrical_Cast_Med_01.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "You"
+    },
+    {
+      "soundId": 57779,
+      "filename": "VO_701_Advisor_Vandros_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/1332781/VO_701_Advisor_Vandros_04.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "for the glory of Elisand."
+    },
+    {
+      "soundId": 57783,
+      "filename": "VO_701_Advisor_Vandros_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/1332789/VO_701_Advisor_Vandros_08.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "I have not survived for 10,000 years just to fall to a swarm of rats."
+    },
+    {
+      "soundId": 73649,
+      "filename": "SPELL_Advisor_Vandros_ForcfeDetonation_Cast - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/85/1417557/FX_Spell_Energy_Electrical_Cast_Large_01.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 74473,
+      "filename": "SPELL_Advisor_Vandros_UnstableMana_State - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/69/1416773/FX_Magic_Arcane_Energy_Loop_Small_01.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 74418,
+      "filename": "SPELL_Vandross_AcceleratingBlast_PreCast- The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/69/1416773/FX_Magic_Arcane_Energy_Loop_Small_01.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 74457,
+      "filename": "SPELL_Vandros_BanishedInTime_ScreenEffect - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/605323/AMB_DreadWastes_Base.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 125976,
+      "filename": "VO_701_Advisor_Vandros_02 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/41/1332777/VO_701_Advisor_Vandros_02.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "Think of this as a mercy killing."
+    },
+    {
+      "soundId": 57778,
+      "filename": "VO_701_Advisor_Vandros_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/43/1332779/VO_701_Advisor_Vandros_03.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "So brave, but so short-sighted."
+    },
+    {
+      "soundId": 57781,
+      "filename": "VO_701_Advisor_Vandros_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/1332785/VO_701_Advisor_Vandros_06.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "My, my... Someone has made quite a mess down here. It has been too long since we purged these catacombs of refuse. It appears we have a rat infestation."
+    },
+    {
+      "soundId": 57785,
+      "filename": "VO_701_Advisor_Vandros_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/1332793/VO_701_Advisor_Vandros_10.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "Have you vermin ever witnessed such raw power? I think not."
+    },
+    {
+      "soundId": 75192,
+      "filename": "VO_70_ADVISOR_VANDROS_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/54/1503798/VO_70_Advisor_Vandros_Attack_06.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "Gah!"
+    },
+    {
+      "soundId": 75193,
+      "filename": "VO_70_ADVISOR_VANDROS_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/59/1503803/VO_70_Advisor_Vandros_AttackCrit_01.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "huh"
+    },
+    {
+      "soundId": 75194,
+      "filename": "VO_70_ADVISOR_VANDROS_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/1503808/VO_70_Advisor_Vandros_Wound_01.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "MMM!"
+    },
+    {
+      "soundId": 73656,
+      "filename": "SPELL_Advisor_Vandros_ForceBomb_Cast - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/62/1416766/FX_Magic_Arcane_Cast_Small_01.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "You"
+    },
+    {
+      "soundId": 73654,
+      "filename": "SPELL_Advisor_Vandros_ForceBomb_State_Loop - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/1360708/GO_7NE_NIGHTFALLEN_ENERGYCOLLECTOR01_loop.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 73650,
+      "filename": "SPELL_Advisor_Vandros_ForcfeDetonation_Impact - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/1416775/FX_Magic_Arcane_Impact_Large_01.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "You"
+    },
+    {
+      "soundId": 74471,
+      "filename": "SPELL_Advisor_Vandros_UnstableMana_Impact - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/1417607/FX_Spell_Energy_Electrical_Impact_Med_01.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "You"
+    },
+    {
+      "soundId": 75278,
+      "filename": "SPELL_Advisor_Vandros_UnstableMana_PreCast_Loop - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/184/569528/FX_DarkFissure_Precast_LP_01.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 74419,
+      "filename": "SPELL_Vandross_AcceleratingBlast_Impact- The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/1416781/FX_Magic_Arcane_Impact_Small_01.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "BOOM!"
+    },
+    {
+      "soundId": 57776,
+      "filename": "VO_701_Advisor_Vandros_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/39/1332775/VO_701_Advisor_Vandros_01.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "Alas, blind courage only triumphs in the fairy tales."
+    },
+    {
+      "soundId": 57777,
+      "filename": "VO_701_Advisor_Vandros_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/41/1332777/VO_701_Advisor_Vandros_02.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "Think of this as a mercy killing."
+    },
+    {
+      "soundId": 125974,
+      "filename": "VO_701_Advisor_Vandros_03 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/43/1332779/VO_701_Advisor_Vandros_03.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "So brave, but so short-sighted."
+    },
+    {
+      "soundId": 57780,
+      "filename": "VO_701_Advisor_Vandros_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/47/1332783/VO_701_Advisor_Vandros_05.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "Find the vermin and bring me their heads. Leave no stone unturned."
+    },
+    {
+      "soundId": 125973,
+      "filename": "VO_701_Advisor_Vandros_07 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/1332787/VO_701_Advisor_Vandros_07.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "The Grand Magistrics will have your heads for this."
+    },
+    {
+      "soundId": 125972,
+      "filename": "VO_701_Advisor_Vandros_08 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/1332789/VO_701_Advisor_Vandros_08.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "I have not survived for 10,000 years just to fall to a swarm of rats."
+    },
+    {
+      "soundId": 125970,
+      "filename": "VO_701_Advisor_Vandros_09 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/55/1332791/VO_701_Advisor_Vandros_09.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "I am a conduit of the Nightwell's glorious power! I am Nightborn!"
+    },
+    {
+      "soundId": 125969,
+      "filename": "VO_701_Advisor_Vandros_10 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/1332793/VO_701_Advisor_Vandros_10.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "Have you vermin ever witnessed such raw power? I think not."
+    },
+    {
+      "soundId": 125968,
+      "filename": "VO_701_Advisor_Vandros_11 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/59/1332795/VO_701_Advisor_Vandros_11.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "Enough! You little beasts are getting out of hand!"
+    },
+    {
+      "soundId": 75195,
+      "filename": "VO_70_ADVISOR_VANDROS_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/1503818/VO_70_Advisor_Vandros_WoundCrit_01.ogg",
+      "npc": "Advisor Vandros",
+      "dungeon": "The Arcway",
+      "transcript": "No!"
+    }
+  ]
+}

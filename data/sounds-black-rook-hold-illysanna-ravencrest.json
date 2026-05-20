@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "npc": "Illysanna Ravencrest",
+    "dungeon": "Black Rook Hold",
+    "filterName": "illysanna",
+    "namePattern": "",
+    "generated": "2026-05-19T17:07:58-07:00",
+    "soundCount": 20
+  },
+  "sounds": [
+    {
+      "soundId": 54513,
+      "filename": "VO_70_Illysanna_Ravencrest_PH_Model_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/1275362/VO_70_Illysanna_Ravencrest_PH_Model_04.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "The hunt is eternal."
+    },
+    {
+      "soundId": 54638,
+      "filename": "VO_70_Illysanna_Ravencrest_PH_Model_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/1275747/VO_70_Illysanna_Ravencrest_PH_Model_10.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Fall before me!"
+    },
+    {
+      "soundId": 54511,
+      "filename": "VO_70_Illysanna_Ravencrest_PH_Model_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/222/1275358/VO_70_Illysanna_Ravencrest_PH_Model_02.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Men, the invaders come for us. Do not let them pass. For Calamdor!"
+    },
+    {
+      "soundId": 54514,
+      "filename": "VO_70_Illysanna_Ravencrest_PH_Model_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/228/1275364/VO_70_Illysanna_Ravencrest_PH_Model_05.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Betrayed."
+    },
+    {
+      "soundId": 54519,
+      "filename": "VO_70_Illysanna_Ravencrest_PH_Model_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/238/1275374/VO_70_Illysanna_Ravencrest_PH_Model_07.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Gods, hold them off!"
+    },
+    {
+      "soundId": 54561,
+      "filename": "VO_70_Illysanna_Ravencrest_PH_Model_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/157/1275549/VO_70_Illysanna_Ravencrest_PH_Model_08.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "You cannot escape!"
+    },
+    {
+      "soundId": 65481,
+      "filename": "SPELL_BlackrookHold_IllysannaRavencrest_Jump_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/185/1365177/Spell_DH_Tank_MetaMorph_Cast_01.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "MAMAMOO!!"
+    },
+    {
+      "soundId": 54510,
+      "filename": "VO_70_Illysanna_Ravencrest_PH_Model_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/220/1275356/VO_70_Illysanna_Ravencrest_PH_Model_01.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "I will burn you alive!"
+    },
+    {
+      "soundId": 54512,
+      "filename": "VO_70_Illysanna_Ravencrest_PH_Model_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/224/1275360/VO_70_Illysanna_Ravencrest_PH_Model_03.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "neutralized."
+    },
+    {
+      "soundId": 54566,
+      "filename": "VO_70_Illysanna_Ravencrest_PH_Model_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/1275561/VO_70_Illysanna_Ravencrest_PH_Model_09.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "You need not worry. I will not fail, Atosius."
+    },
+    {
+      "soundId": 65217,
+      "filename": "SPELL_BlackRookHold_IllysannaRavencrest_DarkRush_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/154/1361050/Spell_DH_FelRush_Cast_01.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "You"
+    },
+    {
+      "soundId": 64874,
+      "filename": "Spell_BlackrookHold_IllysannaRavencrest_EyeBeam_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/1120207/Spell_Corruption_Impact01.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "You"
+    },
+    {
+      "soundId": 64893,
+      "filename": "Spell_BlackrookHold_IllysannaRavencrest_EyeBeam_State",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/162/1016226/SPELL_Felblast_Precast.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": ""
+    },
+    {
+      "soundId": 64841,
+      "filename": "SPELL_BlackRookHold_IllysannaRavencrest_VengefulShear_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/120/1280632/Spell_DH_Chaos_Strike_Cast_01.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Ah"
+    },
+    {
+      "soundId": 64843,
+      "filename": "SPELL_BlackRookHold_IllysannaRavencrest_VengefulShear_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/235/1306347/Spell_DH_VengefullRetreat_Cast_02.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": ""
+    },
+    {
+      "soundId": 54515,
+      "filename": "VO_70_Illysanna_Ravencrest_PH_Model_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/230/1275366/VO_70_Illysanna_Ravencrest_PH_Model_06.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "We will bury you here fools."
+    },
+    {
+      "soundId": 76199,
+      "filename": "VO_70_ILLYSANNA_RAVENCREST_PH_MODEL_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/50/1507634/VO_70_Illysanna_Ravencrest_PH_Model_Attack_06.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "만들어"
+    },
+    {
+      "soundId": 76200,
+      "filename": "VO_70_ILLYSANNA_RAVENCREST_PH_MODEL_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/55/1507639/VO_70_Illysanna_Ravencrest_PH_Model_AttackCrit_01.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "PLE essao!!"
+    },
+    {
+      "soundId": 76201,
+      "filename": "VO_70_ILLYSANNA_RAVENCREST_PH_MODEL_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/60/1507644/VO_70_Illysanna_Ravencrest_PH_Model_Wound_01.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Eugh!"
+    },
+    {
+      "soundId": 76202,
+      "filename": "VO_70_ILLYSANNA_RAVENCREST_PH_MODEL_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/69/1507653/VO_70_Illysanna_Ravencrest_PH_Model_WoundCrit_01.ogg",
+      "npc": "Illysanna Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Oh!"
+    }
+  ]
+}

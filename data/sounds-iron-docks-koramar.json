@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "npc": "Koramar",
+    "dungeon": "Iron Docks",
+    "filterName": "koramar",
+    "namePattern": "",
+    "generated": "2026-05-19T14:01:51-07:00",
+    "soundCount": 25
+  },
+  "sounds": [
+    {
+      "soundId": 43915,
+      "filename": "VO_60_KORAMAR_Attack",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/96/1045600/VO_60_KORAMAR_Attack_01.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "oh"
+    },
+    {
+      "soundId": 43415,
+      "filename": "Spell_IHDocks_Skulloc_Koramar_Strike_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/150/801430/FX_Earth_Impacts_01.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "You"
+    },
+    {
+      "soundId": 43898,
+      "filename": "VO_60_ID_KORAMAR_DEATH",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/124/1045628/VO_60_ID_KORAMAR_DEATH.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "Inconceivable!"
+    },
+    {
+      "soundId": 43908,
+      "filename": "VO_60_ID_KORAMAR_DIALOGUE23",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/134/1045638/VO_60_ID_KORAMAR_DIALOGUE23.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "I'm not playing these games anymore. Bring in the Saber on and we'll be done with it!"
+    },
+    {
+      "soundId": 43899,
+      "filename": "VO_60_ID_KORAMAR_DIALOGUE02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/1045629/VO_60_ID_KORAMAR_DIALOGUE02.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "Come yourself, Sogosh. We will do no such thing. If these weaklings are so eager to die, then we shall oblige!"
+    },
+    {
+      "soundId": 43901,
+      "filename": "VO_60_ID_KORAMAR_DIALOGUE07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/127/1045631/VO_60_ID_KORAMAR_DIALOGUE07.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "And what exactly do you think they're going to do with Orcish iron? Fall on it and die, probably. I'm not concerned in the least."
+    },
+    {
+      "soundId": 43903,
+      "filename": "VO_60_ID_KORAMAR_DIALOGUE10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/129/1045633/VO_60_ID_KORAMAR_DIALOGUE10.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "Fire! Fire! Aim, then fire!"
+    },
+    {
+      "soundId": 43906,
+      "filename": "VO_60_ID_KORAMAR_DIALOGUE19",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/132/1045636/VO_60_ID_KORAMAR_DIALOGUE19.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "That was an insignificant loss. Let them exhaust themselves praying against our weak, against those who are unworthy of serving in Black Hand's army. Blood and honor, Zogash. That is all that Orcs understand."
+    },
+    {
+      "soundId": 43909,
+      "filename": "VO_60_ID_KORAMAR_DIALOGUE25",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/1045639/VO_60_ID_KORAMAR_DIALOGUE25.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "Put a muzzle on it!"
+    },
+    {
+      "soundId": 43910,
+      "filename": "VO_60_ID_KORAMAR_DIALOGUE27",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/1045640/VO_60_ID_KORAMAR_DIALOGUE27.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "I didn't mean the cat."
+    },
+    {
+      "soundId": 43912,
+      "filename": "VO_60_ID_KORAMAR_DIALOGUE31",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/1045642/VO_60_ID_KORAMAR_DIALOGUE31.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "So gosh, ready your acts! This ends now!"
+    },
+    {
+      "soundId": 43917,
+      "filename": "VO_60_KORAMAR_Wound",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/1045615/VO_60_KORAMAR_Wound_01.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "Duh!"
+    },
+    {
+      "soundId": 43918,
+      "filename": "VO_60_KORAMAR_WoundCrit",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/119/1045623/VO_60_KORAMAR_WoundCrit_01.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "Grr! Grrr!"
+    },
+    {
+      "soundId": 43417,
+      "filename": "Spell_IHDocks_Skulloc_Koramar_MeleeSparks_AreaImpact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/567886/m1hSwordHitMetalWeaponCrit.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": ""
+    },
+    {
+      "soundId": 43416,
+      "filename": "Spell_IHDocks_Skulloc_Koramar_MeleeSparks_Missile",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/253/568317/SPELL_SpectreBlast_Missile_Loop_02.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": ""
+    },
+    {
+      "soundId": 43904,
+      "filename": "VO_60_ID_KORAMAR_DIALOGUE11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/1045634/VO_60_ID_KORAMAR_DIALOGUE11.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "What is wrong with you? Keep firing you off!"
+    },
+    {
+      "soundId": 43907,
+      "filename": "VO_60_ID_KORAMAR_DIALOGUE21",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/133/1045637/VO_60_ID_KORAMAR_DIALOGUE21.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "That is what I do, Sogash. I think good."
+    },
+    {
+      "soundId": 43911,
+      "filename": "VO_60_ID_KORAMAR_DIALOGUE29",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/137/1045641/VO_60_ID_KORAMAR_DIALOGUE29.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "How dare you march into my docks and so brazenly set foot on my ship! Nothing will stop the iron horde least of all you. Enjoy your death, weaklings. So gosh, man the machine turret!"
+    },
+    {
+      "soundId": 43914,
+      "filename": "VO_60_ID_KORAMAR_KILL02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/140/1045644/VO_60_ID_KORAMAR_KILL02.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "Bow before the might of the iron horde!"
+    },
+    {
+      "soundId": 43414,
+      "filename": "Spell_IHDocks_Skulloc_Koramar_BerserkerLeap_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/930440/FX_Explosion_Rock_Debris_01.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": ""
+    },
+    {
+      "soundId": 43900,
+      "filename": "VO_60_ID_KORAMAR_DIALOGUE04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/126/1045630/VO_60_ID_KORAMAR_DIALOGUE04.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "So Gush, do not question my authority. This isn't just any gron. This is Scalak, son of Gruul. The blood of a champion courses through his veins. I'm not concerned with these poultry whoelps."
+    },
+    {
+      "soundId": 43902,
+      "filename": "VO_60_ID_KORAMAR_DIALOGUE08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/1045632/VO_60_ID_KORAMAR_DIALOGUE08.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "Ha! Would you look at that? Maybe I underestimated them. Oh gosh! Prepare Scalock! Let them have a taste of what he has to offer."
+    },
+    {
+      "soundId": 43905,
+      "filename": "VO_60_ID_KORAMAR_DIALOGUE14",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/131/1045635/VO_60_ID_KORAMAR_DIALOGUE14.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "Ah, forget it. They'll never make it past the tracks. Like all Gary, I'll front and center. There's some new meat for you to tenderize."
+    },
+    {
+      "soundId": 43913,
+      "filename": "VO_60_ID_KORAMAR_KILL01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/1045643/VO_60_ID_KORAMAR_KILL01.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "So weak."
+    },
+    {
+      "soundId": 43916,
+      "filename": "VO_60_KORAMAR_AttackCrit",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/106/1045610/VO_60_KORAMAR_AttackCrit_01.ogg",
+      "npc": "Koramar",
+      "dungeon": "Iron Docks",
+      "transcript": "MMMM"
+    }
+  ]
+}

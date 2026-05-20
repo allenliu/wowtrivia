@@ -1,0 +1,13 @@
+{
+  "dungeon": "Operation: Mechagon",
+  "slug": "operation-mechagon",
+  "wowheadZoneId": 10225,
+  "expansion": "Battle for Azeroth",
+  "bosses": [
+    { "id": 150397, "name": "King Mechagon", "filterName": "king_mechagon", "quotes": [
+      { "context": "Address",  "text": "Brothers and sisters of gnomanity! For generations, the curse of flesh has condemned us to obsolescence. But no more! At long last, the perfection of our original titan-forged design will be restored! All who are worthy shall join me in Mechagon and be judged in the eyes of invention. Together, we will reclaim our true legacy!" }
+    ]},
+    { "id": 144246, "name": "K.U.-J.0.", "filterName": "k_u_j", "namePattern": "^VO_.*K_U_J", "quotes": [] },
+    { "id": 150712, "name": "Trixie Tazer", "filterName": "trixie", "quotes": [] }
+  ]
+}

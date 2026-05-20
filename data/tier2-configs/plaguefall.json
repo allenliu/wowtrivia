@@ -1,0 +1,25 @@
+{
+  "dungeon": "Plaguefall",
+  "slug": "plaguefall",
+  "wowheadZoneId": 13228,
+  "expansion": "Shadowlands",
+  "bosses": [
+    {
+      "id": 164267,
+      "name": "Margrave Stradama",
+      "filterName": "stradama",
+      "quotes": [
+        { "context": "Aggro",             "text": "Behold my final work! My pride and my doom!" },
+        { "context": "Malignant Growth",  "text": "You cannot avoid this fate!" },
+        { "context": "Malignant Growth",  "text": "Can you feel its anger? My anger?!" },
+        { "context": "Plague Crash",      "text": "All will be destroyed!" },
+        { "context": "Infectious Rain",   "text": "My House weeps with blight!" },
+        { "context": "Player Killed",     "text": "Now you will know my suffering." },
+        { "context": "Death",             "text": "Do not... trust... the baron..." },
+        { "context": "Potion Effect",     "text": "Dear Marileth, you must forgive yourself. Though I am lost, you must endure." }
+      ]
+    },
+    { "id": 164255, "name": "Globgrog", "filterName": "globgrog", "namePattern": "^VO_.*Globgrog", "quotes": [] },
+    { "id": 164967, "name": "Doctor Ickus", "filterName": "ickus", "namePattern": "^VO_.*Ickus", "quotes": [] }
+  ]
+}

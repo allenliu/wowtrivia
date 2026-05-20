@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "npc": "Advisor Melandrus",
+    "dungeon": "Court of Stars",
+    "filterName": "melandrus",
+    "namePattern": "",
+    "generated": "2026-05-19T17:58:41-07:00",
+    "soundCount": 26
+  },
+  "sounds": [
+    {
+      "soundId": 58652,
+      "filename": "VO_701_Advisor_Melandrus_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/254/1355006/VO_701_Advisor_Melandrus_03.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "You can't counter what you can't see!"
+    },
+    {
+      "soundId": 58654,
+      "filename": "VO_701_Advisor_Melandrus_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/0/1355008/VO_701_Advisor_Melandrus_05.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "If you blink, you bleed!"
+    },
+    {
+      "soundId": 58657,
+      "filename": "VO_701_Advisor_Melandrus_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/3/1355011/VO_701_Advisor_Melandrus_08.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "Bleed for the Grand Magistrates!"
+    },
+    {
+      "soundId": 58658,
+      "filename": "VO_701_Advisor_Melandrus_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/4/1355012/VO_701_Advisor_Melandrus_09.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "Elisandr, forgive me."
+    },
+    {
+      "soundId": 58650,
+      "filename": "VO_701_Advisor_Melandrus_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/1355004/VO_701_Advisor_Melandrus_01.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "Finally, I'll make this quick."
+    },
+    {
+      "soundId": 125949,
+      "filename": "VO_701_Advisor_Melandrus_11 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/1355014/VO_701_Advisor_Melandrus_11.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "Never heard my blade coming."
+    },
+    {
+      "soundId": 67726,
+      "filename": "VO_703_Advisor_Melandrus_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/119/1408887/VO_703_Advisor_Melandrus_01.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "I assure you, Grand Magistrics, the situation is being addressed. It will be a simple matter to track down a few random dissidents and..."
+    },
+    {
+      "soundId": 67728,
+      "filename": "VO_703_Advisor_Melandrus_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/121/1408889/VO_703_Advisor_Melandrus_03.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "Impossible! My gods would never permit such an intrusion!"
+    },
+    {
+      "soundId": 58651,
+      "filename": "VO_701_Advisor_Melandrus_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/253/1355005/VO_701_Advisor_Melandrus_02.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "How dare you interrupt your bettors?"
+    },
+    {
+      "soundId": 58653,
+      "filename": "VO_701_Advisor_Melandrus_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/255/1355007/VO_701_Advisor_Melandrus_04.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "I will speed you towards your demise!"
+    },
+    {
+      "soundId": 125941,
+      "filename": "VO_701_Advisor_Melandrus_07 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/1355010/VO_701_Advisor_Melandrus_07.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "Death by a thousand cuts!"
+    },
+    {
+      "soundId": 125935,
+      "filename": "VO_701_Advisor_Melandrus_09 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/4/1355012/VO_701_Advisor_Melandrus_09.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "Elisandr, forgive me."
+    },
+    {
+      "soundId": 58659,
+      "filename": "VO_701_Advisor_Melandrus_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/5/1355013/VO_701_Advisor_Melandrus_10.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "another victim of my artistry."
+    },
+    {
+      "soundId": 58660,
+      "filename": "VO_701_Advisor_Melandrus_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/1355014/VO_701_Advisor_Melandrus_11.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "Never heard my blade coming."
+    },
+    {
+      "soundId": 125937,
+      "filename": "VO_701_Advisor_Melandrus_01 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/1355004/VO_701_Advisor_Melandrus_01.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "Finally, I'll make this quick."
+    },
+    {
+      "soundId": 125938,
+      "filename": "VO_701_Advisor_Melandrus_02 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/253/1355005/VO_701_Advisor_Melandrus_02.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "How dare you interrupt your bettors?"
+    },
+    {
+      "soundId": 125942,
+      "filename": "VO_701_Advisor_Melandrus_05 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/0/1355008/VO_701_Advisor_Melandrus_05.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "If you blink, you bleed!"
+    },
+    {
+      "soundId": 58655,
+      "filename": "VO_701_Advisor_Melandrus_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/1355009/VO_701_Advisor_Melandrus_06.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "The wind slices to the bone!"
+    },
+    {
+      "soundId": 125940,
+      "filename": "VO_701_Advisor_Melandrus_06 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/1355009/VO_701_Advisor_Melandrus_06.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "The wind slices to the bone!"
+    },
+    {
+      "soundId": 58656,
+      "filename": "VO_701_Advisor_Melandrus_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/1355010/VO_701_Advisor_Melandrus_07.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "Death by a thousand cuts!"
+    },
+    {
+      "soundId": 125936,
+      "filename": "VO_701_Advisor_Melandrus_08 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/3/1355011/VO_701_Advisor_Melandrus_08.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "Bleed for the Grand Magistrates!"
+    },
+    {
+      "soundId": 125950,
+      "filename": "VO_701_Advisor_Melandrus_10 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/5/1355013/VO_701_Advisor_Melandrus_10.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "another victim of my artistry."
+    },
+    {
+      "soundId": 58661,
+      "filename": "VO_701_Advisor_Melandrus_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/1355015/VO_701_Advisor_Melandrus_12.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "Let your names be forgotten."
+    },
+    {
+      "soundId": 125948,
+      "filename": "VO_701_Advisor_Melandrus_12 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/1355015/VO_701_Advisor_Melandrus_12.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "Let your names be forgotten."
+    },
+    {
+      "soundId": 67727,
+      "filename": "VO_703_Advisor_Melandrus_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/120/1408888/VO_703_Advisor_Melandrus_02.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "I... I'm not sure what you're getting at, Grand Magistrics."
+    },
+    {
+      "soundId": 67729,
+      "filename": "VO_703_Advisor_Melandrus_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/122/1408890/VO_703_Advisor_Melandrus_04.ogg",
+      "npc": "Advisor Melandrus",
+      "dungeon": "Court of Stars",
+      "transcript": "Must you leave so soon, Grand Magistrics?"
+    }
+  ]
+}

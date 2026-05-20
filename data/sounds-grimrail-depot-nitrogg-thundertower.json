@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "npc": "Nitrogg Thundertower",
+    "dungeon": "Grimrail Depot",
+    "filterName": "thundertower",
+    "namePattern": "",
+    "generated": "2026-05-19T18:25:29-07:00",
+    "soundCount": 1
+  },
+  "sounds": [
+    {
+      "soundId": 36950,
+      "filename": "ThunderTower_Loop",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/146/566674/FK_ChemistrySet_06.ogg",
+      "npc": "Nitrogg Thundertower",
+      "dungeon": "Grimrail Depot",
+      "transcript": ""
+    }
+  ]
+}

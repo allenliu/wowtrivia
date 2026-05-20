@@ -1,0 +1,126 @@
+{
+    "meta":  {
+                 "schemaVersion":  2,
+                 "dungeon":  "The Everbloom",
+                 "wowheadZoneId":  7109,
+                 "expansion":  "Warlords of Draenor",
+                 "generated":  "2026-05-19T05:53:31-07:00"
+             },
+    "npcs":  [
+                 {
+                     "id":  82682,
+                     "name":  "Archmage Sol",
+                     "elite":  true,
+                     "quotes":  [
+                                    {
+                                        "soundId":  45480,
+                                        "filename":  "vo-60-sd-kirintormage-death",
+                                        "fileDataId":  1055595,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/107/1055595/VO_60_SD_KIRINTORMAGE_DEATH.ogg",
+                                        "text":  "Burn my body, it's the only way to stop them.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  45485,
+                                        "filename":  "vo-60-sd-kirintormage-spell02",
+                                        "fileDataId":  1055600,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/112/1055600/VO_60_SD_KIRINTORMAGE_SPELL02.ogg",
+                                        "text":  "Surely the cold will make them wither?",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  45484,
+                                        "filename":  "vo-60-sd-kirintormage-spell01",
+                                        "fileDataId":  1055599,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/111/1055599/VO_60_SD_KIRINTORMAGE_SPELL01.ogg",
+                                        "text":  "Yes, fire! Fire will burn away the contagion.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 },
+                 {
+                     "id":  83893,
+                     "name":  "Earthshaper Telu",
+                     "elite":  true,
+                     "quotes":  [
+                                    {
+                                        "soundId":  46208,
+                                        "filename":  "vo-60-sd-luena-death",
+                                        "fileDataId":  1057486,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/206/1057486/VO_60_SD_LUENA_DEATH.ogg",
+                                        "text":  "I will... be... renewed...",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 },
+                 {
+                     "id":  81820,
+                     "name":  "Everbloom Mender",
+                     "elite":  true,
+                     "quotes":  [
+                                    {
+                                        "soundId":  43968,
+                                        "filename":  "vo-60-sd-botanicaster3-intro",
+                                        "fileDataId":  1045599,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/95/1045599/VO_60_SD_BOTANICASTER3_INTRO.ogg",
+                                        "text":  "We are all... doomed.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  46515,
+                                        "filename":  "vo-60-sd-botanicaster2-intro",
+                                        "fileDataId":  1058169,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/121/1058169/VO_60_SD_BOTANICASTER2_INTRO.ogg",
+                                        "text":  "We have not yet purified the water!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 },
+                 {
+                     "id":  83892,
+                     "name":  "Life Warden Gola",
+                     "elite":  true,
+                     "quotes":  [
+                                    {
+                                        "soundId":  46134,
+                                        "filename":  "vo-60-sd-xela-death",
+                                        "fileDataId":  1057259,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/235/1057259/VO_60_SD_XELA_DEATH.ogg",
+                                        "text":  "I return... to the soil...",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 },
+                 {
+                     "id":  81522,
+                     "name":  "Witherbark",
+                     "elite":  true,
+                     "quotes":  [
+                                    {
+                                        "soundId":  45108,
+                                        "filename":  "vo-60-sd-witherbark-aggro",
+                                        "fileDataId":  1054623,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/159/1054623/VO_60_SD_WITHERBARK_AGGRO.ogg",
+                                        "text":  "So. Thirsty.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 }
+             ]
+}

@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "npc": "Prioress Murrpray",
+    "dungeon": "Priory of the Sacred Flame",
+    "filterName": "murrpray",
+    "namePattern": "^VO_.*Murrpray",
+    "generated": "2026-05-19T15:50:31-07:00",
+    "soundCount": 18
+  },
+  "sounds": [
+    {
+      "soundId": 247873,
+      "filename": "VO_110_Prioress_Murrpray_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/5769535/VO_110_Prioress_Murrpray_06_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Burn by sacred flame!"
+    },
+    {
+      "soundId": 251173,
+      "filename": "VO_110_Prioress_Murrpray_17_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/241/5839857/VO_110_Prioress_Murrpray_17_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "With an army of the Risen, the Arathi will defeat the Neurobians, conquer Kassalgar, and subjugate the world!"
+    },
+    {
+      "soundId": 247868,
+      "filename": "VO_110_Prioress_Murrpray_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/5769529/VO_110_Prioress_Murrpray_01_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "The sacred flame will cleanse your transbrutions!"
+    },
+    {
+      "soundId": 247872,
+      "filename": "VO_110_Prioress_Murrpray_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/62/5769534/VO_110_Prioress_Murrpray_05_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Flames take you!"
+    },
+    {
+      "soundId": 247877,
+      "filename": "VO_110_Prioress_Murrpray_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/5769539/VO_110_Prioress_Murrpray_10_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "By the Emperor's will, shall glory return to Hallofal."
+    },
+    {
+      "soundId": 251164,
+      "filename": "VO_110_Prioress_Murrpray_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/232/5839848/VO_110_Prioress_Murrpray_12_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Are these steel strikes, lackeys? Gods! Gods!"
+    },
+    {
+      "soundId": 251165,
+      "filename": "VO_110_Prioress_Murrpray_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/233/5839849/VO_110_Prioress_Murrpray_13_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "No. They belong to that old fool's sister Blaze. Destroy these outsiders!"
+    },
+    {
+      "soundId": 251174,
+      "filename": "VO_110_Prioress_Murrpray_18_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/242/5839858/VO_110_Prioress_Murrpray_18_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Foolish outsiders, Belidar's sacred flame will simply raise him back to duty."
+    },
+    {
+      "soundId": 247870,
+      "filename": "VO_110_Prioress_Murrpray_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/60/5769532/VO_110_Prioress_Murrpray_03_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Ahaven's death."
+    },
+    {
+      "soundId": 247874,
+      "filename": "VO_110_Prioress_Murrpray_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/5769536/VO_110_Prioress_Murrpray_07_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "By blaze be purified!"
+    },
+    {
+      "soundId": 247878,
+      "filename": "VO_110_Prioress_Murrpray_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/5769540/VO_110_Prioress_Murrpray_11_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "The Empire will see you burn!"
+    },
+    {
+      "soundId": 251166,
+      "filename": "VO_110_Prioress_Murrpray_14_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/234/5839850/VO_110_Prioress_Murrpray_14_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Her youthfulness to the Empire has passed. Soon the true faithful will arise and the Arathi will be mighty."
+    },
+    {
+      "soundId": 251167,
+      "filename": "VO_110_Prioress_Murrpray_15_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/235/5839851/VO_110_Prioress_Murrpray_15_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "They've served their purpose. Varen, demonstrate your worth."
+    },
+    {
+      "soundId": 251175,
+      "filename": "VO_110_Prioress_Murrpray_19_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/243/5839859/VO_110_Prioress_Murrpray_19_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "No Arathi leaves the Emperor's service, even in death."
+    },
+    {
+      "soundId": 247869,
+      "filename": "VO_110_Prioress_Murrpray_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/59/5769531/VO_110_Prioress_Murrpray_02_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Ye of little faith."
+    },
+    {
+      "soundId": 247875,
+      "filename": "VO_110_Prioress_Murrpray_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/5769537/VO_110_Prioress_Murrpray_08_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Brothers and sisters, Huck into the flame!"
+    },
+    {
+      "soundId": 247876,
+      "filename": "VO_110_Prioress_Murrpray_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/66/5769538/VO_110_Prioress_Murrpray_09_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "My faith! My flame!"
+    },
+    {
+      "soundId": 251172,
+      "filename": "VO_110_Prioress_Murrpray_16_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/240/5839856/VO_110_Prioress_Murrpray_16_F.ogg",
+      "npc": "Prioress Murrpray",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Beladar is the crucible. It burns away weakness. Its blinding light reveals the strength we are rathy-lacked."
+    }
+  ]
+}

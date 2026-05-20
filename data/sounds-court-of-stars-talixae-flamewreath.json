@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "npc": "Talixae Flamewreath",
+    "dungeon": "Court of Stars",
+    "filterName": "talixae",
+    "namePattern": "",
+    "generated": "2026-05-19T17:57:50-07:00",
+    "soundCount": 22
+  },
+  "sounds": [
+    {
+      "soundId": 58638,
+      "filename": "VO_701_Talixae_Flamewreath_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/217/1354969/VO_701_Talixae_Flamewreath_01.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "Not very clever of you to challenge all of us."
+    },
+    {
+      "soundId": 58643,
+      "filename": "VO_701_Talixae_Flamewreath_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/222/1354974/VO_701_Talixae_Flamewreath_06.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "My funeral pyre will be glorious."
+    },
+    {
+      "soundId": 64533,
+      "filename": "Spell_SuramarCityDungeon_TalixaeFlamewreath_BurningIntensity_Cas",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/9/568585/Spell_Uni_FireCast_01.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "You"
+    },
+    {
+      "soundId": 58640,
+      "filename": "VO_701_Talixae_Flamewreath_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/219/1354971/VO_701_Talixae_Flamewreath_03.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "Mortal flash so pretty when it burns"
+    },
+    {
+      "soundId": 58644,
+      "filename": "VO_701_Talixae_Flamewreath_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/223/1354975/VO_701_Talixae_Flamewreath_07.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "Make yourself useful and take a look around."
+    },
+    {
+      "soundId": 58642,
+      "filename": "VO_701_Talixae_Flamewreath_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/221/1354973/VO_701_Talixae_Flamewreath_05.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "It will amuse me to watch you melt!"
+    },
+    {
+      "soundId": 58645,
+      "filename": "VO_701_Talixae_Flamewreath_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/224/1354976/VO_701_Talixae_Flamewreath_08.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "What are you waiting for? Check out that noise."
+    },
+    {
+      "soundId": 64536,
+      "filename": "Spell_SuramarCityDungeon_TalixaeFlamewreath_InfernalEruption_Pcs",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/148/568212/PreCastFireHigh.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": ""
+    },
+    {
+      "soundId": 64537,
+      "filename": "Spell_SuramarCityDungeon_TalixaeFlamewreath_InfernalEruption_Per",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/231/645863/FX_Fire_Heavy_Loop_01.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": ""
+    },
+    {
+      "soundId": 58641,
+      "filename": "VO_701_Talixae_Flamewreath_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/220/1354972/VO_701_Talixae_Flamewreath_04.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "I'm feeling positively radiant."
+    },
+    {
+      "soundId": 58648,
+      "filename": "VO_701_Talixae_Flamewreath_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/227/1354979/VO_701_Talixae_Flamewreath_11.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "More kindling for the bonfire!"
+    },
+    {
+      "soundId": 75152,
+      "filename": "VO_70_TALIXAE_FLAMEWREATH_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/100/1503588/VO_70_Talixae_Flamewreath_Wound_01.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "Oh"
+    },
+    {
+      "soundId": 64534,
+      "filename": "Spell_SuramarCityDungeon_TalixaeFlamewreath_BurningIntensity_IMP",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/9/568585/Spell_Uni_FireCast_01.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "You"
+    },
+    {
+      "soundId": 64535,
+      "filename": "Spell_SuramarCityDungeon_TalixaeFlamewreath_FlameHands_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/234/566506/BooksOnFire.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": ""
+    },
+    {
+      "soundId": 64532,
+      "filename": "Spell_SuramarCityDungeon_TalixaeFlamewreath_WitheringSoul_Precas",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/5/568581/FX_Shadow_Precast_Low_Hand_LP_04.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": ""
+    },
+    {
+      "soundId": 58639,
+      "filename": "VO_701_Talixae_Flamewreath_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/1354970/VO_701_Talixae_Flamewreath_02.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "Who needs henchmen? I'll burn you myself!"
+    },
+    {
+      "soundId": 58646,
+      "filename": "VO_701_Talixae_Flamewreath_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/225/1354977/VO_701_Talixae_Flamewreath_09.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "You! Have a look over there!"
+    },
+    {
+      "soundId": 58647,
+      "filename": "VO_701_Talixae_Flamewreath_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/1354978/VO_701_Talixae_Flamewreath_10.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "Scorched bones! So delightful!"
+    },
+    {
+      "soundId": 58649,
+      "filename": "VO_701_Talixae_Flamewreath_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/228/1354980/VO_701_Talixae_Flamewreath_12.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "Looks like I have a roast to prepare!"
+    },
+    {
+      "soundId": 75150,
+      "filename": "VO_70_TALIXAE_FLAMEWREATH_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/85/1503573/VO_70_Talixae_Flamewreath_Attack_01.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "Hmph!"
+    },
+    {
+      "soundId": 75151,
+      "filename": "VO_70_TALIXAE_FLAMEWREATH_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/95/1503583/VO_70_Talixae_Flamewreath_AttackCrit_01.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "Bleark!"
+    },
+    {
+      "soundId": 75153,
+      "filename": "VO_70_TALIXAE_FLAMEWREATH_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/110/1503598/VO_70_Talixae_Flamewreath_WoundCrit_01.ogg",
+      "npc": "Talixae Flamewreath",
+      "dungeon": "Court of Stars",
+      "transcript": "Yeah!"
+    }
+  ]
+}

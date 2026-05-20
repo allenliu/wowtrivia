@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "npc": "Aspix",
+    "dungeon": "Temple of Sethraliss",
+    "filterName": "aspix",
+    "namePattern": "",
+    "generated": "2026-05-19T13:23:36-07:00",
+    "soundCount": 15
+  },
+  "sounds": [
+    {
+      "soundId": 110672,
+      "filename": "VO_801_ASPIX_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/23/2027287/VO_801_Aspix_Attack_01.ogg",
+      "npc": "Aspix",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 102117,
+      "filename": "VO_801_Aspix_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/153/1941145/VO_801_Aspix_02_M.ogg",
+      "npc": "Aspix",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "Die, vermin!"
+    },
+    {
+      "soundId": 102121,
+      "filename": "VO_801_Aspix_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/157/1941149/VO_801_Aspix_06_M.ogg",
+      "npc": "Aspix",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "What will become of the Empire?"
+    },
+    {
+      "soundId": 110671,
+      "filename": "VO_801_ASPIX_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/17/2027281/VO_801_Aspix_AttackCrit_01.ogg",
+      "npc": "Aspix",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "Suck!"
+    },
+    {
+      "soundId": 118588,
+      "filename": "Spell_Sethraliiss_Aspix_LightningChannel_PreFight",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/635051/FX_LightningStorm05.ogg",
+      "npc": "Aspix",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": ""
+    },
+    {
+      "soundId": 118589,
+      "filename": "Spell_Sethraliss_Aspix_StaticShock_cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/32/797984/FX_Lightning_Strike_Crackle08.ogg",
+      "npc": "Aspix",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "a lots for"
+    },
+    {
+      "soundId": 102116,
+      "filename": "VO_801_Aspix_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/152/1941144/VO_801_Aspix_01_M.ogg",
+      "npc": "Aspix",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "You do not have my permission to die! Arise!"
+    },
+    {
+      "soundId": 102118,
+      "filename": "VO_801_Aspix_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/154/1941146/VO_801_Aspix_03_M.ogg",
+      "npc": "Aspix",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "I will enjoy watching you fry."
+    },
+    {
+      "soundId": 102119,
+      "filename": "VO_801_Aspix_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/155/1941147/VO_801_Aspix_04_M.ogg",
+      "npc": "Aspix",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "BREAK THEM, MADERIS!"
+    },
+    {
+      "soundId": 102120,
+      "filename": "VO_801_Aspix_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/156/1941148/VO_801_Aspix_05_M.ogg",
+      "npc": "Aspix",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "You will break against my power!"
+    },
+    {
+      "soundId": 102122,
+      "filename": "VO_801_Aspix_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/158/1941150/VO_801_Aspix_07_M.ogg",
+      "npc": "Aspix",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "None can stand against our empire!"
+    },
+    {
+      "soundId": 102123,
+      "filename": "VO_801_Aspix_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/1941151/VO_801_Aspix_08_M.ogg",
+      "npc": "Aspix",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "Their bones shall pave the roadways of our empire."
+    },
+    {
+      "soundId": 110673,
+      "filename": "VO_801_ASPIX_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/2027297/VO_801_Aspix_BattleShout_01.ogg",
+      "npc": "Aspix",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "U encaraahhh WHH O35"
+    },
+    {
+      "soundId": 110675,
+      "filename": "VO_801_ASPIX_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/42/2027306/VO_801_Aspix_Wound_01.ogg",
+      "npc": "Aspix",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "Hey"
+    },
+    {
+      "soundId": 110674,
+      "filename": "VO_801_ASPIX_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/37/2027301/VO_801_Aspix_WoundCrit_01.ogg",
+      "npc": "Aspix",
+      "dungeon": "Temple of Sethraliss",
+      "transcript": "Yeah!"
+    }
+  ]
+}

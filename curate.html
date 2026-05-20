@@ -1,0 +1,1205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WoW Trivia — Voiceline Curation</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Text:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --stone-dark: #0d0b08;
+    --stone-mid: #1a1510;
+    --stone-light: #2a2018;
+    --stone-border: #3d2e18;
+    --gold: #c8a951;
+    --gold-light: #e8c96a;
+    --gold-dark: #8a6e28;
+    --gold-glow: rgba(200, 169, 81, 0.4);
+    --text-main: #e8d9b0;
+    --text-dim: #8a7a58;
+    --green: #5ab85a;
+    --red: #c04040;
+    --amber: #d9a040;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--stone-dark);
+    background-image:
+      radial-gradient(ellipse at 20% 20%, rgba(80,50,10,0.12) 0%, transparent 60%),
+      radial-gradient(ellipse at 80% 80%, rgba(60,30,5,0.18) 0%, transparent 60%);
+    color: var(--text-main);
+    font-family: 'Crimson Text', Georgia, serif;
+    padding: 24px;
+    min-height: 100vh;
+  }
+  header {
+    border-bottom: 1px solid var(--stone-border);
+    padding-bottom: 16px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  h1 {
+    font-family: 'Cinzel', serif;
+    font-size: 22px;
+    color: var(--gold-light);
+    letter-spacing: 1px;
+    text-shadow: 0 0 18px var(--gold-glow);
+  }
+  .sub { color: var(--text-dim); font-size: 13px; margin-top: 4px; }
+  .toolbar { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+
+  button {
+    background: linear-gradient(180deg, #2a2010 0%, #1a1408 100%);
+    border: 1px solid var(--gold-dark);
+    color: var(--gold);
+    font-family: 'Cinzel', serif;
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding: 8px 14px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+  button:hover:not(:disabled) {
+    border-color: var(--gold);
+    color: var(--gold-light);
+    box-shadow: 0 0 10px var(--gold-glow);
+  }
+  button:disabled { opacity: 0.35; cursor: not-allowed; }
+
+  .source-filters {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding-right: 8px;
+  }
+  .source-filter {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    cursor: pointer;
+    user-select: none;
+    font-family: 'Cinzel', serif;
+    font-size: 11px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    transition: color 0.15s;
+  }
+  .source-filter:hover { color: var(--gold); }
+  .source-filter input { accent-color: var(--gold); width: 14px; height: 14px; margin: 0; }
+  .source-filter-count {
+    color: var(--text-dim);
+    font-size: 10px;
+    font-weight: 600;
+    padding: 1px 6px;
+    border-radius: 8px;
+    border: 1px solid var(--stone-border);
+  }
+  .source-filter input:checked + span .source-filter-label.wowhead   { color: var(--gold); }
+  .source-filter input:checked + span .source-filter-label.wiki      { color: #9bd09b; }
+  .source-filter input:checked + span .source-filter-label.search    { color: #d4b97a; }
+
+  /* Review summary table */
+  .review-summary {
+    margin-bottom: 32px;
+    border: 1px solid var(--stone-border);
+    border-radius: 4px;
+    background: rgba(20, 14, 8, 0.4);
+    overflow: hidden;
+  }
+  .review-summary h2 {
+    font-family: 'Cinzel', serif;
+    font-size: 14px;
+    color: var(--gold-light);
+    letter-spacing: 2px;
+    padding: 14px 20px 6px;
+    text-transform: uppercase;
+  }
+  .review-summary table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .review-summary th, .review-summary td {
+    padding: 8px 20px;
+    text-align: left;
+    font-size: 14px;
+    border-top: 1px solid var(--stone-border);
+  }
+  .review-summary th {
+    font-family: 'Cinzel', serif;
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    font-weight: normal;
+  }
+  .review-summary td.num, .review-summary th.num {
+    text-align: right;
+    width: 100px;
+    font-variant-numeric: tabular-nums;
+  }
+  .review-summary tr:hover td { background: rgba(200,169,81,0.04); }
+  .review-summary td a {
+    color: var(--gold);
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .review-summary td a:hover { color: var(--gold-light); text-decoration: underline; }
+  .review-summary tfoot td {
+    font-family: 'Cinzel', serif;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--gold-light);
+    border-top: 1px solid var(--gold-dark);
+  }
+  .view-mode-toggle {
+    display: inline-flex;
+    border: 1px solid var(--gold-dark);
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  .view-mode-toggle button {
+    background: transparent;
+    border: none;
+    color: var(--text-dim);
+    font-family: 'Cinzel', serif;
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding: 7px 14px;
+    cursor: pointer;
+    border-radius: 0;
+    transition: all 0.15s;
+  }
+  .view-mode-toggle button.active {
+    background: var(--gold);
+    color: var(--stone-dark);
+  }
+  .view-mode-toggle button:hover:not(.active) { color: var(--gold); box-shadow: none; }
+
+  .save-indicator {
+    font-size: 11px;
+    color: var(--text-dim);
+    font-family: 'Cinzel', serif;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding-right: 8px;
+  }
+  .save-indicator.saved { color: var(--green); }
+  .save-indicator.saving { color: var(--amber); }
+  .save-indicator.error { color: var(--red); }
+
+  /* Empty state */
+  .empty-state {
+    text-align: center;
+    padding: 100px 20px;
+    color: var(--text-dim);
+  }
+  .empty-state h2 {
+    font-family: 'Cinzel', serif;
+    color: var(--gold);
+    margin-bottom: 14px;
+    font-size: 18px;
+    letter-spacing: 1px;
+  }
+  .empty-state p { font-size: 14px; line-height: 1.6; }
+  .empty-state .note {
+    margin-top: 16px;
+    font-size: 11px;
+    color: var(--gold-dark);
+    font-family: 'Cinzel', serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  /* Expansion tabs (top-level) */
+  .expansion-tabs {
+    display: flex;
+    gap: 4px;
+    margin-bottom: 8px;
+    flex-wrap: wrap;
+  }
+  .expansion-tab {
+    background: transparent;
+    border: 1px solid var(--stone-border);
+    color: var(--text-dim);
+    font-family: 'Cinzel', serif;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding: 7px 14px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: all 0.15s;
+  }
+  .expansion-tab:hover { color: var(--gold); border-color: var(--gold-dark); }
+  .expansion-tab.active {
+    color: var(--stone-dark);
+    background: var(--gold);
+    border-color: var(--gold-light);
+  }
+  .expansion-tab-count { margin-left: 8px; opacity: 0.7; font-size: 11px; }
+
+  /* Dungeon tabs (within an expansion) */
+  .tabs {
+    display: flex;
+    gap: 2px;
+    border-bottom: 1px solid var(--stone-border);
+    margin-bottom: 22px;
+    flex-wrap: wrap;
+  }
+  .tab {
+    background: transparent;
+    border: none;
+    color: var(--text-dim);
+    font-family: 'Cinzel', serif;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding: 10px 18px;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    transition: all 0.15s;
+    margin-bottom: -1px;
+  }
+  .tab:hover { color: var(--gold); border-bottom-color: var(--gold-dark); }
+  .tab.active { color: var(--gold-light); border-bottom-color: var(--gold); }
+  .tab-count { color: var(--text-dim); margin-left: 8px; font-size: 11px; }
+  .tab.active .tab-count { color: var(--gold); }
+  .tab-selected { color: var(--gold); margin-left: 4px; }
+
+  /* NPC sections */
+  .npc-section {
+    margin-bottom: 26px;
+    border: 1px solid var(--stone-border);
+    border-radius: 4px;
+    overflow: hidden;
+    background: rgba(20, 14, 8, 0.4);
+  }
+  .npc-header {
+    background: linear-gradient(180deg, #1a1408 0%, #0d0a05 100%);
+    padding: 13px 20px;
+    display: flex;
+    align-items: baseline;
+    gap: 14px;
+    border-bottom: 1px solid var(--stone-border);
+    flex-wrap: wrap;
+  }
+  .npc-name {
+    font-family: 'Cinzel', serif;
+    font-size: 16px;
+    color: var(--gold-light);
+    letter-spacing: 0.5px;
+  }
+  .npc-meta { font-size: 12px; color: var(--text-dim); }
+  .npc-id-link {
+    color: var(--gold-dark);
+    text-decoration: none;
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0.5px;
+  }
+  .npc-id-link:hover { color: var(--gold); text-decoration: underline; }
+  .npc-counts {
+    margin-left: auto;
+    font-size: 11px;
+    color: var(--text-dim);
+    display: flex;
+    gap: 12px;
+    font-family: 'Cinzel', serif;
+    letter-spacing: 1px;
+  }
+  .npc-counts .c-accept { color: var(--green); }
+  .npc-counts .c-reject { color: var(--red); }
+  .npc-counts .c-pending { color: var(--amber); }
+  .npc-counts .c-sel { color: var(--gold); }
+
+  /* Quote row */
+  .quote-row {
+    display: grid;
+    grid-template-columns: 48px 1fr 250px;
+    gap: 18px;
+    padding: 16px 20px;
+    align-items: start;
+    border-top: 1px solid var(--stone-border);
+    transition: background 0.15s;
+  }
+  .quote-row:first-of-type { border-top: none; }
+  .quote-row.status-rejected .quote-text {
+    opacity: 0.35;
+    text-decoration: line-through;
+  }
+  .quote-row.status-accepted { background: rgba(90,184,90,0.04); }
+  .quote-row.selected {
+    background: rgba(200,169,81,0.06);
+    box-shadow: inset 3px 0 0 var(--gold);
+  }
+  .quote-row.status-accepted.selected {
+    background: rgba(90,184,90,0.08);
+  }
+
+  /* Play button */
+  .play-btn-circle {
+    width: 38px; height: 38px;
+    border-radius: 50%;
+    background: linear-gradient(180deg, #2a1f0e 0%, #1a1208 100%);
+    border: 1px solid var(--gold-dark);
+    color: var(--gold);
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 0 0 2px;
+  }
+  .play-btn-circle:hover { border-color: var(--gold); color: var(--gold-light); box-shadow: 0 0 12px var(--gold-glow); }
+  .play-btn-circle.playing { border-color: var(--gold-light); background: rgba(200,169,81,0.18); color: var(--gold-light); padding: 0; }
+
+  /* Quote content */
+  .quote-content { min-width: 0; }
+  .quote-text {
+    font-size: 16px;
+    line-height: 1.45;
+    color: var(--text-main);
+    margin-bottom: 8px;
+    word-wrap: break-word;
+  }
+  .quote-meta {
+    font-size: 11px;
+    color: var(--text-dim);
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0.5px;
+  }
+  .quote-meta a { color: var(--gold-dark); text-decoration: none; }
+  .quote-meta a:hover { color: var(--gold); text-decoration: underline; }
+
+  .warning-flag {
+    color: var(--amber);
+    background: rgba(217,160,64,0.1);
+    padding: 3px 9px;
+    border-radius: 3px;
+    border: 1px solid rgba(217,160,64,0.4);
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-family: 'Cinzel', serif;
+  }
+
+  .source-badge {
+    padding: 3px 8px;
+    border-radius: 3px;
+    border: 1px solid;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-family: 'Cinzel', serif;
+  }
+  .source-badge.wiki {
+    color: #9bd09b;
+    background: rgba(90,184,90,0.10);
+    border-color: rgba(90,184,90,0.40);
+  }
+  .source-badge.transcript {
+    color: var(--text-dim);
+    background: rgba(138,122,88,0.10);
+    border-color: var(--stone-border);
+  }
+  .source-badge.wowhead {
+    color: var(--gold);
+    background: rgba(200,169,81,0.10);
+    border-color: rgba(200,169,81,0.40);
+  }
+
+  .quote-transcript {
+    margin-top: 4px;
+    font-size: 13px;
+    color: var(--text-dim);
+    font-style: italic;
+  }
+  .quote-transcript .lbl {
+    color: var(--gold-dark);
+    font-style: normal;
+    font-family: 'Cinzel', serif;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 1px;
+    margin-right: 6px;
+  }
+
+  /* Quote actions */
+  .quote-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-end;
+  }
+  .status-buttons { display: flex; gap: 4px; }
+  .status-pill {
+    padding: 5px 10px;
+    border: 1px solid var(--stone-border);
+    border-radius: 3px;
+    font-family: 'Cinzel', serif;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.15s;
+    background: transparent;
+    color: var(--text-dim);
+  }
+  .status-pill:hover:not(.active) { border-color: var(--gold-dark); color: var(--gold); }
+  .status-pill.active.accept { background: rgba(90,184,90,0.15); border-color: var(--green); color: var(--green); }
+  .status-pill.active.reject { background: rgba(192,64,64,0.15); border-color: var(--red); color: var(--red); }
+  .status-pill.active.pending { background: rgba(217,160,64,0.1); border-color: var(--amber); color: var(--amber); }
+
+  .selected-toggle {
+    display: flex;
+    gap: 7px;
+    align-items: center;
+    font-size: 11px;
+    color: var(--text-dim);
+    font-family: 'Cinzel', serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    cursor: pointer;
+    user-select: none;
+  }
+  .selected-toggle input {
+    accent-color: var(--gold);
+    width: 14px;
+    height: 14px;
+  }
+  .selected-toggle:hover { color: var(--gold); }
+
+  @media (max-width: 720px) {
+    .quote-row { grid-template-columns: 1fr; }
+    .quote-actions { align-items: flex-start; }
+    .npc-counts { margin-left: 0; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1 id="title">Voiceline Curation</h1>
+    <div class="sub" id="subtitle">No data loaded</div>
+  </div>
+  <div class="toolbar">
+    <div class="view-mode-toggle" id="view-mode-toggle" style="display:none">
+      <button id="btn-mode-curate" class="active">Curate</button>
+      <button id="btn-mode-review">Review</button>
+    </div>
+    <div class="source-filters" id="source-filters" style="display:none">
+      <label class="source-filter" title="Quotes from Wowhead's NPC-page Quotes section — verified pairing, direct sound link">
+        <input type="checkbox" id="filter-wowhead" checked>
+        <span><span class="source-filter-label wowhead">Wowhead Quotes</span> <span class="source-filter-count" id="count-wowhead">0</span></span>
+      </label>
+      <label class="source-filter" title="Quotes from warcraft.wiki tactics page, matched to a Wowhead sound via Whisper transcript">
+        <input type="checkbox" id="filter-wiki" checked>
+        <span><span class="source-filter-label wiki">Wiki Match</span> <span class="source-filter-count" id="count-wiki">0</span></span>
+      </label>
+      <label class="source-filter" title="Wowhead global sound-search results with Whisper transcript only — no documented quote text (may include lines from outside the dungeon)">
+        <input type="checkbox" id="filter-transcript">
+        <span><span class="source-filter-label search">Sound Search</span> <span class="source-filter-count" id="count-transcript">0</span></span>
+      </label>
+    </div>
+    <span class="save-indicator" id="save-indicator"></span>
+    <button id="btn-open">Open data folder</button>
+    <button id="btn-export" disabled>Export Selected</button>
+  </div>
+</header>
+
+<nav id="expansion-tabs" class="expansion-tabs" style="display:none"></nav>
+<nav id="tabs" class="tabs" style="display:none"></nav>
+
+<main id="app">
+  <div class="empty-state">
+    <h2>No data loaded</h2>
+    <p>Click <strong>Open data folder</strong> and choose the <code>data/</code> directory.<br>All <code>voicelines*.json</code> files inside will load as tabs.</p>
+    <div class="note">Requires Chrome, Edge, or Opera (File System Access API)</div>
+  </div>
+</main>
+
+<audio id="player" preload="none"></audio>
+
+<script>
+  // Browser support check
+  if (!('showDirectoryPicker' in window)) {
+    document.getElementById('app').innerHTML = '<div class="empty-state"><h2>Browser not supported</h2><p>This page requires Chrome, Edge, or Opera — Firefox and Safari do not implement the File System Access API. Please reopen in one of those browsers.</p></div>';
+    document.getElementById('btn-open').disabled = true;
+  }
+
+  /** @type {{ handle: FileSystemFileHandle, data: any }[]} */
+  let dungeons = [];
+  let activeIdx = 0;
+  let currentPlayingId = null;
+  let viewMode = 'curate';  // 'curate' | 'review'
+
+  const player        = document.getElementById('player');
+  const saveIndicator = document.getElementById('save-indicator');
+  const tabsEl        = document.getElementById('tabs');
+  const expTabsEl     = document.getElementById('expansion-tabs');
+
+  // Chronological order; anything not listed gets appended at the end.
+  const EXPANSION_ORDER = [
+    'Classic',
+    'The Burning Crusade',
+    'Wrath of the Lich King',
+    'Cataclysm',
+    'Mists of Pandaria',
+    'Warlords of Draenor',
+    'Legion',
+    'Battle for Azeroth',
+    'Shadowlands',
+    'Dragonflight',
+    'The War Within',
+    'Midnight',
+  ];
+
+  player.addEventListener('ended', stopPlaying);
+  player.addEventListener('error', stopPlaying);
+
+  document.getElementById('btn-open').addEventListener('click', openFolder);
+  document.getElementById('btn-export').addEventListener('click', exportSelected);
+  document.getElementById('filter-wowhead').addEventListener('change', render);
+  document.getElementById('filter-wiki').addEventListener('change', render);
+  document.getElementById('filter-transcript').addEventListener('change', render);
+  document.getElementById('btn-mode-curate').addEventListener('click', () => setViewMode('curate'));
+  document.getElementById('btn-mode-review').addEventListener('click', () => setViewMode('review'));
+
+  function setViewMode(mode) {
+    if (mode === viewMode) return;
+    stopPlaying();
+    viewMode = mode;
+    document.getElementById('btn-mode-curate').classList.toggle('active', mode === 'curate');
+    document.getElementById('btn-mode-review').classList.toggle('active', mode === 'review');
+    render();
+  }
+
+  // Source classification:
+  //   - q.source === 'wiki'       => Wiki Match (warcraft.wiki + Whisper)
+  //   - q.source === 'transcript' => Sound Search (Wowhead name-filter + Whisper, no wiki text)
+  //   - otherwise                 => Wowhead Quotes (NPC page Quotes section)
+  function sourceCategory(q) {
+    if (q.source === 'wiki') return 'wiki';
+    if (q.source === 'transcript') return 'transcript';
+    return 'wowhead';
+  }
+
+  function isVisible(q) {
+    const cat = sourceCategory(q);
+    if (cat === 'wowhead')    return document.getElementById('filter-wowhead').checked;
+    if (cat === 'wiki')       return document.getElementById('filter-wiki').checked;
+    if (cat === 'transcript') return document.getElementById('filter-transcript').checked;
+    return true;
+  }
+
+  function current() {
+    return dungeons[activeIdx] || null;
+  }
+
+  async function openFolder() {
+    try {
+      const dirHandle = await window.showDirectoryPicker();
+
+      // Request readwrite up front
+      const cur = await dirHandle.queryPermission({ mode: 'readwrite' });
+      if (cur !== 'granted') {
+        const req = await dirHandle.requestPermission({ mode: 'readwrite' });
+        if (req !== 'granted') {
+          alert('Write permission was not granted. Curation changes will not save.');
+        }
+      }
+
+      const loaded = [];
+      for await (const entry of dirHandle.values()) {
+        if (entry.kind !== 'file') continue;
+        if (!/^voicelines.*\.json$/i.test(entry.name)) continue;
+        try {
+          const file = await entry.getFile();
+          const data = JSON.parse(await file.text());
+          if (!data.meta || !data.npcs) {
+            console.warn(`Skipping ${entry.name}: not a voicelines schema (missing meta/npcs).`);
+            continue;
+          }
+          loaded.push({ handle: entry, data });
+        } catch (e) {
+          console.warn(`Skipping ${entry.name}: ${e.message}`);
+        }
+      }
+
+      if (loaded.length === 0) {
+        alert('No voicelines*.json files found in that folder.');
+        return;
+      }
+
+      // Sort by dungeon name for stable order
+      loaded.sort((a, b) => a.data.meta.dungeon.localeCompare(b.data.meta.dungeon));
+
+      dungeons = loaded;
+      activeIdx = 0;
+      render();
+      setSaveStatus('saved');
+    } catch (e) {
+      if (e.name !== 'AbortError') alert('Error: ' + e.message);
+    }
+  }
+
+  async function saveCurrent() {
+    const cur = current();
+    if (!cur) return;
+    try {
+      setSaveStatus('saving');
+      const writable = await cur.handle.createWritable();
+      await writable.write(JSON.stringify(cur.data, null, 2) + '\n');
+      await writable.close();
+      setSaveStatus('saved');
+    } catch (e) {
+      console.error('Save failed:', e);
+      setSaveStatus('error');
+    }
+  }
+
+  function setSaveStatus(s) {
+    saveIndicator.className = 'save-indicator ' + s;
+    const labels = { saved: 'Saved', saving: 'Saving...', error: 'Save failed' };
+    saveIndicator.textContent = labels[s] || '';
+  }
+
+  function findQuote(soundId) {
+    const cur = current();
+    if (!cur) return null;
+    for (const n of cur.data.npcs) for (const q of n.quotes) if (q.soundId === soundId) return q;
+    return null;
+  }
+
+  function setStatus(soundId, newStatus) {
+    const q = findQuote(soundId);
+    if (!q) return;
+    q.status = newStatus;
+    render();
+    saveCurrent();
+  }
+
+  function toggleSelected(soundId) {
+    const q = findQuote(soundId);
+    if (!q) return;
+    q.selected = !q.selected;
+    render();
+    saveCurrent();
+  }
+
+  function switchTab(idx) {
+    if (idx === activeIdx || idx < 0 || idx >= dungeons.length) return;
+    stopPlaying();
+    activeIdx = idx;
+    render();
+  }
+
+  function namesTheDungeon(text, dungeon) {
+    if (!text || !dungeon) return false;
+    const t = text.toLowerCase();
+    const d = dungeon.toLowerCase();
+    if (t.includes(d)) return true;
+    // also check the dominant noun (e.g., "academy" from "Algeth'ar Academy")
+    const parts = d.replace(/['\-’]/g, ' ').split(/\s+/).filter(Boolean);
+    for (const p of parts) if (p.length >= 5 && t.includes(p)) return true;
+    return false;
+  }
+
+  function playSound(soundId, url) {
+    if (currentPlayingId === soundId && !player.paused) {
+      player.pause();
+      stopPlaying();
+      return;
+    }
+    stopPlaying();
+    player.src = url;
+    player.play().catch(e => {
+      console.error('Audio play failed:', e);
+      stopPlaying();
+    });
+    currentPlayingId = soundId;
+    document.querySelectorAll(`[data-play-id="${soundId}"]`).forEach(b => {
+      b.classList.add('playing');
+      b.textContent = '■';
+    });
+  }
+
+  function stopPlaying() {
+    if (currentPlayingId == null) return;
+    const prev = currentPlayingId;
+    currentPlayingId = null;
+    document.querySelectorAll(`[data-play-id="${prev}"]`).forEach(b => {
+      b.classList.remove('playing');
+      b.textContent = '▶';
+    });
+  }
+
+  function countSelected(data) {
+    return data.npcs.reduce((a, n) => a + n.quotes.filter(q => q.selected && isVisible(q)).length, 0);
+  }
+
+  function countQuotes(data, opts = {}) {
+    return data.npcs.reduce((a, n) => a + n.quotes.filter(q => opts.all ? true : isVisible(q)).length, 0);
+  }
+
+  function countBySource(data, cat) {
+    return data.npcs.reduce((a, n) => a + n.quotes.filter(q => sourceCategory(q) === cat).length, 0);
+  }
+
+  function expansionOrderKey(name) {
+    const i = EXPANSION_ORDER.indexOf(name);
+    return i === -1 ? EXPANSION_ORDER.length : i;
+  }
+
+  // Returns [{ expansion: string, indices: [int] }] ordered chronologically.
+  function getExpansionGroups() {
+    const groups = new Map();
+    dungeons.forEach((d, idx) => {
+      const e = d.data.meta.expansion || 'Unknown';
+      if (!groups.has(e)) groups.set(e, []);
+      groups.get(e).push(idx);
+    });
+    return Array.from(groups.entries())
+      .map(([expansion, indices]) => ({ expansion, indices }))
+      .sort((a, b) => expansionOrderKey(a.expansion) - expansionOrderKey(b.expansion));
+  }
+
+  function renderTabs() {
+    if (dungeons.length === 0) {
+      tabsEl.style.display = 'none';
+      expTabsEl.style.display = 'none';
+      return;
+    }
+    const groups = getExpansionGroups();
+    const activeExpansion = dungeons[activeIdx]?.data?.meta?.expansion || '';
+
+    // --- Top row: expansion tabs ---
+    expTabsEl.style.display = groups.length > 1 ? 'flex' : 'none';
+    expTabsEl.innerHTML = '';
+    for (const g of groups) {
+      // Sum visible quotes across all dungeons in this expansion
+      const q = g.indices.reduce((a, i) => a + countQuotes(dungeons[i].data), 0);
+      const btn = document.createElement('button');
+      btn.className = 'expansion-tab' + (g.expansion === activeExpansion ? ' active' : '');
+      btn.innerHTML = `${escapeHtml(g.expansion)}<span class="expansion-tab-count">${q}</span>`;
+      btn.addEventListener('click', () => switchTab(g.indices[0]));
+      expTabsEl.appendChild(btn);
+    }
+
+    // --- Bottom row: dungeon tabs filtered to the active expansion ---
+    tabsEl.style.display = 'flex';
+    tabsEl.innerHTML = '';
+    const inActive = groups.find(g => g.expansion === activeExpansion)?.indices || [];
+    for (const idx of inActive) {
+      const d = dungeons[idx];
+      const sel = countSelected(d.data);
+      const total = countQuotes(d.data);
+      const btn = document.createElement('button');
+      btn.className = 'tab' + (idx === activeIdx ? ' active' : '');
+      btn.innerHTML = `${escapeHtml(d.data.meta.dungeon)}<span class="tab-count">${total}</span>${sel ? `<span class="tab-selected">★ ${sel}</span>` : ''}`;
+      btn.addEventListener('click', () => switchTab(idx));
+      tabsEl.appendChild(btn);
+    }
+  }
+
+  function renderSourceFilters() {
+    const wrap = document.getElementById('source-filters');
+    const wowhead = dungeons.reduce((a, d) => a + countBySource(d.data, 'wowhead'),    0);
+    const wiki    = dungeons.reduce((a, d) => a + countBySource(d.data, 'wiki'),       0);
+    const search  = dungeons.reduce((a, d) => a + countBySource(d.data, 'transcript'), 0);
+
+    if (wowhead + wiki + search === 0) {
+      wrap.style.display = 'none';
+      return;
+    }
+    wrap.style.display = 'flex';
+    document.getElementById('count-wowhead').textContent    = wowhead;
+    document.getElementById('count-wiki').textContent       = wiki;
+    document.getElementById('count-transcript').textContent = search;
+  }
+
+  function render() {
+    // Toolbar visibility (toggle shown only when data is loaded)
+    document.getElementById('view-mode-toggle').style.display = dungeons.length > 0 ? 'inline-flex' : 'none';
+
+    const app = document.getElementById('app');
+
+    if (dungeons.length === 0) {
+      document.getElementById('tabs').style.display = 'none';
+      document.getElementById('expansion-tabs').style.display = 'none';
+      document.getElementById('source-filters').style.display = 'none';
+      app.innerHTML = '<div class="empty-state"><h2>No data loaded</h2><p>Click <strong>Open data folder</strong> and choose the <code>data/</code> directory.</p></div>';
+      document.getElementById('title').textContent = 'Voiceline Curation';
+      document.getElementById('subtitle').textContent = 'No data loaded';
+      document.getElementById('btn-export').disabled = true;
+      return;
+    }
+
+    if (viewMode === 'review') {
+      renderReview();
+      return;
+    }
+
+    renderTabs();
+    renderSourceFilters();
+
+    const cur = current();
+    if (!cur) { return; }
+
+    const totalSelectedAcross = dungeons.reduce((a, d) => a + countSelected(d.data), 0);
+    const totalQuotesAcross   = dungeons.reduce((a, d) => a + countQuotes(d.data), 0);
+    const totalAllAcross      = dungeons.reduce((a, d) => a + countQuotes(d.data, { all: true }), 0);
+    const hiddenCount         = totalAllAcross - totalQuotesAcross;
+
+    document.getElementById('title').textContent = `${cur.data.meta.dungeon} — Voiceline Curation`;
+    const hiddenSuffix = hiddenCount > 0 ? `  ·  ${hiddenCount} hidden by filters` : '';
+    document.getElementById('subtitle').textContent =
+      `${dungeons.length} dungeon${dungeons.length !== 1 ? 's' : ''} loaded  ·  ${totalQuotesAcross} quotes${hiddenSuffix}  ·  ${totalSelectedAcross} selected`;
+    document.getElementById('btn-export').disabled = totalSelectedAcross === 0;
+
+    app.innerHTML = '';
+
+    for (const npc of cur.data.npcs) {
+      const visibleQuotes = npc.quotes.filter(isVisible);
+      if (visibleQuotes.length === 0) continue;  // skip NPCs with no visible quotes
+      const counts = visibleQuotes.reduce((a, q) => { a[q.status] = (a[q.status] || 0) + 1; return a; }, {});
+      const sel    = visibleQuotes.filter(q => q.selected).length;
+
+      const sect = document.createElement('section');
+      sect.className = 'npc-section';
+
+      sect.innerHTML = `
+        <div class="npc-header">
+          <div class="npc-name">${escapeHtml(npc.name)}</div>
+          <div class="npc-meta">
+            <a href="https://www.wowhead.com/npc=${npc.id}" target="_blank" rel="noopener" class="npc-id-link" title="Open NPC on Wowhead">npc ${npc.id}</a>
+            ·  ${visibleQuotes.length} quote${visibleQuotes.length !== 1 ? 's' : ''}${npc.elite ? '  ·  elite' : ''}
+          </div>
+          <div class="npc-counts">
+            ${counts.accepted ? `<span class="c-accept">✓ ${counts.accepted}</span>` : ''}
+            ${counts.rejected ? `<span class="c-reject">✗ ${counts.rejected}</span>` : ''}
+            ${counts.pending ? `<span class="c-pending">◆ ${counts.pending}</span>` : ''}
+            ${sel ? `<span class="c-sel">★ ${sel} selected</span>` : ''}
+          </div>
+        </div>
+      `;
+
+      for (const q of visibleQuotes) {
+        const flagged = namesTheDungeon(q.text, cur.data.meta.dungeon);
+        const row = document.createElement('div');
+        row.className = `quote-row status-${q.status || 'pending'}${q.selected ? ' selected' : ''}`;
+        const sourceBadge = renderSourceBadge(q);
+        const transcriptLine = renderTranscript(q);
+        row.innerHTML = `
+          <div>
+            <button class="play-btn-circle" data-play-id="${q.soundId}" title="Play / stop">▶</button>
+          </div>
+          <div class="quote-content">
+            <div class="quote-text">${escapeHtml(q.text)}</div>
+            ${transcriptLine}
+            <div class="quote-meta">
+              ${sourceBadge}
+              <a href="https://www.wowhead.com/sound=${q.soundId}/${q.filename}" target="_blank" rel="noopener">sound ${q.soundId}</a>
+              <span>${escapeHtml(q.filename)}</span>
+              ${flagged ? '<span class="warning-flag">Names the dungeon</span>' : ''}
+            </div>
+          </div>
+          <div class="quote-actions">
+            <div class="status-buttons">
+              <button class="status-pill accept${q.status === 'accepted' ? ' active' : ''}" data-status="accepted" data-sid="${q.soundId}">✓ Accept</button>
+              <button class="status-pill reject${q.status === 'rejected' ? ' active' : ''}" data-status="rejected" data-sid="${q.soundId}">✗ Reject</button>
+              <button class="status-pill pending${q.status === 'pending' ? ' active' : ''}" data-status="pending" data-sid="${q.soundId}">◆ Clear</button>
+            </div>
+            <label class="selected-toggle">
+              <input type="checkbox" data-toggle-sid="${q.soundId}" ${q.selected ? 'checked' : ''}>
+              <span>Pick for game</span>
+            </label>
+          </div>
+        `;
+        sect.appendChild(row);
+      }
+
+      app.appendChild(sect);
+    }
+
+    // Wire up events
+    app.querySelectorAll('.play-btn-circle').forEach(b => {
+      b.addEventListener('click', () => {
+        const sid = parseInt(b.dataset.playId, 10);
+        const q = findQuote(sid);
+        if (q && q.audioUrl) playSound(sid, q.audioUrl);
+      });
+    });
+    app.querySelectorAll('.status-pill').forEach(b => {
+      b.addEventListener('click', () => setStatus(parseInt(b.dataset.sid, 10), b.dataset.status));
+    });
+    app.querySelectorAll('input[data-toggle-sid]').forEach(c => {
+      c.addEventListener('change', () => toggleSelected(parseInt(c.dataset.toggleSid, 10)));
+    });
+  }
+
+  function renderReview() {
+    // Hide expansion + dungeon tabs in review mode; source filters still apply
+    document.getElementById('tabs').style.display = 'none';
+    document.getElementById('expansion-tabs').style.display = 'none';
+    renderSourceFilters();
+
+    // Per-dungeon accepted/selected counts (filtered by current source toggles)
+    const rows = [];
+    let totalAccepted = 0, totalSelected = 0;
+    for (let i = 0; i < dungeons.length; i++) {
+      const d = dungeons[i];
+      let accepted = 0, selected = 0;
+      for (const n of d.data.npcs) {
+        for (const q of n.quotes) {
+          if (!isVisible(q)) continue;
+          if (q.status === 'accepted') accepted++;
+          if (q.selected) selected++;
+        }
+      }
+      if (accepted > 0 || selected > 0) {
+        rows.push({ idx: i, name: d.data.meta.dungeon, expansion: d.data.meta.expansion, accepted, selected });
+      }
+      totalAccepted += accepted; totalSelected += selected;
+    }
+    rows.sort((a, b) => b.accepted - a.accepted || a.name.localeCompare(b.name));
+
+    document.getElementById('title').textContent = 'Review — Accepted Voicelines';
+    document.getElementById('subtitle').textContent = `${totalAccepted} accepted  ·  ${totalSelected} picked for game across ${rows.length} dungeon${rows.length !== 1 ? 's' : ''}`;
+    document.getElementById('btn-export').disabled = totalSelected === 0;
+
+    const app = document.getElementById('app');
+    app.innerHTML = '';
+
+    // --- Summary table ---
+    const summary = document.createElement('section');
+    summary.className = 'review-summary';
+    if (rows.length === 0) {
+      summary.innerHTML = `
+        <h2>No accepted voicelines yet</h2>
+        <p style="padding: 8px 20px 16px; color: var(--text-dim);">Switch to <strong>Curate</strong> and accept quotes via the ✓ Accept button to populate this view.</p>
+      `;
+      app.appendChild(summary);
+      return;
+    }
+    const tableRowsHtml = rows.map(r => `
+      <tr>
+        <td><a data-jump-idx="${r.idx}" title="Jump to dungeon in Curate mode">${escapeHtml(r.name)}</a></td>
+        <td class="npc-meta" style="color: var(--text-dim); font-size: 12px;">${escapeHtml(r.expansion || '')}</td>
+        <td class="num">${r.accepted}</td>
+        <td class="num" style="color: var(--gold);">${r.selected || ''}</td>
+      </tr>
+    `).join('');
+    summary.innerHTML = `
+      <h2>Summary</h2>
+      <table>
+        <thead>
+          <tr><th>Dungeon</th><th>Expansion</th><th class="num">Accepted</th><th class="num">Picked</th></tr>
+        </thead>
+        <tbody>${tableRowsHtml}</tbody>
+        <tfoot>
+          <tr><td colspan="2">Total</td><td class="num">${totalAccepted}</td><td class="num">${totalSelected}</td></tr>
+        </tfoot>
+      </table>
+    `;
+    app.appendChild(summary);
+
+    // Click-to-jump on dungeon names → switch back to Curate, that dungeon active
+    summary.querySelectorAll('[data-jump-idx]').forEach(a => {
+      a.addEventListener('click', e => {
+        const idx = parseInt(a.dataset.jumpIdx, 10);
+        activeIdx = idx;
+        setViewMode('curate');
+      });
+    });
+
+    // --- Per-dungeon list of accepted quotes (reuse curate row layout) ---
+    for (const r of rows) {
+      const d = dungeons[r.idx];
+      const section = document.createElement('section');
+      section.className = 'npc-section';
+      section.innerHTML = `
+        <div class="npc-header">
+          <div class="npc-name">${escapeHtml(r.name)}</div>
+          <div class="npc-meta">${escapeHtml(r.expansion || '')}  ·  ${r.accepted} accepted${r.selected ? `  ·  ${r.selected} picked` : ''}</div>
+          <div class="npc-counts">
+            <button class="status-pill pending" style="text-transform: uppercase;" data-jump-idx="${r.idx}">Open in Curate</button>
+          </div>
+        </div>
+      `;
+      // Re-use the same row HTML as render(). Iterate quotes across all NPCs.
+      for (const npc of d.data.npcs) {
+        for (const q of npc.quotes) {
+          if (!isVisible(q)) continue;
+          if (q.status !== 'accepted') continue;
+          const flagged = namesTheDungeon(q.text, d.data.meta.dungeon);
+          const row = document.createElement('div');
+          row.className = `quote-row status-${q.status}${q.selected ? ' selected' : ''}`;
+          const sourceBadge = renderSourceBadge(q);
+          const transcriptLine = renderTranscript(q);
+          row.innerHTML = `
+            <div>
+              <button class="play-btn-circle" data-play-id="${q.soundId}" title="Play / stop">▶</button>
+            </div>
+            <div class="quote-content">
+              <div class="quote-text">${escapeHtml(q.text)}</div>
+              <div style="font-size: 11px; color: var(--text-dim); margin-bottom: 4px;">${escapeHtml(npc.name)}</div>
+              ${transcriptLine}
+              <div class="quote-meta">
+                ${sourceBadge}
+                <a href="https://www.wowhead.com/sound=${q.soundId}/${q.filename}" target="_blank" rel="noopener">sound ${q.soundId}</a>
+                ${flagged ? '<span class="warning-flag">Names the dungeon</span>' : ''}
+              </div>
+            </div>
+            <div class="quote-actions">
+              <div class="status-buttons">
+                <button class="status-pill reject" data-status="rejected" data-sid="${q.soundId}">✗ Reject</button>
+                <button class="status-pill pending" data-status="pending" data-sid="${q.soundId}">◆ Clear</button>
+              </div>
+              <label class="selected-toggle">
+                <input type="checkbox" data-toggle-sid="${q.soundId}" ${q.selected ? 'checked' : ''}>
+                <span>Pick for game</span>
+              </label>
+            </div>
+          `;
+          section.appendChild(row);
+        }
+      }
+      app.appendChild(section);
+    }
+
+    // Wire up events on the newly rendered rows
+    app.querySelectorAll('.play-btn-circle').forEach(b => {
+      b.addEventListener('click', () => {
+        const sid = parseInt(b.dataset.playId, 10);
+        const q = findQuoteAny(sid);
+        if (q && q.audioUrl) playSound(sid, q.audioUrl);
+      });
+    });
+    app.querySelectorAll('.status-pill[data-sid]').forEach(b => {
+      b.addEventListener('click', () => setStatusAny(parseInt(b.dataset.sid, 10), b.dataset.status));
+    });
+    app.querySelectorAll('input[data-toggle-sid]').forEach(c => {
+      c.addEventListener('change', () => toggleSelectedAny(parseInt(c.dataset.toggleSid, 10)));
+    });
+    app.querySelectorAll('button[data-jump-idx]').forEach(b => {
+      b.addEventListener('click', () => {
+        activeIdx = parseInt(b.dataset.jumpIdx, 10);
+        setViewMode('curate');
+      });
+    });
+  }
+
+  // Variants that search across all loaded dungeons (used in Review mode where
+  // current() may be a different dungeon than the row's source).
+  function findQuoteAny(soundId) {
+    for (const d of dungeons) for (const n of d.data.npcs) for (const q of n.quotes) {
+      if (q.soundId === soundId) return { quote: q, dungeon: d };
+    }
+    return null;
+  }
+  function setStatusAny(soundId, newStatus) {
+    const hit = findQuoteAny(soundId);
+    if (!hit) return;
+    hit.quote.status = newStatus;
+    render();
+    saveDungeon(hit.dungeon);
+  }
+  function toggleSelectedAny(soundId) {
+    const hit = findQuoteAny(soundId);
+    if (!hit) return;
+    hit.quote.selected = !hit.quote.selected;
+    render();
+    saveDungeon(hit.dungeon);
+  }
+  async function saveDungeon(d) {
+    if (!d || !d.handle) return;
+    try {
+      setSaveStatus('saving');
+      const writable = await d.handle.createWritable();
+      await writable.write(JSON.stringify(d.data, null, 2) + '\n');
+      await writable.close();
+      setSaveStatus('saved');
+    } catch (e) {
+      console.error('Save failed:', e);
+      setSaveStatus('error');
+    }
+  }
+
+  function exportSelected() {
+    const selected = [];
+    for (const d of dungeons) {
+      for (const n of d.data.npcs) for (const q of n.quotes) {
+        if (q.selected) selected.push({
+          dungeon: d.data.meta.dungeon,
+          expansion: d.data.meta.expansion,
+          npc: n.name,
+          quote: q.text,
+          soundId: q.soundId,
+          filename: q.filename,
+          audioUrl: q.audioUrl,
+        });
+      }
+    }
+    if (selected.length === 0) return;
+    const blob = new Blob([JSON.stringify(selected, null, 2) + '\n'], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `selected-${new Date().toISOString().slice(0,10)}.json`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  }
+
+  // Source badge: where the quote text came from.
+  //   'wiki'       — pulled from warcraft.wiki and matched to a transcript
+  //   'transcript' — discovered via Whisper, no wiki match (sound-search only)
+  //   undefined    — Tier-1 (Wowhead Quotes section)
+  function renderSourceBadge(q) {
+    if (q.source === 'wiki') {
+      const score = q.matchScore != null ? ` ${(q.matchScore * 100).toFixed(0)}%` : '';
+      const ctx = q.wikiContext ? ` (${escapeHtml(q.wikiContext)})` : '';
+      return `<span class="source-badge wiki" title="warcraft.wiki tactics page quote, matched to a Wowhead sound via Whisper${score ? ' (' + score.trim() + ' similarity)' : ''}">Wiki Match${ctx}${score}</span>`;
+    }
+    if (q.source === 'transcript') {
+      return `<span class="source-badge transcript" title="Found via Wowhead global sound-search; Whisper transcript only — no documented quote text. May include lines from outside the dungeon.">Sound Search</span>`;
+    }
+    return `<span class="source-badge wowhead" title="Wowhead NPC-page Quotes section — editor-curated pairing of quote text and sound clip">Wowhead Quotes</span>`;
+  }
+
+  // Optional transcript line: only show when it differs meaningfully from q.text
+  // (transcript-only entries already have q.text == q.transcript; wiki-matched ones
+  // are interesting when the transcript differs from the wiki text due to whisper drift).
+  function renderTranscript(q) {
+    if (!q.transcript) return '';
+    if (q.source !== 'wiki') return '';
+    if (normalize(q.transcript) === normalize(q.text)) return '';
+    return `<div class="quote-transcript"><span class="lbl">Transcript</span>${escapeHtml(q.transcript)}</div>`;
+  }
+
+  function normalize(s) {
+    return String(s).toLowerCase().replace(/[^a-z0-9\s]/g, ' ').replace(/\s+/g, ' ').trim();
+  }
+</script>
+</body>
+</html>

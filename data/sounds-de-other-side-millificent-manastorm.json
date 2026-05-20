@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "npc": "Millificent Manastorm",
+    "dungeon": "De Other Side",
+    "filterName": "millificent",
+    "namePattern": "",
+    "generated": "2026-05-19T16:39:40-07:00",
+    "soundCount": 37
+  },
+  "sounds": [
+    {
+      "soundId": 128444,
+      "filename": "VO_701_Millificent_Manastorm_02 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/55/1324343/VO_701_Millificent_Manastorm_02.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Are you ready to explode?"
+    },
+    {
+      "soundId": 128443,
+      "filename": "VO_701_Millificent_Manastorm_07 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/73/1324361/VO_701_Millificent_Manastorm_07.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Why you? No one insults my hair? No one!"
+    },
+    {
+      "soundId": 75154,
+      "filename": "VO_70_MILLIFICENT_MANASTORM_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/115/1503603/VO_70_Millificent_Manastorm_Attack_01.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 75155,
+      "filename": "VO_70_MILLIFICENT_MANASTORM_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/1503613/VO_70_Millificent_Manastorm_AttackCrit_01.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "ahhhh"
+    },
+    {
+      "soundId": 73239,
+      "filename": "SPELL_VioletHold_Millificent_DeltaFingerLaser_zap_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/149/1417621/FX_Spell_Energy_Electrical_Impact_Small_05.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "You"
+    },
+    {
+      "soundId": 57479,
+      "filename": "VO_701_Millificent_Manastorm_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/73/1324361/VO_701_Millificent_Manastorm_07.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Why you? No one insults my hair? No one!"
+    },
+    {
+      "soundId": 75157,
+      "filename": "VO_70_MILLIFICENT_MANASTORM_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/140/1503628/VO_70_Millificent_Manastorm_WoundCrit_01.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "No!"
+    },
+    {
+      "soundId": 158978,
+      "filename": "VO_901_Millificent_Manastorm_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/215/3606231/VO_901_Millificent_Manastorm_09_F.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Then don't get in my way, new house!"
+    },
+    {
+      "soundId": 158992,
+      "filename": "VO_901_Millificent_Manastorm_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/168/3606440/VO_901_Millificent_Manastorm_10_F.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Wait, you made a deal with Bonsomdi too? I knew you took shortcuts in your shoddy work, Millhouse, but this is a new low!"
+    },
+    {
+      "soundId": 169649,
+      "filename": "VO_901_Millificent_Manastorm_BattleShout_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/117/3787381/VO_901_Millificent_Manastorm_BattleShout_01.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Waaaaaaaaaah!"
+    },
+    {
+      "soundId": 73238,
+      "filename": "SPELL_VioletHold_Millificent_DeltaFingerLaser_zap",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/1054788/FX_Arakkoa_Crystal_Beam_Lazer_Loop.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Thanks for watching!"
+    },
+    {
+      "soundId": 73234,
+      "filename": "SPELL_VioletHold_Millificent_SquirrelBomb_throw",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/1302602/FX_Whoosh_Medium_Revamp_07.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": ""
+    },
+    {
+      "soundId": 57468,
+      "filename": "VO_701_Millificent_Manastorm_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/1324339/VO_701_Millificent_Manastorm_01.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Here comes the heat!"
+    },
+    {
+      "soundId": 57471,
+      "filename": "VO_701_Millificent_Manastorm_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/1324345/VO_701_Millificent_Manastorm_03.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Milhouse! You're next!"
+    },
+    {
+      "soundId": 57473,
+      "filename": "VO_701_Millificent_Manastorm_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/61/1324349/VO_701_Millificent_Manastorm_04.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Wait! I recognize that voice!"
+    },
+    {
+      "soundId": 57477,
+      "filename": "VO_701_Millificent_Manastorm_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/69/1324357/VO_701_Millificent_Manastorm_06.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "I know it was you, Millhouse!"
+    },
+    {
+      "soundId": 57978,
+      "filename": "VO_701_Millificent_Manastorm_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/212/1337556/VO_701_Millificent_Manastorm_09.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "There's no place you can hide from me, Millhouse! No place!"
+    },
+    {
+      "soundId": 128446,
+      "filename": "VO_701_Millificent_Manastorm_09 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/212/1337556/VO_701_Millificent_Manastorm_09.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "There's no place you can hide from me, Millhouse! No place!"
+    },
+    {
+      "soundId": 156518,
+      "filename": "VO_901_Millificent_Manastorm_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/127/3582079/VO_901_Millificent_Manastorm_01_F.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Poultry rains from above!"
+    },
+    {
+      "soundId": 156519,
+      "filename": "VO_901_Millificent_Manastorm_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/3582080/VO_901_Millificent_Manastorm_02_F.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "It's laser time!"
+    },
+    {
+      "soundId": 156520,
+      "filename": "VO_901_Millificent_Manastorm_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/129/3582081/VO_901_Millificent_Manastorm_03_F.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "This one will drive you nuts!"
+    },
+    {
+      "soundId": 156522,
+      "filename": "VO_901_Millificent_Manastorm_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/131/3582083/VO_901_Millificent_Manastorm_05_F.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Wait! You can have the mojo! New house is more important!"
+    },
+    {
+      "soundId": 158975,
+      "filename": "VO_901_Millificent_Manastorm_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/212/3606228/VO_901_Millificent_Manastorm_08_F.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Oh! Hey, that hurt you lumbering oaf!"
+    },
+    {
+      "soundId": 158994,
+      "filename": "VO_901_Millificent_Manastorm_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/3606442/VO_901_Millificent_Manastorm_11_F.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Has been!"
+    },
+    {
+      "soundId": 158995,
+      "filename": "VO_901_Millificent_Manastorm_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/3606451/VO_901_Millificent_Manastorm_12_F.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Oh sweetie, you do care!"
+    },
+    {
+      "soundId": 73233,
+      "filename": "SPELL_VioletHold_Millificent_ChickenSwarmRocket_fire_lp",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/229/566245/GO_FireStylized03_Stand_Loop_02.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "You"
+    },
+    {
+      "soundId": 73236,
+      "filename": "SPELL_VioletHold_Millificent_SquirrelBomb_fuse_Explode",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/56/1006904/FX_Grenade_Explosion01.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "después"
+    },
+    {
+      "soundId": 73235,
+      "filename": "SPELL_VioletHold_Millificent_SquirrelBomb_fuse_lp",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/202/901578/FX_fuse_loop.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": ""
+    },
+    {
+      "soundId": 73237,
+      "filename": "SPELL_VioletHold_Millificent_SquirrelBomb_windup",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/1385465/VO_GnomeFemale_Main_CasterWindup_01.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "nhw4"
+    },
+    {
+      "soundId": 57470,
+      "filename": "VO_701_Millificent_Manastorm_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/55/1324343/VO_701_Millificent_Manastorm_02.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Are you ready to explode?"
+    },
+    {
+      "soundId": 128442,
+      "filename": "VO_701_Millificent_Manastorm_03 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/1324345/VO_701_Millificent_Manastorm_03.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Milhouse! You're next!"
+    },
+    {
+      "soundId": 57475,
+      "filename": "VO_701_Millificent_Manastorm_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/1324353/VO_701_Millificent_Manastorm_05.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Finally free from that cursed mage trap! Such a..."
+    },
+    {
+      "soundId": 57484,
+      "filename": "VO_701_Millificent_Manastorm_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/83/1324371/VO_701_Millificent_Manastorm_08.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Don't milly me, millhouse tiramisu manastorm! I'm coming for you!"
+    },
+    {
+      "soundId": 75156,
+      "filename": "VO_70_MILLIFICENT_MANASTORM_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/1503618/VO_70_Millificent_Manastorm_Wound_01.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Yeah!"
+    },
+    {
+      "soundId": 156521,
+      "filename": "VO_901_Millificent_Manastorm_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/3582082/VO_901_Millificent_Manastorm_04_F.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Back off, simpletons!"
+    },
+    {
+      "soundId": 156524,
+      "filename": "VO_901_Millificent_Manastorm_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/133/3582085/VO_901_Millificent_Manastorm_07_F.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Millhouse clean up this mess so I can get back to work"
+    },
+    {
+      "soundId": 128445,
+      "filename": "VO_701_Millificent_Manastorm_01 (Beacon)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/1324339/VO_701_Millificent_Manastorm_01.ogg",
+      "npc": "Millificent Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Here comes the heat!"
+    }
+  ]
+}

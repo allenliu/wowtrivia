@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "npc": "Tirathon Saltheril",
+    "dungeon": "Vault of the Wardens",
+    "filterName": "tirathon",
+    "namePattern": "",
+    "generated": "2026-05-19T16:53:23-07:00",
+    "soundCount": 27
+  },
+  "sounds": [
+    {
+      "soundId": 55410,
+      "filename": "VO_70_Tirathon_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/1282741/VO_70_Tirathon_11.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "My powers wane, I must have more!"
+    },
+    {
+      "soundId": 55448,
+      "filename": "VO_70_Tirathon_17",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/1282817/VO_70_Tirathon_17.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I will serve my people. The exiled and the reviled."
+    },
+    {
+      "soundId": 55455,
+      "filename": "VO_70_Tirathon_22",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/15/1282831/VO_70_Tirathon_22.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I wonder what this pool will reveal about you, Jelanem."
+    },
+    {
+      "soundId": 55445,
+      "filename": "VO_70_Tirathon_15",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/1282811/VO_70_Tirathon_15.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I will slay you and all your kin, and when I'm done, I will fulfill the dreams of my mentor."
+    },
+    {
+      "soundId": 55418,
+      "filename": "VO_70_Tirathon_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/197/1282757/VO_70_Tirathon_02.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Death is witness leaving the universe."
+    },
+    {
+      "soundId": 55416,
+      "filename": "VO_70_Tirathon_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/193/1282753/VO_70_Tirathon_04.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "My blades hunger."
+    },
+    {
+      "soundId": 55406,
+      "filename": "VO_70_Tirathon_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/173/1282733/VO_70_Tirathon_01.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "It's so good to fight again!"
+    },
+    {
+      "soundId": 55411,
+      "filename": "VO_70_Tirathon_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/183/1282743/VO_70_Tirathon_10.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I need no blade to defeat you."
+    },
+    {
+      "soundId": 61208,
+      "filename": "VO_70_TIRATHON_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/1377276/VO_70_Tirathon_Attack_01.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 74072,
+      "filename": "Spell_VaultWarden_Tirathon_Jump_Land",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/154/567962/SmallExplosions_Generic_03.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "You"
+    },
+    {
+      "soundId": 74139,
+      "filename": "SPELL_VaultWarden_Tirathon_Metamorphosis",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/185/1365177/Spell_DH_Tank_MetaMorph_Cast_01.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Antonio"
+    },
+    {
+      "soundId": 55414,
+      "filename": "VO_70_Tirathon_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/189/1282749/VO_70_Tirathon_06.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "And I will unleash my fury upon you all!"
+    },
+    {
+      "soundId": 55408,
+      "filename": "VO_70_Tirathon_13",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/177/1282737/VO_70_Tirathon_13.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "My power wasn't enough!"
+    },
+    {
+      "soundId": 55407,
+      "filename": "VO_70_Tirathon_14",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/175/1282735/VO_70_Tirathon_14.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I cannot be stopped."
+    },
+    {
+      "soundId": 55450,
+      "filename": "VO_70_Tirathon_18",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/5/1282821/VO_70_Tirathon_18.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I gave of my flesh, my soul, my people shunned me as a freak."
+    },
+    {
+      "soundId": 55453,
+      "filename": "VO_70_Tirathon_20",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/11/1282827/VO_70_Tirathon_20.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "We fought for Illidan. You imprisoned the world's villains here for all eternity. And then you imprisoned us."
+    },
+    {
+      "soundId": 55454,
+      "filename": "VO_70_Tirathon_21",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/13/1282829/VO_70_Tirathon_21.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Crimes? Our crime was to sacrifice everything to save this world."
+    },
+    {
+      "soundId": 61209,
+      "filename": "VO_70_TIRATHON_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/1377286/VO_70_Tirathon_AttackCrit_01.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "NANDE 1960"
+    },
+    {
+      "soundId": 61211,
+      "filename": "VO_70_TIRATHON_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/21/1377301/VO_70_Tirathon_WoundCrit_01.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Oh!"
+    },
+    {
+      "soundId": 55417,
+      "filename": "VO_70_Tirathon_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/1282755/VO_70_Tirathon_03.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "More power for my blades."
+    },
+    {
+      "soundId": 55415,
+      "filename": "VO_70_Tirathon_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/191/1282751/VO_70_Tirathon_05.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I will cast you all aside!"
+    },
+    {
+      "soundId": 55413,
+      "filename": "VO_70_Tirathon_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/187/1282747/VO_70_Tirathon_07.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "My hatred flows through me!"
+    },
+    {
+      "soundId": 55412,
+      "filename": "VO_70_Tirathon_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/185/1282745/VO_70_Tirathon_09.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Play with fire and you'll get burned!"
+    },
+    {
+      "soundId": 55409,
+      "filename": "VO_70_Tirathon_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/1282739/VO_70_Tirathon_12.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Anger, hate, rage! These will fuel me with the power I crave!"
+    },
+    {
+      "soundId": 55447,
+      "filename": "VO_70_Tirathon_16",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/255/1282815/VO_70_Tirathon_16.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "And what was my reward? Eternal torment from my sisters!"
+    },
+    {
+      "soundId": 55451,
+      "filename": "VO_70_Tirathon_19",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/1282823/VO_70_Tirathon_19.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "You dare speak of sacrifice to me?"
+    },
+    {
+      "soundId": 61210,
+      "filename": "VO_70_TIRATHON_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/11/1377291/VO_70_Tirathon_Wound_01.ogg",
+      "npc": "Tirathon Saltheril",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Ah!"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "npc": "Kyrakka",
+    "dungeon": "Ruby Life Pools",
+    "filterName": "kyrakka",
+    "namePattern": "",
+    "generated": "2026-05-19T18:17:20-07:00",
+    "soundCount": 17
+  },
+  "sounds": [
+    {
+      "soundId": 204585,
+      "filename": "VO_100_Kyrakka_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/168/4673192/VO_100_Kyrakka_02_F.ogg",
+      "npc": "Kyrakka",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Immolate witches!"
+    },
+    {
+      "soundId": 208832,
+      "filename": "VO_100_Kyrakka_16_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/212/4691412/VO_100_Kyrakka_16_F.ogg",
+      "npc": "Kyrakka",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "OUTSIDERS HAVE COME ASSURE!"
+    },
+    {
+      "soundId": 204589,
+      "filename": "VO_100_Kyrakka_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/172/4673196/VO_100_Kyrakka_06_F.ogg",
+      "npc": "Kyrakka",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Your force queen cannot stop us. We are the truth."
+    },
+    {
+      "soundId": 204590,
+      "filename": "VO_100_Kyrakka_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/173/4673197/VO_100_Kyrakka_07_F.ogg",
+      "npc": "Kyrakka",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "SCORCHED US!"
+    },
+    {
+      "soundId": 204584,
+      "filename": "VO_100_Kyrakka_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/167/4673191/VO_100_Kyrakka_01_F.ogg",
+      "npc": "Kyrakka",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Fill my rust!"
+    },
+    {
+      "soundId": 208828,
+      "filename": "VO_100_Kyrakka_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/4691408/VO_100_Kyrakka_12_F.ogg",
+      "npc": "Kyrakka",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "The convoy yielded enough eggs to begin."
+    },
+    {
+      "soundId": 208829,
+      "filename": "VO_100_Kyrakka_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/4691409/VO_100_Kyrakka_13_F.ogg",
+      "npc": "Kyrakka",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Oh now, infuse them with the elements."
+    },
+    {
+      "soundId": 208830,
+      "filename": "VO_100_Kyrakka_14_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/210/4691410/VO_100_Kyrakka_14_F.ogg",
+      "npc": "Kyrakka",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Wash away the stain of order!"
+    },
+    {
+      "soundId": 208831,
+      "filename": "VO_100_Kyrakka_15_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/4691411/VO_100_Kyrakka_15_F.ogg",
+      "npc": "Kyrakka",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Work quickly!"
+    },
+    {
+      "soundId": 208833,
+      "filename": "VO_100_Kyrakka_17_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/4691413/VO_100_Kyrakka_17_F.ogg",
+      "npc": "Kyrakka",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "We cannot let them interfere!"
+    },
+    {
+      "soundId": 204587,
+      "filename": "VO_100_Kyrakka_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/4673194/VO_100_Kyrakka_04_F.ogg",
+      "npc": "Kyrakka",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "SANS!"
+    },
+    {
+      "soundId": 204588,
+      "filename": "VO_100_Kyrakka_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/4673195/VO_100_Kyrakka_05_F.ogg",
+      "npc": "Kyrakka",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "No! Our is not true! My house!"
+    },
+    {
+      "soundId": 204591,
+      "filename": "VO_100_Kyrakka_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/174/4673198/VO_100_Kyrakka_08_F.ogg",
+      "npc": "Kyrakka",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "It was worthless to try."
+    },
+    {
+      "soundId": 204592,
+      "filename": "VO_100_Kyrakka_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/175/4673199/VO_100_Kyrakka_09_F.ogg",
+      "npc": "Kyrakka",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Ah, God! Deal with these operations!"
+    },
+    {
+      "soundId": 204593,
+      "filename": "VO_100_Kyrakka_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/176/4673200/VO_100_Kyrakka_10_F.ogg",
+      "npc": "Kyrakka",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Let us destroy these insects!"
+    },
+    {
+      "soundId": 208827,
+      "filename": "VO_100_Kyrakka_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/4691407/VO_100_Kyrakka_11_F.ogg",
+      "npc": "Kyrakka",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Our ambush was a success!"
+    },
+    {
+      "soundId": 204586,
+      "filename": "VO_100_Kyrakka_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/4673193/VO_100_Kyrakka_03_F.ogg",
+      "npc": "Kyrakka",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "BUN!"
+    }
+  ]
+}

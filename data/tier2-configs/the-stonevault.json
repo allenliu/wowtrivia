@@ -1,0 +1,27 @@
+{
+  "dungeon": "The Stonevault",
+  "slug": "the-stonevault",
+  "wowheadZoneId": 14883,
+  "expansion": "The War Within",
+  "bosses": [
+    {
+      "id": 213119,
+      "name": "Void Speaker Eirich",
+      "filterName": "eirich",
+      "quotes": [
+        { "context": "Combat", "text": "Apotheosis!" },
+        { "context": "Combat", "text": "Corruption consumes." },
+        { "context": "Combat", "text": "Empowered!" },
+        { "context": "Combat", "text": "Entropy binds." },
+        { "context": "Combat", "text": "Feel disorder." },
+        { "context": "Combat", "text": "I am... You obey..." },
+        { "context": "Combat", "text": "Mind... crystalline... infinite... Void!" },
+        { "context": "Combat", "text": "Pathetic." },
+        { "context": "Combat", "text": "Perfection... vision... overwhelm." },
+        { "context": "Combat", "text": "Shadows envelop." },
+        { "context": "Death",  "text": "The mighty... have fallen..." }
+      ]
+    },
+    { "id": 210156, "name": "Skarmorak", "filterName": "skarmorak", "namePattern": "^VO_.*Skarmorak", "quotes": [] }
+  ]
+}

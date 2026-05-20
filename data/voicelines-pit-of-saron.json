@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "schemaVersion": 2,
+    "dungeon": "Pit of Saron",
+    "wowheadZoneId": 4813,
+    "expansion": "Wrath of the Lich King",
+    "generated": "2026-05-19T05:35:36-07:00"
+  },
+  "npcs": [
+    {
+      "id": 253641,
+      "name": "Lady Jaina Proudmoore",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 16614,
+          "filename": "ps-jaina-tyrannus01",
+          "fileDataId": 552733,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/552733/PS_Jaina_Tyrannus01.ogg",
+          "text": "Heroes, to me!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 16616,
+          "filename": "ps-jaina-tyrannus03",
+          "fileDataId": 552705,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/552705/PS_Jaina_Tyrannus03.ogg",
+          "text": "I... I could not save them... Damn you, Arthas! DAMN YOU!",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 16627,
+          "filename": "ps-jaina-ps02",
+          "fileDataId": 552775,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/552775/PS_Jaina_PS02.ogg",
+          "text": "NO! YOU MONSTER!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 16631,
+          "filename": "hr-jaina-hr01",
+          "fileDataId": 552725,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/21/552725/HR_Jaina_HR01.ogg",
+          "text": "The chill of this place... I can feel my blood freezing.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 16632,
+          "filename": "hr-jaina-hr02",
+          "fileDataId": 552737,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/552737/HR_Jaina_HR02.ogg",
+          "text": "What is that! Up ahead! Could it be? Heroes, at my side!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 16615,
+          "filename": "ps-jaina-tyrannus02",
+          "fileDataId": 552728,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/24/552728/PS_Jaina_Tyrannus02.ogg",
+          "text": "The Frost Queen is gone. We must keep moving - our objective is near.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 16629,
+          "filename": "ps-jaina-ps04",
+          "fileDataId": 552722,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/18/552722/PS_Jaina_PS04.ogg",
+          "text": "You will have to make your way across this quarry on your own.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

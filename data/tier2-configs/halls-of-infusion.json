@@ -1,0 +1,12 @@
+{
+  "dungeon": "Halls of Infusion",
+  "slug": "halls-of-infusion",
+  "wowheadZoneId": 14082,
+  "expansion": "Dragonflight",
+  "bosses": [
+    { "id": 189719, "name": "Watcher Irideus", "filterName": "irideus", "namePattern": "^VO_.*Irideus", "quotes": [] },
+    { "id": 189727, "name": "Khajin the Unyielding", "filterName": "khajin", "namePattern": "^VO_.*Khajin", "quotes": [] },
+    { "id": 189722, "name": "Gulping Goliath", "filterName": "gulping_goliath", "namePattern": "^VO_.*Gulping_Goliath", "quotes": [] },
+    { "id": 189729, "name": "Primal Tsunami", "filterName": "primal_tsunami", "namePattern": "^VO_.*Primal_Tsunami", "quotes": [] }
+  ]
+}

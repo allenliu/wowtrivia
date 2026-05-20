@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "npc": "Moroes",
+    "dungeon": "Return to Karazhan",
+    "filterName": "moroes",
+    "namePattern": "^VO_.*Moroes",
+    "generated": "2026-05-19T16:49:15-07:00",
+    "soundCount": 24
+  },
+  "sounds": [
+    {
+      "soundId": 77510,
+      "filename": "VO_71_Moroes_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/1518216/VO_71_Moroes_02_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Perhaps your party would be more comfortable at the children's table."
+    },
+    {
+      "soundId": 77634,
+      "filename": "VO_71_Moroes_18_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/1519046/VO_71_Moroes_18_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "I'll drag you out by your scruff!"
+    },
+    {
+      "soundId": 77516,
+      "filename": "VO_71_Moroes_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/148/1518228/VO_71_Moroes_08_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "The guards really must do a better job of keeping out the ruffians."
+    },
+    {
+      "soundId": 77519,
+      "filename": "VO_71_Moroes_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/154/1518234/VO_71_Moroes_11_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Mind your manners."
+    },
+    {
+      "soundId": 77509,
+      "filename": "VO_71_Moroes_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/134/1518214/VO_71_Moroes_01_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "I don't believe the Master is expecting you."
+    },
+    {
+      "soundId": 77629,
+      "filename": "VO_71_Moroes_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/193/1519041/VO_71_Moroes_13_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Oh goodness me, that will leave a mark."
+    },
+    {
+      "soundId": 77633,
+      "filename": "VO_71_Moroes_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/197/1519045/VO_71_Moroes_17_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Seems that one had enough for the evening."
+    },
+    {
+      "soundId": 77636,
+      "filename": "VO_71_Moroes_20_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/1519048/VO_71_Moroes_20_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "May we see your invitation?"
+    },
+    {
+      "soundId": 78251,
+      "filename": "VO_71_MOROES_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/141/1523597/VO_71_Moroes_AttackCrit_01.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "HAH!"
+    },
+    {
+      "soundId": 77511,
+      "filename": "VO_71_Moroes_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/1518218/VO_71_Moroes_03_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Seems I'll be retiring for the evening."
+    },
+    {
+      "soundId": 77512,
+      "filename": "VO_71_Moroes_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/140/1518220/VO_71_Moroes_04_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "May I take your jacket?"
+    },
+    {
+      "soundId": 77513,
+      "filename": "VO_71_Moroes_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/142/1518222/VO_71_Moroes_05_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Stop troubling the master's guests!"
+    },
+    {
+      "soundId": 77514,
+      "filename": "VO_71_Moroes_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/144/1518224/VO_71_Moroes_06_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "I do so detest party crushers."
+    },
+    {
+      "soundId": 77515,
+      "filename": "VO_71_Moroes_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/146/1518226/VO_71_Moroes_07_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "The master hasn't been himself for quite some time. Perhaps a feast will brighten his spirit."
+    },
+    {
+      "soundId": 77517,
+      "filename": "VO_71_Moroes_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/150/1518230/VO_71_Moroes_09_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Master, I hope I served you well."
+    },
+    {
+      "soundId": 77518,
+      "filename": "VO_71_Moroes_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/152/1518232/VO_71_Moroes_10_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "I insist you dress for dinner."
+    },
+    {
+      "soundId": 77628,
+      "filename": "VO_71_Moroes_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/192/1519040/VO_71_Moroes_12_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "I fear that I am currently... ...indisposed."
+    },
+    {
+      "soundId": 77630,
+      "filename": "VO_71_Moroes_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/194/1519042/VO_71_Moroes_14_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "I will just need a moment."
+    },
+    {
+      "soundId": 77631,
+      "filename": "VO_71_Moroes_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/1519043/VO_71_Moroes_15_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Nothing a good sprinkling of sawdust can't handle."
+    },
+    {
+      "soundId": 77632,
+      "filename": "VO_71_Moroes_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/1519044/VO_71_Moroes_16_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "I'll have the cleaning crew take care of this mess."
+    },
+    {
+      "soundId": 77635,
+      "filename": "VO_71_Moroes_19_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/1519047/VO_71_Moroes_19_M.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Stop being such a nuisance!"
+    },
+    {
+      "soundId": 78250,
+      "filename": "VO_71_MOROES_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/137/1523593/VO_71_Moroes_Attack_07.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Haya!"
+    },
+    {
+      "soundId": 78252,
+      "filename": "VO_71_MOROES_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/146/1523602/VO_71_Moroes_Wound_01.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Oh!"
+    },
+    {
+      "soundId": 78253,
+      "filename": "VO_71_MOROES_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/156/1523612/VO_71_Moroes_WoundCrit_01.ogg",
+      "npc": "Moroes",
+      "dungeon": "Return to Karazhan",
+      "transcript": "EWWWW You"
+    }
+  ]
+}

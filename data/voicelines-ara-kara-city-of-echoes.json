@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "schemaVersion": 3,
+    "dungeon": "Ara-Kara, City of Echoes",
+    "wowheadZoneId": 15093,
+    "expansion": "The War Within",
+    "generated": "2026-05-19T15:56:04-07:00",
+    "notes": "Mixed Tier-1 (Wowhead Quotes) + Tier-2 (wiki + Whisper) entries."
+  },
+  "npcs": [
+    {
+      "id": 215407,
+      "name": "Ki'katal the Harvester",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 247694,
+          "filename": "VO_110_Kikatal_the_Harvester_01_F",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/5769341/VO_110_Kikatal_the_Harvester_01_F.ogg",
+          "text": "Once, my people thrived under guidance of the Black Empire.",
+          "source": "wiki",
+          "wikiContext": "Intro",
+          "transcript": "Once, my people thrived under the guidance of the Black Empire.",
+          "matchScore": 0.934,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247695,
+          "filename": "VO_110_Kikatal_the_Harvester_02_F",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/127/5769343/VO_110_Kikatal_the_Harvester_02_F.ogg",
+          "text": "Queen Neferess refused to reclaim that glory. But no more.",
+          "source": "wiki",
+          "wikiContext": "Intro",
+          "transcript": "Queen Neferus refused to reclaim that glory, but no more!",
+          "matchScore": 0.964,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247696,
+          "filename": "VO_110_Kikatal_the_Harvester_03_F",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/5769344/VO_110_Kikatal_the_Harvester_03_F.ogg",
+          "text": "Ansurek and the Black Blood will usher in a new age for Azj-Kahet!",
+          "source": "wiki",
+          "wikiContext": "Intro",
+          "transcript": "Ansurek and the black blood will usher in a new age for Ajkahet.",
+          "matchScore": 0.969,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247697,
+          "filename": "VO_110_Kikatal_the_Harvester_04_F",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/129/5769345/VO_110_Kikatal_the_Harvester_04_F.ogg",
+          "text": "The harvest will prevail!",
+          "source": "wiki",
+          "wikiContext": "Aggro",
+          "transcript": "The harvest will prevail!",
+          "matchScore": 1,
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247703,
+          "filename": "VO_110_Kikatal_the_Harvester_10_F",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/5769351/VO_110_Kikatal_the_Harvester_10_F.ogg",
+          "text": "My blood...weeps...",
+          "source": "wiki",
+          "wikiContext": "Death",
+          "transcript": "My blood... ...weeps.",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247700,
+          "filename": "VO_110_Kikatal_the_Harvester_07_F",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/132/5769348/VO_110_Kikatal_the_Harvester_07_F.ogg",
+          "text": "You will never ascend.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "You will never ascend.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247701,
+          "filename": "VO_110_Kikatal_the_Harvester_08_F",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/133/5769349/VO_110_Kikatal_the_Harvester_08_F.ogg",
+          "text": "V-I-G-T-E-K-Y-Y-ALL!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "V-I-G-T-E-K-Y-Y-ALL!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247702,
+          "filename": "VO_110_Kikatal_the_Harvester_09_F",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/134/5769350/VO_110_Kikatal_the_Harvester_09_F.ogg",
+          "text": "The harvest continues.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "The harvest continues.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247698,
+          "filename": "VO_110_Kikatal_the_Harvester_05_F",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/5769346/VO_110_Kikatal_the_Harvester_05_F.ogg",
+          "text": "What weak blood!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "What weak blood!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 213179,
+      "name": "Avanoxx",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 261643,
+          "filename": "11.0_Dungeon_Ara-Kara_Avanoxx_Lieutenant_Trill_of_the_Satiated_Brood_Channel_Loop_5917809",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/5917809/11.ogg",
+          "text": "Mu then chuckled, 350 feet loi",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Mu then chuckled, 350 feet loi",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 258407,
+          "filename": "11.0 Dungeon - Ara-Kara - Avanoxx - Lieutenant - Trill of the Satiated Brood - Periodic A",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/5917797/11.ogg",
+          "text": "Don't worry원't mind.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Don't worry원't mind.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 267445,
+          "filename": "11.0_Dungeon_Ara-Kara_Avanoxx_Lieutenant_Trill_of_the_Satiated_Brood_Channel_Loop_5917797",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/5917797/11.ogg",
+          "text": "Thank you for watching, don't forget to subscribe!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Thank you for watching, don't forget to subscribe!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "schemaVersion": 3,
+    "dungeon": "Operation: Floodgate",
+    "wowheadZoneId": 15452,
+    "expansion": "The War Within",
+    "generated": "2026-05-19T13:44:34-07:00",
+    "notes": "Mixed Tier-1 (Wowhead Quotes) + Tier-2 (wiki + Whisper) entries."
+  },
+  "npcs": [
+    {
+      "id": 226404,
+      "name": "Geezle Gigazap",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 269180,
+          "filename": "VO_111_Geezle_Gigazap_11_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/98/6178146/VO_111_Geezle_Gigazap_11_M.ogg",
+          "text": "And to think... they called me... mad...",
+          "source": "wiki",
+          "wikiContext": "Combat",
+          "transcript": "And to think they called me mad.",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 269182,
+          "filename": "VO_111_Geezle_Gigazap_13_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/100/6178148/VO_111_Geezle_Gigazap_13_M.ogg",
+          "text": "Fry and... DIE!",
+          "source": "wiki",
+          "wikiContext": "Combat",
+          "transcript": "FRIENDS! DIE!",
+          "matchScore": 0.636,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 269181,
+          "filename": "VO_111_Geezle_Gigazap_12_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/6178147/VO_111_Geezle_Gigazap_12_M.ogg",
+          "text": "Giga... ZAP!",
+          "source": "wiki",
+          "wikiContext": "Combat",
+          "transcript": "GIGGAS UP!",
+          "matchScore": 0.556,
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 269174,
+          "filename": "VO_111_Geezle_Gigazap_05_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/92/6178140/VO_111_Geezle_Gigazap_05_M.ogg",
+          "text": "It's working... IT'S WORKING!",
+          "source": "wiki",
+          "wikiContext": "Combat",
+          "transcript": "It's working! It's working!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 269178,
+          "filename": "VO_111_Geezle_Gigazap_09_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/96/6178144/VO_111_Geezle_Gigazap_09_M.ogg",
+          "text": "No one can stop me.",
+          "source": "wiki",
+          "wikiContext": "Combat",
+          "transcript": "No one can stop me!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 269173,
+          "filename": "VO_111_Geezle_Gigazap_04_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/91/6178139/VO_111_Geezle_Gigazap_04_M.ogg",
+          "text": "Power... power! POWER!",
+          "source": "wiki",
+          "wikiContext": "Combat",
+          "transcript": "POWER! POWER! POWER!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 269170,
+          "filename": "VO_111_Geezle_Gigazap_01_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/87/6178135/VO_111_Geezle_Gigazap_01_M.ogg",
+          "text": "Soon I shall have the POWER I require!",
+          "source": "wiki",
+          "wikiContext": "Combat",
+          "transcript": "Soon I shall have the power I require!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 269176,
+          "filename": "VO_111_Geezle_Gigazap_07_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/94/6178142/VO_111_Geezle_Gigazap_07_M.ogg",
+          "text": "The superior mind wins.",
+          "source": "wiki",
+          "wikiContext": "Combat",
+          "transcript": "The superior mind wins!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 269175,
+          "filename": "VO_111_Geezle_Gigazap_06_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/93/6178141/VO_111_Geezle_Gigazap_06_M.ogg",
+          "text": "You dare pit your wits against mine...",
+          "source": "wiki",
+          "wikiContext": "Combat",
+          "transcript": "You dare pit your wits against mine?",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 269172,
+          "filename": "VO_111_Geezle_Gigazap_03_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/90/6178138/VO_111_Geezle_Gigazap_03_M.ogg",
+          "text": "You dare question ME? Face annihilation!",
+          "source": "wiki",
+          "wikiContext": "Combat",
+          "transcript": "You dare question me? Base annihilation!",
+          "matchScore": 0.947,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 269179,
+          "filename": "VO_111_Geezle_Gigazap_10_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/6178145/VO_111_Geezle_Gigazap_10_M.ogg",
+          "text": "This isn't over! I will prove my genius!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "This isn't over! I will prove my genius!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 269171,
+          "filename": "VO_111_Geezle_Gigazap_02_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/89/6178137/VO_111_Geezle_Gigazap_02_M.ogg",
+          "text": "Innovated black blood will make me invincible!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Innovated black blood will make me invincible!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "npc": "Patrol Captain Gerdo",
+    "dungeon": "Court of Stars",
+    "filterName": "gerdo",
+    "namePattern": "",
+    "generated": "2026-05-19T17:57:07-07:00",
+    "soundCount": 14
+  },
+  "sounds": [
+    {
+      "soundId": 64744,
+      "filename": "Spell_SuramarCityDungeon_Gerdo_ArcaneLockdown_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/102/568678/ArcaneExplosion.ogg",
+      "npc": "Patrol Captain Gerdo",
+      "dungeon": "Court of Stars",
+      "transcript": ""
+    },
+    {
+      "soundId": 58628,
+      "filename": "VO_701_Patrol_Captain_Gerdo_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/1354959/VO_701_Patrol_Captain_Gerdo_02.ogg",
+      "npc": "Patrol Captain Gerdo",
+      "dungeon": "Court of Stars",
+      "transcript": "My watch is ended."
+    },
+    {
+      "soundId": 58637,
+      "filename": "VO_701_Patrol_Captain_Gerdo_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/216/1354968/VO_701_Patrol_Captain_Gerdo_11.ogg",
+      "npc": "Patrol Captain Gerdo",
+      "dungeon": "Court of Stars",
+      "transcript": "God's to me!"
+    },
+    {
+      "soundId": 58627,
+      "filename": "VO_701_Patrol_Captain_Gerdo_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/206/1354958/VO_701_Patrol_Captain_Gerdo_01.ogg",
+      "npc": "Patrol Captain Gerdo",
+      "dungeon": "Court of Stars",
+      "transcript": "No trespassers allowed!"
+    },
+    {
+      "soundId": 58629,
+      "filename": "VO_701_Patrol_Captain_Gerdo_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/1354960/VO_701_Patrol_Captain_Gerdo_03.ogg",
+      "npc": "Patrol Captain Gerdo",
+      "dungeon": "Court of Stars",
+      "transcript": "This will even the odds!"
+    },
+    {
+      "soundId": 58631,
+      "filename": "VO_701_Patrol_Captain_Gerdo_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/210/1354962/VO_701_Patrol_Captain_Gerdo_05.ogg",
+      "npc": "Patrol Captain Gerdo",
+      "dungeon": "Court of Stars",
+      "transcript": "That should teach you!"
+    },
+    {
+      "soundId": 58632,
+      "filename": "VO_701_Patrol_Captain_Gerdo_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/1354963/VO_701_Patrol_Captain_Gerdo_06.ogg",
+      "npc": "Patrol Captain Gerdo",
+      "dungeon": "Court of Stars",
+      "transcript": "Just what you deserved!"
+    },
+    {
+      "soundId": 58636,
+      "filename": "VO_701_Patrol_Captain_Gerdo_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/215/1354967/VO_701_Patrol_Captain_Gerdo_10.ogg",
+      "npc": "Patrol Captain Gerdo",
+      "dungeon": "Court of Stars",
+      "transcript": "I need reinforcements!"
+    },
+    {
+      "soundId": 58630,
+      "filename": "VO_701_Patrol_Captain_Gerdo_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/1354961/VO_701_Patrol_Captain_Gerdo_04.ogg",
+      "npc": "Patrol Captain Gerdo",
+      "dungeon": "Court of Stars",
+      "transcript": "Especially done, cowards!"
+    },
+    {
+      "soundId": 58634,
+      "filename": "VO_701_Patrol_Captain_Gerdo_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/1354965/VO_701_Patrol_Captain_Gerdo_08.ogg",
+      "npc": "Patrol Captain Gerdo",
+      "dungeon": "Court of Stars",
+      "transcript": "HOUT!"
+    },
+    {
+      "soundId": 64723,
+      "filename": "Spell_SuramarCityDungeon_Gerdo_ResonantSlash_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/157/1016221/SPELL_Felblast_Explosion02.ogg",
+      "npc": "Patrol Captain Gerdo",
+      "dungeon": "Court of Stars",
+      "transcript": ""
+    },
+    {
+      "soundId": 64722,
+      "filename": "Spell_SuramarCityDungeon_Gerdo_ResonantSlash_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/987214/SPELL_Breath_Arcane_Precast_State_Loop.ogg",
+      "npc": "Patrol Captain Gerdo",
+      "dungeon": "Court of Stars",
+      "transcript": ""
+    },
+    {
+      "soundId": 58633,
+      "filename": "VO_701_Patrol_Captain_Gerdo_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/212/1354964/VO_701_Patrol_Captain_Gerdo_07.ogg",
+      "npc": "Patrol Captain Gerdo",
+      "dungeon": "Court of Stars",
+      "transcript": "Stay where you are!"
+    },
+    {
+      "soundId": 58635,
+      "filename": "VO_701_Patrol_Captain_Gerdo_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/214/1354966/VO_701_Patrol_Captain_Gerdo_09.ogg",
+      "npc": "Patrol Captain Gerdo",
+      "dungeon": "Court of Stars",
+      "transcript": "Hmph, a job well done!"
+    }
+  ]
+}

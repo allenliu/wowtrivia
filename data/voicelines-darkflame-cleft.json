@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "schemaVersion": 3,
+    "dungeon": "Darkflame Cleft",
+    "wowheadZoneId": 15052,
+    "expansion": "The War Within",
+    "generated": "2026-05-19T13:40:49-07:00",
+    "notes": "Mixed Tier-1 (Wowhead Quotes) + Tier-2 (wiki + Whisper) entries."
+  },
+  "npcs": [
+    {
+      "id": 210935,
+      "name": "Blazikon",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 247802,
+          "filename": "VO_110_Blazikon_02_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/243/5769459/VO_110_Blazikon_02_M.ogg",
+          "text": "My fire hungers! And you shall feed it.",
+          "source": "wiki",
+          "wikiContext": "Aggro",
+          "transcript": "My fire hungers, and you shall feed it.",
+          "matchScore": 1,
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247808,
+          "filename": "VO_110_Blazikon_07_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/248/5769464/VO_110_Blazikon_07_M.ogg",
+          "text": "Let there be darkness.",
+          "source": "wiki",
+          "wikiContext": "Combat",
+          "transcript": "Let there be darkness.",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247806,
+          "filename": "VO_110_Blazikon_06_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/247/5769463/VO_110_Blazikon_06_M.ogg",
+          "text": "By the candle's light!",
+          "source": "wiki",
+          "wikiContext": "Combat",
+          "transcript": "By the candle's light!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247809,
+          "filename": "VO_110_Blazikon_08_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/5769465/VO_110_Blazikon_08_M.ogg",
+          "text": "Your resolve flickered. And then all was dark.",
+          "source": "wiki",
+          "wikiContext": "Combat",
+          "transcript": "You're a Zolf, Flickerd. And then all was dark.",
+          "matchScore": 0.818,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247810,
+          "filename": "VO_110_Blazikon_09_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/250/5769466/VO_110_Blazikon_09_M.ogg",
+          "text": "My flame is... extinguished...",
+          "source": "wiki",
+          "wikiContext": "Defeat",
+          "transcript": "My flame is extinguished.",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247801,
+          "filename": "VO_110_Blazikon_01_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/241/5769457/VO_110_Blazikon_01_M.ogg",
+          "text": "My flame, alight!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "My flame, alight!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247805,
+          "filename": "VO_110_Blazikon_05_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/246/5769462/VO_110_Blazikon_05_M.ogg",
+          "text": "Flicker and fade.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Flicker and fade.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 213902,
+      "name": "The Candle King",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 247825,
+          "filename": "VO_110_Candle_King_01_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/10/5769482/VO_110_Candle_King_01_M.ogg",
+          "text": "You. No. Take. CANDLE!",
+          "source": "wiki",
+          "wikiContext": "Aggro",
+          "transcript": "You, no take candle!",
+          "matchScore": 1,
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247830,
+          "filename": "VO_110_Candle_King_06_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/16/5769488/VO_110_Candle_King_06_M.ogg",
+          "text": "Wax and ruin!",
+          "source": "wiki",
+          "wikiContext": "Combat",
+          "transcript": "Wax and ruin!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247829,
+          "filename": "VO_110_Candle_King_05_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/15/5769487/VO_110_Candle_King_05_M.ogg",
+          "text": "I make you candle!",
+          "source": "wiki",
+          "wikiContext": "Eerie Molds",
+          "transcript": "I make you candle!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247831,
+          "filename": "VO_110_Candle_King_07_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/17/5769489/VO_110_Candle_King_07_M.ogg",
+          "text": "I mold you now!",
+          "source": "wiki",
+          "wikiContext": "Eerie Molds",
+          "transcript": "I mold you now!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247832,
+          "filename": "VO_110_Candle_King_08_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/18/5769490/VO_110_Candle_King_08_M.ogg",
+          "text": "This why I king and you dead.",
+          "source": "wiki",
+          "wikiContext": "Wipe",
+          "transcript": "This why I king, and you dead!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247833,
+          "filename": "VO_110_Candle_King_09_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/19/5769491/VO_110_Candle_King_09_M.ogg",
+          "text": "But I... the king...",
+          "source": "wiki",
+          "wikiContext": "Defeat",
+          "transcript": "But I... The King!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 249404,
+          "filename": "VO_110_Candle_King_10_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/83/5785939/VO_110_Candle_King_10_M.ogg",
+          "text": "Think I not see what you do in my mind!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Think I not see what you do in my mind!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 249406,
+          "filename": "VO_110_Candle_King_12_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/85/5785941/VO_110_Candle_King_12_M.ogg",
+          "text": "Snoot, snout! Leave new friends, ELEEMANTAL present, and close door behind! We not entertain today!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Snoot, snout! Leave new friends, ELEEMANTAL present, and close door behind! We not entertain today!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247827,
+          "filename": "VO_110_Candle_King_03_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/13/5769485/VO_110_Candle_King_03_M.ogg",
+          "text": "Snuffed out!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Snuffed out!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 249405,
+          "filename": "VO_110_Candle_King_11_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/84/5785940/VO_110_Candle_King_11_M.ogg",
+          "text": "Run round, steal candle, kill Cobold, I'm candle king!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Run round, steal candle, kill Cobold, I'm candle king!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

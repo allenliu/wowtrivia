@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "schemaVersion": 2,
+    "dungeon": "Magisters' Terrace",
+    "wowheadZoneId": 15829,
+    "expansion": "Midnight",
+    "generated": "2026-05-19T16:10:52-07:00"
+  },
+  "npcs": [
+    {
+      "id": 234148,
+      "name": "Magister Umbric",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 299798,
+          "filename": "vo-120-magister-umbric-14-m",
+          "fileDataId": 7243277,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/13/7243277/VO_120_Magister_Umbric_14_M.ogg",
+          "text": "Help me remove the wards around the Cynosure!",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 299797,
+          "filename": "vo-120-magister-umbric-13-m",
+          "fileDataId": 7243276,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/12/7243276/VO_120_Magister_Umbric_13_M.ogg",
+          "text": "Restrain him! I'll take care of these shields.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 299799,
+          "filename": "vo-120-magister-umbric-15-m",
+          "fileDataId": 7243278,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/14/7243278/VO_120_Magister_Umbric_15_M.ogg",
+          "text": "Something's gone terribly wrong... Go. I'll catch up once I find a way to fix this.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 299804,
+          "filename": "vo-120-magister-umbric-19-m",
+          "fileDataId": 7243283,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/19/7243283/VO_120_Magister_Umbric_19_M.ogg",
+          "text": "...and perhaps offer an apology for the near catastrophe.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 299792,
+          "filename": "vo-120-magister-umbric-10-m",
+          "fileDataId": 7243269,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/5/7243269/VO_120_Magister_Umbric_10_M.ogg",
+          "text": "A crude solution, but effective. The Cynosure should be just ahead.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 299784,
+          "filename": "vo-120-magister-umbric-07-m",
+          "fileDataId": 7243261,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/253/7243261/VO_120_Magister_Umbric_07_M.ogg",
+          "text": "How I've missed this library. But we can't afford to linger here.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 299791,
+          "filename": "vo-120-magister-umbric-09-m",
+          "fileDataId": 7243268,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/4/7243268/VO_120_Magister_Umbric_09_M.ogg",
+          "text": "I seem to be... detained. The construct ahead is heightening Rommath's spellwork. Destroy it.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 299781,
+          "filename": "vo-120-magister-umbric-05-m",
+          "fileDataId": 7243258,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/250/7243258/VO_120_Magister_Umbric_05_M.ogg",
+          "text": "I've a few items I'd like to pick up while we're here. I'll meet you at the exit.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 299803,
+          "filename": "vo-120-magister-umbric-18-m",
+          "fileDataId": 7243282,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/18/7243282/VO_120_Magister_Umbric_18_M.ogg",
+          "text": "It is done! We have our way into the Voidstorm. Let us inform Lor'themar.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 299780,
+          "filename": "vo-120-magister-umbric-04-m",
+          "fileDataId": 7243257,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/7243257/VO_120_Magister_Umbric_04_M.ogg",
+          "text": "Of course he left a message for me. I'm afraid you'll have to incapacitate the guards.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 299782,
+          "filename": "vo-120-magister-umbric-06-m",
+          "fileDataId": 7243259,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/7243259/VO_120_Magister_Umbric_06_M.ogg",
+          "text": "Oh, and beware of the librarians. Knowledge tends to... pack a punch in these halls.",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 299955,
+          "filename": "vo-120-magister-umbric-23-m",
+          "fileDataId": 7243839,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/7243839/VO_120_Magister_Umbric_23_M.ogg",
+          "text": "One of my own, dead? How could this happen?",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 299795,
+          "filename": "vo-120-magister-umbric-12-m",
+          "fileDataId": 7243273,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/9/7243273/VO_120_Magister_Umbric_12_M.ogg",
+          "text": "Seranel! Stand down! I have permission from Lor'themar himself!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 299777,
+          "filename": "vo-120-magister-umbric-03-m",
+          "fileDataId": 7243253,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/245/7243253/VO_120_Magister_Umbric_03_M.ogg",
+          "text": "The Terrace holds what we require to gain entry to the Voidstorm... the Cynosure of Twilight.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 301082,
+          "filename": "vo-120-magister-umbric-78-m",
+          "fileDataId": 7249301,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/149/7249301/VO_120_Magister_Umbric_78_M.ogg",
+          "text": "This is the most stable place for a portal, but Decimus's beast is in the way.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 299789,
+          "filename": "vo-120-magister-umbric-08-m",
+          "fileDataId": 7243266,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/7243266/VO_120_Magister_Umbric_08_M.ogg",
+          "text": "To think Rommath would go this far to keep me out...",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 234067,
+      "name": "Vigilant Librarian",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 133251,
+          "filename": "vo-82-greasemonkey-engineer-05-f",
+          "fileDataId": 2962047,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/127/2962047/VO_82_Greasemonkey_Engineer_05_F.ogg",
+          "text": "Be quiet!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dungeon": "Temple of Sethraliss",
+  "slug": "temple-of-sethraliss",
+  "wowheadZoneId": 9527,
+  "expansion": "Battle for Azeroth",
+  "bosses": [
+    {
+      "id": 133392,
+      "name": "Avatar of Sethraliss",
+      "filterName": "sethraliss",
+      "namePattern": "^VO_.*Sethraliss",
+      "quotes": [
+        { "context": "Encounter start", "text": "The hex is shattered, but the temple's defenses have awakened!" },
+        { "context": "Encounter start", "text": "Restore me and I will disable them!" },
+        { "context": "Restored",        "text": "I hold dominion over all!" },
+        { "context": "End",             "text": "The storm has broken, and I am myself again. Thank you." },
+        { "context": "Post-encounter",  "text": "This world cannot withstand the destruction that Mythrax will bring." },
+        { "context": "Greeting",        "text": "I am weakened, but I am here." },
+        { "context": "Greeting",        "text": "Order must be restored." },
+        { "context": "Greeting",        "text": "We all have our place. Mine is here." },
+        { "context": "Farewell",        "text": "I will watch over you." },
+        { "context": "Farewell",        "text": "Mythrax has no place in this world." },
+        { "context": "Farewell",        "text": "This war must end!" }
+      ]
+    },
+    {
+      "id": 133379,
+      "name": "Adderis",
+      "filterName": "adderis",
+      "quotes": [
+        { "context": "Death", "text": "The sands... take me..." }
+      ]
+    },
+    {
+      "id": 133944,
+      "name": "Aspix",
+      "filterName": "aspix",
+      "quotes": [
+        { "context": "Intro", "text": "I will enjoy watching you fry!" },
+        { "context": "Death", "text": "What will become... of the empire..." }
+      ]
+    }
+  ]
+}

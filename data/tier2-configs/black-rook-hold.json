@@ -1,0 +1,23 @@
+{
+  "dungeon": "Black Rook Hold",
+  "slug": "black-rook-hold",
+  "wowheadZoneId": 7805,
+  "expansion": "Legion",
+  "bosses": [
+    { "id": 98949, "name": "Smashspite the Hateful", "filterName": "smashspite", "quotes": [
+      { "context": "Aggro", "text": "I will paint this keep with your blood!" },
+      { "context": "Hateful Gaze", "text": "Don't bother running, flea..." },
+      { "context": "Hateful Charge", "text": "Ha! Got you!" },
+      { "context": "Earthshaking Stomp", "text": "Tremble beneath me." },
+      { "context": "Brutality", "text": "Take this!" },
+      { "context": "Brutal Haymaker", "text": "Out with the refuse." },
+      { "context": "Death", "text": "But... I can't... lose..." }
+    ]},
+    { "id": 94923, "name": "Lord Kur'talos Ravencrest", "filterName": "kurtalos", "namePattern": "^VO_.*Ravencrest", "quotes": [
+      { "context": "Combat", "text": "Sharpen your blades, warriors! No demon shall pass through our gates." },
+      { "context": "Combat", "text": "Rally to me, soldiers! No matter the foes we face, Black Rook Hold shall not fall!" }
+    ]},
+    { "id": 98696, "name": "Illysanna Ravencrest", "filterName": "illysanna", "quotes": [] },
+    { "id": 98542, "name": "Amalgam of Souls", "filterName": "amalgam_of_souls", "quotes": [] }
+  ]
+}

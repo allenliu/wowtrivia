@@ -1,0 +1,428 @@
+{
+  "meta": {
+    "npc": "Mogul Razdunk",
+    "dungeon": "The MOTHERLODE!!",
+    "filterName": "razdunk",
+    "namePattern": "^VO_801_(MOGUL_RAZDUNK|Mogul_Razdunk)_",
+    "generated": "2026-05-19T15:36:27-07:00",
+    "soundCount": 52
+  },
+  "sounds": [
+    {
+      "soundId": 100600,
+      "filename": "VO_801_Mogul_Razdunk_WoundCrit_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/227/1904355/VO_801_Mogul_Razdunk_WoundCrit_02.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "HOOOOOO!!!"
+    },
+    {
+      "soundId": 100591,
+      "filename": "VO_801_MOGUL_RAZDUNK_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/1904336/VO_801_Mogul_Razdunk_BattleShout_01.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "BYEHGEH Kiss"
+    },
+    {
+      "soundId": 100594,
+      "filename": "VO_801_MOGUL_RAZDUNK_DEATH",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/1904339/VO_801_Mogul_Razdunk_Death_01.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "AHH!!"
+    },
+    {
+      "soundId": 97412,
+      "filename": "VO_801_Mogul_Razdunk_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/254/1860350/VO_801_Mogul_Razdunk_09_M.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Eat that!"
+    },
+    {
+      "soundId": 100590,
+      "filename": "VO_801_Mogul_Razdunk_Attack_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/202/1904330/VO_801_Mogul_Razdunk_Attack_10.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "BAH!"
+    },
+    {
+      "soundId": 100610,
+      "filename": "VO_801_Mogul_Razdunk_Wound_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/222/1904350/VO_801_Mogul_Razdunk_Wound_07.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Eugh!"
+    },
+    {
+      "soundId": 100586,
+      "filename": "VO_801_Mogul_Razdunk_Attack_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/1904326/VO_801_Mogul_Razdunk_Attack_06.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Eugh!"
+    },
+    {
+      "soundId": 100578,
+      "filename": "VO_801_Mogul_Razdunk_AttackCrit_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/205/1904333/VO_801_Mogul_Razdunk_AttackCrit_03.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "HACKA!"
+    },
+    {
+      "soundId": 100595,
+      "filename": "VO_801_Mogul_Razdunk_Death_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/212/1904340/VO_801_Mogul_Razdunk_Death_02.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "GRRR��요"
+    },
+    {
+      "soundId": 100606,
+      "filename": "VO_801_Mogul_Razdunk_Wound_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/1904346/VO_801_Mogul_Razdunk_Wound_03.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Ah!"
+    },
+    {
+      "soundId": 97415,
+      "filename": "VO_801_Mogul_Razdunk_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/1860353/VO_801_Mogul_Razdunk_12_M.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Over eyes!"
+    },
+    {
+      "soundId": 100582,
+      "filename": "VO_801_Mogul_Razdunk_Attack_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/194/1904322/VO_801_Mogul_Razdunk_Attack_02.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Yeah!"
+    },
+    {
+      "soundId": 100583,
+      "filename": "VO_801_Mogul_Razdunk_Attack_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/1904323/VO_801_Mogul_Razdunk_Attack_03.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "HMM!"
+    },
+    {
+      "soundId": 100587,
+      "filename": "VO_801_Mogul_Razdunk_Attack_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/1904327/VO_801_Mogul_Razdunk_Attack_07.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Yeah!"
+    },
+    {
+      "soundId": 100603,
+      "filename": "VO_801_Mogul_Razdunk_WoundCrit_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/230/1904358/VO_801_Mogul_Razdunk_WoundCrit_05.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "BAAAAH"
+    },
+    {
+      "soundId": 100609,
+      "filename": "VO_801_Mogul_Razdunk_Wound_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/221/1904349/VO_801_Mogul_Razdunk_Wound_06.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Oh"
+    },
+    {
+      "soundId": 97404,
+      "filename": "VO_801_Mogul_Razdunk_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/246/1860342/VO_801_Mogul_Razdunk_01_M.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Get a load of 300 rounds per minute!"
+    },
+    {
+      "soundId": 97405,
+      "filename": "VO_801_Mogul_Razdunk_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/247/1860343/VO_801_Mogul_Razdunk_02_M.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Taste some high caliber carnage!"
+    },
+    {
+      "soundId": 97406,
+      "filename": "VO_801_Mogul_Razdunk_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/248/1860344/VO_801_Mogul_Razdunk_03_M.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Ha! My insurance premiums!"
+    },
+    {
+      "soundId": 97411,
+      "filename": "VO_801_Mogul_Razdunk_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/253/1860349/VO_801_Mogul_Razdunk_08_M.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Shoulda sprung for the ejected seat package."
+    },
+    {
+      "soundId": 97413,
+      "filename": "VO_801_Mogul_Razdunk_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/255/1860351/VO_801_Mogul_Razdunk_10_M.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Right where you belong! Under my heel!"
+    },
+    {
+      "soundId": 97414,
+      "filename": "VO_801_Mogul_Razdunk_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/0/1860352/VO_801_Mogul_Razdunk_11_M.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "I'll bill you next of kin for the spent ammunition."
+    },
+    {
+      "soundId": 100584,
+      "filename": "VO_801_Mogul_Razdunk_Attack_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/1904324/VO_801_Mogul_Razdunk_Attack_04.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Huh."
+    },
+    {
+      "soundId": 100588,
+      "filename": "VO_801_Mogul_Razdunk_Attack_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/1904328/VO_801_Mogul_Razdunk_Attack_08.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Nyeh!"
+    },
+    {
+      "soundId": 100589,
+      "filename": "VO_801_Mogul_Razdunk_Attack_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/201/1904329/VO_801_Mogul_Razdunk_Attack_09.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Det!"
+    },
+    {
+      "soundId": 100592,
+      "filename": "VO_801_Mogul_Razdunk_BattleShout_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/1904337/VO_801_Mogul_Razdunk_BattleShout_02.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "W agreement r"
+    },
+    {
+      "soundId": 100596,
+      "filename": "VO_801_Mogul_Razdunk_Death_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/1904341/VO_801_Mogul_Razdunk_Death_03.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "CRAYYEm"
+    },
+    {
+      "soundId": 100597,
+      "filename": "VO_801_Mogul_Razdunk_Death_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/214/1904342/VO_801_Mogul_Razdunk_Death_04.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "COUGGH!"
+    },
+    {
+      "soundId": 100604,
+      "filename": "VO_801_MOGUL_RAZDUNK_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/216/1904344/VO_801_Mogul_Razdunk_Wound_01.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "BAM!"
+    },
+    {
+      "soundId": 100599,
+      "filename": "VO_801_MOGUL_RAZDUNK_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/1904354/VO_801_Mogul_Razdunk_WoundCrit_01.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Grrrr!"
+    },
+    {
+      "soundId": 100602,
+      "filename": "VO_801_Mogul_Razdunk_WoundCrit_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/229/1904357/VO_801_Mogul_Razdunk_WoundCrit_04.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "ание"
+    },
+    {
+      "soundId": 100611,
+      "filename": "VO_801_Mogul_Razdunk_Wound_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/223/1904351/VO_801_Mogul_Razdunk_Wound_08.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "AHH"
+    },
+    {
+      "soundId": 100612,
+      "filename": "VO_801_Mogul_Razdunk_Wound_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/224/1904352/VO_801_Mogul_Razdunk_Wound_09.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "BAH!"
+    },
+    {
+      "soundId": 97407,
+      "filename": "VO_801_Mogul_Razdunk_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/1860345/VO_801_Mogul_Razdunk_04_M.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "You pay for that!"
+    },
+    {
+      "soundId": 97408,
+      "filename": "VO_801_Mogul_Razdunk_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/250/1860346/VO_801_Mogul_Razdunk_05_M.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "You'll never take me alive! Ha ha ha ha ha!"
+    },
+    {
+      "soundId": 97409,
+      "filename": "VO_801_Mogul_Razdunk_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/1860347/VO_801_Mogul_Razdunk_06_M.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "What am I paying you fools for? Get out here and fix this!"
+    },
+    {
+      "soundId": 97410,
+      "filename": "VO_801_Mogul_Razdunk_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/1860348/VO_801_Mogul_Razdunk_07_M.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Do you bums realize how much property damage you've done?"
+    },
+    {
+      "soundId": 97416,
+      "filename": "VO_801_Mogul_Razdunk_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/1860354/VO_801_Mogul_Razdunk_13_M.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "SMASH!"
+    },
+    {
+      "soundId": 100576,
+      "filename": "VO_801_MOGUL_RAZDUNK_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/203/1904331/VO_801_Mogul_Razdunk_AttackCrit_01.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "YEEEK KAAA!"
+    },
+    {
+      "soundId": 100577,
+      "filename": "VO_801_Mogul_Razdunk_AttackCrit_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/204/1904332/VO_801_Mogul_Razdunk_AttackCrit_02.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "K35"
+    },
+    {
+      "soundId": 100579,
+      "filename": "VO_801_Mogul_Razdunk_AttackCrit_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/206/1904334/VO_801_Mogul_Razdunk_AttackCrit_04.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "HA!"
+    },
+    {
+      "soundId": 100580,
+      "filename": "VO_801_Mogul_Razdunk_AttackCrit_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/1904335/VO_801_Mogul_Razdunk_AttackCrit_05.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "YAH!"
+    },
+    {
+      "soundId": 100593,
+      "filename": "VO_801_Mogul_Razdunk_BattleShout_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/210/1904338/VO_801_Mogul_Razdunk_BattleShout_03.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "வர"
+    },
+    {
+      "soundId": 100598,
+      "filename": "VO_801_Mogul_Razdunk_Death_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/215/1904343/VO_801_Mogul_Razdunk_Death_05.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Killig honey!"
+    },
+    {
+      "soundId": 100601,
+      "filename": "VO_801_Mogul_Razdunk_WoundCrit_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/228/1904356/VO_801_Mogul_Razdunk_WoundCrit_03.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "AH OU C Bel action"
+    },
+    {
+      "soundId": 100605,
+      "filename": "VO_801_Mogul_Razdunk_Wound_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/217/1904345/VO_801_Mogul_Razdunk_Wound_02.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Nya!"
+    },
+    {
+      "soundId": 100607,
+      "filename": "VO_801_Mogul_Razdunk_Wound_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/219/1904347/VO_801_Mogul_Razdunk_Wound_04.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Bye."
+    },
+    {
+      "soundId": 100608,
+      "filename": "VO_801_Mogul_Razdunk_Wound_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/220/1904348/VO_801_Mogul_Razdunk_Wound_05.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "UGH!"
+    },
+    {
+      "soundId": 100613,
+      "filename": "VO_801_Mogul_Razdunk_Wound_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/225/1904353/VO_801_Mogul_Razdunk_Wound_10.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Ah!"
+    },
+    {
+      "soundId": 97417,
+      "filename": "VO_801_Mogul_Razdunk_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/3/1860355/VO_801_Mogul_Razdunk_14_M.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "TRUST! YEAH!"
+    },
+    {
+      "soundId": 100581,
+      "filename": "VO_801_MOGUL_RAZDUNK_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/193/1904321/VO_801_Mogul_Razdunk_Attack_01.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Tim!"
+    },
+    {
+      "soundId": 100585,
+      "filename": "VO_801_Mogul_Razdunk_Attack_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/197/1904325/VO_801_Mogul_Razdunk_Attack_05.ogg",
+      "npc": "Mogul Razdunk",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Yeah!"
+    }
+  ]
+}

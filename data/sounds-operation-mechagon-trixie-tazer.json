@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "npc": "Trixie Tazer",
+    "dungeon": "Operation: Mechagon",
+    "filterName": "trixie",
+    "namePattern": "",
+    "generated": "2026-05-19T17:54:00-07:00",
+    "soundCount": 1
+  },
+  "sounds": [
+    {
+      "soundId": 117878,
+      "filename": "SPELL_8.0_TiragardeQC_Freehold_Trixie_Stab",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/192/1305792/Spell_RO_Backstab_Cast_Revamp_01.ogg",
+      "npc": "Trixie Tazer",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "You"
+    }
+  ]
+}

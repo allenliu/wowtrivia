@@ -1,0 +1,67 @@
+{
+  "dungeon": "Atal'Dazar",
+  "slug": "ataldazar",
+  "wowheadZoneId": 9028,
+  "expansion": "Battle for Azeroth",
+  "bosses": [
+    {
+      "id": 122967,
+      "name": "Priestess Alun'za",
+      "filterName": "alunza",
+      "namePattern": "^VO_.*Alunza",
+      "quotes": [
+        { "context": "Aggro",       "text": "Servants of Yazma are not welcome here!" },
+        { "context": "Gilded Claws","text": "Atal'Dazar's power flows through me!" },
+        { "context": "Transfusion", "text": "You do not belong here!" },
+        { "context": "Transfusion", "text": "Corruption be purified!" },
+        { "context": "Death",       "text": "De pools... must be... cleansed." }
+      ]
+    },
+    {
+      "id": 122965,
+      "name": "Vol'kaal",
+      "filterName": "volkaal",
+      "quotes": [
+        { "context": "Greeting", "text": "Beat it or I beat you!" },
+        { "context": "Greeting", "text": "You are tiny, puny ting." },
+        { "context": "Greeting", "text": "I am meet with biggest brain." },
+        { "context": "Pissed",   "text": "I promise not to smash you yet. I promise good. But maybe time for me to break promise!" },
+        { "context": "Farewell", "text": "Your Horde gonna get smushed!" },
+        { "context": "Farewell", "text": "Zanchuli in charge. Not you." },
+        { "context": "Farewell", "text": "I'm not so hungry now. You come back later." }
+      ]
+    },
+    {
+      "id": 122963,
+      "name": "Rezan",
+      "filterName": "rezan",
+      "quotes": [
+        { "context": "Gossip",   "text": "You speak to the loa of kings, god of the hunt. What do you want, small one?" },
+        { "context": "Greeting", "text": "Be you predator, or prey?" },
+        { "context": "Greeting", "text": "You walk in my lands." },
+        { "context": "Greeting", "text": "Have you come to bargain?" },
+        { "context": "Greeting", "text": "What is it, child of the Horde?" },
+        { "context": "Farewell", "text": "May you savor the flesh of your enemies." },
+        { "context": "Farewell", "text": "Never cower before the weak." },
+        { "context": "Farewell", "text": "Rain wounds upon your foes." }
+      ]
+    },
+    {
+      "id": 122968,
+      "name": "Yazma",
+      "filterName": "yazma",
+      "quotes": [
+        { "context": "Greeting", "text": "I am de High Priestess of Shadra, loa of spies and poisons. And who are you?" },
+        { "context": "Greeting", "text": "By whose authority do you address me?" },
+        { "context": "Greeting", "text": "I have no time for nonsense." },
+        { "context": "Greeting", "text": "Rabble should be seen and not heard." },
+        { "context": "Pissed",   "text": "A rich noble in Zuldazar poke at me like dis once. ONCE." },
+        { "context": "Pissed",   "text": "I will put your head on a spike, and den put dat spike in a box, and put dat box inside a bigger box, and den CRUSH IT WITH A HAMMER!" },
+        { "context": "Pissed",   "text": "Keep dis up, and de poison in your veins will be so potent dat even dat greedy fool Bwonsamdi will be afraid to touch ya soul!" },
+        { "context": "Farewell", "text": "Did I dismiss you?" },
+        { "context": "Farewell", "text": "Remember: I have eyes everywhere. Everywhere..." },
+        { "context": "Farewell", "text": "Begone, and take dat foul smell wit you." }
+      ]
+    }
+  ]
+}

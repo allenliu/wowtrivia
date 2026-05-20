@@ -1,0 +1,19 @@
+{
+  "dungeon": "The Azure Vault",
+  "slug": "the-azure-vault",
+  "wowheadZoneId": 13954,
+  "expansion": "Dragonflight",
+  "bosses": [
+    { "id": 186738, "name": "Umbrelskul", "filterName": "umbrelskul", "quotes": [
+      { "context": "Event", "text": "Mother!" },
+      { "context": "Aggro", "text": "My agony is yours!" },
+      { "context": "Crystalline Roar", "text": "Get them off, get them off!" },
+      { "context": "Crystalline Roar", "text": "Shatter!" },
+      { "context": "Arcane Eruption", "text": "No! I will not go!" },
+      { "context": "Arcane Eruption", "text": "It hurts!" },
+      { "context": "Unleashed Destruction", "text": "Stay back! Stack back!" },
+      { "context": "Unleashed Destruction", "text": "Get away from me!" },
+      { "context": "Death", "text": "Mother... I am... sorry..." }
+    ]}
+  ]
+}

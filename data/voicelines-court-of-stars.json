@@ -1,0 +1,716 @@
+{
+  "meta": {
+    "schemaVersion": 3,
+    "dungeon": "Court of Stars",
+    "wowheadZoneId": 8079,
+    "expansion": "Legion",
+    "generated": "2026-05-19T17:59:17-07:00",
+    "notes": "Mixed Tier-1 (Wowhead Quotes) + Tier-2 (wiki + Whisper) entries."
+  },
+  "npcs": [
+    {
+      "id": 104218,
+      "name": "Advisor Melandrus",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 58657,
+          "filename": "vo-701-advisor-melandrus-08",
+          "fileDataId": 1355011,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/3/1355011/VO_701_Advisor_Melandrus_08.ogg",
+          "text": "Bleed for the Grand Magistrix!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58658,
+          "filename": "vo-701-advisor-melandrus-09",
+          "fileDataId": 1355012,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/4/1355012/VO_701_Advisor_Melandrus_09.ogg",
+          "text": "Elisande... forgive me!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58650,
+          "filename": "vo-701-advisor-melandrus-01",
+          "fileDataId": 1355004,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/1355004/VO_701_Advisor_Melandrus_01.ogg",
+          "text": "Finally. I'll make this quick.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58653,
+          "filename": "vo-701-advisor-melandrus-04",
+          "fileDataId": 1355007,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/255/1355007/VO_701_Advisor_Melandrus_04.ogg",
+          "text": "I will speed you towards your demise!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 67728,
+          "filename": "vo-703-advisor-melandrus-03",
+          "fileDataId": 1408889,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/121/1408889/VO_703_Advisor_Melandrus_03.ogg",
+          "text": "Impossible! My guards would never permit such an intrusion!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 104278,
+      "name": "Felbound Enforcer",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 71111,
+          "filename": "vo-703-felbound-enforcer-02-f",
+          "fileDataId": 1451138,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/1451138/VO_703_Felbound_Enforcer_02_F.ogg",
+          "text": "You will never stop our plans!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 106468,
+      "name": "Ly'leth Lunastre",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 78646,
+          "filename": "vo-71-lyleth-lunastre-08-f",
+          "fileDataId": 1524610,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/1524610/VO_71_Lyleth_Lunastre_08_F.ogg",
+          "text": "Ah, free at last! Thank you, Outlander.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 70192,
+          "filename": "vo-703-lyleth-lunastre-38-f",
+          "fileDataId": 1444742,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/134/1444742/VO_703_Lyleth_Lunastre_38_F.ogg",
+          "text": "Excellent! Now that we have the key, the way to the balcony should be open. It's time to put an end to Elisande!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 78647,
+          "filename": "vo-71-lyleth-lunastre-09-f",
+          "fileDataId": 1524613,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/133/1524613/VO_71_Lyleth_Lunastre_09_F.ogg",
+          "text": "I told Aluriel you would come to rescue me and she merely laughed. Well who is laughing now?",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 70195,
+          "filename": "vo-703-lyleth-lunastre-41-f",
+          "fileDataId": 1444748,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/140/1444748/VO_703_Lyleth_Lunastre_41_F.ogg",
+          "text": "My informants claim that a Burning Legion spy is attending this party.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 70196,
+          "filename": "vo-703-lyleth-lunastre-42-f",
+          "fileDataId": 1444750,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/142/1444750/VO_703_Lyleth_Lunastre_42_F.ogg",
+          "text": "Speaking with chatty nobles may reveal the spy. Just avoid drawing attention to yourself with wild accusations!",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 70194,
+          "filename": "vo-703-lyleth-lunastre-40-f",
+          "fileDataId": 1444746,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/1444746/VO_703_Lyleth_Lunastre_40_F.ogg",
+          "text": "We may have missed our chance at the Grand Magistrix tonight, but her time will come. Sooner or later we'll find another way to settle the score...",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 70450,
+          "filename": "vo-703-lyleth-lunastre-50-f",
+          "fileDataId": 1445626,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/250/1445626/VO_703_Lyleth_Lunastre_50_F.ogg",
+          "text": "You've done well so far, but we must ensure you blend in at the party. I'll enhance your disguise, infusing it with latent magic to make you appear as one of the nobles.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 104215,
+      "name": "Patrol Captain Gerdo",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 58637,
+          "filename": "vo-701-patrol-captain-gerdo-11",
+          "fileDataId": 1354968,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/216/1354968/VO_701_Patrol_Captain_Gerdo_11.ogg",
+          "text": "Guards! To me!",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58636,
+          "filename": "vo-701-patrol-captain-gerdo-10",
+          "fileDataId": 1354967,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/215/1354967/VO_701_Patrol_Captain_Gerdo_10.ogg",
+          "text": "I need reinforcements!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58628,
+          "filename": "vo-701-patrol-captain-gerdo-02",
+          "fileDataId": 1354959,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/1354959/VO_701_Patrol_Captain_Gerdo_02.ogg",
+          "text": "My watch... is ended.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58627,
+          "filename": "vo-701-patrol-captain-gerdo-01",
+          "fileDataId": 1354958,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/206/1354958/VO_701_Patrol_Captain_Gerdo_01.ogg",
+          "text": "No trespassers allowed!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58629,
+          "filename": "vo-701-patrol-captain-gerdo-03",
+          "fileDataId": 1354960,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/1354960/VO_701_Patrol_Captain_Gerdo_03.ogg",
+          "text": "This will even the odds!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58633,
+          "filename": "VO_701_Patrol_Captain_Gerdo_07",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/212/1354964/VO_701_Patrol_Captain_Gerdo_07.ogg",
+          "text": "Stay where you are!",
+          "source": "wiki",
+          "wikiContext": "Arcane Lockdown",
+          "transcript": "Stay where you are!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58632,
+          "filename": "VO_701_Patrol_Captain_Gerdo_06",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/1354963/VO_701_Patrol_Captain_Gerdo_06.ogg",
+          "text": "Just what you deserved!",
+          "source": "wiki",
+          "wikiContext": "Player Killed",
+          "transcript": "Just what you deserved!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58631,
+          "filename": "VO_701_Patrol_Captain_Gerdo_05",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/210/1354962/VO_701_Patrol_Captain_Gerdo_05.ogg",
+          "text": "That should teach you!",
+          "source": "wiki",
+          "wikiContext": "Player Killed",
+          "transcript": "That should teach you!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58635,
+          "filename": "VO_701_Patrol_Captain_Gerdo_09",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/214/1354966/VO_701_Patrol_Captain_Gerdo_09.ogg",
+          "text": "A job well done!",
+          "source": "wiki",
+          "wikiContext": "Player Killed",
+          "transcript": "Hmph, a job well done!",
+          "matchScore": 0.75,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58630,
+          "filename": "VO_701_Patrol_Captain_Gerdo_04",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/1354961/VO_701_Patrol_Captain_Gerdo_04.ogg",
+          "text": "Basely done... cowards!",
+          "source": "wiki",
+          "wikiContext": "Death (poisoned)",
+          "transcript": "Especially done, cowards!",
+          "matchScore": 0.696,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 104217,
+      "name": "Talixae Flamewreath",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 58642,
+          "filename": "vo-701-talixae-flamewreath-05",
+          "fileDataId": 1354973,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/221/1354973/VO_701_Talixae_Flamewreath_05.ogg",
+          "text": "It will amuse me to watch you melt!",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58640,
+          "filename": "vo-701-talixae-flamewreath-03",
+          "fileDataId": 1354971,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/219/1354971/VO_701_Talixae_Flamewreath_03.ogg",
+          "text": "Mortal flesh... so pretty when it burns!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58643,
+          "filename": "vo-701-talixae-flamewreath-06",
+          "fileDataId": 1354974,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/222/1354974/VO_701_Talixae_Flamewreath_06.ogg",
+          "text": "My funeral pyre... will be... glorious...",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58638,
+          "filename": "vo-701-talixae-flamewreath-01",
+          "fileDataId": 1354969,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/217/1354969/VO_701_Talixae_Flamewreath_01.ogg",
+          "text": "Not very clever of you to challenge all of us!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58644,
+          "filename": "VO_701_Talixae_Flamewreath_07",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/223/1354975/VO_701_Talixae_Flamewreath_07.ogg",
+          "text": "Make yourself useful and take a look around!",
+          "source": "wiki",
+          "wikiContext": "Event",
+          "transcript": "Make yourself useful and take a look around.",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58645,
+          "filename": "VO_701_Talixae_Flamewreath_08",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/224/1354976/VO_701_Talixae_Flamewreath_08.ogg",
+          "text": "What are you waiting for? Check out that noise!",
+          "source": "wiki",
+          "wikiContext": "Event",
+          "transcript": "What are you waiting for? Check out that noise.",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58646,
+          "filename": "VO_701_Talixae_Flamewreath_09",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/225/1354977/VO_701_Talixae_Flamewreath_09.ogg",
+          "text": "You! Have a look over there!",
+          "source": "wiki",
+          "wikiContext": "Event",
+          "transcript": "You! Have a look over there!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58639,
+          "filename": "VO_701_Talixae_Flamewreath_02",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/1354970/VO_701_Talixae_Flamewreath_02.ogg",
+          "text": "Who needs henchmen? I'll burn you myself!",
+          "source": "wiki",
+          "wikiContext": "Aggro",
+          "transcript": "Who needs henchmen? I'll burn you myself!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58647,
+          "filename": "VO_701_Talixae_Flamewreath_10",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/1354978/VO_701_Talixae_Flamewreath_10.ogg",
+          "text": "Scorched bones... so delightful!",
+          "source": "wiki",
+          "wikiContext": "Burning Intensity",
+          "transcript": "Scorched bones! So delightful!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58648,
+          "filename": "VO_701_Talixae_Flamewreath_11",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/227/1354979/VO_701_Talixae_Flamewreath_11.ogg",
+          "text": "More kindling for the bonfire!",
+          "source": "wiki",
+          "wikiContext": "Player Kill",
+          "transcript": "More kindling for the bonfire!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58641,
+          "filename": "VO_701_Talixae_Flamewreath_04",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/220/1354972/VO_701_Talixae_Flamewreath_04.ogg",
+          "text": "I'm feeling positively radiant!",
+          "source": "wiki",
+          "wikiContext": "Player Kill",
+          "transcript": "I'm feeling positively radiant.",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58649,
+          "filename": "VO_701_Talixae_Flamewreath_12",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/228/1354980/VO_701_Talixae_Flamewreath_12.ogg",
+          "text": "Looks like I have a roast to prepare!",
+          "source": "wiki",
+          "wikiContext": "Wipe",
+          "transcript": "Looks like I have a roast to prepare!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 101831,
+      "name": "Advisor Melandrus",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 67729,
+          "filename": "VO_703_Advisor_Melandrus_04",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/122/1408890/VO_703_Advisor_Melandrus_04.ogg",
+          "text": "Must you leave so soon, Grand Magistrix?",
+          "source": "wiki",
+          "wikiContext": "Intro",
+          "transcript": "Must you leave so soon, Grand Magistrics?",
+          "matchScore": 0.949,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 125941,
+          "filename": "VO_701_Advisor_Melandrus_07 (Beacon)",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/1355010/VO_701_Advisor_Melandrus_07.ogg",
+          "text": "Death by a thousand cuts!",
+          "source": "wiki",
+          "wikiContext": "Slicing Maelstrom",
+          "transcript": "Death by a thousand cuts!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58652,
+          "filename": "VO_701_Advisor_Melandrus_03",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/254/1355006/VO_701_Advisor_Melandrus_03.ogg",
+          "text": "You can't counter what you can't see!",
+          "source": "wiki",
+          "wikiContext": "Slicing Maelstrom",
+          "transcript": "You can't counter what you can't see!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58655,
+          "filename": "VO_701_Advisor_Melandrus_06",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/1355009/VO_701_Advisor_Melandrus_06.ogg",
+          "text": "The wind slices to the bone!",
+          "source": "wiki",
+          "wikiContext": "Blade Surge",
+          "transcript": "The wind slices to the bone!",
+          "matchScore": 1,
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58654,
+          "filename": "VO_701_Advisor_Melandrus_05",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/0/1355008/VO_701_Advisor_Melandrus_05.ogg",
+          "text": "If you blink... you bleed!",
+          "source": "wiki",
+          "wikiContext": "Blade Surge",
+          "transcript": "If you blink, you bleed!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58659,
+          "filename": "VO_701_Advisor_Melandrus_10",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/5/1355013/VO_701_Advisor_Melandrus_10.ogg",
+          "text": "Another victim of my artistry!",
+          "source": "wiki",
+          "wikiContext": "Player Kill",
+          "transcript": "another victim of my artistry.",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 125949,
+          "filename": "VO_701_Advisor_Melandrus_11 (Beacon)",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/1355014/VO_701_Advisor_Melandrus_11.ogg",
+          "text": "Never heard my blade coming!",
+          "source": "wiki",
+          "wikiContext": "Player Kill",
+          "transcript": "Never heard my blade coming.",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58661,
+          "filename": "VO_701_Advisor_Melandrus_12",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/1355015/VO_701_Advisor_Melandrus_12.ogg",
+          "text": "Let your names be forgotten!",
+          "source": "wiki",
+          "wikiContext": "Player Kill",
+          "transcript": "Let your names be forgotten.",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58651,
+          "filename": "VO_701_Advisor_Melandrus_02",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/253/1355005/VO_701_Advisor_Melandrus_02.ogg",
+          "text": "How dare you interrupt your betters!",
+          "source": "wiki",
+          "wikiContext": "Wipe",
+          "transcript": "How dare you interrupt your bettors?",
+          "matchScore": 0.971,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 67726,
+          "filename": "VO_703_Advisor_Melandrus_01",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/119/1408887/VO_703_Advisor_Melandrus_01.ogg",
+          "text": "I assure you, Grand Magistrics, the situation is being addressed. It will be a simple matter to track down a few random dissidents and...",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "I assure you, Grand Magistrics, the situation is being addressed. It will be a simple matter to track down a few random dissidents and...",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 125935,
+          "filename": "VO_701_Advisor_Melandrus_09 (Beacon)",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/4/1355012/VO_701_Advisor_Melandrus_09.ogg",
+          "text": "Elisandr, forgive me.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Elisandr, forgive me.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58660,
+          "filename": "VO_701_Advisor_Melandrus_11",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/1355014/VO_701_Advisor_Melandrus_11.ogg",
+          "text": "Never heard my blade coming.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Never heard my blade coming.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 125937,
+          "filename": "VO_701_Advisor_Melandrus_01 (Beacon)",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/1355004/VO_701_Advisor_Melandrus_01.ogg",
+          "text": "Finally, I'll make this quick.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Finally, I'll make this quick.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 125938,
+          "filename": "VO_701_Advisor_Melandrus_02 (Beacon)",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/253/1355005/VO_701_Advisor_Melandrus_02.ogg",
+          "text": "How dare you interrupt your bettors?",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "How dare you interrupt your bettors?",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 125942,
+          "filename": "VO_701_Advisor_Melandrus_05 (Beacon)",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/0/1355008/VO_701_Advisor_Melandrus_05.ogg",
+          "text": "If you blink, you bleed!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "If you blink, you bleed!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 125940,
+          "filename": "VO_701_Advisor_Melandrus_06 (Beacon)",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/1355009/VO_701_Advisor_Melandrus_06.ogg",
+          "text": "The wind slices to the bone!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "The wind slices to the bone!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 58656,
+          "filename": "VO_701_Advisor_Melandrus_07",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/1355010/VO_701_Advisor_Melandrus_07.ogg",
+          "text": "Death by a thousand cuts!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Death by a thousand cuts!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 125936,
+          "filename": "VO_701_Advisor_Melandrus_08 (Beacon)",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/3/1355011/VO_701_Advisor_Melandrus_08.ogg",
+          "text": "Bleed for the Grand Magistrates!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Bleed for the Grand Magistrates!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 125950,
+          "filename": "VO_701_Advisor_Melandrus_10 (Beacon)",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/5/1355013/VO_701_Advisor_Melandrus_10.ogg",
+          "text": "another victim of my artistry.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "another victim of my artistry.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 125948,
+          "filename": "VO_701_Advisor_Melandrus_12 (Beacon)",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/1355015/VO_701_Advisor_Melandrus_12.ogg",
+          "text": "Let your names be forgotten.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Let your names be forgotten.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 67727,
+          "filename": "VO_703_Advisor_Melandrus_02",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/120/1408888/VO_703_Advisor_Melandrus_02.ogg",
+          "text": "I... I'm not sure what you're getting at, Grand Magistrics.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "I... I'm not sure what you're getting at, Grand Magistrics.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "schemaVersion": 2,
+    "dungeon": "Windrunner Spire",
+    "wowheadZoneId": 15808,
+    "expansion": "Midnight",
+    "generated": "2026-05-19T16:08:15-07:00"
+  },
+  "npcs": [
+    {
+      "id": 235081,
+      "name": "Lirath Windrunner",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 298947,
+          "filename": "vo-120-lirath-windrunner-28-m",
+          "fileDataId": 7238330,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/186/7238330/VO_120_Lirath_Windrunner_28_M.ogg",
+          "text": "As for myself... I shall fill these halls with music until they return home. Thank you, champions.",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

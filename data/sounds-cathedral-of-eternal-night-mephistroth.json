@@ -1,0 +1,404 @@
+{
+  "meta": {
+    "npc": "Mephistroth",
+    "dungeon": "Cathedral of Eternal Night",
+    "filterName": "mephistroth",
+    "namePattern": "",
+    "generated": "2026-05-19T18:04:12-07:00",
+    "soundCount": 49
+  },
+  "sounds": [
+    {
+      "soundId": 84027,
+      "filename": "SPELL_Mephistroth_ShadowBlast_Orb_Persistant (7.2 COEN BOSS)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/1345081/SPELL_NightmareMagic_Precast_SML_loop_01.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": ""
+    },
+    {
+      "soundId": 80493,
+      "filename": "VO_72_Mephistroth_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/72/1580872/VO_72_Mephistroth_01_M.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Ah, our guests of honor have finally arrived. I look forward to ripping those horns from your skull, betrayer!"
+    },
+    {
+      "soundId": 80501,
+      "filename": "VO_72_Mephistroth_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/80/1580880/VO_72_Mephistroth_09_M.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "The final victory will be ours."
+    },
+    {
+      "soundId": 84663,
+      "filename": "GO_7DU_TombofSargeras_Mephistroth_RoomVFX (7.2 COEN)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/126/642174/MON_Sha_Boss_Loop.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": ""
+    },
+    {
+      "soundId": 83494,
+      "filename": "VO_72_Mephistroth_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/192/1599168/VO_72_Mephistroth_16_M.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Pathetic! My time is wasted here! With the power from the tomb, I will destroy all of you!"
+    },
+    {
+      "soundId": 84024,
+      "filename": "SPELL_Mephistroth_DemonicUpheaval_Missile_Impact (7.2 COEN BOSS)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/1385832/SPELL_WL_7LG_FireBolt_Missile_Impact_01.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "You"
+    },
+    {
+      "soundId": 84049,
+      "filename": "SPELL_Mephistroth_DemonicUpheaval_PreCast (7.2 COEN BOSS)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/80/987216/SPELL_Breath_Fire_Precast_State_Loop.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": ""
+    },
+    {
+      "soundId": 84022,
+      "filename": "SPELL_Mephistroth_CarrionSwarm_Impact (7.2 COEN BOSS)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/220/566236/TempMono.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": ""
+    },
+    {
+      "soundId": 84666,
+      "filename": "SPELL_Mephistroth_DarkSolitude_Missile_Loop (7.2 COEN Boss)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/21/1345045/SPELL_NightmareMagic_Channel_SML_loop_01.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": ""
+    },
+    {
+      "soundId": 84088,
+      "filename": "SPELL_Mephistroth_DissolveIn_Cast (7.2 COEN BOSS)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/114/979826/SPELL_WL_MANNOROTHS_FURY.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Ragnar розord"
+    },
+    {
+      "soundId": 75044,
+      "filename": "SPELL_Mephistroth_TeleportOut_Cast - DreadscarRift -(Destro WL)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/184/1306296/SPELL_Dreadlord_TeleportOut_Impact_01.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "You"
+    },
+    {
+      "soundId": 62323,
+      "filename": "VO_703_Mephistroth_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/1384899/VO_703_Mephistroth_05.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Your persistence will be the death of you! Minions attack!"
+    },
+    {
+      "soundId": 80500,
+      "filename": "VO_72_Mephistroth_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/79/1580879/VO_72_Mephistroth_08_M.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Surrender the shield, and I will grant you a quick death."
+    },
+    {
+      "soundId": 83493,
+      "filename": "VO_72_Mephistroth_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/191/1599167/VO_72_Mephistroth_15_M.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": ""
+    },
+    {
+      "soundId": 84020,
+      "filename": "SPELL_Mephistroth_CarrionSwarm_PreCast (7.2 COEN BOSS)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/1488068/SPELL_WL_Shadow_PreCast_Loop_01.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "I'm here. I'm here. I'm here."
+    },
+    {
+      "soundId": 84015,
+      "filename": "SPELL_Mephistroth_DarkSolitude_Cast  (7.2 COEN BOSS)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/1488051/SPELL_WL_Shadow_Cast_06.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Never her accident!"
+    },
+    {
+      "soundId": 84026,
+      "filename": "SPELL_Mephistroth_DemonicUpheaval_FelSpike_Spawn (7.2 COEN BOSS)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/567298/EVENT_TippingTheBalance_StatueImpact_02.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": ""
+    },
+    {
+      "soundId": 84025,
+      "filename": "SPELL_Mephistroth_DemonicUpheaval_Missile_Loop (7.2 COEN BOSS)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/1467561/SPELL_WL_Channel_DemonFire_Missile_Loop_1.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": ""
+    },
+    {
+      "soundId": 75933,
+      "filename": "SPELL_Mephistroth_MindBlast_PreCast_Loop - WL Demo Artifact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/92/986716/SPELL_VoidMagic_SummonPet_Loop_01.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": ""
+    },
+    {
+      "soundId": 84671,
+      "filename": "SPELL_Mephistroth_ShadowFade_Missile_Impact (7.2 COEN Boss)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/1494223/SPELL_WL_ShadowFire_Impact_01.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "daaaaaaaaaaaaaa"
+    },
+    {
+      "soundId": 84669,
+      "filename": "SPELL_Mephistroth_ShadowFade_Missile_Loop (7.2 COEN Boss)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/1488068/SPELL_WL_Shadow_PreCast_Loop_01.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "I'm here. I'm here. I'm here."
+    },
+    {
+      "soundId": 62317,
+      "filename": "VO_703_Mephistroth_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/189/1384893/VO_703_Mephistroth_02.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "As for you treacherous skull, I'll deal with you later."
+    },
+    {
+      "soundId": 80494,
+      "filename": "VO_72_Mephistroth_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/73/1580873/VO_72_Mephistroth_02_M.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Run! Ha ha ha ha! Fool! I have led you to the slaughter!"
+    },
+    {
+      "soundId": 80495,
+      "filename": "VO_72_Mephistroth_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/1580874/VO_72_Mephistroth_03_M.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Beware the shadows!"
+    },
+    {
+      "soundId": 80497,
+      "filename": "VO_72_Mephistroth_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/76/1580876/VO_72_Mephistroth_05_M.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "It amuses me to watch you suffer."
+    },
+    {
+      "soundId": 80498,
+      "filename": "VO_72_Mephistroth_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/1580877/VO_72_Mephistroth_06_M.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "I'm tired of these games! Let us see how you fare without your little trinket."
+    },
+    {
+      "soundId": 82036,
+      "filename": "VO_72_Mephistroth_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/1591467/VO_72_Mephistroth_10_M.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Hello, mid-last."
+    },
+    {
+      "soundId": 82445,
+      "filename": "VO_72_Mephistroth_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/202/1593290/VO_72_Mephistroth_13_M.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Silence!"
+    },
+    {
+      "soundId": 84043,
+      "filename": "SPELL_Mephistroth_CarrionSwarm_Acid_Persistant (7.2 COEN BOSS)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/247/551159/GreaterSlime_Loop_02.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Thank you for watching!"
+    },
+    {
+      "soundId": 84021,
+      "filename": "SPELL_Mephistroth_CarrionSwarm_Cast (7.2 COEN BOSS)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/1306293/SPELL_Dreadlord_TeleportIn_Impact_01.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "You"
+    },
+    {
+      "soundId": 84023,
+      "filename": "SPELL_Mephistroth_CarrionSwarm_State (7.2 COEN BOSS)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/220/566236/TempMono.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": ""
+    },
+    {
+      "soundId": 84052,
+      "filename": "SPELL_Mephistroth_DarkSolitude_Missile_Impact (7.2 COEN BOSS)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/999327/SPELL_WL_Demonbolt_Impact_01.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": ""
+    },
+    {
+      "soundId": 84014,
+      "filename": "SPELL_Mephistroth_DarkSolitude_PreCast_Loop (7.2 COEN BOSS)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/86/987222/SPELL_Breath_Shadow_Precast_State_Loop.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": ""
+    },
+    {
+      "soundId": 84017,
+      "filename": "SPELL_Mephistroth_DarkSolitude_State_Loop (7.2 COEN Boss)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/48/1345072/SPELL_NightmareMagic_Loop_SML_01.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": ""
+    },
+    {
+      "soundId": 75934,
+      "filename": "SPELL_Mephistroth_MindBlast_Cast - WL Demo Artifact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/985226/SPELL_VoidMagic_Cast_01.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": ""
+    },
+    {
+      "soundId": 75932,
+      "filename": "SPELL_Mephistroth_Obliteration_Channel_Loop",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/14/1345038/SPELL_NightmareMagic_Channel_LRG_loop_01.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": ""
+    },
+    {
+      "soundId": 84044,
+      "filename": "SPELL_Mephistroth_ShadowFade_Transform_Cast (7.2 COEN BOSS)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/985226/SPELL_VoidMagic_Cast_01.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": ""
+    },
+    {
+      "soundId": 74986,
+      "filename": "SPELL_Mephistroth_TeleportIn_Cast - DreadscarRift - (Destro WL)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/1306293/SPELL_Dreadlord_TeleportIn_Impact_01.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "You"
+    },
+    {
+      "soundId": 62314,
+      "filename": "VO_703_Mephistroth_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/186/1384890/VO_703_Mephistroth_01.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Ha ha ha ha! Foolish warlock! Did you really think I would remain unaware of your infantile plot to steal my treasure? You underestimate Anathrasim!"
+    },
+    {
+      "soundId": 62319,
+      "filename": "VO_703_Mephistroth_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/191/1384895/VO_703_Mephistroth_03.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Come to me, servant of Hellfire! Rid me of this un-invited guest!"
+    },
+    {
+      "soundId": 62321,
+      "filename": "VO_703_Mephistroth_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/193/1384897/VO_703_Mephistroth_04.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Fire the guns! Cover the path and hellfire! Don't let that warlock through!"
+    },
+    {
+      "soundId": 62325,
+      "filename": "VO_703_Mephistroth_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/197/1384901/VO_703_Mephistroth_06.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Enjoy your victory while you can Warlock. Ha ha ha ha ha ha! This isn't over between us. It has only begun."
+    },
+    {
+      "soundId": 62328,
+      "filename": "VO_703_Mephistroth_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/1384904/VO_703_Mephistroth_07.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Did you think I would stand idle as you clawed your way through my minions? Listen mortal, as the treasure you fight so hard to obtain is broken to my will!"
+    },
+    {
+      "soundId": 62329,
+      "filename": "VO_703_Mephistroth_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/201/1384905/VO_703_Mephistroth_08.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "I grow tired of your interference! Die!"
+    },
+    {
+      "soundId": 80496,
+      "filename": "VO_72_Mephistroth_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/1580875/VO_72_Mephistroth_04_M.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "You cannot withstand the power of the Legion!"
+    },
+    {
+      "soundId": 80499,
+      "filename": "VO_72_Mephistroth_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/1580878/VO_72_Mephistroth_07_M.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "How kind of you to bring the ages to me!"
+    },
+    {
+      "soundId": 82165,
+      "filename": "VO_72_Mephistroth_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/202/1592266/VO_72_Mephistroth_11_M.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "You destroy a few ships and claim a victory. It will be your last I assure you. Savor this moment. For our next meeting we'll spell your doom."
+    },
+    {
+      "soundId": 82444,
+      "filename": "VO_72_Mephistroth_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/201/1593289/VO_72_Mephistroth_12_M.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Yes, come forth! I could use some entertainment!"
+    },
+    {
+      "soundId": 82446,
+      "filename": "VO_72_Mephistroth_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/203/1593291/VO_72_Mephistroth_14_M.ogg",
+      "npc": "Mephistroth",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Another foolish mortal wishes to face me? So be it."
+    }
+  ]
+}

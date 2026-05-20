@@ -1,0 +1,15 @@
+{
+  "dungeon": "Tazavesh, the Veiled Market",
+  "slug": "tazavesh-the-veiled-market",
+  "wowheadZoneId": 13577,
+  "expansion": "Shadowlands",
+  "bosses": [
+    {
+      "id": 176302,
+      "name": "Corsair Cannoneer",
+      "filterName": "corsair_cannoneer",
+      "namePattern": "^VO_.*Corsair_Cannoneer",
+      "quotes": []
+    }
+  ]
+}

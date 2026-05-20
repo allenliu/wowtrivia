@@ -1,0 +1,212 @@
+{
+    "meta":  {
+                 "schemaVersion":  2,
+                 "dungeon":  "Tol Dagor",
+                 "wowheadZoneId":  9327,
+                 "expansion":  "Battle for Azeroth",
+                 "generated":  "2026-05-19T07:52:30-07:00"
+             },
+    "npcs":  [
+                 {
+                     "id":  136694,
+                     "name":  "Nathanos Blightcaller",
+                     "elite":  true,
+                     "quotes":  [
+                                    {
+                                        "soundId":  106709,
+                                        "filename":  "vo-801-nathanos-blightcaller-79-m",
+                                        "fileDataId":  2001214,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/62/2001214/VO_801_Nathanos_Blightcaller_79_M.ogg",
+                                        "text":  "A recent escape has incited chaos in the lower levels of the prison, which we can use to our advantage.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  106710,
+                                        "filename":  "vo-801-nathanos-blightcaller-80-m",
+                                        "fileDataId":  2001215,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/63/2001215/VO_801_Nathanos_Blightcaller_80_M.ogg",
+                                        "text":  "Make your way to the top floor, where the overseer can be found.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  106708,
+                                        "filename":  "vo-801-nathanos-blightcaller-78-m",
+                                        "fileDataId":  2001213,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/61/2001213/VO_801_Nathanos_Blightcaller_78_M.ogg",
+                                        "text":  "Our target is being held within Tol Dagor.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  106711,
+                                        "filename":  "vo-801-nathanos-blightcaller-81-m",
+                                        "fileDataId":  2001216,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/64/2001216/VO_801_Nathanos_Blightcaller_81_M.ogg",
+                                        "text":  "Relieve him of his keys, secure our asset, and slay anyone who stands in your path.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  106706,
+                                        "filename":  "vo-801-nathanos-blightcaller-76-m",
+                                        "fileDataId":  2001211,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/59/2001211/VO_801_Nathanos_Blightcaller_76_M.ogg",
+                                        "text":  "The Dark Lady will be pleased.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  106707,
+                                        "filename":  "vo-801-nathanos-blightcaller-77-m",
+                                        "fileDataId":  2001212,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/60/2001212/VO_801_Nathanos_Blightcaller_77_M.ogg",
+                                        "text":  "With the overseer's keys in our possession, we can release our asset and use their skills to strengthen the war effort.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 },
+                 {
+                     "id":  136696,
+                     "name":  "Proudmoore Elite",
+                     "elite":  false,
+                     "quotes":  [
+                                    {
+                                        "soundId":  98167,
+                                        "filename":  "vo-801-kul-tiran-military-11-m",
+                                        "fileDataId":  1864143,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/207/1864143/VO_801_Kul_Tiran_Military_11_M.ogg",
+                                        "text":  "We've secured the prisoners and established a perimeter. The lower levels belong to us.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 },
+                 {
+                     "id":  136692,
+                     "name":  "Taelia",
+                     "elite":  true,
+                     "quotes":  [
+                                    {
+                                        "soundId":  98183,
+                                        "filename":  "vo-801-taelia-02-f",
+                                        "fileDataId":  1864197,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/5/1864197/VO_801_Taelia_02_F.ogg",
+                                        "text":  "According to our intelligence, the keys that access the Azerite caches and the hostage wing are kept by the Overseer... around his neck.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  114524,
+                                        "filename":  "vo-801-taelia-296-f",
+                                        "fileDataId":  2125981,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/157/2125981/VO_801_Taelia_296_F.ogg",
+                                        "text":  "Hang on! I wasn't the one who... &lt;sigh&gt;",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  98189,
+                                        "filename":  "vo-801-taelia-08-f",
+                                        "fileDataId":  1864203,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/11/1864203/VO_801_Taelia_08_F.ogg",
+                                        "text":  "It seems Lady Ashvane will have an opening for a new overseer after all.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  98190,
+                                        "filename":  "vo-801-taelia-09-f",
+                                        "fileDataId":  1864204,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/12/1864204/VO_801_Taelia_09_F.ogg",
+                                        "text":  "Now that we have the prison under our control and the keys in our possession, we can begin securing the Azerite and releasing the hostages.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  98186,
+                                        "filename":  "vo-801-taelia-05-f",
+                                        "fileDataId":  1864200,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/8/1864200/VO_801_Taelia_05_F.ogg",
+                                        "text":  "Oof! You had to crawl through this stuff to escape? Try to stay downwind from me!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  98182,
+                                        "filename":  "vo-801-taelia-01-f",
+                                        "fileDataId":  1864196,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/4/1864196/VO_801_Taelia_01_F.ogg",
+                                        "text":  "Stay low! They haven't spotted us yet.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  98185,
+                                        "filename":  "vo-801-taelia-04-f",
+                                        "fileDataId":  1864199,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/7/1864199/VO_801_Taelia_04_F.ogg",
+                                        "text":  "That creature must be why the Overseer didn't have many patrols on this side of the island. Good job defeating it.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  98188,
+                                        "filename":  "vo-801-taelia-07-f",
+                                        "fileDataId":  1864202,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/10/1864202/VO_801_Taelia_07_F.ogg",
+                                        "text":  "We'll finish securing the lower levels while you make your way to the Overseer.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  98184,
+                                        "filename":  "vo-801-taelia-03-f",
+                                        "fileDataId":  1864198,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/6/1864198/VO_801_Taelia_03_F.ogg",
+                                        "text":  "We'll secure the perimeter guards while you make your way to the sewer grate. It should still provide a way into the prison.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  98187,
+                                        "filename":  "vo-801-taelia-06-f",
+                                        "fileDataId":  1864201,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/9/1864201/VO_801_Taelia_06_F.ogg",
+                                        "text":  "Well done. Looks like you have things under control.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  98191,
+                                        "filename":  "vo-801-taelia-10-f",
+                                        "fileDataId":  1864205,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/13/1864205/VO_801_Taelia_10_F.ogg",
+                                        "text":  "You do good work... for an escaped fugitive.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 }
+             ]
+}

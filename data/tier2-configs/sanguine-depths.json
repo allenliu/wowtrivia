@@ -1,0 +1,46 @@
+{
+  "dungeon": "Sanguine Depths",
+  "slug": "sanguine-depths",
+  "wowheadZoneId": 12842,
+  "expansion": "Shadowlands",
+  "bosses": [
+    {
+      "id": 162099,
+      "name": "General Kaal",
+      "filterName": "kaal",
+      "namePattern": "^VO_.*Kaal",
+      "quotes": [
+        { "context": "Greeting", "text": "Humph, the Maw Walker." },
+        { "context": "Greeting", "text": "Loyalty over dishonor!" },
+        { "context": "Greeting", "text": "My forces command the skies above. We are in control!" },
+        { "context": "Greeting", "text": "You walk in the domain of the Master, tread carefully." },
+        { "context": "Farewell", "text": "My loyalty is unwavering." },
+        { "context": "Farewell", "text": "Orders are to be executed, not questioned." },
+        { "context": "Farewell", "text": "I serve the Master." },
+        { "context": "Farewell", "text": "The rebellion is already dead! Some have not realized that yet." },
+        { "context": "Farewell", "text": "Remember, we are always watching!" },
+        { "context": "Aggro", "text": "Surrender the prisoner!" },
+        { "context": "Wicked Rush", "text": "Bleed for your crimes." },
+        { "context": "Wicked Rush", "text": "You lack the strength of stone." },
+        { "context": "Gloom Squall", "text": "I will cast you down!" },
+        { "context": "Gloom Squall", "text": "The depths will take you all!" },
+        { "context": "Defeated", "text": "Enough! Your suffering will be a testament to the Master's wrath." },
+        { "context": "Player Killed", "text": "The rebellion falters." },
+        { "context": "Player Killed", "text": "Another traitor falls." },
+        { "context": "Wipe", "text": "No one escapes the Sanguine Depths. No one." }
+      ]
+    },
+    {
+      "id": 162103,
+      "name": "Executor Tarvold",
+      "filterName": "tarvold",
+      "quotes": [
+        { "context": "Aggro",         "text": "Let us begin." },
+        { "context": "Castigate",     "text": "You will confess, one way or another." },
+        { "context": "Death",         "text": "The sinners... still... await..." },
+        { "context": "Player Killed", "text": "Repent, mortal." },
+        { "context": "Wipe",          "text": "Others are in need of my ministrations." }
+      ]
+    }
+  ]
+}

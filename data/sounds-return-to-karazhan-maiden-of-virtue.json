@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "npc": "Maiden of Virtue",
+    "dungeon": "Return to Karazhan",
+    "filterName": "maiden_of_virtue",
+    "namePattern": "^VO_.*Maiden_of_Virtue",
+    "generated": "2026-05-19T16:51:47-07:00",
+    "soundCount": 21
+  },
+  "sounds": [
+    {
+      "soundId": 77775,
+      "filename": "VO_71_Maiden_of_Virtue_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/187/1521595/VO_71_Maiden_of_Virtue_01_F.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "All shall be sanctified!"
+    },
+    {
+      "soundId": 77787,
+      "filename": "VO_71_Maiden_of_Virtue_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/1521607/VO_71_Maiden_of_Virtue_13_F.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "The stench of corruption is upon you!"
+    },
+    {
+      "soundId": 77779,
+      "filename": "VO_71_Maiden_of_Virtue_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/191/1521599/VO_71_Maiden_of_Virtue_05_F.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Step into the light, mortals!"
+    },
+    {
+      "soundId": 77790,
+      "filename": "VO_71_Maiden_of_Virtue_16_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/202/1521610/VO_71_Maiden_of_Virtue_16_F.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "I will never relent."
+    },
+    {
+      "soundId": 77791,
+      "filename": "VO_71_Maiden_of_Virtue_17_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/203/1521611/VO_71_Maiden_of_Virtue_17_F.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "You are all as corrupt as the Guardian."
+    },
+    {
+      "soundId": 78865,
+      "filename": "VO_71_MAIDEN_OF_VIRTUE_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/1525685/VO_71_Maiden_of_Virtue_WoundCrit_01.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "No! I Hubby Subscribe Stylist click Dash Click"
+    },
+    {
+      "soundId": 77778,
+      "filename": "VO_71_Maiden_of_Virtue_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/190/1521598/VO_71_Maiden_of_Virtue_04_F.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "The righteous have nothing to fear!"
+    },
+    {
+      "soundId": 77781,
+      "filename": "VO_71_Maiden_of_Virtue_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/193/1521601/VO_71_Maiden_of_Virtue_07_F.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Renounce your greed and perversion!"
+    },
+    {
+      "soundId": 77786,
+      "filename": "VO_71_Maiden_of_Virtue_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/1521606/VO_71_Maiden_of_Virtue_12_F.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "And so begins your purification."
+    },
+    {
+      "soundId": 77788,
+      "filename": "VO_71_Maiden_of_Virtue_14_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/1521608/VO_71_Maiden_of_Virtue_14_F.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "The lesson is complete."
+    },
+    {
+      "soundId": 77776,
+      "filename": "VO_71_Maiden_of_Virtue_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/188/1521596/VO_71_Maiden_of_Virtue_02_F.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "The strong must suffer for the sins of the weak."
+    },
+    {
+      "soundId": 77777,
+      "filename": "VO_71_Maiden_of_Virtue_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/189/1521597/VO_71_Maiden_of_Virtue_03_F.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "By fire, be cleansed!"
+    },
+    {
+      "soundId": 77780,
+      "filename": "VO_71_Maiden_of_Virtue_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/192/1521600/VO_71_Maiden_of_Virtue_06_F.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Hold mortals! Open your hearts to virtue!"
+    },
+    {
+      "soundId": 77782,
+      "filename": "VO_71_Maiden_of_Virtue_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/194/1521602/VO_71_Maiden_of_Virtue_08_F.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "REPENT OR DIE!"
+    },
+    {
+      "soundId": 77783,
+      "filename": "VO_71_Maiden_of_Virtue_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/1521603/VO_71_Maiden_of_Virtue_09_F.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "The Titans wish their children to lead virtuous lives, yet from cornerstone to spire, this tower reeks of depravity."
+    },
+    {
+      "soundId": 77784,
+      "filename": "VO_71_Maiden_of_Virtue_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/1521604/VO_71_Maiden_of_Virtue_10_F.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Purified!"
+    },
+    {
+      "soundId": 77785,
+      "filename": "VO_71_Maiden_of_Virtue_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/197/1521605/VO_71_Maiden_of_Virtue_11_F.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "A teachable moment."
+    },
+    {
+      "soundId": 77789,
+      "filename": "VO_71_Maiden_of_Virtue_15_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/201/1521609/VO_71_Maiden_of_Virtue_15_F.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "A pure mind is an orderly mind."
+    },
+    {
+      "soundId": 78862,
+      "filename": "VO_71_MAIDEN_OF_VIRTUE_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/156/1525660/VO_71_Maiden_of_Virtue_Attack_01.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Ugh!"
+    },
+    {
+      "soundId": 78863,
+      "filename": "VO_71_MAIDEN_OF_VIRTUE_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/166/1525670/VO_71_Maiden_of_Virtue_AttackCrit_01.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": "HAH! UGH!"
+    },
+    {
+      "soundId": 78864,
+      "filename": "VO_71_MAIDEN_OF_VIRTUE_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/1525675/VO_71_Maiden_of_Virtue_Wound_01.ogg",
+      "npc": "Maiden of Virtue",
+      "dungeon": "Return to Karazhan",
+      "transcript": ""
+    }
+  ]
+}

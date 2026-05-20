@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "schemaVersion": 2,
+    "dungeon": "Algeth'ar Academy",
+    "wowheadZoneId": 14032,
+    "expansion": "Dragonflight",
+    "generated": "2026-05-19T08:45:54-07:00"
+  },
+  "npcs": [
+    {
+      "id": 195587,
+      "name": "Headteacher Doragosa",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 208071,
+          "filename": "vo-100-headteacher-doragosa-13-f",
+          "fileDataId": 4689472,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/4689472/VO_100_Headteacher_Doragosa_13_F.ogg",
+          "text": "Oh dear. It seems that the parameters I wove into my out of office spell were a bit... extreme. Thank you for all your help in getting the school ready.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208062,
+          "filename": "vo-100-headteacher-doragosa-04-f",
+          "fileDataId": 4689463,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/55/4689463/VO_100_Headteacher_Doragosa_04_F.ogg",
+          "text": "Welcome to Algeth'ar Academy! I am delighted that you received our invitation. The school is a touch behind schedule, but I have heard wondrous things about your capabilities. Perhaps you could help us?",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208065,
+          "filename": "vo-100-headteacher-doragosa-07-f",
+          "fileDataId": 4689466,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/58/4689466/VO_100_Headteacher_Doragosa_07_F.ogg",
+          "text": "Hmmm, we have been gone for some time. The growth here... ah! The way should be clear, please head to my office and wait. I hear new students that require my personal attention.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208061,
+          "filename": "vo-100-headteacher-doragosa-03-f",
+          "fileDataId": 4689462,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/54/4689462/VO_100_Headteacher_Doragosa_03_F.ogg",
+          "text": "It appears some new students have trickled in after you. They seem interested in our sports field. Help them sort out clearing the place, it is in quite a state.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208063,
+          "filename": "vo-100-headteacher-doragosa-05-f",
+          "fileDataId": 4689464,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/56/4689464/VO_100_Headteacher_Doragosa_05_F.ogg",
+          "text": "Our history professor Maxdormu is almost ready for lessons. Do see if there is anything he needs assistance with.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 191933,
+      "name": "Malinor",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 209202,
+          "filename": "vo-100-malinor-01-f",
+          "fileDataId": 4696036,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/228/4696036/VO_100_Malinor_01_F.ogg",
+          "text": "All right. Now we need to clear out the big one. I will activate the goals for Lish Llrath--that is Talon Toss for you softskins. Use them to get her attention.",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 209203,
+          "filename": "vo-100-malinor-02-f",
+          "fileDataId": 4696037,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/229/4696037/VO_100_Malinor_02_F.ogg",
+          "text": "At least we know that works. Watch yourselves.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 209205,
+          "filename": "vo-100-malinor-04-f",
+          "fileDataId": 4696039,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/231/4696039/VO_100_Malinor_04_F.ogg",
+          "text": "Clear them out! They have ruined the place.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 209206,
+          "filename": "vo-100-malinor-05-f",
+          "fileDataId": 4696040,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/232/4696040/VO_100_Malinor_05_F.ogg",
+          "text": "Look at this Lish Llrath arena--wait, what are these birds doing here?",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 209204,
+          "filename": "vo-100-malinor-03-f",
+          "fileDataId": 4696038,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/230/4696038/VO_100_Malinor_03_F.ogg",
+          "text": "So many birds! Help us get rid of them!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 189667,
+      "name": "Professor Ichistrasz",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 208097,
+          "filename": "vo-100-professor-ichistrasz-03-m",
+          "fileDataId": 4689570,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/162/4689570/VO_100_Professor_Ichistrasz_03_M.ogg",
+          "text": "Absolutely not!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208115,
+          "filename": "vo-100-professor-ichistrasz-09-m",
+          "fileDataId": 4689624,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/216/4689624/VO_100_Professor_Ichistrasz_09_M.ogg",
+          "text": "Me?! There is too much nature! What are you doing?",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208114,
+          "filename": "vo-100-professor-ichistrasz-08-m",
+          "fileDataId": 4689619,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/4689619/VO_100_Professor_Ichistrasz_08_M.ogg",
+          "text": "Well, it seems like things are in further disrepair than we anticipated.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208099,
+          "filename": "vo-100-professor-ichistrasz-04-m",
+          "fileDataId": 4689576,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/168/4689576/VO_100_Professor_Ichistrasz_04_M.ogg",
+          "text": "What an overgrown statement.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 189668,
+      "name": "Professor Maxdormu",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 204573,
+          "filename": "vo-100-professor-maxdormu-06-m",
+          "fileDataId": 4673148,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/124/4673148/VO_100_Professor_Maxdormu_06_M.ogg",
+          "text": "Ah! Here we are! Ahem--long ago, members of the blue dragonflight accidentally overloaded an arcane elemental and created a powerful construct named Vexamus that quickly started to wreak havoc!",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 204583,
+          "filename": "vo-100-professor-maxdormu-16-m",
+          "fileDataId": 4673158,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/134/4673158/VO_100_Professor_Maxdormu_16_M.ogg",
+          "text": "Please excuse the mess! It has been quite some time since students have been here. I am just putting together my lesson plan.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 204575,
+          "filename": "vo-100-professor-maxdormu-08-m",
+          "fileDataId": 4673150,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/126/4673150/VO_100_Professor_Maxdormu_08_M.ogg",
+          "text": "Since you did so well on your lesson, feel free to take something from the 'Good Students' Reward Chest.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 204574,
+          "filename": "vo-100-professor-maxdormu-07-m",
+          "fileDataId": 4673149,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/4673149/VO_100_Professor_Maxdormu_07_M.ogg",
+          "text": "Though Vexamus tried its best to defeat the dragons, it was ultimately destroyed. Well done!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 187287,
+      "name": "Professor Mystakria",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 204710,
+          "filename": "vo-100-professor-mystakria-09-f",
+          "fileDataId": 4673537,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/4673537/VO_100_Professor_Mystakria_09_F.ogg",
+          "text": "What is that thing? This is your fault!",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "dungeon": "Ruby Life Pools",
+  "slug": "ruby-life-pools",
+  "wowheadZoneId": 14063,
+  "expansion": "Dragonflight",
+  "bosses": [
+    { "id": 190484, "name": "Kyrakka", "filterName": "kyrakka", "quotes": [
+      { "context": "Intro", "text": "Your false queen cannot stop us. We are the truth." },
+      { "context": "Intro (Erkhart)", "text": "Erkhart, deal with these aberrations." },
+      { "context": "Combat", "text": "Scorched earth." },
+      { "context": "Combat", "text": "It was worthless to try." },
+      { "context": "Combat", "text": "Burn." },
+      { "context": "Combat", "text": "Singe." },
+      { "context": "Combat", "text": "Let us destroy these insects." },
+      { "context": "Defeat", "text": "No! Ours... is the... true... path..." }
+    ]},
+    { "id": 190485, "name": "Erkhart Stormvein", "filterName": "erkhart", "quotes": [] },
+    { "id": 189232, "name": "Kokia Blazehoof", "filterName": "kokia", "quotes": [] },
+    { "id": 188252, "name": "Melidrussa Chillworn", "filterName": "melidrussa", "quotes": [] }
+  ]
+}

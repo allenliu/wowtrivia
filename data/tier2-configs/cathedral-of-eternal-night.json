@@ -1,0 +1,25 @@
+{
+  "dungeon": "Cathedral of Eternal Night",
+  "slug": "cathedral-of-eternal-night",
+  "wowheadZoneId": 8527,
+  "expansion": "Legion",
+  "bosses": [
+    { "id": 117193, "name": "Agronox", "filterName": "agronox", "quotes": [
+      { "context": "Aggro", "text": "These ancient grounds are not for you!" },
+      { "context": "Aggro", "text": "You disturb nature's perfection!" },
+      { "context": "Choking Vines", "text": "Feel your throat tighten!" },
+      { "context": "Choking Vines", "text": "This breath will be your last!" },
+      { "context": "Summoning Lashers", "text": "I will crush the life from you!" },
+      { "context": "Summoning Lashers", "text": "My tendrils will take you!" },
+      { "context": "Player Killed", "text": "Fodder for the compost heap!" },
+      { "context": "Player Killed", "text": "Food for the worms!" },
+      { "context": "Wipe", "text": "They did not show the proper respect to nature." },
+      { "context": "Wipe", "text": "Mortals seldom appreciate true beauty." },
+      { "context": "Death", "text": "Now I... shall feed... the soil..." },
+      { "context": "Death", "text": "My end... was written... in the rings..." }
+    ]},
+    { "id": 117194, "name": "Thrashbite the Scornful", "filterName": "thrashbite", "quotes": [] },
+    { "id": 118804, "name": "Domatrax", "filterName": "domatrax", "quotes": [] },
+    { "id": 116944, "name": "Mephistroth", "filterName": "mephistroth", "quotes": [] }
+  ]
+}

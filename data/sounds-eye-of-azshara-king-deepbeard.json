@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "npc": "King Deepbeard",
+    "dungeon": "Eye of Azshara",
+    "filterName": "deepbeard",
+    "namePattern": "",
+    "generated": "2026-05-19T12:41:52-07:00",
+    "soundCount": 30
+  },
+  "sounds": [
+    {
+      "soundId": 54326,
+      "filename": "VO_70_King_Deepbeard_13",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/229/1274853/VO_70_King_Deepbeard_13.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Justice for the son you murdered!"
+    },
+    {
+      "soundId": 53637,
+      "filename": "FX_Azsuna_DeepBeardsCove_DistantThunder_Flavor",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/565712/FX_ThunderCrack01.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Thankfully, thanks for watching!"
+    },
+    {
+      "soundId": 54310,
+      "filename": "VO_70_King_Deepbeard_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/197/1274821/VO_70_King_Deepbeard_01.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "SEES! OBEY MY COMMAND!"
+    },
+    {
+      "soundId": 54315,
+      "filename": "VO_70_King_Deepbeard_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/1274831/VO_70_King_Deepbeard_06.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "The Earth trembles before the rising tide."
+    },
+    {
+      "soundId": 54317,
+      "filename": "VO_70_King_Deepbeard_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/1274835/VO_70_King_Deepbeard_08.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Oh, you killed my son! Your punishment is death!"
+    },
+    {
+      "soundId": 58533,
+      "filename": "VO_70_KING_DEEPBEARD_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/1351419/VO_70_King_Deepbeard_Wound_01.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "But"
+    },
+    {
+      "soundId": 64363,
+      "filename": "Spell_7.0_NagaDungeon_Deepbeard_Quake_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/930440/FX_Explosion_Rock_Debris_01.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": ""
+    },
+    {
+      "soundId": 64316,
+      "filename": "Spell_7.0_NagaDungeon_KingDeepbeard_CalltheSeas_AreaPersistant",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/242/625394/FX_WaterWheel_WaterMovement_Medium_Loop_01.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Thank you."
+    },
+    {
+      "soundId": 54311,
+      "filename": "VO_70_King_Deepbeard_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/1274823/VO_70_King_Deepbeard_02.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "BOOBOO!"
+    },
+    {
+      "soundId": 54312,
+      "filename": "VO_70_King_Deepbeard_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/201/1274825/VO_70_King_Deepbeard_03.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "How long can you hold your breath, High Wonder?"
+    },
+    {
+      "soundId": 54313,
+      "filename": "VO_70_King_Deepbeard_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/203/1274827/VO_70_King_Deepbeard_04.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Pity you cannot survive without air!"
+    },
+    {
+      "soundId": 54314,
+      "filename": "VO_70_King_Deepbeard_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/205/1274829/VO_70_King_Deepbeard_05.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Before the crashing waves comes the quake"
+    },
+    {
+      "soundId": 54320,
+      "filename": "VO_70_King_Deepbeard_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/217/1274841/VO_70_King_Deepbeard_11.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "The oceans rest. But the wind still rises against you."
+    },
+    {
+      "soundId": 64362,
+      "filename": "SPELL_7.0_NagaDungeo_Deepbeard_Quake_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/568794/SPELL_SH_Earthquake_Loop_Persistant_03.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": ""
+    },
+    {
+      "soundId": 54318,
+      "filename": "VO_70_King_Deepbeard_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/1274837/VO_70_King_Deepbeard_09.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "You haven't won. She is almost here."
+    },
+    {
+      "soundId": 54319,
+      "filename": "VO_70_King_Deepbeard_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/215/1274839/VO_70_King_Deepbeard_10.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "I... I failed... But my queen will not!"
+    },
+    {
+      "soundId": 54332,
+      "filename": "VO_70_King_Deepbeard_15",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/241/1274865/VO_70_King_Deepbeard_15.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "This was as inevitable as the tide's fools."
+    },
+    {
+      "soundId": 58532,
+      "filename": "VO_70_KING_DEEPBEARD_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/246/1351414/VO_70_King_Deepbeard_AttackCrit_01.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Huh?! TIE!!"
+    },
+    {
+      "soundId": 64358,
+      "filename": "VO_70_KING_DEEPBEARD_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/247/1351415/VO_70_King_Deepbeard_AttackCrit_02.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "RAWRGHHH"
+    },
+    {
+      "soundId": 64317,
+      "filename": "Spell_7.0_NagaDungeon_Deepbeard_CalltheSeas_AreaNested",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/610513/FX_Water_Bubble_Impact__Large01.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "BOOM!"
+    },
+    {
+      "soundId": 64360,
+      "filename": "Spell_7.0_NagaDungeon_Deepbeard_GaseousBubbles_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/608139/Emitter_Waterfall_Large_01.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": ""
+    },
+    {
+      "soundId": 64359,
+      "filename": "Spell_7.0_NagaDungeon_Deepbeard_GaseousBubble_Precast_Nested",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/203/1120203/Spell_Corruption_Heavy_Impact01.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "You"
+    },
+    {
+      "soundId": 64356,
+      "filename": "Spell_7.0_NagaDungeon_Deepbeard_GasesousBubbles_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/85/568405/FX_WaterBolt_Cast_02.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "You"
+    },
+    {
+      "soundId": 64323,
+      "filename": "Spell_NagaDungeon_Deepbeard_CalltheSeas_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/121/591737/SPELL_WaterNova_01.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "You"
+    },
+    {
+      "soundId": 64322,
+      "filename": "Spell_NagaDungeon_Deepbeard_CalltheSeas_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/225/610529/FX_Water_Impacts_Heavy01.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "You"
+    },
+    {
+      "soundId": 54316,
+      "filename": "VO_70_King_Deepbeard_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/1274833/VO_70_King_Deepbeard_07.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Ha ha ha ha! You weaklings will drown beneath these waves!"
+    },
+    {
+      "soundId": 54322,
+      "filename": "VO_70_King_Deepbeard_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/221/1274845/VO_70_King_Deepbeard_12.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "The winds will finish you in Trudas."
+    },
+    {
+      "soundId": 54329,
+      "filename": "VO_70_King_Deepbeard_14",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/235/1274859/VO_70_King_Deepbeard_14.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Blood repays blood."
+    },
+    {
+      "soundId": 58531,
+      "filename": "VO_70_KING_DEEPBEARD_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/236/1351404/VO_70_King_Deepbeard_Attack_01.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "huh"
+    },
+    {
+      "soundId": 58534,
+      "filename": "VO_70_KING_DEEPBEARD_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/5/1351429/VO_70_King_Deepbeard_WoundCrit_01.ogg",
+      "npc": "King Deepbeard",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Du lash just gets harder"
+    }
+  ]
+}

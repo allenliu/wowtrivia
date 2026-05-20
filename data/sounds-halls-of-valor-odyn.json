@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "npc": "Odyn",
+    "dungeon": "Halls of Valor",
+    "filterName": "odyn",
+    "namePattern": "^VO_701_Odyn",
+    "generated": "2026-05-19T16:48:09-07:00",
+    "soundCount": 30
+  },
+  "sounds": [
+    {
+      "soundId": 60142,
+      "filename": "VO_701_Odyn_23",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/145/1365905/VO_701_Odyn_23.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "A magnificent battle. World Dunn Champion."
+    },
+    {
+      "soundId": 60080,
+      "filename": "VO_701_Odyn_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/140/1365388/VO_701_Odyn_06.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "These new challengers seek to complete the trials you have bested. Show them how a true champion fights."
+    },
+    {
+      "soundId": 60081,
+      "filename": "VO_701_Odyn_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/142/1365390/VO_701_Odyn_07.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Whether you taught them their place in this life now, then they delude themselves further."
+    },
+    {
+      "soundId": 60098,
+      "filename": "VO_701_Odyn_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/182/1365430/VO_701_Odyn_12.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Loads of Naga have crawled forth from their dark halls beneath the sea. I cannot abide the presence of such corrupt beasts. Show them the meaning of honorable battle!"
+    },
+    {
+      "soundId": 57162,
+      "filename": "VO_701_Odyn_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/1315140/VO_701_Odyn_04.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Before you lies your next trial. Defeat both Persia and Fenrir, and you will have proven your worth to me."
+    },
+    {
+      "soundId": 57159,
+      "filename": "VO_701_Odyn_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/61/1315133/VO_701_Odyn_01.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "This place will test your metal. And if you are found worthy, the Aegis of Aggrimmar will be yours."
+    },
+    {
+      "soundId": 57161,
+      "filename": "VO_701_Odyn_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/66/1315138/VO_701_Odyn_03.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "You have earned my blessing, champions. I look forward to meeting you within the Hall of Glory."
+    },
+    {
+      "soundId": 57163,
+      "filename": "VO_701_Odyn_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/70/1315142/VO_701_Odyn_05.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": ""
+    },
+    {
+      "soundId": 60095,
+      "filename": "VO_701_Odyn_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/176/1365424/VO_701_Odyn_09.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "We must not suffer hellia's minions to gain territory un-fought. Your loyalty will be rewarded."
+    },
+    {
+      "soundId": 60096,
+      "filename": "VO_701_Odyn_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/1365426/VO_701_Odyn_10.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Champion, a great malevolence has risen in the mists. Gather your most powerful allies and meet the Kaval Deer in battle."
+    },
+    {
+      "soundId": 60097,
+      "filename": "VO_701_Odyn_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/180/1365428/VO_701_Odyn_11.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Even my most loyal vrykul dare not enter the mists, for fear of their souls. I commend your bravery mortal."
+    },
+    {
+      "soundId": 60099,
+      "filename": "VO_701_Odyn_13",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/184/1365432/VO_701_Odyn_13.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Naga are vile creatures and dangerous if left unchecked. The death you gave them was more noble than they deserved."
+    },
+    {
+      "soundId": 60101,
+      "filename": "VO_701_Odyn_15",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/188/1365436/VO_701_Odyn_15.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Well done. I remember the one whom this village owes its name. He was a fine leader."
+    },
+    {
+      "soundId": 60102,
+      "filename": "VO_701_Odyn_16",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/190/1365438/VO_701_Odyn_16.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Your allies spill the blood of their rivals upon the field of battle. Join them and prove your valor!"
+    },
+    {
+      "soundId": 60103,
+      "filename": "VO_701_Odyn_17",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/192/1365440/VO_701_Odyn_17.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Well thought! You have shown yourself to be worthy!"
+    },
+    {
+      "soundId": 60136,
+      "filename": "VO_701_Odyn_18",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/1365890/VO_701_Odyn_18.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Hero, once more you have proven your valor to me!"
+    },
+    {
+      "soundId": 60138,
+      "filename": "VO_701_Odyn_19",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/1365895/VO_701_Odyn_19.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Our fail is a foe worth fighting. Prove your valor! Slay the beast and my reward is yours!"
+    },
+    {
+      "soundId": 60141,
+      "filename": "VO_701_Odyn_22",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/141/1365901/VO_701_Odyn_22.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Only by strength in battle can you be measured a champion! Let my Stormforge begin your test."
+    },
+    {
+      "soundId": 60156,
+      "filename": "VO_701_Odyn_25",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/1366229/VO_701_Odyn_25.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Throughout the ages, the legends of my Stormforged champions have spurred warriors to greatness. Go forth and learn these tales that you might be so inspired."
+    },
+    {
+      "soundId": 60361,
+      "filename": "VO_701_Odyn_28",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/160/1370016/VO_701_Odyn_28.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "You have proven yourself the greatest living warrior on Azeroth. It is for this reason I have saved you."
+    },
+    {
+      "soundId": 60363,
+      "filename": "VO_701_Odyn_30",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/162/1370018/VO_701_Odyn_30.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "I name you, Val'azha! Bring glory to these halls, on the wings of my Valkyr!"
+    },
+    {
+      "soundId": 57160,
+      "filename": "VO_701_Odyn_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/1315135/VO_701_Odyn_02.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Long have I awaited noble champions to enter my realm. Behold, the halls of valor."
+    },
+    {
+      "soundId": 60094,
+      "filename": "VO_701_Odyn_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/174/1365422/VO_701_Odyn_08.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Among the souls you have rescued, there are some who wish to regain their honor fighting alongside you against the Cavaldeer."
+    },
+    {
+      "soundId": 60100,
+      "filename": "VO_701_Odyn_14",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/186/1365434/VO_701_Odyn_14.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Honourless Merlots have overtaken the village of Malheim. I cannot abide their presence in that one sacred place. Erraticate this filth!"
+    },
+    {
+      "soundId": 60139,
+      "filename": "VO_701_Odyn_20",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/137/1365897/VO_701_Odyn_20.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Earl Nark is a misshapen pest. Long has this effing poached the field of the Eternal Hunt. Put an end to his troublemaking."
+    },
+    {
+      "soundId": 60140,
+      "filename": "VO_701_Odyn_21",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/1365899/VO_701_Odyn_21.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Thank you, mortal. Elnok will poach these fields no longer."
+    },
+    {
+      "soundId": 60155,
+      "filename": "VO_701_Odyn_24",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/1366227/VO_701_Odyn_24.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "Knowledge is but the first step. Only when these tales roar within your heart will you become a hero worthy of our legacy."
+    },
+    {
+      "soundId": 60157,
+      "filename": "VO_701_Odyn_26",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/215/1366231/VO_701_Odyn_26.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "These aids will make a fine present to the fear. The scars you earn collected them, mark you a true champion. Well done!"
+    },
+    {
+      "soundId": 60158,
+      "filename": "VO_701_Odyn_27",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/217/1366233/VO_701_Odyn_27.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "I seek to forge an alliance with the fear of the mighty Drake of Stormhine. Collect a clutch of eggs for my own brood, so that I might make a gift of them. Be wary though, the brood mothers do not abide anyone poking around their nests."
+    },
+    {
+      "soundId": 60362,
+      "filename": "VO_701_Odyn_29",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/161/1370017/VO_701_Odyn_29.ogg",
+      "npc": "Odyn",
+      "dungeon": "Halls of Valor",
+      "transcript": "I have foreseen the coming of a mighty champion to these shores, one who would slay countless foes and prove their valour time and again, one who would lead my armies to victory against the great darkness that seeks to devour this world!"
+    }
+  ]
+}

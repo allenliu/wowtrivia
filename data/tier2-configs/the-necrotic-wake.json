@@ -1,0 +1,20 @@
+{
+  "dungeon": "The Necrotic Wake",
+  "slug": "the-necrotic-wake",
+  "wowheadZoneId": 12916,
+  "expansion": "Shadowlands",
+  "bosses": [
+    { "id": 162689, "name": "Surgeon Stitchflesh", "filterName": "stitchflesh", "quotes": [
+      { "context": "Intro", "text": "Just a moment longer. It seems that the parts for my new creation have arrived." },
+      { "context": "Assistants Spawn", "text": "Come, my assistants! These raw materials are in need of processing!" },
+      { "context": "Assistants Slain", "text": "Incompetent oafs! Goregrind! Try not to damage those limbs." },
+      { "context": "Goregrind Slain", "text": "How vexing. Rotspew! Get to work, and don't fail me like your predecessor!" },
+      { "context": "Rotspew Slain", "text": "No! Now I have to rebuild those two from scratch! It seems I must take matters." },
+      { "context": "Aggro", "text": "I can't wait to put your corpse to use." },
+      { "context": "Death", "text": "My greatest... was yet... to come...." }
+    ]},
+    { "id": 162691, "name": "Blightbone", "filterName": "blightbone", "quotes": [] },
+    { "id": 162692, "name": "Amarth", "filterName": "amarth", "namePattern": "^VO_.*Amarth", "quotes": [] },
+    { "id": 162693, "name": "Nalthor the Rimebinder", "filterName": "nalthor", "namePattern": "^VO_.*Nalthor", "quotes": [] }
+  ]
+}

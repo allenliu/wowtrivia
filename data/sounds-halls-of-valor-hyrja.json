@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "npc": "Hyrja",
+    "dungeon": "Halls of Valor",
+    "filterName": "hyrja",
+    "namePattern": "",
+    "generated": "2026-05-19T16:44:53-07:00",
+    "soundCount": 31
+  },
+  "sounds": [
+    {
+      "soundId": 64544,
+      "filename": "Spell_Valhallas_Hyrja_TransformIntoValkyr_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/79/568911/SPELL_Holy_Precast_Var2_Loop_03.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "you"
+    },
+    {
+      "soundId": 64545,
+      "filename": "Spell_Valhallas_Hyrja_TransformINtoValkyr_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/1377121/Spell_PA_HolyWrath_Impact_06.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "BOOM!"
+    },
+    {
+      "soundId": 54663,
+      "filename": "VO_70_Hyrja_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/244/1275892/VO_70_Hyrja_01.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "I am not nervous, only excited. All my life has led to this one glorious moment."
+    },
+    {
+      "soundId": 54668,
+      "filename": "VO_70_Hyrja_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/4/1275908/VO_70_Hyrja_02.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "I will purge them from these sacred halls myself."
+    },
+    {
+      "soundId": 54680,
+      "filename": "VO_70_Hyrja_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/39/1275943/VO_70_Hyrja_03.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "Begone from these hallowed halls!"
+    },
+    {
+      "soundId": 54681,
+      "filename": "VO_70_Hyrja_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/41/1275945/VO_70_Hyrja_04.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "Here we're polluting these halls, no more!"
+    },
+    {
+      "soundId": 54682,
+      "filename": "VO_70_Hyrja_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/43/1275947/VO_70_Hyrja_05.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "I am sorry, Eyer. I have failed you."
+    },
+    {
+      "soundId": 54684,
+      "filename": "VO_70_Hyrja_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/48/1275952/VO_70_Hyrja_07.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "None can stand against Aya's chosen!"
+    },
+    {
+      "soundId": 77598,
+      "filename": "VO_71_Hyrja_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/1518514/VO_71_Hyrja_02_F.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "Fall in line!"
+    },
+    {
+      "soundId": 64553,
+      "filename": "Spell_Valhallas_Hyrja_EyeoftheStorm_Trigger",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/569306/Holy_Form_Precast.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": ""
+    },
+    {
+      "soundId": 64554,
+      "filename": "Spell_Valhallas_Hyrja_SearingLight_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/568366/SPELL_PA_HolyRadiance_Impact_01.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": ""
+    },
+    {
+      "soundId": 54688,
+      "filename": "VO_70_Hyrja_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/62/1275966/VO_70_Hyrja_10.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "It is done, Eir! The sanctity of this place is preserved."
+    },
+    {
+      "soundId": 77599,
+      "filename": "VO_71_Hyrja_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/1518515/VO_71_Hyrja_03_F.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "Stand together or die alone!"
+    },
+    {
+      "soundId": 77600,
+      "filename": "VO_71_Hyrja_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/180/1518516/VO_71_Hyrja_04_F.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "Hell you won't be as gentle as I!"
+    },
+    {
+      "soundId": 77601,
+      "filename": "VO_71_Hyrja_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/1518517/VO_71_Hyrja_05_F.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "I'm worthy!"
+    },
+    {
+      "soundId": 78341,
+      "filename": "Spell_HelheimRaid_Hyrja_ExpelLight_State",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/203/568779/FX_Nature_PreCast_Low_Hand_LP_04.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": ""
+    },
+    {
+      "soundId": 78342,
+      "filename": "Spell_HelheimRaid_Hyrja_Revivify_State",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/569479/SPELL_PA_HolyRadiance_State_Loop_02.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": ""
+    },
+    {
+      "soundId": 64546,
+      "filename": "Spell_Valhallas_Hyrja_ExpelLight_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/58/569402/HolyBolt.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": ""
+    },
+    {
+      "soundId": 64547,
+      "filename": "Spell_Valhallas_Hyrja_ExpelLight_Instant_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/642941/FX_Spirit_Explosion03.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": ""
+    },
+    {
+      "soundId": 64552,
+      "filename": "Spell_Valhallas_Hyrja_EyeoftheStorm_BulletHell_Channel",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/166/568486/SPELL_PA_HolyRadiance_Impact_04.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": ""
+    },
+    {
+      "soundId": 64551,
+      "filename": "Spell_Valhallas_Hyrja_EyeoftheStorm_Channel",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/163/635043/FX_LightningStorm01.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": ""
+    },
+    {
+      "soundId": 64549,
+      "filename": "Spell_Valhallas_Hyrja_EyeoftheStorm_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/797958/FX_Lightning_Electrical_Loop01.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": ""
+    },
+    {
+      "soundId": 54683,
+      "filename": "VO_70_Hyrja_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/1275950/VO_70_Hyrja_06.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "Ayer, you were wrong to put your faith in me."
+    },
+    {
+      "soundId": 54685,
+      "filename": "VO_70_Hyrja_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/50/1275954/VO_70_Hyrja_08.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "You die as you lived, without honor."
+    },
+    {
+      "soundId": 54687,
+      "filename": "VO_70_Hyrja_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/56/1275960/VO_70_Hyrja_09.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "I will not fail you, A-Hear!"
+    },
+    {
+      "soundId": 57854,
+      "filename": "VO_70_HYRJA_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/39/1333543/VO_70_Hyrja_Attack_01.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "Wah!"
+    },
+    {
+      "soundId": 57855,
+      "filename": "VO_70_HYRJA_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/1333553/VO_70_Hyrja_AttackCrit_01.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "Arggghh!"
+    },
+    {
+      "soundId": 57856,
+      "filename": "VO_70_HYRJA_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/54/1333558/VO_70_Hyrja_Wound_01.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "uh"
+    },
+    {
+      "soundId": 57857,
+      "filename": "VO_70_HYRJA_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/1333568/VO_70_Hyrja_WoundCrit_01.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "AHHHHH"
+    },
+    {
+      "soundId": 77597,
+      "filename": "VO_71_Hyrja_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/177/1518513/VO_71_Hyrja_01_F.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "So be it! The unworthy shall be purged from the halls of Valar!"
+    },
+    {
+      "soundId": 77602,
+      "filename": "VO_71_Hyrja_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/182/1518518/VO_71_Hyrja_06_F.ogg",
+      "npc": "Hyrja",
+      "dungeon": "Halls of Valor",
+      "transcript": "These mortals show promise."
+    }
+  ]
+}

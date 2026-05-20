@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "npc": "Smashspite the Hateful",
+    "dungeon": "Black Rook Hold",
+    "filterName": "smashspite",
+    "namePattern": "",
+    "generated": "2026-05-19T17:04:50-07:00",
+    "soundCount": 14
+  },
+  "sounds": [
+    {
+      "soundId": 54504,
+      "filename": "VO_70_Smashspite_the_Hateful_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/1275344/VO_70_Smashspite_the_Hateful_05.ogg",
+      "npc": "Smashspite the Hateful",
+      "dungeon": "Black Rook Hold",
+      "transcript": "I will bite this cape with your blood."
+    },
+    {
+      "soundId": 72923,
+      "filename": "SPELL_BlackrookHold_SmashspiteTheHateful_Earthshaking_Stomp",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/930440/FX_Explosion_Rock_Debris_01.ogg",
+      "npc": "Smashspite the Hateful",
+      "dungeon": "Black Rook Hold",
+      "transcript": ""
+    },
+    {
+      "soundId": 54501,
+      "filename": "VO_70_Smashspite_the_Hateful_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/202/1275338/VO_70_Smashspite_the_Hateful_02.ogg",
+      "npc": "Smashspite the Hateful",
+      "dungeon": "Black Rook Hold",
+      "transcript": "TREMBLE BEANIES ME"
+    },
+    {
+      "soundId": 54506,
+      "filename": "VO_70_Smashspite_the_Hateful_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/212/1275348/VO_70_Smashspite_the_Hateful_07.ogg",
+      "npc": "Smashspite the Hateful",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Don't bother running free!"
+    },
+    {
+      "soundId": 60212,
+      "filename": "VO_70_SMASHSPITE_THE_HATEFUL_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/242/1369330/vo_70_smashspite_the_hateful_attackcrit_01.ogg",
+      "npc": "Smashspite the Hateful",
+      "dungeon": "Black Rook Hold",
+      "transcript": "GRR!"
+    },
+    {
+      "soundId": 54635,
+      "filename": "VO_70_Smashspite_the_Hateful_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/93/1275741/VO_70_Smashspite_the_Hateful_08.ogg",
+      "npc": "Smashspite the Hateful",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Take this!"
+    },
+    {
+      "soundId": 54500,
+      "filename": "VO_70_Smashspite_the_Hateful_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/1275336/VO_70_Smashspite_the_Hateful_01.ogg",
+      "npc": "Smashspite the Hateful",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Out with the refuse!"
+    },
+    {
+      "soundId": 54502,
+      "filename": "VO_70_Smashspite_the_Hateful_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/204/1275340/VO_70_Smashspite_the_Hateful_03.ogg",
+      "npc": "Smashspite the Hateful",
+      "dungeon": "Black Rook Hold",
+      "transcript": "No. You... You killed him!"
+    },
+    {
+      "soundId": 54503,
+      "filename": "VO_70_Smashspite_the_Hateful_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/206/1275342/VO_70_Smashspite_the_Hateful_04.ogg",
+      "npc": "Smashspite the Hateful",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Ha! Gotcha!"
+    },
+    {
+      "soundId": 54505,
+      "filename": "VO_70_Smashspite_the_Hateful_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/210/1275346/VO_70_Smashspite_the_Hateful_06.ogg",
+      "npc": "Smashspite the Hateful",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Next time, the master will not tolerate Swarth? Where are you?"
+    },
+    {
+      "soundId": 54636,
+      "filename": "VO_70_Smashspite_the_Hateful_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/95/1275743/VO_70_Smashspite_the_Hateful_09.ogg",
+      "npc": "Smashspite the Hateful",
+      "dungeon": "Black Rook Hold",
+      "transcript": "But I can lose."
+    },
+    {
+      "soundId": 60211,
+      "filename": "VO_70_SMASHSPITE_THE_HATEFUL_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/232/1369320/vo_70_smashspite_the_hateful_attack_01.ogg",
+      "npc": "Smashspite the Hateful",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Four years!"
+    },
+    {
+      "soundId": 60213,
+      "filename": "VO_70_SMASHSPITE_THE_HATEFUL_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/247/1369335/vo_70_smashspite_the_hateful_wound_01.ogg",
+      "npc": "Smashspite the Hateful",
+      "dungeon": "Black Rook Hold",
+      "transcript": "6"
+    },
+    {
+      "soundId": 60214,
+      "filename": "VO_70_SMASHSPITE_THE_HATEFUL_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/1369345/vo_70_smashspite_the_hateful_woundcrit_01.ogg",
+      "npc": "Smashspite the Hateful",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Bwaah!!"
+    }
+  ]
+}

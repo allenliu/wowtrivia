@@ -1,0 +1,436 @@
+{
+  "meta": {
+    "npc": "Sister Briar",
+    "dungeon": "Waycrest Manor",
+    "filterName": "briar",
+    "namePattern": "",
+    "generated": "2026-05-19T12:25:38-07:00",
+    "soundCount": 53
+  },
+  "sounds": [
+    {
+      "soundId": 100674,
+      "filename": "VO_801_Sister_Briar_Attack_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/30/1904414/VO_801_Sister_Briar_Attack_08.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Aha!"
+    },
+    {
+      "soundId": 100677,
+      "filename": "VO_801_SISTER_BRIAR_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/38/1904422/VO_801_Sister_Briar_BattleShout_01.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "AAAAA!"
+    },
+    {
+      "soundId": 100698,
+      "filename": "VO_801_Sister_Briar_Wound_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/54/1904438/VO_801_Sister_Briar_Wound_09.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "FAH!"
+    },
+    {
+      "soundId": 100667,
+      "filename": "VO_801_SISTER_BRIAR_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/23/1904407/VO_801_Sister_Briar_Attack_01.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 112271,
+      "filename": "SPELL_8.0_Stormsong_BriarbackThornmatron_EarthBolt_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/1936971/FX_AcidHissBubbles_Impact_Med_01.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 100687,
+      "filename": "VO_801_Sister_Briar_WoundCrit_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/58/1904442/VO_801_Sister_Briar_WoundCrit_03.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Woo hoody!"
+    },
+    {
+      "soundId": 100670,
+      "filename": "VO_801_Sister_Briar_Attack_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/26/1904410/VO_801_Sister_Briar_Attack_04.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "nieaho"
+    },
+    {
+      "soundId": 100681,
+      "filename": "VO_801_Sister_Briar_Death_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/42/1904426/VO_801_Sister_Briar_Death_02.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Ugh! Ugh!"
+    },
+    {
+      "soundId": 100684,
+      "filename": "VO_801_Sister_Briar_Death_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/1904429/VO_801_Sister_Briar_Death_05.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Because if my acts are moreتي..\" mMMgoodadas"
+    },
+    {
+      "soundId": 100668,
+      "filename": "VO_801_Sister_Briar_Attack_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/24/1904408/VO_801_Sister_Briar_Attack_02.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Phew!"
+    },
+    {
+      "soundId": 100682,
+      "filename": "VO_801_Sister_Briar_Death_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/43/1904427/VO_801_Sister_Briar_Death_03.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Bawk!!"
+    },
+    {
+      "soundId": 100691,
+      "filename": "VO_801_Sister_Briar_Wound_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/47/1904431/VO_801_Sister_Briar_Wound_02.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Hyaaaaa"
+    },
+    {
+      "soundId": 46984,
+      "filename": "Spell_Everbloom_Boss2_Briarskin_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/203/568779/FX_Nature_PreCast_Low_Hand_LP_04.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 112268,
+      "filename": "SPELL_8.0_Stormsong_BriarbackPackmaster_ImpalingQuills_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/1393977/2H_Sword_NPC_Hit_Flesh_01.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "You"
+    },
+    {
+      "soundId": 46985,
+      "filename": "Spell_Everbloom_Boss2_BriarSkin_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/90/568922/Alert_DR_Clearcasting.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "You"
+    },
+    {
+      "soundId": 97503,
+      "filename": "VO_801_Sister_Briar_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/1860705/VO_801_Sister_Briar_01_F.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Oh, such supple bones!"
+    },
+    {
+      "soundId": 97510,
+      "filename": "VO_801_Sister_Briar_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/1860712/VO_801_Sister_Briar_08_F.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Power's high and spirit's low Grant my thistle's room to grow!"
+    },
+    {
+      "soundId": 100662,
+      "filename": "VO_801_SISTER_BRIAR_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/1904417/VO_801_Sister_Briar_AttackCrit_01.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "hahaha"
+    },
+    {
+      "soundId": 100672,
+      "filename": "VO_801_Sister_Briar_Attack_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/28/1904412/VO_801_Sister_Briar_Attack_06.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "HMMMMMMMMMMMMMMMMM"
+    },
+    {
+      "soundId": 100675,
+      "filename": "VO_801_Sister_Briar_Attack_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/1904415/VO_801_Sister_Briar_Attack_09.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Oh!"
+    },
+    {
+      "soundId": 100676,
+      "filename": "VO_801_Sister_Briar_Attack_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/32/1904416/VO_801_Sister_Briar_Attack_10.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Huh."
+    },
+    {
+      "soundId": 100680,
+      "filename": "VO_801_SISTER_BRIAR_DEATH",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/41/1904425/VO_801_Sister_Briar_Death_01.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "NOOOOO!"
+    },
+    {
+      "soundId": 100685,
+      "filename": "VO_801_SISTER_BRIAR_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/56/1904440/VO_801_Sister_Briar_WoundCrit_01.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "BWAH!"
+    },
+    {
+      "soundId": 100686,
+      "filename": "VO_801_Sister_Briar_WoundCrit_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/1904441/VO_801_Sister_Briar_WoundCrit_02.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "PIIIIIIIIIIIIIIIIIIIIIIIIII Napoleon Nooo!"
+    },
+    {
+      "soundId": 100688,
+      "filename": "VO_801_Sister_Briar_WoundCrit_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/59/1904443/VO_801_Sister_Briar_WoundCrit_04.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "AH"
+    },
+    {
+      "soundId": 100692,
+      "filename": "VO_801_Sister_Briar_Wound_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/48/1904432/VO_801_Sister_Briar_Wound_03.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "學"
+    },
+    {
+      "soundId": 100694,
+      "filename": "VO_801_Sister_Briar_Wound_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/50/1904434/VO_801_Sister_Briar_Wound_05.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "RAAAAAAAAAA!"
+    },
+    {
+      "soundId": 100695,
+      "filename": "VO_801_Sister_Briar_Wound_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/1904435/VO_801_Sister_Briar_Wound_06.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "NOOOOO"
+    },
+    {
+      "soundId": 120223,
+      "filename": "SPELL_8.0_Stormsong_BriarbackKraul_DestroySpores_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/227/925923/FX_FireBall_Launch02.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "au"
+    },
+    {
+      "soundId": 112270,
+      "filename": "SPELL_8.0_Stormsong_BriarbackThornmatron_EarthBolt_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/118/1729654/Spell_DeathMagic_Cast_01.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "You"
+    },
+    {
+      "soundId": 112269,
+      "filename": "SPELL_8.0_Stormsong_BriarbackThornmatron_Thornshape_Channel",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/116/1729652/Spell_DeathMagic_Precast_Loop_01.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 97504,
+      "filename": "VO_801_Sister_Briar_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/98/1860706/VO_801_Sister_Briar_02_F.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "I love the sound of snapping limbs."
+    },
+    {
+      "soundId": 97505,
+      "filename": "VO_801_Sister_Briar_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/1860707/VO_801_Sister_Briar_03_F.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Oh, my roots will sprout again."
+    },
+    {
+      "soundId": 97506,
+      "filename": "VO_801_Sister_Briar_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/100/1860708/VO_801_Sister_Briar_04_F.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Your skulls will make lovely ornaments."
+    },
+    {
+      "soundId": 97507,
+      "filename": "VO_801_Sister_Briar_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/1860709/VO_801_Sister_Briar_05_F.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "The more you struggle, the more you bleed."
+    },
+    {
+      "soundId": 97508,
+      "filename": "VO_801_Sister_Briar_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/102/1860710/VO_801_Sister_Briar_06_F.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Oh my thorns, we'll rip you to shreds!"
+    },
+    {
+      "soundId": 97509,
+      "filename": "VO_801_Sister_Briar_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/103/1860711/VO_801_Sister_Briar_07_F.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Release the Iris to me, sister!"
+    },
+    {
+      "soundId": 100663,
+      "filename": "VO_801_Sister_Briar_AttackCrit_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/34/1904418/VO_801_Sister_Briar_AttackCrit_02.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "giant Trying bib"
+    },
+    {
+      "soundId": 100664,
+      "filename": "VO_801_Sister_Briar_AttackCrit_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/1904419/VO_801_Sister_Briar_AttackCrit_03.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "U Onion Yuck ansch"
+    },
+    {
+      "soundId": 100665,
+      "filename": "VO_801_Sister_Briar_AttackCrit_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/36/1904420/VO_801_Sister_Briar_AttackCrit_04.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Yeah"
+    },
+    {
+      "soundId": 100666,
+      "filename": "VO_801_Sister_Briar_AttackCrit_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/37/1904421/VO_801_Sister_Briar_AttackCrit_05.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Rr week and lava"
+    },
+    {
+      "soundId": 100669,
+      "filename": "VO_801_Sister_Briar_Attack_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/25/1904409/VO_801_Sister_Briar_Attack_03.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "NYEAH!"
+    },
+    {
+      "soundId": 100673,
+      "filename": "VO_801_Sister_Briar_Attack_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/1904413/VO_801_Sister_Briar_Attack_07.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "ARGH!!"
+    },
+    {
+      "soundId": 100678,
+      "filename": "VO_801_Sister_Briar_BattleShout_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/39/1904423/VO_801_Sister_Briar_BattleShout_02.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "AAAAAHHHHHH"
+    },
+    {
+      "soundId": 100683,
+      "filename": "VO_801_Sister_Briar_Death_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/44/1904428/VO_801_Sister_Briar_Death_04.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Ho, tedious!"
+    },
+    {
+      "soundId": 100690,
+      "filename": "VO_801_SISTER_BRIAR_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/1904430/VO_801_Sister_Briar_Wound_01.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "sadly"
+    },
+    {
+      "soundId": 100689,
+      "filename": "VO_801_Sister_Briar_WoundCrit_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/60/1904444/VO_801_Sister_Briar_WoundCrit_05.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Wah!!!"
+    },
+    {
+      "soundId": 100693,
+      "filename": "VO_801_Sister_Briar_Wound_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/1904433/VO_801_Sister_Briar_Wound_04.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "UGH!"
+    },
+    {
+      "soundId": 100697,
+      "filename": "VO_801_Sister_Briar_Wound_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/1904437/VO_801_Sister_Briar_Wound_08.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Eugh!"
+    },
+    {
+      "soundId": 100671,
+      "filename": "VO_801_Sister_Briar_Attack_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/27/1904411/VO_801_Sister_Briar_Attack_05.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "TOOL!"
+    },
+    {
+      "soundId": 100699,
+      "filename": "VO_801_Sister_Briar_Wound_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/55/1904439/VO_801_Sister_Briar_Wound_10.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "jack"
+    },
+    {
+      "soundId": 100679,
+      "filename": "VO_801_Sister_Briar_BattleShout_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/40/1904424/VO_801_Sister_Briar_BattleShout_03.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Rraaaaahhhhhhhhh!"
+    },
+    {
+      "soundId": 100696,
+      "filename": "VO_801_Sister_Briar_Wound_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/52/1904436/VO_801_Sister_Briar_Wound_07.ogg",
+      "npc": "Sister Briar",
+      "dungeon": "Waycrest Manor",
+      "transcript": "isz"
+    }
+  ]
+}

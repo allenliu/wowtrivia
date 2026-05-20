@@ -1,0 +1,27 @@
+{
+  "dungeon": "Theater of Pain",
+  "slug": "theater-of-pain",
+  "wowheadZoneId": 12841,
+  "expansion": "Shadowlands",
+  "bosses": [
+    { "id": 165946, "name": "Mordretha", "filterName": "mordretha", "namePattern": "^VO_.*Mordretha",
+      "quotes": [
+        { "context": "Combat", "text": "Accept your defeat." },
+        { "context": "Combat", "text": "All whom you have slain cry out for vengeance!" },
+        { "context": "Combat", "text": "All... things... must end..." },
+        { "context": "Combat", "text": "At long last, a worthy contender..." },
+        { "context": "Combat", "text": "Behold my power and despair!" },
+        { "context": "Combat", "text": "Death itself demands your souls." },
+        { "context": "Combat", "text": "My magic reaches beyond your mortal ken." },
+        { "context": "Combat", "text": "Reality turns its ire against you." },
+        { "context": "Combat", "text": "So ends your trial. In failure." },
+        { "context": "Combat", "text": "You cannot win." },
+        { "context": "Combat", "text": "You shall be swept into oblivion." },
+        { "context": "Combat", "text": "Your wanton slaughter will be returned tenfold!" }
+      ]
+    },
+    { "id": 162317, "name": "Gorechop", "filterName": "gorechop", "namePattern": "^VO_.*Gorechop", "quotes": [] },
+    { "id": 162309, "name": "Kul'tharok", "filterName": "kultharok", "namePattern": "^VO_.*Kultharok", "quotes": [] },
+    { "id": 162329, "name": "Xav the Unfallen", "filterName": "xav_the_unfallen", "namePattern": "^VO_.*Xav_the_Unfallen", "quotes": [] }
+  ]
+}

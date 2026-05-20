@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "npc": "Mordretha",
+    "dungeon": "Theater of Pain",
+    "filterName": "mordretha",
+    "namePattern": "^VO_.*Mordretha",
+    "generated": "2026-05-19T15:40:27-07:00",
+    "soundCount": 14
+  },
+  "sounds": [
+    {
+      "soundId": 152542,
+      "filename": "VO_901_Mordretha_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/165/3483301/VO_901_Mordretha_01_F.ogg",
+      "npc": "Mordretha",
+      "dungeon": "Theater of Pain",
+      "transcript": "So ends your trial in failure."
+    },
+    {
+      "soundId": 152544,
+      "filename": "VO_901_Mordretha_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/167/3483303/VO_901_Mordretha_03_F.ogg",
+      "npc": "Mordretha",
+      "dungeon": "Theater of Pain",
+      "transcript": "You cannot win!"
+    },
+    {
+      "soundId": 152548,
+      "filename": "VO_901_Mordretha_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/3483307/VO_901_Mordretha_07_F.ogg",
+      "npc": "Mordretha",
+      "dungeon": "Theater of Pain",
+      "transcript": "Your wanton slaughter will be returned tenfold!"
+    },
+    {
+      "soundId": 152554,
+      "filename": "VO_901_Mordretha_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/177/3483313/VO_901_Mordretha_13_F.ogg",
+      "npc": "Mordretha",
+      "dungeon": "Theater of Pain",
+      "transcript": "My magic reaches beyond your mortal ken!"
+    },
+    {
+      "soundId": 152551,
+      "filename": "VO_901_Mordretha_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/174/3483310/VO_901_Mordretha_10_F.ogg",
+      "npc": "Mordretha",
+      "dungeon": "Theater of Pain",
+      "transcript": "Death itself demands your souls!"
+    },
+    {
+      "soundId": 152552,
+      "filename": "VO_901_Mordretha_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/175/3483311/VO_901_Mordretha_11_F.ogg",
+      "npc": "Mordretha",
+      "dungeon": "Theater of Pain",
+      "transcript": "Your doom cannot be averted!"
+    },
+    {
+      "soundId": 152543,
+      "filename": "VO_901_Mordretha_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/166/3483302/VO_901_Mordretha_02_F.ogg",
+      "npc": "Mordretha",
+      "dungeon": "Theater of Pain",
+      "transcript": "Accept your defeat!"
+    },
+    {
+      "soundId": 152545,
+      "filename": "VO_901_Mordretha_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/168/3483304/VO_901_Mordretha_04_F.ogg",
+      "npc": "Mordretha",
+      "dungeon": "Theater of Pain",
+      "transcript": "At long last, a worthy contender!"
+    },
+    {
+      "soundId": 152547,
+      "filename": "VO_901_Mordretha_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/3483306/VO_901_Mordretha_06_F.ogg",
+      "npc": "Mordretha",
+      "dungeon": "Theater of Pain",
+      "transcript": "Behold my power and despair!"
+    },
+    {
+      "soundId": 152549,
+      "filename": "VO_901_Mordretha_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/172/3483308/VO_901_Mordretha_08_F.ogg",
+      "npc": "Mordretha",
+      "dungeon": "Theater of Pain",
+      "transcript": "All whom you have slain, cry out for vengeance!"
+    },
+    {
+      "soundId": 152546,
+      "filename": "VO_901_Mordretha_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/3483305/VO_901_Mordretha_05_F.ogg",
+      "npc": "Mordretha",
+      "dungeon": "Theater of Pain",
+      "transcript": "All things must end."
+    },
+    {
+      "soundId": 152550,
+      "filename": "VO_901_Mordretha_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/173/3483309/VO_901_Mordretha_09_F.ogg",
+      "npc": "Mordretha",
+      "dungeon": "Theater of Pain",
+      "transcript": "Reality turns its ire against you!"
+    },
+    {
+      "soundId": 152553,
+      "filename": "VO_901_Mordretha_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/176/3483312/VO_901_Mordretha_12_F.ogg",
+      "npc": "Mordretha",
+      "dungeon": "Theater of Pain",
+      "transcript": "You have been marked. You have been cursed!"
+    },
+    {
+      "soundId": 152555,
+      "filename": "VO_901_Mordretha_14_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/3483314/VO_901_Mordretha_14_F.ogg",
+      "npc": "Mordretha",
+      "dungeon": "Theater of Pain",
+      "transcript": "You shall be so wet in Torblerivian!"
+    }
+  ]
+}

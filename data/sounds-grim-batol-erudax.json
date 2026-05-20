@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "npc": "Erudax",
+    "dungeon": "Grim Batol",
+    "filterName": "erudax",
+    "namePattern": "",
+    "generated": "2026-05-19T14:05:15-07:00",
+    "soundCount": 11
+  },
+  "sounds": [
+    {
+      "soundId": 18639,
+      "filename": "VO_GB_Erudax_Event02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/82/548178/VO_GB_Erudax_Event02.ogg",
+      "npc": "Erudax",
+      "dungeon": "Grim Batol",
+      "transcript": "grrrr"
+    },
+    {
+      "soundId": 18644,
+      "filename": "VO_GB_Erudax_Event05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/83/548179/VO_GB_Erudax_Event05.ogg",
+      "npc": "Erudax",
+      "dungeon": "Grim Batol",
+      "transcript": "Flak'yat, the Shadow Zonga cannot be sainted!"
+    },
+    {
+      "soundId": 18634,
+      "filename": "VO_GB_Erudax_AttackCrit",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/548173/VO_GB_Erudax_AttackCrit01.ogg",
+      "npc": "Erudax",
+      "dungeon": "Grim Batol",
+      "transcript": "RO schedules"
+    },
+    {
+      "soundId": 18636,
+      "filename": "VO_GB_Erudax_Death",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/92/548188/VO_GB_Erudax_Death05.ogg",
+      "npc": "Erudax",
+      "dungeon": "Grim Batol",
+      "transcript": "H genetic"
+    },
+    {
+      "soundId": 18649,
+      "filename": "VO_GB_Erudax_Wound",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/548174/VO_GB_Erudax_Wound04.ogg",
+      "npc": "Erudax",
+      "dungeon": "Grim Batol",
+      "transcript": "ABSOLUTELY"
+    },
+    {
+      "soundId": 18631,
+      "filename": "VO_GB_Erudax_Attack",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/76/548172/VO_GB_Erudax_Attack09.ogg",
+      "npc": "Erudax",
+      "dungeon": "Grim Batol",
+      "transcript": "OH!!"
+    },
+    {
+      "soundId": 18638,
+      "filename": "VO_GB_Erudax_Event01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/548200/VO_GB_Erudax_Event01.ogg",
+      "npc": "Erudax",
+      "dungeon": "Grim Batol",
+      "transcript": "The darkest days are still ahead."
+    },
+    {
+      "soundId": 18640,
+      "filename": "VO_GB_Erudax_Event03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/94/548190/VO_GB_Erudax_Event03.ogg",
+      "npc": "Erudax",
+      "dungeon": "Grim Batol",
+      "transcript": "Flesh for the offering!"
+    },
+    {
+      "soundId": 18641,
+      "filename": "VO_GB_Erudax_Event04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/112/548208/VO_GB_Erudax_Event04.ogg",
+      "npc": "Erudax",
+      "dungeon": "Grim Batol",
+      "transcript": "What the gift of Staccato doesn't take in the fairy tale of Magician Circa"
+    },
+    {
+      "soundId": 18646,
+      "filename": "VO_GB_Erudax_Event06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/105/548201/VO_GB_Erudax_Event06.ogg",
+      "npc": "Erudax",
+      "dungeon": "Grim Batol",
+      "transcript": "Come suffering, into chaos!"
+    },
+    {
+      "soundId": 18651,
+      "filename": "VO_GB_Erudax_WoundCrit",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/88/548184/VO_GB_Erudax_WoundCrit03.ogg",
+      "npc": "Erudax",
+      "dungeon": "Grim Batol",
+      "transcript": "AAAAAH!"
+    }
+  ]
+}

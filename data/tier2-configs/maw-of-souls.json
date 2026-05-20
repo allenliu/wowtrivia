@@ -1,0 +1,25 @@
+{
+  "dungeon": "Maw of Souls",
+  "slug": "maw-of-souls",
+  "wowheadZoneId": 7812,
+  "expansion": "Legion",
+  "bosses": [
+    { "id": 96756, "name": "Ymiron, the Fallen King", "filterName": "ymiron", "namePattern": "^VO_.*Ymiron", "quotes": [
+      { "context": "Intro", "text": "Your souls will drift for eternity in the tides of the underworld!" },
+      { "context": "Intro", "text": "Another drop in the sea of souls!" },
+      { "context": "Aggro", "text": "Mortals... Your wretched kind murdered MY people... destroyed MY kingdom! Long have I waited for a chance to repay what was done to me!" },
+      { "context": "Screams of the Dead", "text": "CRAVEN MAGGOTS!" },
+      { "context": "Screams of the Dead", "text": "FLEE, COWARDS!" },
+      { "context": "Screams of the Dead", "text": "COWER BEFORE ME!" },
+      { "context": "Winds of Northrend", "text": "Know the bitter chill of death as I have!!" },
+      { "context": "Winds of Northrend", "text": "The winds of the frozen north still howl in these veins!!" },
+      { "context": "Bane", "text": "The shadows of the underworld bend to me!!" },
+      { "context": "Arise, Fallen", "text": "The shadows of Helheim cut deeper than steel!" },
+      { "context": "Player Killed", "text": "PAYBACK!" },
+      { "context": "Wipe", "text": "I have learned from my past defeats... It seems you have not." },
+      { "context": "Death", "text": "You have not won... The naglfar comes... for you..." }
+    ]},
+    { "id": 96759, "name": "Helya", "filterName": "helya", "namePattern": "^VO_.*Helya", "quotes": [] },
+    { "id": 96754, "name": "Harbaron", "filterName": "harbaron", "quotes": [] }
+  ]
+}

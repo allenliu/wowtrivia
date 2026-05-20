@@ -1,0 +1,512 @@
+{
+  "meta": {
+    "schemaVersion": 3,
+    "dungeon": "The Rookery",
+    "wowheadZoneId": 14938,
+    "expansion": "The War Within",
+    "generated": "2026-05-19T18:11:02-07:00",
+    "notes": "Mixed Tier-1 (Wowhead Quotes) + Tier-2 (wiki + Whisper) entries."
+  },
+  "npcs": [
+    {
+      "id": 223833,
+      "name": "Baelgrim",
+      "elite": false,
+      "quotes": [
+        {
+          "soundId": 251789,
+          "filename": "vo-110-stormward-baelgrim-81-m",
+          "fileDataId": 5858766,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/206/5858766/VO_110_Stormward_Baelgrim_81_M.ogg",
+          "text": "Gorren, what have you done?",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251797,
+          "filename": "vo-110-stormward-baelgrim-89-m",
+          "fileDataId": 5858774,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/214/5858774/VO_110_Stormward_Baelgrim_89_M.ogg",
+          "text": "Koratite, what are you doing? Stop this!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251819,
+          "filename": "vo-110-stormward-baelgrim-111-m",
+          "fileDataId": 5858844,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/28/5858844/VO_110_Stormward_Baelgrim_111_M.ogg",
+          "text": "Agreed. Vokmar, engage the target!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 248949,
+          "filename": "vo-110-stormward-baelgrim-45-m",
+          "fileDataId": 5782545,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/17/5782545/VO_110_Stormward_Baelgrim_45_M.ogg",
+          "text": "And without the Stormriders...",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251796,
+          "filename": "vo-110-stormward-baelgrim-88-m",
+          "fileDataId": 5858773,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/5858773/VO_110_Stormward_Baelgrim_88_M.ogg",
+          "text": "Go! Find Vokmar! He will take you to safety!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251818,
+          "filename": "vo-110-stormward-baelgrim-110-m",
+          "fileDataId": 5858843,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/27/5858843/VO_110_Stormward_Baelgrim_110_M.ogg",
+          "text": "I have seen nothing like it. Its energies have twisted them, changing them into... this!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251790,
+          "filename": "vo-110-stormward-baelgrim-82-m",
+          "fileDataId": 5858767,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/5858767/VO_110_Stormward_Baelgrim_82_M.ogg",
+          "text": "I left Gorren, my second, in charge of the Stormperch when I left to investigate your Dalaran's crash.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251793,
+          "filename": "vo-110-stormward-baelgrim-85-m",
+          "fileDataId": 5858770,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/210/5858770/VO_110_Stormward_Baelgrim_85_M.ogg",
+          "text": "I will deactivate Gorren myself for this sacrilege.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251804,
+          "filename": "vo-110-stormward-baelgrim-96-m",
+          "fileDataId": 5858809,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/5858809/VO_110_Stormward_Baelgrim_96_M.ogg",
+          "text": "It is done. The corruption was been eliminated, but we were too late.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251806,
+          "filename": "vo-110-stormward-baelgrim-98-m",
+          "fileDataId": 5858811,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/5858811/VO_110_Stormward_Baelgrim_98_M.ogg",
+          "text": "Let us return to the Council. I... must report to them.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251800,
+          "filename": "vo-110-stormward-baelgrim-92-m",
+          "fileDataId": 5858777,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/217/5858777/VO_110_Stormward_Baelgrim_92_M.ogg",
+          "text": "May your memory be forever cursed by what you have wrought here!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251805,
+          "filename": "vo-110-stormward-baelgrim-97-m",
+          "fileDataId": 5858810,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/250/5858810/VO_110_Stormward_Baelgrim_97_M.ogg",
+          "text": "Nearly our entire order has been wiped out. The Stormriders can protect Dornogal no longer.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251792,
+          "filename": "vo-110-stormward-baelgrim-84-m",
+          "fileDataId": 5858769,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/5858769/VO_110_Stormward_Baelgrim_84_M.ogg",
+          "text": "Rest well, Kyrioss. You deserved a better rider than Gorren.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251802,
+          "filename": "vo-110-stormward-baelgrim-94-m",
+          "fileDataId": 5858807,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/247/5858807/VO_110_Stormward_Baelgrim_94_M.ogg",
+          "text": "Take out the creatures channeling on that core!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251801,
+          "filename": "vo-110-stormward-baelgrim-93-m",
+          "fileDataId": 5858778,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/5858778/VO_110_Stormward_Baelgrim_93_M.ogg",
+          "text": "The same dark magic that was emanating from the Stormriders is more powerful here.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251795,
+          "filename": "vo-110-stormward-baelgrim-87-m",
+          "fileDataId": 5858772,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/212/5858772/VO_110_Stormward_Baelgrim_87_M.ogg",
+          "text": "Their edict has been change by some... dark influence!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251787,
+          "filename": "vo-110-stormward-baelgrim-79-m",
+          "fileDataId": 5858760,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/5858760/VO_110_Stormward_Baelgrim_79_M.ogg",
+          "text": "This is highly irregular. Why are these stormrooks tethered here?",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251803,
+          "filename": "vo-110-stormward-baelgrim-95-m",
+          "fileDataId": 5858808,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/248/5858808/VO_110_Stormward_Baelgrim_95_M.ogg",
+          "text": "Was this an earthen once? No matter. We must destroy it!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251788,
+          "filename": "vo-110-stormward-baelgrim-80-m",
+          "fileDataId": 5858765,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/205/5858765/VO_110_Stormward_Baelgrim_80_M.ogg",
+          "text": "What dark magic is this? How dare they defile their own stormrooks!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251791,
+          "filename": "vo-110-stormward-baelgrim-83-m",
+          "fileDataId": 5858768,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/5858768/VO_110_Stormward_Baelgrim_83_M.ogg",
+          "text": "What has that traitor allowed to happen in my absence?",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 211260,
+      "name": "Stormrider Vokmar",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 251758,
+          "filename": "vo-110-stormrider-vokmar-11-m",
+          "fileDataId": 5858472,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/168/5858472/VO_110_Stormrider_Vokmar_11_M.ogg",
+          "text": "Thank the titans you are here! The Stormperch has been breached and the Stormriders...  corrupted!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251771,
+          "filename": "vo-110-stormrider-vokmar-24-m",
+          "fileDataId": 5858485,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/5858485/VO_110_Stormrider_Vokmar_24_M.ogg",
+          "text": "The lift is out. If we want to keep going, we will have to go down the Stormrider way. Follow me!",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251768,
+          "filename": "vo-110-stormrider-vokmar-21-m",
+          "fileDataId": 5858482,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/5858482/VO_110_Stormrider_Vokmar_21_M.ogg",
+          "text": "We have to take it down.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251767,
+          "filename": "vo-110-stormrider-vokmar-20-m",
+          "fileDataId": 5858481,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/177/5858481/VO_110_Stormrider_Vokmar_20_M.ogg",
+          "text": "What... is that? What did Gorren bring here?",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251756,
+          "filename": "vo-110-stormrider-vokmar-09-m",
+          "fileDataId": 5858470,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/166/5858470/VO_110_Stormrider_Vokmar_09_M.ogg",
+          "text": "I do not like that it feels darker and colder as we go down. But, there are more survivors to rescue.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 215967,
+      "name": "Stormrider Vokmar",
+      "elite": false,
+      "quotes": [
+        {
+          "soundId": 251754,
+          "filename": "vo-110-stormrider-vokmar-08-m",
+          "fileDataId": 5858404,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/100/5858404/VO_110_Stormrider_Vokmar_08_M.ogg",
+          "text": "Finally! I thought I'd have to fight Gorren on my own...",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251759,
+          "filename": "vo-110-stormrider-vokmar-12-m",
+          "fileDataId": 5858473,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/5858473/VO_110_Stormrider_Vokmar_12_M.ogg",
+          "text": "Hurry! If we free these stormrooks, we can fly there and try to end this madness!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251757,
+          "filename": "vo-110-stormrider-vokmar-10-m",
+          "fileDataId": 5858471,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/167/5858471/VO_110_Stormrider_Vokmar_10_M.ogg",
+          "text": "What is that orb? It's radiating dark energy... And it's affecting the stormrooks.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251760,
+          "filename": "vo-110-stormrider-vokmar-13-m",
+          "fileDataId": 5858474,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/5858474/VO_110_Stormrider_Vokmar_13_M.ogg",
+          "text": "While you go to the roosts, I will distract them here. We can link up later.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 207205,
+      "name": "Stormguard Gorren",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 247946,
+          "filename": "VO_110_Stormguard_Gorren_07_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/142/5769614/VO_110_Stormguard_Gorren_07_M.ogg",
+          "text": "My fellow, you're ruin!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "My fellow, you're ruin!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247948,
+          "filename": "VO_110_Stormguard_Gorren_09_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/144/5769616/VO_110_Stormguard_Gorren_09_M.ogg",
+          "text": "Feel my blessing!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Feel my blessing!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251820,
+          "filename": "VO_110_Stormguard_Gorren_14_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/5858861/VO_110_Stormguard_Gorren_14_M.ogg",
+          "text": "Come then, face me. I will stand proud on the debris of your corpse.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Come then, face me. I will stand proud on the debris of your corpse.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247940,
+          "filename": "VO_110_Stormguard_Gorren_01_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/5769607/VO_110_Stormguard_Gorren_01_M.ogg",
+          "text": "The title, The Glory, it should have been mine, Bale Grimm!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "The title, The Glory, it should have been mine, Bale Grimm!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247941,
+          "filename": "VO_110_Stormguard_Gorren_02_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/137/5769609/VO_110_Stormguard_Gorren_02_M.ogg",
+          "text": "You never deserve to be Stormward!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "You never deserve to be Stormward!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247942,
+          "filename": "VO_110_Stormguard_Gorren_03_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/5769610/VO_110_Stormguard_Gorren_03_M.ogg",
+          "text": "I command this rookery! By right!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "I command this rookery! By right!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247943,
+          "filename": "VO_110_Stormguard_Gorren_04_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/5769611/VO_110_Stormguard_Gorren_04_M.ogg",
+          "text": "My strength prevails!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "My strength prevails!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247947,
+          "filename": "VO_110_Stormguard_Gorren_08_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/143/5769615/VO_110_Stormguard_Gorren_08_M.ogg",
+          "text": "Share in my gift.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Share in my gift.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247949,
+          "filename": "VO_110_Stormguard_Gorren_10_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/145/5769617/VO_110_Stormguard_Gorren_10_M.ogg",
+          "text": "Your death is my directive!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Your death is my directive!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247951,
+          "filename": "VO_110_Stormguard_Gorren_12_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/147/5769619/VO_110_Stormguard_Gorren_12_M.ogg",
+          "text": "The invaders are vanquished. My duty done.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "The invaders are vanquished. My duty done.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247952,
+          "filename": "VO_110_Stormguard_Gorren_13_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/148/5769620/VO_110_Stormguard_Gorren_13_M.ogg",
+          "text": "I deserve this power.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "I deserve this power.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 251821,
+          "filename": "VO_110_Stormguard_Gorren_15_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/5858862/VO_110_Stormguard_Gorren_15_M.ogg",
+          "text": "The void writers follow me now",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "The void writers follow me now",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247945,
+          "filename": "VO_110_Stormguard_Gorren_06_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/141/5769613/VO_110_Stormguard_Gorren_06_M.ogg",
+          "text": "CRUSHED BY MY POWER!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "CRUSHED BY MY POWER!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 247950,
+          "filename": "VO_110_Stormguard_Gorren_11_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/146/5769618/VO_110_Stormguard_Gorren_11_M.ogg",
+          "text": "The might of my hammer!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "The might of my hammer!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

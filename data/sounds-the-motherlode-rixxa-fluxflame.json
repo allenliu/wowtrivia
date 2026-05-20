@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "npc": "Rixxa Fluxflame",
+    "dungeon": "The MOTHERLODE!!",
+    "filterName": "rixxa",
+    "namePattern": "^VO_801_(RIXXA|Rixxa)_",
+    "generated": "2026-05-19T15:39:34-07:00",
+    "soundCount": 22
+  },
+  "sounds": [
+    {
+      "soundId": 97441,
+      "filename": "VO_801_Rixxa_Fluxfume_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/109/1860461/VO_801_Rixxa_Fluxfume_06_F.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "If you want a job done right, use Mega Explosives!"
+    },
+    {
+      "soundId": 97446,
+      "filename": "VO_801_Rixxa_Fluxfume_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/114/1860466/VO_801_Rixxa_Fluxfume_11_F.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "I don't wanna hear no more complaints about no unsafe conditions!"
+    },
+    {
+      "soundId": 103232,
+      "filename": "VO_801_RIXXA_FLUXFUME_F_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/117/1964149/VO_801_Rixxa_Fluxfume_F_Attack_01.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 97437,
+      "filename": "VO_801_Rixxa_Fluxfume_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/105/1860457/VO_801_Rixxa_Fluxfume_02_F.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Savor the searing carnage of Agent Azerite, Pat and Pandan!"
+    },
+    {
+      "soundId": 97440,
+      "filename": "VO_801_Rixxa_Fluxfume_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/108/1860460/VO_801_Rixxa_Fluxfume_05_F.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Looking for Azurite? Have a faceful!"
+    },
+    {
+      "soundId": 99432,
+      "filename": "VO_801_Rixxa_Fluxfume_15_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/94/1900894/VO_801_Rixxa_Fluxfume_15_F.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "I love the smell of propellant in the morning!"
+    },
+    {
+      "soundId": 97438,
+      "filename": "VO_801_Rixxa_Fluxfume_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/106/1860458/VO_801_Rixxa_Fluxfume_03_F.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "BUN! YAH-HA-HA-HA-HA! BUN!"
+    },
+    {
+      "soundId": 97445,
+      "filename": "VO_801_Rixxa_Fluxfume_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/1860465/VO_801_Rixxa_Fluxfume_10_F.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Uh oh! Looks like I gotta reset our days and screw some death tracker!"
+    },
+    {
+      "soundId": 97448,
+      "filename": "VO_801_Rixxa_Fluxfume_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/116/1860468/VO_801_Rixxa_Fluxfume_13_F.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Hey! Where do you think you're going?"
+    },
+    {
+      "soundId": 103233,
+      "filename": "VO_801_RIXXA_FLUXFUME_F_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/127/1964159/VO_801_Rixxa_Fluxfume_F_BattleShout_01.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Ahhhhhhhhhhhh!!!"
+    },
+    {
+      "soundId": 103234,
+      "filename": "VO_801_RIXXA_FLUXFUME_F_DEATH",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/131/1964163/VO_801_Rixxa_Fluxfume_F_Death_01.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Yowl glitch."
+    },
+    {
+      "soundId": 97436,
+      "filename": "VO_801_Rixxa_Fluxfume_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/1860456/VO_801_Rixxa_Fluxfume_01_F.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Agent Azerite, melts bones faster than the lead in competitors!"
+    },
+    {
+      "soundId": 97439,
+      "filename": "VO_801_Rixxa_Fluxfume_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/107/1860459/VO_801_Rixxa_Fluxfume_04_F.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "You're going up in flames! Ahahahah!"
+    },
+    {
+      "soundId": 97442,
+      "filename": "VO_801_Rixxa_Fluxfume_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/110/1860462/VO_801_Rixxa_Fluxfume_07_F.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "I should have gotten a hazard break."
+    },
+    {
+      "soundId": 97443,
+      "filename": "VO_801_Rixxa_Fluxfume_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/1860463/VO_801_Rixxa_Fluxfume_08_F.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Aw, another unqualified applicant!"
+    },
+    {
+      "soundId": 97444,
+      "filename": "VO_801_Rixxa_Fluxfume_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/112/1860464/VO_801_Rixxa_Fluxfume_09_F.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Inexperience will get ya killed!"
+    },
+    {
+      "soundId": 97447,
+      "filename": "VO_801_Rixxa_Fluxfume_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/115/1860467/VO_801_Rixxa_Fluxfume_12_F.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "If you're complaining, you ain't holding your breath, so it's your fault for breathing toxic fumes."
+    },
+    {
+      "soundId": 97449,
+      "filename": "VO_801_Rixxa_Fluxfume_14_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/117/1860469/VO_801_Rixxa_Fluxfume_14_F.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "You're the reason my work details split!"
+    },
+    {
+      "soundId": 99433,
+      "filename": "VO_801_Rixxa_Fluxfume_16_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/95/1900895/VO_801_Rixxa_Fluxfume_16_F.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Safety first!"
+    },
+    {
+      "soundId": 103231,
+      "filename": "VO_801_RIXXA_FLUXFUME_F_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/1964143/VO_801_Rixxa_Fluxfume_F_AttackCrit_01.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Ha-ya!"
+    },
+    {
+      "soundId": 103236,
+      "filename": "VO_801_RIXXA_FLUXFUME_F_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/141/1964173/VO_801_Rixxa_Fluxfume_F_Wound_01.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Ah"
+    },
+    {
+      "soundId": 103235,
+      "filename": "VO_801_RIXXA_FLUXFUME_F_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/1964168/VO_801_Rixxa_Fluxfume_F_WoundCrit_01.ogg",
+      "npc": "Rixxa Fluxflame",
+      "dungeon": "The MOTHERLODE!!",
+      "transcript": "Go!"
+    }
+  ]
+}

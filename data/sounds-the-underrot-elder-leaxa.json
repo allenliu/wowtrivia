@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "npc": "Elder Leaxa",
+    "dungeon": "The Underrot",
+    "filterName": "leaxa",
+    "namePattern": "",
+    "generated": "2026-05-19T18:11:12-07:00",
+    "soundCount": 11
+  },
+  "sounds": [
+    {
+      "soundId": 109949,
+      "filename": "Spell_Dungeon_Underrot_ElderLeaxa_BloodMirror_End",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/219/1725147/FX_Blood_Magic_Impact_Medium_03.ogg",
+      "npc": "Elder Leaxa",
+      "dungeon": "The Underrot",
+      "transcript": "THANKS FOR WATCHING!"
+    },
+    {
+      "soundId": 118597,
+      "filename": "Spell_Underrot_ElderLeaxa_sanguinefeast_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/9/839689/FX_Blood_Channel03.ogg",
+      "npc": "Elder Leaxa",
+      "dungeon": "The Underrot",
+      "transcript": "Thank you."
+    },
+    {
+      "soundId": 109943,
+      "filename": "Spell_Dungeon_Underrot_ElderLeaxa_BloodBolt_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/1725139/FX_Blood_Magic_Channel_Medium_02.ogg",
+      "npc": "Elder Leaxa",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    },
+    {
+      "soundId": 109948,
+      "filename": "Spell_Dungeon_Underrot_ElderLeaxa_BloodMirror_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/223/1725151/FX_Blood_Magic_Precast_Large_02.ogg",
+      "npc": "Elder Leaxa",
+      "dungeon": "The Underrot",
+      "transcript": "Thank you."
+    },
+    {
+      "soundId": 109945,
+      "filename": "Spell_Dungeon_Underrot_ElderLeaxa_Creepingrot_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/243/632307/FX_Amber_Channel03.ogg",
+      "npc": "Elder Leaxa",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    },
+    {
+      "soundId": 118598,
+      "filename": "Spell_Underrot_ElderLeaxa_sanguinefeast_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/1725127/FX_Blood_Magic_Cast_Large_02.ogg",
+      "npc": "Elder Leaxa",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    },
+    {
+      "soundId": 109944,
+      "filename": "Spell_Dungeon_Underrot_ElderLeaxa_BloodBolt_cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/204/1725132/FX_Blood_Magic_Cast_Medium_02.ogg",
+      "npc": "Elder Leaxa",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    },
+    {
+      "soundId": 109947,
+      "filename": "Spell_Dungeon_Underrot_ElderLeaxa_BloodMirror_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/230/1725158/FX_Blood_Magic_Cast_Large_01.ogg",
+      "npc": "Elder Leaxa",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    },
+    {
+      "soundId": 109946,
+      "filename": "Spell_Dungeon_Underrot_ElderLeaxa_CreepingRot_cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/32/632864/FX_Amber_Explosion03.ogg",
+      "npc": "Elder Leaxa",
+      "dungeon": "The Underrot",
+      "transcript": "BOOM!"
+    },
+    {
+      "soundId": 118599,
+      "filename": "Spell_Underrot_ElderLeaxa_BloodBolt_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/17/839697/FX_Blood_Impact02.ogg",
+      "npc": "Elder Leaxa",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    },
+    {
+      "soundId": 110065,
+      "filename": "Spell_Underrot_ElderLeaxa_Emerge_Battlecry",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/1967099/VO_801_Blood_Troll_Priestess_F_BattleShout_01.ogg",
+      "npc": "Elder Leaxa",
+      "dungeon": "The Underrot",
+      "transcript": "OOOOOH!"
+    }
+  ]
+}

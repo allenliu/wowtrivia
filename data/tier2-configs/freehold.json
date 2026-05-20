@@ -1,0 +1,23 @@
+{
+  "dungeon": "Freehold",
+  "slug": "freehold",
+  "wowheadZoneId": 9164,
+  "expansion": "Battle for Azeroth",
+  "bosses": [
+    { "id": 126983, "name": "Harlan Sweete", "filterName": "sweete", "namePattern": "^VO_.*Sweete", "quotes": [
+      { "context": "Aggro", "text": "Taller men than you have opposed me, but they always came up short." },
+      { "context": "Aggro", "text": "Think you can stand against me, swine? Allow me to educate you." },
+      { "context": "Cannon Barrage", "text": "Cannons! Blast these scurvy dogs to bits!" },
+      { "context": "Cannon Barrage", "text": "Men! Acquaint these scallywags with our heavy guns." },
+      { "context": "Avast", "text": "All hands on deck!" },
+      { "context": "Avast", "text": "Swab the deck with their gizzards!" },
+      { "context": "Player Kill", "text": "I love the sound of corpses hitting the deck." },
+      { "context": "Wipe", "text": "Alright lads, gather their valuables. After I've had my pick, you can fight for the scraps." },
+      { "context": "Wipe", "text": "Check their teeth for gold, boys. The rest is shark food." },
+      { "context": "Wipe", "text": "You fell victim to one of the classic blunders. Never go against Sweete when booty is on the line!" },
+      { "context": "Death", "text": "Inconceivable..." },
+      { "context": "Death", "text": "No one better touch... my booty..." }
+    ]},
+    { "id": 126832, "name": "Skycap'n Kragg", "filterName": "kragg", "quotes": [] }
+  ]
+}

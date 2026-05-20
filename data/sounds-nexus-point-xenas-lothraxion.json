@@ -1,0 +1,892 @@
+{
+  "meta": {
+    "npc": "Lothraxion",
+    "dungeon": "Nexus-Point Xenas",
+    "filterName": "lothraxion",
+    "namePattern": "^VO_120_Lothraxion_",
+    "generated": "2026-05-19T18:52:29-07:00",
+    "soundCount": 110
+  },
+  "sounds": [
+    {
+      "soundId": 308121,
+      "filename": "VO_120_Lothraxion_86_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/189/7329981/VO_120_Lothraxion_86_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Your death brings me no joy."
+    },
+    {
+      "soundId": 308181,
+      "filename": "VO_120_Lothraxion_91_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/7330227/VO_120_Lothraxion_91_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Vow, spawn of the void! Prepare to meet your end!"
+    },
+    {
+      "soundId": 300688,
+      "filename": "VO_120_Lothraxion_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/7248010/VO_120_Lothraxion_13_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Take down its pet champion!"
+    },
+    {
+      "soundId": 300810,
+      "filename": "VO_120_Lothraxion_23_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/7248437/VO_120_Lothraxion_23_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "We fought together for a thousand years! Do you not trust me?"
+    },
+    {
+      "soundId": 300888,
+      "filename": "VO_120_Lothraxion_41_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/142/7248526/VO_120_Lothraxion_41_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Earn your keep! Tell us more!"
+    },
+    {
+      "soundId": 316053,
+      "filename": "VO_120_Lothraxion_100_M_[RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/7461450/VO_120_Lothraxion_100_M__RTC_.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "I will annihilate you!"
+    },
+    {
+      "soundId": 300709,
+      "filename": "VO_120_Lothraxion_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/7248031/VO_120_Lothraxion_16_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "The light protects you."
+    },
+    {
+      "soundId": 308112,
+      "filename": "VO_120_Lothraxion_77_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/180/7329972/VO_120_Lothraxion_77_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "I will see this through!"
+    },
+    {
+      "soundId": 308229,
+      "filename": "VO_120_Lothraxion_93_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/228/7330276/VO_120_Lothraxion_93_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "For the Light!"
+    },
+    {
+      "soundId": 300662,
+      "filename": "VO_120_Lothraxion_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/112/7247984/VO_120_Lothraxion_06_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": ""
+    },
+    {
+      "soundId": 300669,
+      "filename": "VO_120_Lothraxion_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/119/7247991/VO_120_Lothraxion_07_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Understand, Eurya, that I need this mission, but your aid is welcome."
+    },
+    {
+      "soundId": 317557,
+      "filename": "VO_120_Lothraxion_107_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/235/7478507/VO_120_Lothraxion_107_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "His beast is up its place!"
+    },
+    {
+      "soundId": 300831,
+      "filename": "VO_120_Lothraxion_25_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/76/7248460/VO_120_Lothraxion_25_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Belief is our strength. You believe in nothing."
+    },
+    {
+      "soundId": 301167,
+      "filename": "VO_120_Lothraxion_72_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/13/7249677/VO_120_Lothraxion_72_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Hanaru! Dead! Now we're to trust this monstrosity!"
+    },
+    {
+      "soundId": 308113,
+      "filename": "VO_120_Lothraxion_78_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/7329973/VO_120_Lothraxion_78_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You will not stop what the light demands!"
+    },
+    {
+      "soundId": 308114,
+      "filename": "VO_120_Lothraxion_79_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/182/7329974/VO_120_Lothraxion_79_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You will see the lights flash!"
+    },
+    {
+      "soundId": 308116,
+      "filename": "VO_120_Lothraxion_81_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/184/7329976/VO_120_Lothraxion_81_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "The light will cleanse!"
+    },
+    {
+      "soundId": 300643,
+      "filename": "VO_120_Lothraxion_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/90/7247962/VO_120_Lothraxion_01_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "The light is our greatest weapon against the void. Remember that! We'll succumb to corruption!"
+    },
+    {
+      "soundId": 300677,
+      "filename": "VO_120_Lothraxion_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/127/7247999/VO_120_Lothraxion_10_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You intend to take it prisoner? I would rather incinerate it!"
+    },
+    {
+      "soundId": 300690,
+      "filename": "VO_120_Lothraxion_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/140/7248012/VO_120_Lothraxion_14_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "No! After it!"
+    },
+    {
+      "soundId": 300691,
+      "filename": "VO_120_Lothraxion_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/141/7248013/VO_120_Lothraxion_15_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "One wrong move, and I will sear you with the right fiend!"
+    },
+    {
+      "soundId": 300757,
+      "filename": "VO_120_Lothraxion_18_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/141/7248269/VO_120_Lothraxion_18_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Then we will destroy them, and the ethereals will provide our ordinance."
+    },
+    {
+      "soundId": 300808,
+      "filename": "VO_120_Lothraxion_22_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/48/7248432/VO_120_Lothraxion_22_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "We need that shield down now!"
+    },
+    {
+      "soundId": 300929,
+      "filename": "VO_120_Lothraxion_47_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/214/7248854/VO_120_Lothraxion_47_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Burn in the light, wretch!"
+    },
+    {
+      "soundId": 301008,
+      "filename": "VO_120_Lothraxion_49_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/44/7249196/VO_120_Lothraxion_49_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You follow this creature to its foul den?"
+    },
+    {
+      "soundId": 301109,
+      "filename": "VO_120_Lothraxion_62_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/7249330/VO_120_Lothraxion_62_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "I warned you! This was always their plot!"
+    },
+    {
+      "soundId": 301117,
+      "filename": "VO_120_Lothraxion_64_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/188/7249340/VO_120_Lothraxion_64_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "It corrupts and confounds, makes enemies of friends, twists right into wrong."
+    },
+    {
+      "soundId": 301169,
+      "filename": "VO_120_Lothraxion_73_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/19/7249683/VO_120_Lothraxion_73_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "And they will!"
+    },
+    {
+      "soundId": 308119,
+      "filename": "VO_120_Lothraxion_84_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/187/7329979/VO_120_Lothraxion_84_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You will see!"
+    },
+    {
+      "soundId": 308163,
+      "filename": "VO_120_Lothraxion_87_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/7330184/VO_120_Lothraxion_87_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You got them all I thought would understand that at all!"
+    },
+    {
+      "soundId": 308252,
+      "filename": "VO_120_Lothraxion_94_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/7330379/VO_120_Lothraxion_94_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Your judgement has been clouded by the void, as it always does!"
+    },
+    {
+      "soundId": 300657,
+      "filename": "VO_120_Lothraxion_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/107/7247979/VO_120_Lothraxion_04_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "This is what Alaria wanted to protect you from Arathor. The darkness beyond."
+    },
+    {
+      "soundId": 316059,
+      "filename": "VO_120_Lothraxion_102_M_[RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/109/7461485/VO_120_Lothraxion_102_M__RTC_.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "He is praying us for fools!"
+    },
+    {
+      "soundId": 316061,
+      "filename": "VO_120_Lothraxion_103_M_[RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/117/7461493/VO_120_Lothraxion_103_M__RTC_.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You are blind!"
+    },
+    {
+      "soundId": 316064,
+      "filename": "VO_120_Lothraxion_106_M_[RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/246/7461622/VO_120_Lothraxion_106_M__RTC_.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "An endless accursed storm, once and for all!"
+    },
+    {
+      "soundId": 300682,
+      "filename": "VO_120_Lothraxion_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/133/7248005/VO_120_Lothraxion_11_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "These vile monsters are no match for us, champion!"
+    },
+    {
+      "soundId": 300805,
+      "filename": "VO_120_Lothraxion_20_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/7248429/VO_120_Lothraxion_20_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": ""
+    },
+    {
+      "soundId": 300806,
+      "filename": "VO_120_Lothraxion_21_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/7248430/VO_120_Lothraxion_21_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "HANARU LOST TO US!"
+    },
+    {
+      "soundId": 300833,
+      "filename": "VO_120_Lothraxion_26_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/7248462/VO_120_Lothraxion_26_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "This is taking too long! Stand aside, I'll smash the damn thing!"
+    },
+    {
+      "soundId": 300836,
+      "filename": "VO_120_Lothraxion_27_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/83/7248467/VO_120_Lothraxion_27_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": ""
+    },
+    {
+      "soundId": 300846,
+      "filename": "VO_120_Lothraxion_31_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/93/7248477/VO_120_Lothraxion_31_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "I will not allow this!"
+    },
+    {
+      "soundId": 300854,
+      "filename": "VO_120_Lothraxion_32_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/103/7248487/VO_120_Lothraxion_32_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "I became worthy of the light. Self-strength of will is beyond you."
+    },
+    {
+      "soundId": 300870,
+      "filename": "VO_120_Lothraxion_39_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/121/7248505/VO_120_Lothraxion_39_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Ignore it, Arator. See to an area. Salvaging this mission now falls to me."
+    },
+    {
+      "soundId": 300926,
+      "filename": "VO_120_Lothraxion_46_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/7248851/VO_120_Lothraxion_46_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "I was reforged in the light. You are blind to the truth."
+    },
+    {
+      "soundId": 301013,
+      "filename": "VO_120_Lothraxion_50_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/58/7249210/VO_120_Lothraxion_50_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "I'll hunt down Severum. You and this void spawn can handle the trench."
+    },
+    {
+      "soundId": 301052,
+      "filename": "VO_120_Lothraxion_51_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/116/7249268/VO_120_Lothraxion_51_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Yet only I seem to understand what is at stake."
+    },
+    {
+      "soundId": 301055,
+      "filename": "VO_120_Lothraxion_52_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/119/7249271/VO_120_Lothraxion_52_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Soon we'll have all we need. We should strike down this wretch before their hunger turns on us."
+    },
+    {
+      "soundId": 301063,
+      "filename": "VO_120_Lothraxion_53_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/129/7249281/VO_120_Lothraxion_53_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Keep your weapons close. Trust nothing to void office."
+    },
+    {
+      "soundId": 301066,
+      "filename": "VO_120_Lothraxion_54_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/132/7249284/VO_120_Lothraxion_54_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Don't look so either beast! You fooled Eurya! But I see through you!"
+    },
+    {
+      "soundId": 301083,
+      "filename": "VO_120_Lothraxion_55_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/150/7249302/VO_120_Lothraxion_55_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "War is no place for a tender hot boy."
+    },
+    {
+      "soundId": 301093,
+      "filename": "VO_120_Lothraxion_57_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/162/7249314/VO_120_Lothraxion_57_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": ""
+    },
+    {
+      "soundId": 301097,
+      "filename": "VO_120_Lothraxion_58_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/166/7249318/VO_120_Lothraxion_58_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Are you mad, Deliria?"
+    },
+    {
+      "soundId": 301100,
+      "filename": "VO_120_Lothraxion_59_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/7249321/VO_120_Lothraxion_59_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "I knew you were blind to the void schemes!"
+    },
+    {
+      "soundId": 301103,
+      "filename": "VO_120_Lothraxion_60_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/172/7249324/VO_120_Lothraxion_60_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "trusting jesemus was madness!"
+    },
+    {
+      "soundId": 301115,
+      "filename": "VO_120_Lothraxion_63_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/185/7249337/VO_120_Lothraxion_63_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "I have served the light for millennia. I understand sacrifice better than you ever could."
+    },
+    {
+      "soundId": 301118,
+      "filename": "VO_120_Lothraxion_65_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/189/7249341/VO_120_Lothraxion_65_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "The boys hold your allegiance to none!"
+    },
+    {
+      "soundId": 301119,
+      "filename": "VO_120_Lothraxion_66_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/190/7249342/VO_120_Lothraxion_66_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "RISK? You trust the word of a dominar over mine?"
+    },
+    {
+      "soundId": 301122,
+      "filename": "VO_120_Lothraxion_67_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/193/7249345/VO_120_Lothraxion_67_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Acceptable losses. The boy delves knew the risks."
+    },
+    {
+      "soundId": 301138,
+      "filename": "VO_120_Lothraxion_70_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/7249363/VO_120_Lothraxion_70_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "A creature without purpose, like every fiend from the void!"
+    },
+    {
+      "soundId": 301595,
+      "filename": "VO_120_Lothraxion_75_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/140/7252364/VO_120_Lothraxion_75_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Remember the mission."
+    },
+    {
+      "soundId": 301596,
+      "filename": "VO_120_Lothraxion_76_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/243/7252467/VO_120_Lothraxion_76_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Careful of the void tricks."
+    },
+    {
+      "soundId": 308164,
+      "filename": "VO_120_Lothraxion_88_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/7330187/VO_120_Lothraxion_88_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You're shamed that the void has corrupted you too!"
+    },
+    {
+      "soundId": 308166,
+      "filename": "VO_120_Lothraxion_89_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/160/7330208/VO_120_Lothraxion_89_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You will realize I was right, Elyria!"
+    },
+    {
+      "soundId": 308182,
+      "filename": "VO_120_Lothraxion_92_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/180/7330228/VO_120_Lothraxion_92_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "The High Exarch calls us to glory or death!"
+    },
+    {
+      "soundId": 308330,
+      "filename": "VO_120_Lothraxion_97_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/30/7330590/VO_120_Lothraxion_97_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "No! Those worried addicts are not our salvation! The light is the only way to stop Xalatath's evil!"
+    },
+    {
+      "soundId": 300650,
+      "filename": "VO_120_Lothraxion_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/7247971/VO_120_Lothraxion_02_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Control yourselves!"
+    },
+    {
+      "soundId": 300651,
+      "filename": "VO_120_Lothraxion_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/100/7247972/VO_120_Lothraxion_03_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "We must get a lay of the land! Come!"
+    },
+    {
+      "soundId": 300658,
+      "filename": "VO_120_Lothraxion_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/108/7247980/VO_120_Lothraxion_05_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": ""
+    },
+    {
+      "soundId": 300672,
+      "filename": "VO_120_Lothraxion_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/122/7247994/VO_120_Lothraxion_08_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Then that is our first target. We must weaken the storm and our foes. Move out!"
+    },
+    {
+      "soundId": 300676,
+      "filename": "VO_120_Lothraxion_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/126/7247998/VO_120_Lothraxion_09_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "The time for caution has passed. We will reach their leader and rip the information we need from it."
+    },
+    {
+      "soundId": 316058,
+      "filename": "VO_120_Lothraxion_101_M_[RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/106/7461482/VO_120_Lothraxion_101_M__RTC_.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "How many betrayals before you seek the truth?"
+    },
+    {
+      "soundId": 316062,
+      "filename": "VO_120_Lothraxion_104_M_[RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/234/7461610/VO_120_Lothraxion_104_M__RTC_.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You are all blind!"
+    },
+    {
+      "soundId": 316063,
+      "filename": "VO_120_Lothraxion_105_M_[RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/243/7461619/VO_120_Lothraxion_105_M__RTC_.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "I will tear the Nexus points apart!"
+    },
+    {
+      "soundId": 318281,
+      "filename": "VO_120_Lothraxion_108_M_[RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/132/7490436/VO_120_Lothraxion_108_M__RTC_.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Nowhere left to run for a spa."
+    },
+    {
+      "soundId": 318285,
+      "filename": "VO_120_Lothraxion_109_M_[RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/144/7490448/VO_120_Lothraxion_109_M__RTC_.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "We need nothing from the likes of you!"
+    },
+    {
+      "soundId": 318289,
+      "filename": "VO_120_Lothraxion_110_M_[RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/156/7490460/VO_120_Lothraxion_110_M__RTC_.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You would trust such a creature?"
+    },
+    {
+      "soundId": 300683,
+      "filename": "VO_120_Lothraxion_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/134/7248006/VO_120_Lothraxion_12_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Ha! Kill and kill, yet no alarm is raised! They seem used to this chaos!"
+    },
+    {
+      "soundId": 300710,
+      "filename": "VO_120_Lothraxion_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/160/7248032/VO_120_Lothraxion_17_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "The light will always prevail."
+    },
+    {
+      "soundId": 300793,
+      "filename": "VO_120_Lothraxion_19_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/234/7248362/VO_120_Lothraxion_19_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": ""
+    },
+    {
+      "soundId": 300821,
+      "filename": "VO_120_Lothraxion_24_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/7248448/VO_120_Lothraxion_24_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Then you will tell us how to break the storm, voice-born!"
+    },
+    {
+      "soundId": 300839,
+      "filename": "VO_120_Lothraxion_28_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/86/7248470/VO_120_Lothraxion_28_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "We embrace a unity you could never understand."
+    },
+    {
+      "soundId": 300844,
+      "filename": "VO_120_Lothraxion_29_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/91/7248475/VO_120_Lothraxion_29_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "What does it matter? Salute what we need and then raise this forge to the ground. They can burn with their secrets."
+    },
+    {
+      "soundId": 300845,
+      "filename": "VO_120_Lothraxion_30_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/92/7248476/VO_120_Lothraxion_30_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You are a Paladin, Arator! You must see this jesemus for the monster it is!"
+    },
+    {
+      "soundId": 300857,
+      "filename": "VO_120_Lothraxion_33_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/106/7248490/VO_120_Lothraxion_33_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Aratul, keep an eye on your mother and her smirk hound. I don't want it out of the light's presence."
+    },
+    {
+      "soundId": 300859,
+      "filename": "VO_120_Lothraxion_34_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/108/7248492/VO_120_Lothraxion_34_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": ""
+    },
+    {
+      "soundId": 300861,
+      "filename": "VO_120_Lothraxion_35_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/110/7248494/VO_120_Lothraxion_35_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "No! You must!"
+    },
+    {
+      "soundId": 300863,
+      "filename": "VO_120_Lothraxion_36_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/114/7248498/VO_120_Lothraxion_36_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "How could this have gone so wrong? We're no closer to bringing the forces of light to bear on this world!"
+    },
+    {
+      "soundId": 300864,
+      "filename": "VO_120_Lothraxion_37_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/115/7248499/VO_120_Lothraxion_37_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You must be a tool champion, awaiting betrayal. I know what must be done."
+    },
+    {
+      "soundId": 300865,
+      "filename": "VO_120_Lothraxion_38_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/116/7248500/VO_120_Lothraxion_38_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You've been subverting us all along, you're eradicating decimus!"
+    },
+    {
+      "soundId": 300877,
+      "filename": "VO_120_Lothraxion_40_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/129/7248513/VO_120_Lothraxion_40_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "They've taken a narrow prisoner! We cannot allow these monsters to possess a being of pure light!"
+    },
+    {
+      "soundId": 300889,
+      "filename": "VO_120_Lothraxion_42_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/143/7248527/VO_120_Lothraxion_42_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "She brought you to heal. How like the endless armies of the void to suffer from disorder."
+    },
+    {
+      "soundId": 300893,
+      "filename": "VO_120_Lothraxion_43_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/149/7248533/VO_120_Lothraxion_43_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Keep your distance from the narrow void spawn. You are unworthy to bask in its radiance."
+    },
+    {
+      "soundId": 300894,
+      "filename": "VO_120_Lothraxion_44_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/150/7248534/VO_120_Lothraxion_44_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": ""
+    },
+    {
+      "soundId": 300904,
+      "filename": "VO_120_Lothraxion_45_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/161/7248545/VO_120_Lothraxion_45_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "The launch prevails! I expect decimals put up even less of a fight!"
+    },
+    {
+      "soundId": 300930,
+      "filename": "VO_120_Lothraxion_48_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/215/7248855/VO_120_Lothraxion_48_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You follow this creature to its foul den?"
+    },
+    {
+      "soundId": 301090,
+      "filename": "VO_120_Lothraxion_56_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/157/7249309/VO_120_Lothraxion_56_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": ""
+    },
+    {
+      "soundId": 301105,
+      "filename": "VO_120_Lothraxion_61_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/174/7249326/VO_120_Lothraxion_61_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": ""
+    },
+    {
+      "soundId": 301132,
+      "filename": "VO_120_Lothraxion_68_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/205/7249357/VO_120_Lothraxion_68_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Some of us serve greater purposes than hunger, beast!"
+    },
+    {
+      "soundId": 301134,
+      "filename": "VO_120_Lothraxion_69_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/7249359/VO_120_Lothraxion_69_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Loyalty is so contrary to the void that you betray your master out of boredom!"
+    },
+    {
+      "soundId": 301149,
+      "filename": "VO_120_Lothraxion_71_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/224/7249376/VO_120_Lothraxion_71_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Why merely shut down the Nexus points? We should raise them from within!"
+    },
+    {
+      "soundId": 301170,
+      "filename": "VO_120_Lothraxion_74_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/22/7249686/VO_120_Lothraxion_74_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Have you learned nothing from Kareish? What did your mentor's trust in the void bring him?"
+    },
+    {
+      "soundId": 308115,
+      "filename": "VO_120_Lothraxion_80_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/183/7329975/VO_120_Lothraxion_80_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "See what the light reveals in your heart!"
+    },
+    {
+      "soundId": 308117,
+      "filename": "VO_120_Lothraxion_82_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/185/7329977/VO_120_Lothraxion_82_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "The light demands your surrender!"
+    },
+    {
+      "soundId": 308118,
+      "filename": "VO_120_Lothraxion_83_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/186/7329978/VO_120_Lothraxion_83_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You willingly choose to go against the lights will!"
+    },
+    {
+      "soundId": 308120,
+      "filename": "VO_120_Lothraxion_85_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/188/7329980/VO_120_Lothraxion_85_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Why did you turn your back on the light?"
+    },
+    {
+      "soundId": 308167,
+      "filename": "VO_120_Lothraxion_90_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/163/7330211/VO_120_Lothraxion_90_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You will have no other choice."
+    },
+    {
+      "soundId": 308318,
+      "filename": "VO_120_Lothraxion_95_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/18/7330578/VO_120_Lothraxion_95_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "No! This Elf has made their allegiance known!"
+    },
+    {
+      "soundId": 308324,
+      "filename": "VO_120_Lothraxion_96_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/24/7330584/VO_120_Lothraxion_96_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Fine. On your head. Be it."
+    },
+    {
+      "soundId": 308754,
+      "filename": "VO_120_Lothraxion_98_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/177/7335089/VO_120_Lothraxion_98_M.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Umbric was not summoned by the Sunwell. The Light knows what it needs to save itself, and it did not call for him."
+    },
+    {
+      "soundId": 316052,
+      "filename": "VO_120_Lothraxion_99_M_[RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/7461447/VO_120_Lothraxion_99_M__RTC_.ogg",
+      "npc": "Lothraxion",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "A destruction?"
+    }
+  ]
+}

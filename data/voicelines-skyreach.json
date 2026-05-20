@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "schemaVersion": 3,
+    "dungeon": "Skyreach",
+    "wowheadZoneId": 6988,
+    "expansion": "Warlords of Draenor",
+    "generated": "2026-05-19T14:05:06-07:00",
+    "notes": "Mixed Tier-1 (Wowhead Quotes) + Tier-2 (wiki + Whisper) entries."
+  },
+  "npcs": [
+    {
+      "id": 75964,
+      "name": "Ranjit",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 43887,
+          "filename": "VO_60_SPIRES_BOSS1_RANJIT_AGGRO",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/86/1045590/VO_60_SPIRES_BOSS1_AGGRO.ogg",
+          "text": "I will slice the flesh from your bones!",
+          "source": "wiki",
+          "wikiContext": "Aggro",
+          "transcript": "I will slice the flesh from your bones! HAAA!",
+          "matchScore": 0.884,
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 43891,
+          "filename": "VO_60_SPIRES_BOSS1_RANJIT_SPELL_A",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/90/1045594/VO_60_SPIRES_BOSS1_SPELL_A.ogg",
+          "text": "Your doom is coming.",
+          "source": "wiki",
+          "wikiContext": "Four Winds",
+          "transcript": "Your doom is coming!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 43892,
+          "filename": "VO_60_SPIRES_BOSS1_RANJIT_SPELL_B",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/91/1045595/VO_60_SPIRES_BOSS1_SPELL_B.ogg",
+          "text": "You cannot outrun the wind!",
+          "source": "wiki",
+          "wikiContext": "Four Winds",
+          "transcript": "You cannot outrun the wind! AAAAAAAA!",
+          "matchScore": 0.743,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 43889,
+          "filename": "VO_60_SPIRES_BOSS1_RANJIT_KILL_A",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/88/1045592/VO_60_SPIRES_BOSS1_KILL_A.ogg",
+          "text": "We will feed your corpse to the Kaliri!",
+          "source": "wiki",
+          "wikiContext": "Player Killed",
+          "transcript": "We will feed your corpse to the Coloury Airy!",
+          "matchScore": 0.795,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 43890,
+          "filename": "VO_60_SPIRES_BOSS1_RANJIT_KILL_B",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/89/1045593/VO_60_SPIRES_BOSS1_KILL_B.ogg",
+          "text": "Move faster ground dweller!",
+          "source": "wiki",
+          "wikiContext": "Player Killed",
+          "transcript": "Move faster, ground-dweller!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 43893,
+          "filename": "VO_60_SPIRES_BOSS1_RANJIT_VICTORY",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/92/1045596/VO_60_SPIRES_BOSS1_VICTORY.ogg",
+          "text": "As long as we rule the skies, none shall oppose us!",
+          "source": "wiki",
+          "wikiContext": "Wipe",
+          "transcript": "As long as we rule the skies, none shall oppose us!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 43897,
+          "filename": "VO_60_RANJIT_WoundCrit",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/81/1045585/VO_60_RANJIT_WoundCrit_01.ogg",
+          "text": "WIIIIIIIIIIums",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "WIIIIIIIIIIums",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 43888,
+          "filename": "VO_60_SPIRES_BOSS1_RANJIT_DEATH",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/87/1045591/VO_60_SPIRES_BOSS1_DEATH.ogg",
+          "text": "Ayee I Wish attraction",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Ayee I Wish attraction",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 43895,
+          "filename": "VO_60_RANJIT_AttackCrit",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/66/1045570/VO_60_RANJIT_AttackCrit_01.ogg",
+          "text": "More introduced and messed up",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "More introduced and messed up",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

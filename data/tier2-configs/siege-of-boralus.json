@@ -1,0 +1,34 @@
+{
+  "dungeon": "Siege of Boralus",
+  "slug": "siege-of-boralus",
+  "wowheadZoneId": 9354,
+  "expansion": "Battle for Azeroth",
+  "bosses": [
+    {
+      "id": 129208,
+      "name": "Dread Captain Lockwood",
+      "filterName": "lockwood",
+      "quotes": [
+        { "context": "Aggro",             "text": "No survivors!" },
+        { "context": "Withdraw",          "text": "All hands... ATTACK!" },
+        { "context": "Dread Volley",      "text": "Decimator rounds... FIRE!" },
+        { "context": "Unstable Ordinance","text": "Clear the deck!" },
+        { "context": "Clear the Deck",    "text": "I'll carve ya to ribbons!" },
+        { "context": "Death",             "text": "I sail to... uncharted waters..." }
+      ]
+    },
+    {
+      "id": 128651,
+      "name": "Hadal Darkfathom",
+      "filterName": "darkfathom",
+      "quotes": [
+        { "context": "Aggro",         "text": "Full fathom five your bones shall lie!" },
+        { "context": "Crashing Tide", "text": "The depths will be your tomb!" },
+        { "context": "Pulverized",    "text": "Break!" },
+        { "context": "Death",         "text": "Return... my body... to the sea..." }
+      ]
+    },
+    { "id": 128649, "name": "Sergeant Bainbridge", "filterName": "bainbridge", "namePattern": "^VO_.*Bainbridge", "quotes": [] },
+    { "id": 128650, "name": "Chopper Redhook", "filterName": "redhook", "namePattern": "^VO_.*REDHOOK|^VO_.*Redhook", "quotes": [] }
+  ]
+}

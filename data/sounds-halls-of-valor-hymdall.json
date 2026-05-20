@@ -1,0 +1,436 @@
+{
+  "meta": {
+    "npc": "Hymdall",
+    "dungeon": "Halls of Valor",
+    "filterName": "hymdall",
+    "namePattern": "",
+    "generated": "2026-05-19T16:43:32-07:00",
+    "soundCount": 53
+  },
+  "sounds": [
+    {
+      "soundId": 75208,
+      "filename": "VO_703_Hymdall_GREETINGS",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/27/1446171/VO_703_Hymdall_04_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Our enemies are closer than we think."
+    },
+    {
+      "soundId": 54650,
+      "filename": "VO_70_Hymdall_14",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/1275857/VO_70_Hymdall_14.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "The undeserving will perish."
+    },
+    {
+      "soundId": 70552,
+      "filename": "VO_703_Hymdall_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/27/1446171/VO_703_Hymdall_04_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Our enemies are closer than we think."
+    },
+    {
+      "soundId": 70558,
+      "filename": "VO_703_Hymdall_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/1446177/VO_703_Hymdall_10_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "If you only understood the implications of your actions."
+    },
+    {
+      "soundId": 75210,
+      "filename": "VO_703_Hymdall_FAREWELLS",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/30/1446174/VO_703_Hymdall_07_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "I am vigilant."
+    },
+    {
+      "soundId": 54640,
+      "filename": "VO_70_Hymdall_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/103/1275751/VO_70_Hymdall_04.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "The blood of the unworthy will flow through these halls."
+    },
+    {
+      "soundId": 54651,
+      "filename": "VO_70_Hymdall_15",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/1275859/VO_70_Hymdall_15.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "I will be the judge now!"
+    },
+    {
+      "soundId": 68390,
+      "filename": "VO_703_Hymdall_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/144/1411728/VO_703_Hymdall_01.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "armies of old war, heed Odin's call!"
+    },
+    {
+      "soundId": 54646,
+      "filename": "VO_70_Hymdall_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/201/1275849/VO_70_Hymdall_10.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Resist! Fight to the last!"
+    },
+    {
+      "soundId": 54648,
+      "filename": "VO_70_Hymdall_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/205/1275853/VO_70_Hymdall_12.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "A battle will fought. The path forward is open."
+    },
+    {
+      "soundId": 54655,
+      "filename": "VO_70_Hymdall_19",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/219/1275867/VO_70_Hymdall_19.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "It is over!"
+    },
+    {
+      "soundId": 77596,
+      "filename": "VO_71_Hymdall_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/1518506/VO_71_Hymdall_06_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Well, Fort Champion, I yield to you!"
+    },
+    {
+      "soundId": 68607,
+      "filename": "VO_703_Hymdall_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/146/1412498/VO_703_Hymdall_02.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "You've succeeded. I've opened up a portal for you to return. Hurry. I can only maintain it for so long."
+    },
+    {
+      "soundId": 69363,
+      "filename": "VO_703_Hymdall_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/44/1416748/VO_703_Hymdall_03_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "I will serve with honor."
+    },
+    {
+      "soundId": 70554,
+      "filename": "VO_703_Hymdall_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/1446173/VO_703_Hymdall_06_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Speak mortal!"
+    },
+    {
+      "soundId": 70556,
+      "filename": "VO_703_Hymdall_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/1446175/VO_703_Hymdall_08_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "I serve Skyholt."
+    },
+    {
+      "soundId": 70559,
+      "filename": "VO_703_Hymdall_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/34/1446178/VO_703_Hymdall_11_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "And I'll see you all, knows all!"
+    },
+    {
+      "soundId": 70565,
+      "filename": "VO_703_Hymdall_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/40/1446184/VO_703_Hymdall_17_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "So do yourself!"
+    },
+    {
+      "soundId": 54632,
+      "filename": "VO_70_Hymdall_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/87/1275735/VO_70_Hymdall_01.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "VALASHA! Defend these sacred halls!"
+    },
+    {
+      "soundId": 54634,
+      "filename": "VO_70_Hymdall_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/91/1275739/VO_70_Hymdall_02.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Let your words be measured in blood!"
+    },
+    {
+      "soundId": 54642,
+      "filename": "VO_70_Hymdall_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/127/1275775/VO_70_Hymdall_06.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Stormdrakes! At my side!"
+    },
+    {
+      "soundId": 54644,
+      "filename": "VO_70_Hymdall_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/197/1275845/VO_70_Hymdall_08.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Do not let the gates fall!"
+    },
+    {
+      "soundId": 54649,
+      "filename": "VO_70_Hymdall_13",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/1275855/VO_70_Hymdall_13.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Very well. I will test your worth myself."
+    },
+    {
+      "soundId": 54656,
+      "filename": "VO_70_Hymdall_20",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/222/1275870/VO_70_Hymdall_20.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "These halls remain pure."
+    },
+    {
+      "soundId": 179176,
+      "filename": "VO_70_Hymdall_Attack_010",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/121/1332601/VO_70_Hymdall_Attack_010.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "HAH!"
+    },
+    {
+      "soundId": 57735,
+      "filename": "VO_70_HYMDALL_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/127/1332607/VO_70_Hymdall_Wound_01.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "atmospheric In粉不品版本"
+    },
+    {
+      "soundId": 77591,
+      "filename": "VO_71_Hymdall_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/165/1518501/VO_71_Hymdall_01_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Shall we be lenient with these pets of yours, Odin?"
+    },
+    {
+      "soundId": 77592,
+      "filename": "VO_71_Hymdall_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/166/1518502/VO_71_Hymdall_02_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Only cowards fear the corner battle!"
+    },
+    {
+      "soundId": 70553,
+      "filename": "VO_703_Hymdall_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/28/1446172/VO_703_Hymdall_05_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "The Legion cannot hide from us!"
+    },
+    {
+      "soundId": 70555,
+      "filename": "VO_703_Hymdall_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/30/1446174/VO_703_Hymdall_07_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "I am vigilant."
+    },
+    {
+      "soundId": 70557,
+      "filename": "VO_703_Hymdall_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/32/1446176/VO_703_Hymdall_09_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "The battle is eternal."
+    },
+    {
+      "soundId": 70560,
+      "filename": "VO_703_Hymdall_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/1446179/VO_703_Hymdall_12_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "You are the other hand!"
+    },
+    {
+      "soundId": 70561,
+      "filename": "VO_703_Hymdall_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/36/1446180/VO_703_Hymdall_13_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "I'm starting to question Odin's choice!"
+    },
+    {
+      "soundId": 70562,
+      "filename": "VO_703_Hymdall_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/37/1446181/VO_703_Hymdall_14_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Do you ever give up?"
+    },
+    {
+      "soundId": 70563,
+      "filename": "VO_703_Hymdall_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/38/1446182/VO_703_Hymdall_15_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "No, really!"
+    },
+    {
+      "soundId": 70564,
+      "filename": "VO_703_Hymdall_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/39/1446183/VO_703_Hymdall_16_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "I am very close to stuffing the Rainbow Bridge somewhere painful!"
+    },
+    {
+      "soundId": 75211,
+      "filename": "VO_703_Hymdall_PISSED",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/1446177/VO_703_Hymdall_10_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "If you only understood the implications of your actions."
+    },
+    {
+      "soundId": 54637,
+      "filename": "VO_70_Hymdall_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/1275745/VO_70_Hymdall_03.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "I will bleed the weakness from your veins!"
+    },
+    {
+      "soundId": 54641,
+      "filename": "VO_70_Hymdall_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/105/1275753/VO_70_Hymdall_05.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Drake Riders, come here!"
+    },
+    {
+      "soundId": 54643,
+      "filename": "VO_70_Hymdall_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/1275827/VO_70_Hymdall_07.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Drake Riders, I call upon your aid!"
+    },
+    {
+      "soundId": 54645,
+      "filename": "VO_70_Hymdall_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/1275847/VO_70_Hymdall_09.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "RALLI! RALLI!"
+    },
+    {
+      "soundId": 54647,
+      "filename": "VO_70_Hymdall_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/203/1275851/VO_70_Hymdall_11.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "It is I who am unworthy."
+    },
+    {
+      "soundId": 54652,
+      "filename": "VO_70_Hymdall_16",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/1275861/VO_70_Hymdall_16.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Unworthy!"
+    },
+    {
+      "soundId": 54653,
+      "filename": "VO_70_Hymdall_17",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/215/1275863/VO_70_Hymdall_17.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "You have failed."
+    },
+    {
+      "soundId": 54654,
+      "filename": "VO_70_Hymdall_18",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/217/1275865/VO_70_Hymdall_18.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Your trial ends here!"
+    },
+    {
+      "soundId": 54657,
+      "filename": "VO_70_Hymdall_21",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/1275874/VO_70_Hymdall_21.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "So it ends, the unworthy vanquished."
+    },
+    {
+      "soundId": 54658,
+      "filename": "VO_70_Hymdall_22",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/233/1275881/VO_70_Hymdall_22.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "My video continues."
+    },
+    {
+      "soundId": 57733,
+      "filename": "VO_70_HYMDALL_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/116/1332596/VO_70_Hymdall_Attack_05.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Ugh!"
+    },
+    {
+      "soundId": 57734,
+      "filename": "VO_70_HYMDALL_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/122/1332602/VO_70_Hymdall_AttackCrit_01.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "WHAAAAT?"
+    },
+    {
+      "soundId": 57736,
+      "filename": "VO_70_HYMDALL_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/137/1332617/VO_70_Hymdall_WoundCrit_01.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "W-Ahh!"
+    },
+    {
+      "soundId": 77593,
+      "filename": "VO_71_Hymdall_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/167/1518503/VO_71_Hymdall_03_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "Is there truly valor in your heart?"
+    },
+    {
+      "soundId": 77594,
+      "filename": "VO_71_Hymdall_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/168/1518504/VO_71_Hymdall_04_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "WEAK AS EXPECTED!"
+    },
+    {
+      "soundId": 77595,
+      "filename": "VO_71_Hymdall_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/1518505/VO_71_Hymdall_05_M.ogg",
+      "npc": "Hymdall",
+      "dungeon": "Halls of Valor",
+      "transcript": "That one was too soft!"
+    }
+  ]
+}

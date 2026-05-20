@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "npc": "Wrath of Azshara",
+    "dungeon": "Eye of Azshara",
+    "filterName": "wrath_of_azshara",
+    "namePattern": "",
+    "generated": "2026-05-19T12:39:10-07:00",
+    "soundCount": 12
+  },
+  "sounds": [
+    {
+      "soundId": 54214,
+      "filename": "VO_70_Wrath_of_Azshara_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/20/1273108/VO_70_Wrath_of_Azshara_10.ogg",
+      "npc": "Wrath of Azshara",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Drown!!!"
+    },
+    {
+      "soundId": 54216,
+      "filename": "VO_70_Wrath_of_Azshara_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/24/1273112/VO_70_Wrath_of_Azshara_12.ogg",
+      "npc": "Wrath of Azshara",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Arcane Energy!"
+    },
+    {
+      "soundId": 54206,
+      "filename": "VO_70_Wrath_of_Azshara_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/3/1273091/VO_70_Wrath_of_Azshara_02.ogg",
+      "npc": "Wrath of Azshara",
+      "dungeon": "Eye of Azshara",
+      "transcript": "The Water...Eternal!"
+    },
+    {
+      "soundId": 54208,
+      "filename": "VO_70_Wrath_of_Azshara_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/8/1273096/VO_70_Wrath_of_Azshara_04.ogg",
+      "npc": "Wrath of Azshara",
+      "dungeon": "Eye of Azshara",
+      "transcript": "TEMPEST!"
+    },
+    {
+      "soundId": 54210,
+      "filename": "VO_70_Wrath_of_Azshara_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/12/1273100/VO_70_Wrath_of_Azshara_06.ogg",
+      "npc": "Wrath of Azshara",
+      "dungeon": "Eye of Azshara",
+      "transcript": "TORNA SUNDAY"
+    },
+    {
+      "soundId": 54213,
+      "filename": "VO_70_Wrath_of_Azshara_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/18/1273106/VO_70_Wrath_of_Azshara_09.ogg",
+      "npc": "Wrath of Azshara",
+      "dungeon": "Eye of Azshara",
+      "transcript": "CRASH!"
+    },
+    {
+      "soundId": 54205,
+      "filename": "VO_70_Wrath_of_Azshara_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/0/1273088/VO_70_Wrath_of_Azshara_01.ogg",
+      "npc": "Wrath of Azshara",
+      "dungeon": "Eye of Azshara",
+      "transcript": "All will be eradicated!"
+    },
+    {
+      "soundId": 54207,
+      "filename": "VO_70_Wrath_of_Azshara_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/1273094/VO_70_Wrath_of_Azshara_03.ogg",
+      "npc": "Wrath of Azshara",
+      "dungeon": "Eye of Azshara",
+      "transcript": "The Tides Rise!"
+    },
+    {
+      "soundId": 54209,
+      "filename": "VO_70_Wrath_of_Azshara_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/10/1273098/VO_70_Wrath_of_Azshara_05.ogg",
+      "npc": "Wrath of Azshara",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Who are you?"
+    },
+    {
+      "soundId": 54211,
+      "filename": "VO_70_Wrath_of_Azshara_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/14/1273102/VO_70_Wrath_of_Azshara_07.ogg",
+      "npc": "Wrath of Azshara",
+      "dungeon": "Eye of Azshara",
+      "transcript": "This world will drown!"
+    },
+    {
+      "soundId": 54212,
+      "filename": "VO_70_Wrath_of_Azshara_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/16/1273104/VO_70_Wrath_of_Azshara_08.ogg",
+      "npc": "Wrath of Azshara",
+      "dungeon": "Eye of Azshara",
+      "transcript": "The Storm Awakens!"
+    },
+    {
+      "soundId": 54215,
+      "filename": "VO_70_Wrath_of_Azshara_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/22/1273110/VO_70_Wrath_of_Azshara_11.ogg",
+      "npc": "Wrath of Azshara",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Seek magic!"
+    }
+  ]
+}

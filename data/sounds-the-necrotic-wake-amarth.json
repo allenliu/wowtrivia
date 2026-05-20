@@ -1,0 +1,412 @@
+{
+  "meta": {
+    "npc": "Amarth",
+    "dungeon": "The Necrotic Wake",
+    "filterName": "amarth",
+    "namePattern": "^VO_.*Amarth",
+    "generated": "2026-05-19T18:01:51-07:00",
+    "soundCount": 50
+  },
+  "sounds": [
+    {
+      "soundId": 162806,
+      "filename": "VO_901_Amarth_The_Harvester_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/5/3695365/VO_901_Amarth_The_Harvester_16_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "My soldiers rise once more!"
+    },
+    {
+      "soundId": 155952,
+      "filename": "VO_901_Amarth_The_Reanimator_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/168/3574696/VO_901_Amarth_The_Reanimator_13_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 155955,
+      "filename": "VO_901_Amarth_The_Reanimator_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/3574699/VO_901_Amarth_The_Reanimator_16_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 162794,
+      "filename": "VO_901_Amarth_The_Harvester_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/3695353/VO_901_Amarth_The_Harvester_04_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "Yet more bodies to harvest. Nalthor will be pleased."
+    },
+    {
+      "soundId": 162795,
+      "filename": "VO_901_Amarth_The_Harvester_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/250/3695354/VO_901_Amarth_The_Harvester_05_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "He will use us all."
+    },
+    {
+      "soundId": 162804,
+      "filename": "VO_901_Amarth_The_Harvester_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/3/3695363/VO_901_Amarth_The_Harvester_14_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "Foolish Paragon! There is nothing you can do to stop us!"
+    },
+    {
+      "soundId": 162791,
+      "filename": "VO_901_Amarth_The_Harvester_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/246/3695350/VO_901_Amarth_The_Harvester_01_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "No matter. My minions are endless."
+    },
+    {
+      "soundId": 162792,
+      "filename": "VO_901_Amarth_The_Harvester_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/247/3695351/VO_901_Amarth_The_Harvester_02_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "Another soldier in my army."
+    },
+    {
+      "soundId": 162793,
+      "filename": "VO_901_Amarth_The_Harvester_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/248/3695352/VO_901_Amarth_The_Harvester_03_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "Yes, you will do nicely."
+    },
+    {
+      "soundId": 162802,
+      "filename": "VO_901_Amarth_The_Harvester_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/3695361/VO_901_Amarth_The_Harvester_12_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "Are you so eager to share your Andalings fate? Your wanted courage will be your doom."
+    },
+    {
+      "soundId": 162805,
+      "filename": "VO_901_Amarth_The_Harvester_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/4/3695364/VO_901_Amarth_The_Harvester_15_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "with a end decay."
+    },
+    {
+      "soundId": 162809,
+      "filename": "VO_901_Amarth_The_Harvester_19_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/8/3695368/VO_901_Amarth_The_Harvester_19_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "We are unending. Peace by peace, you will fall."
+    },
+    {
+      "soundId": 162814,
+      "filename": "VO_901_Amarth_The_Harvester_24_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/13/3695373/VO_901_Amarth_The_Harvester_24_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "You, Kyrian, are complicit in a broken cycle. Bastion is a waste of anima. We shall seize it all."
+    },
+    {
+      "soundId": 155943,
+      "filename": "VO_901_Amarth_The_Reanimator_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/3574687/VO_901_Amarth_The_Reanimator_04_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 155946,
+      "filename": "VO_901_Amarth_The_Reanimator_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/162/3574690/VO_901_Amarth_The_Reanimator_07_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 155984,
+      "filename": "VO_901_Amarth_The_Reanimator_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/167/3575463/VO_901_Amarth_The_Reanimator_17_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 162796,
+      "filename": "VO_901_Amarth_The_Harvester_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/3695355/VO_901_Amarth_The_Harvester_06_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "The fallen shall serve me again!"
+    },
+    {
+      "soundId": 162797,
+      "filename": "VO_901_Amarth_The_Harvester_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/3695356/VO_901_Amarth_The_Harvester_07_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "One final act of service."
+    },
+    {
+      "soundId": 162803,
+      "filename": "VO_901_Amarth_The_Harvester_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/3695362/VO_901_Amarth_The_Harvester_13_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "Your temple lies in ruin. Your brethren are butchered. You have already lost!"
+    },
+    {
+      "soundId": 162807,
+      "filename": "VO_901_Amarth_The_Harvester_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/3695366/VO_901_Amarth_The_Harvester_17_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "With sacrifice comes victory!"
+    },
+    {
+      "soundId": 162812,
+      "filename": "VO_901_Amarth_The_Harvester_22_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/11/3695371/VO_901_Amarth_The_Harvester_22_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "Ah, just the vessel I require."
+    },
+    {
+      "soundId": 162815,
+      "filename": "VO_901_Amarth_The_Harvester_25_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/14/3695374/VO_901_Amarth_The_Harvester_25_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "Then you will be the next to fall."
+    },
+    {
+      "soundId": 162816,
+      "filename": "VO_901_Amarth_The_Harvester_26_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/15/3695375/VO_901_Amarth_The_Harvester_26_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "Come then, if you dare."
+    },
+    {
+      "soundId": 155951,
+      "filename": "VO_901_Amarth_The_Reanimator_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/167/3574695/VO_901_Amarth_The_Reanimator_12_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 155987,
+      "filename": "VO_901_Amarth_The_Reanimator_18_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/3575466/VO_901_Amarth_The_Reanimator_18_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 162798,
+      "filename": "VO_901_Amarth_The_Harvester_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/253/3695357/VO_901_Amarth_The_Harvester_08_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "Bonefang will reduce your dust!"
+    },
+    {
+      "soundId": 162801,
+      "filename": "VO_901_Amarth_The_Harvester_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/0/3695360/VO_901_Amarth_The_Harvester_11_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "It will take more than courage to save you now."
+    },
+    {
+      "soundId": 162808,
+      "filename": "VO_901_Amarth_The_Harvester_18_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/3695367/VO_901_Amarth_The_Harvester_18_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "Ha ha ha ha ha! Fool! My army is all around you!"
+    },
+    {
+      "soundId": 162810,
+      "filename": "VO_901_Amarth_The_Harvester_20_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/9/3695369/VO_901_Amarth_The_Harvester_20_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "That is enough. Bonefang's spawn could use a treat."
+    },
+    {
+      "soundId": 162811,
+      "filename": "VO_901_Amarth_The_Harvester_21_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/10/3695370/VO_901_Amarth_The_Harvester_21_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "Come, Kirian. If you are so bold, fulfill your destiny."
+    },
+    {
+      "soundId": 162813,
+      "filename": "VO_901_Amarth_The_Harvester_23_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/12/3695372/VO_901_Amarth_The_Harvester_23_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": "I have perfected you! Now serve me by destroying our enemies!"
+    },
+    {
+      "soundId": 154894,
+      "filename": "VO_901_Amarth_The_Reanimator_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/3540545/VO_901_Amarth_The_Reanimator_01_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 154895,
+      "filename": "VO_901_Amarth_The_Reanimator_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/66/3540546/VO_901_Amarth_The_Reanimator_02_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 154896,
+      "filename": "VO_901_Amarth_The_Reanimator_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/3540547/VO_901_Amarth_The_Reanimator_03_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 155944,
+      "filename": "VO_901_Amarth_The_Reanimator_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/160/3574688/VO_901_Amarth_The_Reanimator_05_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 155945,
+      "filename": "VO_901_Amarth_The_Reanimator_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/161/3574689/VO_901_Amarth_The_Reanimator_06_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 155947,
+      "filename": "VO_901_Amarth_The_Reanimator_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/163/3574691/VO_901_Amarth_The_Reanimator_08_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 155948,
+      "filename": "VO_901_Amarth_The_Reanimator_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/164/3574692/VO_901_Amarth_The_Reanimator_09_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 155949,
+      "filename": "VO_901_Amarth_The_Reanimator_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/165/3574693/VO_901_Amarth_The_Reanimator_10_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 155950,
+      "filename": "VO_901_Amarth_The_Reanimator_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/166/3574694/VO_901_Amarth_The_Reanimator_11_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 155953,
+      "filename": "VO_901_Amarth_The_Reanimator_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/3574697/VO_901_Amarth_The_Reanimator_14_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 155954,
+      "filename": "VO_901_Amarth_The_Reanimator_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/3574698/VO_901_Amarth_The_Reanimator_15_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 156616,
+      "filename": "VO_901_Amarth_The_Reanimator_19_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/79/3583311/VO_901_Amarth_The_Reanimator_19_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 160361,
+      "filename": "VO_901_Amarth_The_Reanimator_20_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/19/3618067/VO_901_Amarth_The_Reanimator_20_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 160363,
+      "filename": "VO_901_Amarth_The_Reanimator_21_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/21/3618069/VO_901_Amarth_The_Reanimator_21_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 160365,
+      "filename": "VO_901_Amarth_The_Reanimator_22_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/23/3618071/VO_901_Amarth_The_Reanimator_22_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 160366,
+      "filename": "VO_901_Amarth_The_Reanimator_23_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/24/3618072/VO_901_Amarth_The_Reanimator_23_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 160375,
+      "filename": "VO_901_Amarth_The_Reanimator_24_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/3618081/VO_901_Amarth_The_Reanimator_24_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 160377,
+      "filename": "VO_901_Amarth_The_Reanimator_25_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/3618083/VO_901_Amarth_The_Reanimator_25_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    },
+    {
+      "soundId": 160379,
+      "filename": "VO_901_Amarth_The_Reanimator_26_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/37/3618085/VO_901_Amarth_The_Reanimator_26_M.ogg",
+      "npc": "Amarth",
+      "dungeon": "The Necrotic Wake",
+      "transcript": ""
+    }
+  ]
+}

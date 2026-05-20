@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "npc": "Dargrul",
+    "dungeon": "Neltharion's Lair",
+    "filterName": "dargrul",
+    "namePattern": "^VO_.*Dargrul",
+    "generated": "2026-05-19T17:15:22-07:00",
+    "soundCount": 31
+  },
+  "sounds": [
+    {
+      "soundId": 54725,
+      "filename": "VO_70_Dargrul_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/1276417/VO_70_Dargrul_11.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Ha ha ha ha ha! I mountain will swallow you all!"
+    },
+    {
+      "soundId": 54729,
+      "filename": "VO_70_Dargrul_15",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/9/1276425/VO_70_Dargrul_15.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "How is this possible? I... I was chosen..."
+    },
+    {
+      "soundId": 54321,
+      "filename": "VO_70_Dargrul_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/219/1274843/VO_70_Dargrul_04.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "You want my hammer? Come get for it!"
+    },
+    {
+      "soundId": 54724,
+      "filename": "VO_70_Dargrul_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/255/1276415/VO_70_Dargrul_10.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "The molten soul of Azeroth, it guffs you!"
+    },
+    {
+      "soundId": 54728,
+      "filename": "VO_70_Dargrul_14",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/1276423/VO_70_Dargrul_14.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "The might of Kasgaroth flows through me!"
+    },
+    {
+      "soundId": 54730,
+      "filename": "VO_70_Dargrul_16",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/11/1276427/VO_70_Dargrul_16.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "The Tauron were wrong about you!"
+    },
+    {
+      "soundId": 54732,
+      "filename": "VO_70_Dargrul_18",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/15/1276431/VO_70_Dargrul_18.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Yes! Try to take the hammer from me!"
+    },
+    {
+      "soundId": 54278,
+      "filename": "VO_70_Dargrul_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/1274586/VO_70_Dargrul_03.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "I want this Charn Runeer to tell the others. Tell them their doom will come once I master this hammer."
+    },
+    {
+      "soundId": 54718,
+      "filename": "VO_70_Dargrul_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/240/1276144/VO_70_Dargrul_05.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "The Tarn believed you were prophesized to seize my hammer! Ha ha ha ha ha! Pathetic!"
+    },
+    {
+      "soundId": 54719,
+      "filename": "VO_70_Dargrul_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/246/1276150/VO_70_Dargrul_06.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Let them come. Witness the fate of those who stand against one worthy of wielding the power of a Titan!"
+    },
+    {
+      "soundId": 54722,
+      "filename": "VO_70_Dargrul_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/54/1276214/VO_70_Dargrul_08.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "The mountain will know on your bones!"
+    },
+    {
+      "soundId": 60720,
+      "filename": "VO_70_DARGRUL_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/242/1370866/VO_70_Dargrul_Attack_01.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Boom."
+    },
+    {
+      "soundId": 60721,
+      "filename": "VO_70_DARGRUL_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/1370876/VO_70_Dargrul_AttackCrit_01.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "giant shower bunları you you you you you you"
+    },
+    {
+      "soundId": 54733,
+      "filename": "VO_70_Dargrul_19",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/17/1276433/VO_70_Dargrul_19.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "I will break this world asunder before I let you take my hammer!"
+    },
+    {
+      "soundId": 54735,
+      "filename": "VO_70_Dargrul_21",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/21/1276437/VO_70_Dargrul_21.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "I will re-forge this world as I see fit!"
+    },
+    {
+      "soundId": 54775,
+      "filename": "VO_70_Dargrul_24",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/1277219/VO_70_Dargrul_24.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "When you're done with this distraction, meet us in River Bend!"
+    },
+    {
+      "soundId": 54898,
+      "filename": "VO_70_Dargrul_27",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/1277666/VO_70_Dargrul_27.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Children of the deep rise and crush these Shangri-nears!"
+    },
+    {
+      "soundId": 60723,
+      "filename": "VO_70_DARGRUL_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/11/1370891/VO_70_Dargrul_WoundCrit_01.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "NOOOOOO!"
+    },
+    {
+      "soundId": 54267,
+      "filename": "VO_70_Dargrul_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/192/1274560/VO_70_Dargrul_01.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "I want these torren off my mountain!"
+    },
+    {
+      "soundId": 54268,
+      "filename": "VO_70_Dargrul_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/197/1274565/VO_70_Dargrul_02.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "You dare challenge me?"
+    },
+    {
+      "soundId": 54721,
+      "filename": "VO_70_Dargrul_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/1276155/VO_70_Dargrul_07.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "I can shape the world just as the Titans did."
+    },
+    {
+      "soundId": 54723,
+      "filename": "VO_70_Dargrul_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/129/1276289/VO_70_Dargrul_09.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Hear the eaves and roars at my command!"
+    },
+    {
+      "soundId": 54726,
+      "filename": "VO_70_Dargrul_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/3/1276419/VO_70_Dargrul_12.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "It is time to end this."
+    },
+    {
+      "soundId": 54727,
+      "filename": "VO_70_Dargrul_13",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/5/1276421/VO_70_Dargrul_13.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "I am the Shaper and Forger of this world!"
+    },
+    {
+      "soundId": 54731,
+      "filename": "VO_70_Dargrul_17",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/13/1276429/VO_70_Dargrul_17.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "MWAH! The hammer falls upon you!"
+    },
+    {
+      "soundId": 54734,
+      "filename": "VO_70_Dargrul_20",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/19/1276435/VO_70_Dargrul_20.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Only I can wield the Hammer's power!"
+    },
+    {
+      "soundId": 54773,
+      "filename": "VO_70_Dargrul_22",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/1277215/VO_70_Dargrul_22.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Are these Ronir giving you too much trouble, Galmog?"
+    },
+    {
+      "soundId": 54774,
+      "filename": "VO_70_Dargrul_23",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/1277217/VO_70_Dargrul_23.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Perhaps I misjudged your worth."
+    },
+    {
+      "soundId": 54873,
+      "filename": "VO_70_Dargrul_25",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/176/1277616/VO_70_Dargrul_25.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "By this hammer, I claim this mountain!"
+    },
+    {
+      "soundId": 54895,
+      "filename": "VO_70_Dargrul_26",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/220/1277660/VO_70_Dargrul_26.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 60722,
+      "filename": "VO_70_DARGRUL_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/1370881/VO_70_Dargrul_Wound_01.ogg",
+      "npc": "Dargrul",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Ah!"
+    }
+  ]
+}

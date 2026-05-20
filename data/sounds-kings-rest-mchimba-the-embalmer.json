@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "npc": "Mchimba the Embalmer",
+    "dungeon": "King's Rest",
+    "filterName": "mchimba",
+    "namePattern": "",
+    "generated": "2026-05-19T13:17:09-07:00",
+    "soundCount": 9
+  },
+  "sounds": [
+    {
+      "soundId": 115293,
+      "filename": "MON_8.0_KingsRest_MchimbatheEmbalmer_Aggro",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/2113930/Mon_TrollZombie_Aggro_04.ogg",
+      "npc": "Mchimba the Embalmer",
+      "dungeon": "King's Rest",
+      "transcript": "ooooooh"
+    },
+    {
+      "soundId": 115290,
+      "filename": "MON_8.0_KingsRest_MchimbatheEmbalmer_AttackCrit",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/2113920/Mon_TrollZombie_AttackCrit_01.ogg",
+      "npc": "Mchimba the Embalmer",
+      "dungeon": "King's Rest",
+      "transcript": "Hre-ng vai!"
+    },
+    {
+      "soundId": 115294,
+      "filename": "MON_8.0_KingsRest_MchimbatheEmbalmer_BattleShout",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/119/2113911/Mon_TrollZombie_BattleShout_01.ogg",
+      "npc": "Mchimba the Embalmer",
+      "dungeon": "King's Rest",
+      "transcript": "R 세계!"
+    },
+    {
+      "soundId": 115289,
+      "filename": "MON_8.0_KingsRest_MchimbatheEmbalmer_Attack",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/122/2113914/Mon_TrollZombie_Attack_01.ogg",
+      "npc": "Mchimba the Embalmer",
+      "dungeon": "King's Rest",
+      "transcript": "300"
+    },
+    {
+      "soundId": 115296,
+      "filename": "MON_8.0_KingsRest_MchimbatheEmbalmer_Death",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/123/2113915/Mon_TrollZombie_Death_03.ogg",
+      "npc": "Mchimba the Embalmer",
+      "dungeon": "King's Rest",
+      "transcript": "Blahblahbridge"
+    },
+    {
+      "soundId": 116846,
+      "filename": "SPELL_8.0_Trinket_MchimbasRitualBandages_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/234/568810/SPELL_BlindingWeb_Precast_Loop_02.ogg",
+      "npc": "Mchimba the Embalmer",
+      "dungeon": "King's Rest",
+      "transcript": ""
+    },
+    {
+      "soundId": 115295,
+      "filename": "MON_8.0_KingsRest_MchimbatheEmbalmer_PreAggro",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/120/2113912/Mon_TrollZombie_PreAggro_04.ogg",
+      "npc": "Mchimba the Embalmer",
+      "dungeon": "King's Rest",
+      "transcript": "Ng"
+    },
+    {
+      "soundId": 115291,
+      "filename": "MON_8.0_KingsRest_MchimbatheEmbalmer_Wound",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/115/2113907/Mon_TrollZombie_Wound_02.ogg",
+      "npc": "Mchimba the Embalmer",
+      "dungeon": "King's Rest",
+      "transcript": "Eugh K"
+    },
+    {
+      "soundId": 115292,
+      "filename": "MON_8.0_KingsRest_MchimbatheEmbalmer_WoundCrit",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/118/2113910/Mon_TrollZombie_WoundCrit_03.ogg",
+      "npc": "Mchimba the Embalmer",
+      "dungeon": "King's Rest",
+      "transcript": "BLEU各位"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "npc": "Hakkar the Soulflayer",
+    "dungeon": "De Other Side",
+    "filterName": "hakkar",
+    "namePattern": "^VO_.*Hakkar",
+    "generated": "2026-05-19T16:41:01-07:00",
+    "soundCount": 27
+  },
+  "sounds": [
+    {
+      "soundId": 153834,
+      "filename": "VO_901_Hakkar_the_Soulflayer_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/28/3513116/VO_901_Hakkar_the_Soulflayer_02_M.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "Atalai, rise in service, Ahakar!"
+    },
+    {
+      "soundId": 153838,
+      "filename": "VO_901_Hakkar_the_Soulflayer_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/32/3513120/VO_901_Hakkar_the_Soulflayer_06_M.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "Your blood is weak and unworthy."
+    },
+    {
+      "soundId": 66601,
+      "filename": "VO_703_Hakkar_the_Houndmaster_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/134/1406342/VO_703_Hakkar_the_Houndmaster_07.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "My house!"
+    },
+    {
+      "soundId": 153840,
+      "filename": "VO_901_Hakkar_the_Soulflayer_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/34/3513122/VO_901_Hakkar_the_Soulflayer_08_M.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "All sacrifices for the soul flayer."
+    },
+    {
+      "soundId": 24245,
+      "filename": "VO_ZG2_HAKKAR_EVENT_BREAK_CHAIN",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/248/551416/VO_ZG2_HAKKAR_EVENT_BREAK_CHAIN.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "Neeahhh!"
+    },
+    {
+      "soundId": 66566,
+      "filename": "VO_703_Hakkar_the_Houndmaster_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/1406307/VO_703_Hakkar_the_Houndmaster_02.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "My hounds are hungry, and your mages make quite a meal."
+    },
+    {
+      "soundId": 66567,
+      "filename": "VO_703_Hakkar_the_Houndmaster_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/100/1406308/VO_703_Hakkar_the_Houndmaster_03.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "Soon they will be strong enough to draw the magic out of every major dollar on!"
+    },
+    {
+      "soundId": 66606,
+      "filename": "VO_703_Hakkar_the_Houndmaster_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/1406347/VO_703_Hakkar_the_Houndmaster_12.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "Once sated, my hands will charge the city, slaughtering everyone in their path."
+    },
+    {
+      "soundId": 153833,
+      "filename": "VO_901_Hakkar_the_Soulflayer_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/27/3513115/VO_901_Hakkar_the_Soulflayer_01_M.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "Your blood sustains me."
+    },
+    {
+      "soundId": 153835,
+      "filename": "VO_901_Hakkar_the_Soulflayer_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/3513117/VO_901_Hakkar_the_Soulflayer_03_M.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "Face the wrath of the Soulflayer!"
+    },
+    {
+      "soundId": 153836,
+      "filename": "VO_901_Hakkar_the_Soulflayer_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/30/3513118/VO_901_Hakkar_the_Soulflayer_04_M.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "Die, mortal!"
+    },
+    {
+      "soundId": 153842,
+      "filename": "VO_901_Hakkar_the_Soulflayer_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/36/3513124/VO_901_Hakkar_the_Soulflayer_10_M.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "The power was mine!"
+    },
+    {
+      "soundId": 153843,
+      "filename": "VO_901_Hakkar_the_Soulflayer_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/37/3513125/VO_901_Hakkar_the_Soulflayer_11_M.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "I will be a god of blood and death."
+    },
+    {
+      "soundId": 24243,
+      "filename": "VO_ZG2_HAKKAR_DEFEAT_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/241/551409/VO_ZG2_HAKKAR_DEFEAT_01.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "Be freed, insects. I will deal with you another time."
+    },
+    {
+      "soundId": 24244,
+      "filename": "VO_ZG2_HAKKAR_DEFEAT_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/250/551418/VO_ZG2_HAKKAR_DEFEAT_02.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "You overstepped your bounds, Jindal. You toy with powers that are beyond you. Have you forgotten who I am? Have you forgotten what I can do?"
+    },
+    {
+      "soundId": 66565,
+      "filename": "VO_703_Hakkar_the_Houndmaster_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/98/1406306/VO_703_Hakkar_the_Houndmaster_01.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "You will not interfere with their feeding!"
+    },
+    {
+      "soundId": 66568,
+      "filename": "VO_703_Hakkar_the_Houndmaster_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/1406309/VO_703_Hakkar_the_Houndmaster_04.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "Come my pets, you will have plenty to feed on soon enough."
+    },
+    {
+      "soundId": 66569,
+      "filename": "VO_703_Hakkar_the_Houndmaster_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/102/1406310/VO_703_Hakkar_the_Houndmaster_05.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "My minions look forward to making a meal out of you, artsmaids."
+    },
+    {
+      "soundId": 66570,
+      "filename": "VO_703_Hakkar_the_Houndmaster_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/103/1406311/VO_703_Hakkar_the_Houndmaster_06.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "Until we meet again."
+    },
+    {
+      "soundId": 66602,
+      "filename": "VO_703_Hakkar_the_Houndmaster_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/1406343/VO_703_Hakkar_the_Houndmaster_08.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "You won't pay with your life for what you've done!"
+    },
+    {
+      "soundId": 66603,
+      "filename": "VO_703_Hakkar_the_Houndmaster_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/1406344/VO_703_Hakkar_the_Houndmaster_09.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "So we meet again!"
+    },
+    {
+      "soundId": 66604,
+      "filename": "VO_703_Hakkar_the_Houndmaster_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/137/1406345/VO_703_Hakkar_the_Houndmaster_10.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "Your presence was not accounted for. But I believe my hounds will enjoy making a meal of you, nonetheless."
+    },
+    {
+      "soundId": 66605,
+      "filename": "VO_703_Hakkar_the_Houndmaster_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/1406346/VO_703_Hakkar_the_Houndmaster_11.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "When they are done tearing you apart, Lim from Lim, they will begin their feast on the magical prisoners within these cells."
+    },
+    {
+      "soundId": 66607,
+      "filename": "VO_703_Hakkar_the_Houndmaster_13",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/140/1406348/VO_703_Hakkar_the_Houndmaster_13.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "Superman will fall to the betting legion!"
+    },
+    {
+      "soundId": 153837,
+      "filename": "VO_901_Hakkar_the_Soulflayer_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/3513119/VO_901_Hakkar_the_Soulflayer_05_M.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "His power is blind! I will live again!"
+    },
+    {
+      "soundId": 153839,
+      "filename": "VO_901_Hakkar_the_Soulflayer_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/3513121/VO_901_Hakkar_the_Soulflayer_07_M.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "A mere drop in the pool."
+    },
+    {
+      "soundId": 24246,
+      "filename": "VO_ZG2_HAKKAR_EVENT_START",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/246/551414/VO_ZG2_HAKKAR_EVENT_START.ogg",
+      "npc": "Hakkar the Soulflayer",
+      "dungeon": "De Other Side",
+      "transcript": "Your deceit is unforgivable, Gino. You've sprit in the face of a god."
+    }
+  ]
+}

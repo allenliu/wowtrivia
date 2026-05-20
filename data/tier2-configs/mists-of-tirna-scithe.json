@@ -1,0 +1,48 @@
+{
+  "dungeon": "Mists of Tirna Scithe",
+  "slug": "mists-of-tirna-scithe",
+  "wowheadZoneId": 13334,
+  "expansion": "Shadowlands",
+  "bosses": [
+    {
+      "id": 164567,
+      "name": "Ingra Maloch",
+      "filterName": "maloch",
+      "quotes": [
+        { "context": "Intro", "text": "Pathetic creatures! Worshipping sticks and leaves..." },
+        { "context": "Intro", "text": "Nature is meant to be controlled. Conquered. And the Drust will conquer all!" },
+        { "context": "Aggro", "text": "Tiernenn! Crush these insects!" },
+        { "context": "Force Compliance", "text": "Obey me!" },
+        { "context": "Force Compliance", "text": "You will do my bidding!" },
+        { "context": "Repulsive Visage", "text": "Be gone from my sight!" },
+        { "context": "Repulsive Visage", "text": "I am your worst nightmare!" },
+        { "context": "Embrace Darkness", "text": "Darkness surrounds me!" },
+        { "context": "Soul Shackle", "text": "I will break you into splinters!" },
+        { "context": "Soul Shackle", "text": "How dare you defy me!" },
+        { "context": "Player Killed", "text": "Thros will consume you." }
+      ]
+    },
+    {
+      "id": 164501,
+      "name": "Mistcaller",
+      "filterName": "mistcaller",
+      "namePattern": "^VO_.*Mistcaller",
+      "quotes": []
+    },
+    {
+      "id": 164804,
+      "name": "Droman Oulfarran",
+      "filterName": "oulfarran",
+      "quotes": [
+        { "context": "Aggro", "text": "You must run. My mind... betrays me..." },
+        { "context": "Tears of the Forest", "text": "Please... survive this..." },
+        { "context": "Tears of the Forest", "text": "You must... endure..." },
+        { "context": "Bewildering Pollen", "text": "Pain... confusion..." },
+        { "context": "Bewildering Pollen", "text": "I cannot... control it..." },
+        { "context": "Wrath of the Forest", "text": "Place your faith in the weald." },
+        { "context": "Wrath of the Forest", "text": "The forest yearns for your victory, mortals." },
+        { "context": "Player Killed", "text": "This fate... was not to be..." }
+      ]
+    }
+  ]
+}

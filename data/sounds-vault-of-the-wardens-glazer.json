@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "npc": "Glazer",
+    "dungeon": "Vault of the Wardens",
+    "filterName": "glazer",
+    "namePattern": "^VO_.*Glazer",
+    "generated": "2026-05-19T16:57:34-07:00",
+    "soundCount": 12
+  },
+  "sounds": [
+    {
+      "soundId": 55474,
+      "filename": "VO_70_Glazer_13",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/1282869/VO_70_Glazer_13.ogg",
+      "npc": "Glazer",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "If only I could see the future!"
+    },
+    {
+      "soundId": 76683,
+      "filename": "VO_Glazer_Attack",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/225/798177/VO_52_DURUMU_Attack_01.ogg",
+      "npc": "Glazer",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Yeah!"
+    },
+    {
+      "soundId": 55424,
+      "filename": "VO_70_Glazer_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/1282769/VO_70_Glazer_01.ogg",
+      "npc": "Glazer",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Visitors, how exciting!"
+    },
+    {
+      "soundId": 55420,
+      "filename": "VO_70_Glazer_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/201/1282761/VO_70_Glazer_05.ogg",
+      "npc": "Glazer",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Watch your step!"
+    },
+    {
+      "soundId": 55423,
+      "filename": "VO_70_Glazer_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/1282767/VO_70_Glazer_02.ogg",
+      "npc": "Glazer",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Didn't see that one coming, did you?"
+    },
+    {
+      "soundId": 55422,
+      "filename": "VO_70_Glazer_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/205/1282765/VO_70_Glazer_03.ogg",
+      "npc": "Glazer",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "You can watch from the floor."
+    },
+    {
+      "soundId": 55421,
+      "filename": "VO_70_Glazer_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/203/1282763/VO_70_Glazer_04.ogg",
+      "npc": "Glazer",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Follow the bouncing ball."
+    },
+    {
+      "soundId": 55419,
+      "filename": "VO_70_Glazer_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/1282759/VO_70_Glazer_06.ogg",
+      "npc": "Glazer",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Time to focus!"
+    },
+    {
+      "soundId": 55477,
+      "filename": "VO_70_Glazer_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/59/1282875/VO_70_Glazer_10.ogg",
+      "npc": "Glazer",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Look into my eye."
+    },
+    {
+      "soundId": 55476,
+      "filename": "VO_70_Glazer_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/1282873/VO_70_Glazer_11.ogg",
+      "npc": "Glazer",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Curse the wardens and their mirrors!"
+    },
+    {
+      "soundId": 55475,
+      "filename": "VO_70_Glazer_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/55/1282871/VO_70_Glazer_12.ogg",
+      "npc": "Glazer",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "That didn't look that close!"
+    },
+    {
+      "soundId": 55473,
+      "filename": "VO_70_Glazer_14",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/1282867/VO_70_Glazer_14.ogg",
+      "npc": "Glazer",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I look forward to my next set of guests."
+    }
+  ]
+}

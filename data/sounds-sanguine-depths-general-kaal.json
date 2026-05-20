@@ -1,0 +1,892 @@
+{
+  "meta": {
+    "npc": "General Kaal",
+    "dungeon": "Sanguine Depths",
+    "filterName": "kaal",
+    "namePattern": "^VO_.*Kaal",
+    "generated": "2026-05-19T14:37:36-07:00",
+    "soundCount": 110
+  },
+  "sounds": [
+    {
+      "soundId": 99427,
+      "filename": "VO_801_Volkaal_18_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/1900871/VO_801_Volkaal_18_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Ha ha, you are tiny puny thing!"
+    },
+    {
+      "soundId": 161352,
+      "filename": "VO_901_General_Kaal_62_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/3641032/VO_901_General_Kaal_62_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "None have ever escaped the Sanguine Depths, and neither will you!"
+    },
+    {
+      "soundId": 102515,
+      "filename": "VO_801_Vol'kaal_GREETINGS",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/70/1900870/VO_801_Volkaal_17_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Beat it! Or I beat you!"
+    },
+    {
+      "soundId": 157654,
+      "filename": "VO_901_General_Kaal_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/3590106/VO_901_General_Kaal_03_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "These halls will be your tomb!"
+    },
+    {
+      "soundId": 164606,
+      "filename": "VO_901_General_Kaal_46_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/47/3616047/VO_901_General_Kaal_46_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "I serve the master."
+    },
+    {
+      "soundId": 164609,
+      "filename": "VO_901_General_Kaal_AttackCrit_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/105/3728233/VO_901_General_Kaal_AttackCrit_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "No!"
+    },
+    {
+      "soundId": 99428,
+      "filename": "VO_801_Volkaal_19_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/72/1900872/VO_801_Volkaal_19_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "I am me with biggest brain!"
+    },
+    {
+      "soundId": 99430,
+      "filename": "VO_801_Volkaal_21_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/1900874/VO_801_Volkaal_21_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "HA HA! SMASHING TIME!"
+    },
+    {
+      "soundId": 99431,
+      "filename": "VO_801_Volkaal_22_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/1900875/VO_801_Volkaal_22_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "The will of my mistress be done!"
+    },
+    {
+      "soundId": 160880,
+      "filename": "VO_901_General_Kaal_58_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/133/3622533/VO_901_General_Kaal_58_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Stoneborn! The fallen prince and his Moorwalker have come! Do not let them reach the master!"
+    },
+    {
+      "soundId": 99429,
+      "filename": "VO_801_Volkaal_20_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/73/1900873/VO_801_Volkaal_20_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "I promise not to smash you yet. I promise good. But maybe time for me to break promise."
+    },
+    {
+      "soundId": 157653,
+      "filename": "VO_901_General_Kaal_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/217/3590105/VO_901_General_Kaal_02_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "That prisoner belongs to the master! You will not take it!"
+    },
+    {
+      "soundId": 157662,
+      "filename": "VO_901_General_Kaal_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/3590114/VO_901_General_Kaal_11_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "You lack the strength of stone!"
+    },
+    {
+      "soundId": 159395,
+      "filename": "VO_901_General_Kaal_37_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/86/3608918/VO_901_General_Kaal_37_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "The depths take you!"
+    },
+    {
+      "soundId": 161351,
+      "filename": "VO_901_General_Kaal_61_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/3641031/VO_901_General_Kaal_61_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "You are nothing but Draven's dogs!"
+    },
+    {
+      "soundId": 164608,
+      "filename": "VO_901_General_Kaal_Attack_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/115/3728243/VO_901_General_Kaal_Attack_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Yeah"
+    },
+    {
+      "soundId": 171422,
+      "filename": "VO_901_General_Kaal_BattleShout_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/3728263/VO_901_General_Kaal_BattleShout_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "RAAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+      "soundId": 102516,
+      "filename": "VO_801_Vol'kaal_FAREWELLS",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1900867/VO_801_Volkaal_14_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Hehehe, yeah, or gonna get smushed!"
+    },
+    {
+      "soundId": 102517,
+      "filename": "VO_801_Vol'kaal_PISSED",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/73/1900873/VO_801_Volkaal_20_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "I promise not to smash you yet. I promise good. But maybe time for me to break promise."
+    },
+    {
+      "soundId": 97350,
+      "filename": "VO_801_Volkaal_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/76/1860172/VO_801_Volkaal_10_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "NOOOOOO!"
+    },
+    {
+      "soundId": 99425,
+      "filename": "VO_801_Volkaal_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/69/1900869/VO_801_Volkaal_16_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "I'm not so hungry now. You'll come back later."
+    },
+    {
+      "soundId": 157663,
+      "filename": "VO_901_General_Kaal_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/227/3590115/VO_901_General_Kaal_12_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Bleed for your crimes!"
+    },
+    {
+      "soundId": 157664,
+      "filename": "VO_901_General_Kaal_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/228/3590116/VO_901_General_Kaal_13_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Surrender the prisoner!"
+    },
+    {
+      "soundId": 159387,
+      "filename": "VO_901_General_Kaal_29_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/3608910/VO_901_General_Kaal_29_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "I will not be broken!"
+    },
+    {
+      "soundId": 164607,
+      "filename": "VO_901_General_Kaal_51_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/52/3616052/VO_901_General_Kaal_51_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Ha! The Maw Walker!"
+    },
+    {
+      "soundId": 160277,
+      "filename": "VO_901_General_Kaal_54_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/55/3616055/VO_901_General_Kaal_54_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Loyalty over dishonour."
+    },
+    {
+      "soundId": 164615,
+      "filename": "VO_901_General_Kaal_BattleShout_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/3728263/VO_901_General_Kaal_BattleShout_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "HAAAAAAAAAAAAAAAAA"
+    },
+    {
+      "soundId": 164611,
+      "filename": "VO_901_General_Kaal_WoundCrit_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/157/3728285/VO_901_General_Kaal_WoundCrit_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "oahahaha"
+    },
+    {
+      "soundId": 164610,
+      "filename": "VO_901_General_Kaal_Wound_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/3728297/VO_901_General_Kaal_Wound_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Ah!"
+    },
+    {
+      "soundId": 46543,
+      "filename": "VO_60_GORGROND_IYU_KAALYA_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/247/1058295/VO_60_GORGROND_IYU_KAALYA_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Be at peace."
+    },
+    {
+      "soundId": 46548,
+      "filename": "VO_60_RANGARI_KAALYA_FAREWELL",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/1058300/VO_60_RANGARI_KAALYA_FAREWELL_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Watch the shadows."
+    },
+    {
+      "soundId": 46550,
+      "filename": "VO_60_RANGARI_KAALYA_PISSED",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/0/1058304/VO_60_RANGARI_KAALYA_PISS_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Your mouth is beginning to look like a target."
+    },
+    {
+      "soundId": 97341,
+      "filename": "VO_801_Volkaal_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1860163/VO_801_Volkaal_01_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "BREAK!"
+    },
+    {
+      "soundId": 97345,
+      "filename": "VO_801_Volkaal_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/1860167/VO_801_Volkaal_05_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Master gonna build me again!"
+    },
+    {
+      "soundId": 99423,
+      "filename": "VO_801_Volkaal_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1900867/VO_801_Volkaal_14_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Hehehe, yeah, or gonna get smushed!"
+    },
+    {
+      "soundId": 99426,
+      "filename": "VO_801_Volkaal_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/70/1900870/VO_801_Volkaal_17_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Beat it! Or I beat you!"
+    },
+    {
+      "soundId": 102541,
+      "filename": "VO_801_VOLKAAL_ALIVE_M_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/1953242/VO_801_Volkaal_Alive_M_Attack_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 102540,
+      "filename": "VO_801_VOLKAAL_ALIVE_M_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/1953237/VO_801_Volkaal_Alive_M_AttackCrit_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Page of epic"
+    },
+    {
+      "soundId": 102512,
+      "filename": "VO_801_VOLKAAL_M_DEATH",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/41/1952041/VO_801_Volkaal_M_Death_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "NONONONONONONONONONON"
+    },
+    {
+      "soundId": 157655,
+      "filename": "VO_901_General_Kaal_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/219/3590107/VO_901_General_Kaal_04_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "STUBBIN' REVILS! YOU WILL MEET YOUR END!"
+    },
+    {
+      "soundId": 157667,
+      "filename": "VO_901_General_Kaal_16_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/231/3590119/VO_901_General_Kaal_16_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Another traitor falls!"
+    },
+    {
+      "soundId": 157668,
+      "filename": "VO_901_General_Kaal_17_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/232/3590120/VO_901_General_Kaal_17_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "No one escapes the Sanguine Depths. No one."
+    },
+    {
+      "soundId": 157669,
+      "filename": "VO_901_General_Kaal_18_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/233/3590121/VO_901_General_Kaal_18_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Enough! Your suffering will be a testament to the master's wrath!"
+    },
+    {
+      "soundId": 157672,
+      "filename": "VO_901_General_Kaal_21_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/236/3590124/VO_901_General_Kaal_21_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "So, this is the prize you seek. It will never leave this prison!"
+    },
+    {
+      "soundId": 159381,
+      "filename": "VO_901_General_Kaal_23_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/72/3608904/VO_901_General_Kaal_23_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Your end is near!"
+    },
+    {
+      "soundId": 159382,
+      "filename": "VO_901_General_Kaal_24_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/73/3608905/VO_901_General_Kaal_24_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "I WILL END YOU MYSELF!"
+    },
+    {
+      "soundId": 159383,
+      "filename": "VO_901_General_Kaal_25_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/3608906/VO_901_General_Kaal_25_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "TREMBLE IN MY SHATTLE!"
+    },
+    {
+      "soundId": 159385,
+      "filename": "VO_901_General_Kaal_27_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/76/3608908/VO_901_General_Kaal_27_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Tear you asunder!"
+    },
+    {
+      "soundId": 159388,
+      "filename": "VO_901_General_Kaal_30_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/79/3608911/VO_901_General_Kaal_30_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Flesh to stone!"
+    },
+    {
+      "soundId": 159393,
+      "filename": "VO_901_General_Kaal_35_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/84/3608916/VO_901_General_Kaal_35_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Your rebellion ends here!"
+    },
+    {
+      "soundId": 159394,
+      "filename": "VO_901_General_Kaal_36_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/85/3608917/VO_901_General_Kaal_36_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "My blood for master!"
+    },
+    {
+      "soundId": 159396,
+      "filename": "VO_901_General_Kaal_38_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/87/3608919/VO_901_General_Kaal_38_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Treacherous scum!"
+    },
+    {
+      "soundId": 159397,
+      "filename": "VO_901_General_Kaal_39_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/88/3608920/VO_901_General_Kaal_39_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Your treachery has come to an end!"
+    },
+    {
+      "soundId": 159399,
+      "filename": "VO_901_General_Kaal_41_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/90/3608922/VO_901_General_Kaal_41_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": ""
+    },
+    {
+      "soundId": 159400,
+      "filename": "VO_901_General_Kaal_42_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/91/3608923/VO_901_General_Kaal_42_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": ""
+    },
+    {
+      "soundId": 159581,
+      "filename": "VO_901_General_Kaal_44_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/25/3609625/VO_901_General_Kaal_44_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Draven is not our threat. Their prince has fallen, and their rebellion is in shambles. Only the accuser remains to issue orders."
+    },
+    {
+      "soundId": 159583,
+      "filename": "VO_901_General_Kaal_45_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/27/3609627/VO_901_General_Kaal_45_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Now you know why we need this Moorwalker alive."
+    },
+    {
+      "soundId": 160271,
+      "filename": "VO_901_General_Kaal_48_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/3616049/VO_901_General_Kaal_48_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Orders are to be executed, not questioned."
+    },
+    {
+      "soundId": 160881,
+      "filename": "VO_901_General_Kaal_59_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/134/3622534/VO_901_General_Kaal_59_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Draven, do not make me destroy you!"
+    },
+    {
+      "soundId": 161486,
+      "filename": "VO_901_General_Kaal_63_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/3642794/VO_901_General_Kaal_63_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "You are a disgrace to our kind, Draven. If you will not serve, then you will fall!"
+    },
+    {
+      "soundId": 164614,
+      "filename": "VO_901_General_Kaal_Aggro_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/3728227/VO_901_General_Kaal_Aggro_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "AW folks, please continue to watch the other series of bother videos at the end of the week!"
+    },
+    {
+      "soundId": 164613,
+      "filename": "VO_901_General_Kaal_PreAggro_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/151/3728279/VO_901_General_Kaal_PreAggro_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Huh?"
+    },
+    {
+      "soundId": 46544,
+      "filename": "VO_60_GORGROND_IYU_KAALYA_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/248/1058296/VO_60_GORGROND_IYU_KAALYA_02.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Watch your flunk, sister."
+    },
+    {
+      "soundId": 46551,
+      "filename": "VO_60_KAALYA_Attack",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/1058259/VO_60_KAALYA_Attack_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Huh!"
+    },
+    {
+      "soundId": 46552,
+      "filename": "VO_60_KAALYA_AttackCrit",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/221/1058269/VO_60_KAALYA_AttackCrit_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "HAAAAAAA!"
+    },
+    {
+      "soundId": 46553,
+      "filename": "VO_60_KAALYA_Death",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/1058274/VO_60_KAALYA_Death_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Aaghh! Siegelf complain"
+    },
+    {
+      "soundId": 46554,
+      "filename": "VO_60_KAALYA_Wound",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/231/1058279/VO_60_KAALYA_Wound_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "UGH!"
+    },
+    {
+      "soundId": 46555,
+      "filename": "VO_60_KAALYA_WoundCrit",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/241/1058289/VO_60_KAALYA_WoundCrit_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "NOOO"
+    },
+    {
+      "soundId": 46549,
+      "filename": "VO_60_RANGARI_KAALYA_GREETING",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/254/1058302/VO_60_RANGARI_KAALYA_GREETING_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Never underestimate the wilds."
+    },
+    {
+      "soundId": 97342,
+      "filename": "VO_801_Volkaal_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/1860164/VO_801_Volkaal_02_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "CRUSH!"
+    },
+    {
+      "soundId": 97343,
+      "filename": "VO_801_Volkaal_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/69/1860165/VO_801_Volkaal_03_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Master, what? Your bones!"
+    },
+    {
+      "soundId": 97344,
+      "filename": "VO_801_Volkaal_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/70/1860166/VO_801_Volkaal_04_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "You... I tear you apart!"
+    },
+    {
+      "soundId": 97346,
+      "filename": "VO_801_Volkaal_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/72/1860168/VO_801_Volkaal_06_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "You'll be in pieces!"
+    },
+    {
+      "soundId": 97347,
+      "filename": "VO_801_Volkaal_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/73/1860169/VO_801_Volkaal_07_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Flesh for Master!"
+    },
+    {
+      "soundId": 97348,
+      "filename": "VO_801_Volkaal_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/1860170/VO_801_Volkaal_08_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Master take your parts. Make me stronger!"
+    },
+    {
+      "soundId": 97349,
+      "filename": "VO_801_Volkaal_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/1860171/VO_801_Volkaal_09_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Right! You die with me!"
+    },
+    {
+      "soundId": 97351,
+      "filename": "VO_801_Volkaal_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/1860173/VO_801_Volkaal_11_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "No break total!"
+    },
+    {
+      "soundId": 97353,
+      "filename": "VO_801_Volkaal_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/79/1860175/VO_801_Volkaal_13_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "NO BREAK!"
+    },
+    {
+      "soundId": 99424,
+      "filename": "VO_801_Volkaal_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/1900868/VO_801_Volkaal_15_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Then truly in charge, not you!"
+    },
+    {
+      "soundId": 102542,
+      "filename": "VO_801_VOLKAAL_ALIVE_M_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/228/1953252/VO_801_Volkaal_Alive_M_BattleShout_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "G Olive"
+    },
+    {
+      "soundId": 102543,
+      "filename": "VO_801_VOLKAAL_ALIVE_M_DEATH",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/231/1953255/VO_801_Volkaal_Alive_M_Death_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Agh.... grandpa sounds"
+    },
+    {
+      "soundId": 102545,
+      "filename": "VO_801_VOLKAAL_ALIVE_M_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/241/1953265/VO_801_Volkaal_Alive_M_Wound_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "BOO!"
+    },
+    {
+      "soundId": 102544,
+      "filename": "VO_801_VOLKAAL_ALIVE_M_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/236/1953260/VO_801_Volkaal_Alive_M_WoundCrit_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Hmph."
+    },
+    {
+      "soundId": 102510,
+      "filename": "VO_801_VOLKAAL_M_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/28/1952028/VO_801_Volkaal_M_Attack_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 102509,
+      "filename": "VO_801_VOLKAAL_M_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/22/1952022/VO_801_Volkaal_M_AttackCrit_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Having another dissapointment?"
+    },
+    {
+      "soundId": 102511,
+      "filename": "VO_801_VOLKAAL_M_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/38/1952038/VO_801_Volkaal_M_BattleShout_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "buooooaaaaaaaaaaaaaaa"
+    },
+    {
+      "soundId": 102514,
+      "filename": "VO_801_VOLKAAL_M_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/1952051/VO_801_Volkaal_M_Wound_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Ugh!"
+    },
+    {
+      "soundId": 102513,
+      "filename": "VO_801_VOLKAAL_M_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/1952046/VO_801_Volkaal_M_WoundCrit_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "热..."
+    },
+    {
+      "soundId": 157652,
+      "filename": "VO_901_General_Kaal_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/216/3590104/VO_901_General_Kaal_01_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Gods, slay them all!"
+    },
+    {
+      "soundId": 157656,
+      "filename": "VO_901_General_Kaal_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/220/3590108/VO_901_General_Kaal_05_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "The depths will take you all!"
+    },
+    {
+      "soundId": 157657,
+      "filename": "VO_901_General_Kaal_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/221/3590109/VO_901_General_Kaal_06_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "I will cast you down!"
+    },
+    {
+      "soundId": 157666,
+      "filename": "VO_901_General_Kaal_15_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/230/3590118/VO_901_General_Kaal_15_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "The Rebellion Fulters!"
+    },
+    {
+      "soundId": 159380,
+      "filename": "VO_901_General_Kaal_22_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/3608903/VO_901_General_Kaal_22_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Grisha, shield yourself! It is time to reign terror from above!"
+    },
+    {
+      "soundId": 159384,
+      "filename": "VO_901_General_Kaal_26_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/3608907/VO_901_General_Kaal_26_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Bleed!"
+    },
+    {
+      "soundId": 159386,
+      "filename": "VO_901_General_Kaal_28_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/3608909/VO_901_General_Kaal_28_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "My blade will find you!"
+    },
+    {
+      "soundId": 159391,
+      "filename": "VO_901_General_Kaal_33_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/82/3608914/VO_901_General_Kaal_33_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "You cannot run!"
+    },
+    {
+      "soundId": 159398,
+      "filename": "VO_901_General_Kaal_40_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/89/3608921/VO_901_General_Kaal_40_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "STONEBORN! STRIKE DOWN THESE USARPERS!"
+    },
+    {
+      "soundId": 159401,
+      "filename": "VO_901_General_Kaal_43_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/92/3608924/VO_901_General_Kaal_43_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": ""
+    },
+    {
+      "soundId": 160269,
+      "filename": "VO_901_General_Kaal_46_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/47/3616047/VO_901_General_Kaal_46_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "I serve the master."
+    },
+    {
+      "soundId": 160270,
+      "filename": "VO_901_General_Kaal_47_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/48/3616048/VO_901_General_Kaal_47_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "My loyalty is unwavering."
+    },
+    {
+      "soundId": 160272,
+      "filename": "VO_901_General_Kaal_49_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/50/3616050/VO_901_General_Kaal_49_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Remember, we are always watching."
+    },
+    {
+      "soundId": 160273,
+      "filename": "VO_901_General_Kaal_50_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/3616051/VO_901_General_Kaal_50_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "The rebellion is already dead. Some have not realized that yet."
+    },
+    {
+      "soundId": 160274,
+      "filename": "VO_901_General_Kaal_51_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/52/3616052/VO_901_General_Kaal_51_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Ha! The Maw Walker!"
+    },
+    {
+      "soundId": 160275,
+      "filename": "VO_901_General_Kaal_52_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/3616053/VO_901_General_Kaal_52_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "You walk in the domain of the master. Tread carefully."
+    },
+    {
+      "soundId": 160276,
+      "filename": "VO_901_General_Kaal_53_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/54/3616054/VO_901_General_Kaal_53_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "My forces command the skies above. We are in control."
+    },
+    {
+      "soundId": 160877,
+      "filename": "VO_901_General_Kaal_55_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/3622530/VO_901_General_Kaal_55_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "We each have our orders. Your skills are needed elsewhere."
+    },
+    {
+      "soundId": 161350,
+      "filename": "VO_901_General_Kaal_60_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/3641030/VO_901_General_Kaal_60_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "RITCHED MORTALS!"
+    },
+    {
+      "soundId": 164612,
+      "filename": "VO_901_General_Kaal_Death_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/141/3728269/VO_901_General_Kaal_Death_01.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Bwa!"
+    },
+    {
+      "soundId": 97352,
+      "filename": "VO_801_Volkaal_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/1860174/VO_801_Volkaal_12_M.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "GAH! THE POWER FATE!"
+    },
+    {
+      "soundId": 159392,
+      "filename": "VO_901_General_Kaal_34_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/83/3608915/VO_901_General_Kaal_34_F.ogg",
+      "npc": "General Kaal",
+      "dungeon": "Sanguine Depths",
+      "transcript": "NO ESCAPE!"
+    }
+  ]
+}

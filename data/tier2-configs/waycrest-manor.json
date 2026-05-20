@@ -1,0 +1,83 @@
+{
+  "dungeon": "Waycrest Manor",
+  "slug": "waycrest-manor",
+  "wowheadZoneId": 9424,
+  "expansion": "Battle for Azeroth",
+  "bosses": [
+    {
+      "id": 131824,
+      "name": "Sister Solena",
+      "filterName": "solena",
+      "quotes": [
+        { "context": "Aggro",             "text": "You have no power here!" },
+        { "context": "Focusing Iris",     "text": "Give me the iris, you fool! Only I can focus its power!" },
+        { "context": "Soul Manipulation", "text": "Dance, puppet! Dance!" },
+        { "context": "Soul Manipulation", "text": "You belong to me now!" },
+        { "context": "Dire Ritual",       "text": "Blackened soul, the pitch of night, lay waste to all those in sight!" },
+        { "context": "Death",             "text": "Death will not silence me..." },
+        { "context": "Player Death",      "text": "Such a fragile soul!" }
+      ]
+    },
+    {
+      "id": 131825,
+      "name": "Sister Briar",
+      "filterName": "briar",
+      "quotes": [
+        { "context": "Aggro",          "text": "Such supple bones!" },
+        { "context": "Focusing Iris",  "text": "Release the iris to me, sister!" },
+        { "context": "Jagged Nettles", "text": "My thorns will rip you to shreds!" },
+        { "context": "Jagged Nettles", "text": "The more you struggle, the more you'll bleed!" },
+        { "context": "Dire Ritual",    "text": "Powers high and spirits low, grant my thistles room to grow!" },
+        { "context": "Death",          "text": "My roots will sprout again..." },
+        { "context": "Player Death",   "text": "I love the sound of snapping limbs." }
+      ]
+    },
+    {
+      "id": 131823,
+      "name": "Sister Malady",
+      "filterName": "malady",
+      "quotes": [
+        { "context": "Focusing Iris",        "text": "You've had your turn!" },
+        { "context": "Unstable Runic Mark",  "text": "You bear the black mark!" },
+        { "context": "Unstable Runic Mark",  "text": "Your destruction is at hand!" },
+        { "context": "Dire Ritual",          "text": "Rotted flesh and screams so dire, making music like a choir!" },
+        { "context": "Death",                "text": "My body cracks... but my curse... shall linger..." },
+        { "context": "Player Death",         "text": "Such lovely agony!" }
+      ]
+    },
+    {
+      "id": 131863,
+      "name": "Raal the Gluttonous",
+      "filterName": "raal",
+      "quotes": [
+        { "context": "Aggro",         "text": "Stay for dinner!" },
+        { "context": "Call Servant",  "text": "All staff to the kitchen!" },
+        { "context": "Death",         "text": "Such... delicious... agony..." }
+      ]
+    },
+    {
+      "id": 131527,
+      "name": "Lord Waycrest",
+      "filterName": "lord_waycrest",
+      "namePattern": "^VO_.*Lord_Waycrest",
+      "quotes": [
+        { "context": "Virulent Pathogen", "text": "Fester!" },
+        { "context": "Virulent Pathogen", "text": "Rot!" }
+      ]
+    },
+    {
+      "id": 131545,
+      "name": "Lady Waycrest",
+      "filterName": "lady_waycrest",
+      "namePattern": "^VO_.*Lady_Waycrest",
+      "quotes": [
+        { "context": "Intro",             "text": "Oh look, husband. Your supper has arrived." },
+        { "context": "Intro",             "text": "Husband, please attend to our guests." },
+        { "context": "Vitality Transfer", "text": "No! You won't take him from me!" },
+        { "context": "Vitality Transfer", "text": "Our bond can never be broken!" },
+        { "context": "Vitality Transfer", "text": "I will never let him go!" },
+        { "context": "Death",             "text": "We will never be parted..." }
+      ]
+    }
+  ]
+}

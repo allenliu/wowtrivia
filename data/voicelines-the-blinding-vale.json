@@ -1,0 +1,108 @@
+{
+    "meta":  {
+                 "schemaVersion":  2,
+                 "dungeon":  "The Blinding Vale",
+                 "wowheadZoneId":  16359,
+                 "expansion":  "Midnight",
+                 "generated":  "2026-05-19T16:14:16-07:00"
+             },
+    "npcs":  [
+                 {
+                     "id":  249068,
+                     "name":  "Orweyna",
+                     "elite":  false,
+                     "quotes":  [
+                                    {
+                                        "soundId":  300151,
+                                        "filename":  "vo-120-orweyna-33-f",
+                                        "fileDataId":  7244912,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/112/7244912/VO_120_Orweyna_33_F.ogg",
+                                        "text":  "A large attack only causes the Lightbloom to spread. A few, striking the most dangerous--that is best.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  300148,
+                                        "filename":  "vo-120-orweyna-30-f",
+                                        "fileDataId":  7244903,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/103/7244903/VO_120_Orweyna_30_F.ogg",
+                                        "text":  "A precision attack? I should have called for everyone.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  300150,
+                                        "filename":  "vo-120-orweyna-32-f",
+                                        "fileDataId":  7244909,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/109/7244909/VO_120_Orweyna_32_F.ogg",
+                                        "text":  "Alndust is limited, so we must cull the areas where the Lightbloom is most active.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  300144,
+                                        "filename":  "vo-120-orweyna-27-f",
+                                        "fileDataId":  7244891,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/91/7244891/VO_120_Orweyna_27_F.ogg",
+                                        "text":  "His faith in the goddess has become hatred. Is this what Lightbloom does?",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  300145,
+                                        "filename":  "vo-120-orweyna-28-f",
+                                        "fileDataId":  7244894,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/94/7244894/VO_120_Orweyna_28_F.ogg",
+                                        "text":  "I will block the Rootways. He will not escape again.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  300147,
+                                        "filename":  "vo-120-orweyna-29-f",
+                                        "fileDataId":  7244900,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/100/7244900/VO_120_Orweyna_29_F.ogg",
+                                        "text":  "So this is where Ruia has hidden himself...",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  300152,
+                                        "filename":  "vo-120-orweyna-34-f",
+                                        "fileDataId":  7244915,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/115/7244915/VO_120_Orweyna_34_F.ogg",
+                                        "text":  "That looks dangerous. We must destroy it before they finish infusing it.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  300149,
+                                        "filename":  "vo-120-orweyna-31-f",
+                                        "fileDataId":  7244906,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/106/7244906/VO_120_Orweyna_31_F.ogg",
+                                        "text":  "The Lightbloom is persistent--we too must be.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  300153,
+                                        "filename":  "vo-120-orweyna-35-f",
+                                        "fileDataId":  7244918,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/118/7244918/VO_120_Orweyna_35_F.ogg",
+                                        "text":  "These can take us below, but swiftly. I would not expose them to the Lightbloom long.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 }
+             ]
+}

@@ -1,0 +1,292 @@
+{
+  "meta": {
+    "npc": "Treemouth",
+    "dungeon": "Brackenhide Hollow",
+    "filterName": "treemouth",
+    "namePattern": "",
+    "generated": "2026-05-19T18:10:11-07:00",
+    "soundCount": 35
+  },
+  "sounds": [
+    {
+      "soundId": 215374,
+      "filename": "VO_100_Treemouth_Idle2_18",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/4776885/VO_100_Treemouth_Idle2_18.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": ""
+    },
+    {
+      "soundId": 203475,
+      "filename": "VO_100_Treemouth_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/108/4663660/VO_100_Treemouth_05_M.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "ThredREAMchi"
+    },
+    {
+      "soundId": 209592,
+      "filename": "VO_100_Treemouth_WoundCrit_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/245/4776949/VO_100_Treemouth_WoundCrit_01.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Aww."
+    },
+    {
+      "soundId": 203472,
+      "filename": "VO_100_Treemouth_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/105/4663657/VO_100_Treemouth_02_M.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "So much to be told You"
+    },
+    {
+      "soundId": 203478,
+      "filename": "VO_100_Treemouth_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/122/4663674/VO_100_Treemouth_07_M.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "So... ...Squishy!"
+    },
+    {
+      "soundId": 203479,
+      "filename": "VO_100_Treemouth_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/123/4663675/VO_100_Treemouth_08_M.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "DK ROT"
+    },
+    {
+      "soundId": 209594,
+      "filename": "VO_100_Treemouth_Aggro_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/4776753/VO_100_Treemouth_Aggro_02.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "rence"
+    },
+    {
+      "soundId": 217959,
+      "filename": "VO_100_Treemouth_CustomSpell04_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/109/4776813/VO_100_Treemouth_CustomSpell04_01.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Bum! Waaawwwwwh!!!!"
+    },
+    {
+      "soundId": 214662,
+      "filename": "VO_100_Treemouth_Idle_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/191/4776895/VO_100_Treemouth_Idle_01.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "of coaster<|si|><|zh|>quoi progress sir half Access what you"
+    },
+    {
+      "soundId": 209593,
+      "filename": "VO_100_Treemouth_PreAggro_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/217/4776921/VO_100_Treemouth_PreAggro_03.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Brr..."
+    },
+    {
+      "soundId": 214666,
+      "filename": "VO_100_Treemouth_Wound_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/3/4776963/VO_100_Treemouth_Wound_02.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "UGGGHHHHHHH"
+    },
+    {
+      "soundId": 203471,
+      "filename": "VO_100_Treemouth_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/4663656/VO_100_Treemouth_01_M.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Dreamers ugly..."
+    },
+    {
+      "soundId": 203474,
+      "filename": "VO_100_Treemouth_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/107/4663659/VO_100_Treemouth_04_M.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "GET BACK!"
+    },
+    {
+      "soundId": 203477,
+      "filename": "VO_100_Treemouth_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/121/4663673/VO_100_Treemouth_06_M.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "three miles with Engine approachingframe"
+    },
+    {
+      "soundId": 209595,
+      "filename": "VO_100_Treemouth_AttackCrit_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/4776769/VO_100_Treemouth_AttackCrit_01.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "NOOOOO!"
+    },
+    {
+      "soundId": 214655,
+      "filename": "VO_100_Treemouth_Attack_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/87/4776791/VO_100_Treemouth_Attack_11.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "THREArling"
+    },
+    {
+      "soundId": 215375,
+      "filename": "VO_100_Treemouth_CustomSpell04_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/109/4776813/VO_100_Treemouth_CustomSpell04_01.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "No, no."
+    },
+    {
+      "soundId": 214656,
+      "filename": "VO_100_Treemouth_CustomSpell04_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/109/4776813/VO_100_Treemouth_CustomSpell04_01.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "value. Now regret."
+    },
+    {
+      "soundId": 215377,
+      "filename": "VO_100_Treemouth_DeathB_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/4776839/VO_100_Treemouth_DeathB_07.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "もの"
+    },
+    {
+      "soundId": 215373,
+      "filename": "VO_100_Treemouth_Idle1_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/4776863/VO_100_Treemouth_Idle1_01.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Contact St Candy"
+    },
+    {
+      "soundId": 209591,
+      "filename": "VO_100_Treemouth_Wound_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/3/4776963/VO_100_Treemouth_Wound_02.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "UGH!"
+    },
+    {
+      "soundId": 203480,
+      "filename": "VO_100_Treemouth_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/124/4663676/VO_100_Treemouth_09_M.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Dead. Seed. Earth."
+    },
+    {
+      "soundId": 214638,
+      "filename": "VO_100_Treemouth_Aggro_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/4776753/VO_100_Treemouth_Aggro_02.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "HUHGH! Did you realise my newaster? You never looked back on the clock set. And that tickles. So we're heading down to the Voyager. Today, let's all get sloppy about it. Uh-huh. An un Oke? Because I'll be back."
+    },
+    {
+      "soundId": 214640,
+      "filename": "VO_100_Treemouth_AttackCrit_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/4776769/VO_100_Treemouth_AttackCrit_01.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "HA!"
+    },
+    {
+      "soundId": 214641,
+      "filename": "VO_100_Treemouth_AttackExhale_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/79/4776783/VO_100_Treemouth_AttackExhale_02.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "HUH!"
+    },
+    {
+      "soundId": 214803,
+      "filename": "VO_100_Treemouth_Attack_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/4776769/VO_100_Treemouth_AttackCrit_01.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Compared to Hare."
+    },
+    {
+      "soundId": 214657,
+      "filename": "VO_100_Treemouth_DeathA_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/117/4776821/VO_100_Treemouth_DeathA_01.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "HAHHHH"
+    },
+    {
+      "soundId": 215376,
+      "filename": "VO_100_Treemouth_DeathA_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/117/4776821/VO_100_Treemouth_DeathA_01.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Uphuhhh!"
+    },
+    {
+      "soundId": 214658,
+      "filename": "VO_100_Treemouth_DeathB_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/4776839/VO_100_Treemouth_DeathB_07.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "oh"
+    },
+    {
+      "soundId": 214659,
+      "filename": "VO_100_Treemouth_HeavyAttackExhale_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/149/4776853/VO_100_Treemouth_HeavyAttackExhale_01.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "huhhhhhhurrrggggg Betic rápido"
+    },
+    {
+      "soundId": 214660,
+      "filename": "VO_100_Treemouth_Idle1_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/4776863/VO_100_Treemouth_Idle1_01.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Grrrrrrrr Grrrrrrrrrrrrr Llylar Deep Chomp"
+    },
+    {
+      "soundId": 214661,
+      "filename": "VO_100_Treemouth_Idle2_18",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/4776885/VO_100_Treemouth_Idle2_18.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": ""
+    },
+    {
+      "soundId": 214663,
+      "filename": "VO_100_Treemouth_PreAggro_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/217/4776921/VO_100_Treemouth_PreAggro_03.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Mhm."
+    },
+    {
+      "soundId": 214664,
+      "filename": "VO_100_Treemouth_PreAttackInhale_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/233/4776937/VO_100_Treemouth_PreAttackInhale_04.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Fire villain."
+    },
+    {
+      "soundId": 214665,
+      "filename": "VO_100_Treemouth_WoundCrit_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/245/4776949/VO_100_Treemouth_WoundCrit_01.ogg",
+      "npc": "Treemouth",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "AUGH!"
+    }
+  ]
+}

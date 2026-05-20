@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "npc": "Ki'katal the Harvester",
+    "dungeon": "Ara-Kara, City of Echoes",
+    "filterName": "kikatal",
+    "namePattern": "",
+    "generated": "2026-05-19T15:55:00-07:00",
+    "soundCount": 10
+  },
+  "sounds": [
+    {
+      "soundId": 247700,
+      "filename": "VO_110_Kikatal_the_Harvester_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/132/5769348/VO_110_Kikatal_the_Harvester_07_F.ogg",
+      "npc": "Ki'katal the Harvester",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": "You will never ascend."
+    },
+    {
+      "soundId": 247701,
+      "filename": "VO_110_Kikatal_the_Harvester_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/133/5769349/VO_110_Kikatal_the_Harvester_08_F.ogg",
+      "npc": "Ki'katal the Harvester",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": "V-I-G-T-E-K-Y-Y-ALL!"
+    },
+    {
+      "soundId": 247695,
+      "filename": "VO_110_Kikatal_the_Harvester_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/127/5769343/VO_110_Kikatal_the_Harvester_02_F.ogg",
+      "npc": "Ki'katal the Harvester",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": "Queen Neferus refused to reclaim that glory, but no more!"
+    },
+    {
+      "soundId": 247702,
+      "filename": "VO_110_Kikatal_the_Harvester_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/134/5769350/VO_110_Kikatal_the_Harvester_09_F.ogg",
+      "npc": "Ki'katal the Harvester",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": "The harvest continues."
+    },
+    {
+      "soundId": 247703,
+      "filename": "VO_110_Kikatal_the_Harvester_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/5769351/VO_110_Kikatal_the_Harvester_10_F.ogg",
+      "npc": "Ki'katal the Harvester",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": "My blood... ...weeps."
+    },
+    {
+      "soundId": 247694,
+      "filename": "VO_110_Kikatal_the_Harvester_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/5769341/VO_110_Kikatal_the_Harvester_01_F.ogg",
+      "npc": "Ki'katal the Harvester",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": "Once, my people thrived under the guidance of the Black Empire."
+    },
+    {
+      "soundId": 247699,
+      "filename": "VO_110_Kikatal_the_Harvester_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/131/5769347/VO_110_Kikatal_the_Harvester_06_F.ogg",
+      "npc": "Ki'katal the Harvester",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": "Harvest it!"
+    },
+    {
+      "soundId": 247696,
+      "filename": "VO_110_Kikatal_the_Harvester_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/5769344/VO_110_Kikatal_the_Harvester_03_F.ogg",
+      "npc": "Ki'katal the Harvester",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": "Ansurek and the black blood will usher in a new age for Ajkahet."
+    },
+    {
+      "soundId": 247697,
+      "filename": "VO_110_Kikatal_the_Harvester_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/129/5769345/VO_110_Kikatal_the_Harvester_04_F.ogg",
+      "npc": "Ki'katal the Harvester",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": "The harvest will prevail!"
+    },
+    {
+      "soundId": 247698,
+      "filename": "VO_110_Kikatal_the_Harvester_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/5769346/VO_110_Kikatal_the_Harvester_05_F.ogg",
+      "npc": "Ki'katal the Harvester",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": "What weak blood!"
+    }
+  ]
+}

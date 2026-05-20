@@ -1,0 +1,53 @@
+{
+  "dungeon": "Vault of the Wardens",
+  "slug": "vault-of-the-wardens",
+  "wowheadZoneId": 7787,
+  "expansion": "Legion",
+  "bosses": [
+    { "id": 95885, "name": "Tirathon Saltheril", "filterName": "tirathon", "quotes": [
+      { "context": "Encounter", "text": "Crimes? Our crime was to sacrifice everything to save this world." },
+      { "context": "Encounter", "text": "We fought for Illidan, you imprisoned the world's villains here for all eternity. And then you imprisoned us." },
+      { "context": "Encounter", "text": "You dare speak of sacrifice to me?" },
+      { "context": "Encounter", "text": "I gave up my flesh, my soul; my people shun me as a freak." },
+      { "context": "Encounter", "text": "I will serve MY people, the exiled and the reviled." },
+      { "context": "Encounter", "text": "I will slay you and your kin; and when I'm done I will fulfill the dreams of my mentor." },
+      { "context": "Aggro", "text": "It's so good to fight again." },
+      { "context": "Darkstrikes", "text": "My blades hunger." },
+      { "context": "Havoc Form", "text": "Anger, Hate, Rage! These will fuel me with the power I crave!" },
+      { "context": "Vengeance Form", "text": "I need no blade to defeat you." },
+      { "context": "Furious Blast", "text": "I will cast you all aside..." },
+      { "context": "Furious Blast", "text": "Play with fire and you'll get burned." },
+      { "context": "Hatred", "text": "My hatred flows through me." },
+      { "context": "Low Health", "text": "My power's wane. I must have more!" },
+      { "context": "Player Killed", "text": "Death is weakness leaving the universe." },
+      { "context": "Player Killed", "text": "More power for my blades." },
+      { "context": "Player Killed", "text": "I cannot be stopped." },
+      { "context": "Death", "text": "My power... Wasn't enough?" }
+    ]},
+    { "id": 96015, "name": "Inquisitor Tormentorum", "filterName": "tormentorum", "quotes": [
+      { "context": "Aggro", "text": "Ooohh... New subjects." },
+      { "context": "Sap Soul", "text": "Your souls are mine." },
+      { "context": "Opening Doors", "text": "Let's see what's behind door number..." },
+      { "context": "Player Killed", "text": "A pity." },
+      { "context": "Player Killed", "text": "Death becomes you." },
+      { "context": "Wipe", "text": "Playtime has ended." },
+      { "context": "Death", "text": "How terribly disappointing." }
+    ]},
+    { "id": 95886, "name": "Ash'Golm", "filterName": "ash_golm", "namePattern": "^VO_.*Ash[_-]?[Gg]olm", "quotes": [
+      { "context": "Aggro", "text": "So... long... where is my Lord of Fire, why does he not answer my call?" },
+      { "context": "Pyroclast", "text": "Your bones will blacken, your life extinguished." },
+      { "context": "Lava Wreath", "text": "We give rise to flame." },
+      { "context": "Lava Wreath", "text": "Your flesh will know the sweet caress of fire." },
+      { "context": "Ember Spawn", "text": "Fire has a life of its own." },
+      { "context": "Ember Spawn", "text": "Flame! Death!" },
+      { "context": "Countermeasures", "text": "So... C... Cold." },
+      { "context": "Countermeasures End", "text": "You cannot contain these flames!" },
+      { "context": "Player Killed", "text": "The fire consumes all!" },
+      { "context": "Player Killed", "text": "More fuel for our fire!" },
+      { "context": "Wipe", "text": "I will burn this prison to the ground!" },
+      { "context": "Death", "text": "I am... Extinguished." }
+    ]},
+    { "id": 95888, "name": "Cordana Felsong", "filterName": "cordana", "namePattern": "^VO_.*Cordana", "quotes": [] },
+    { "id": 95887, "name": "Glazer", "filterName": "glazer", "namePattern": "^VO_.*Glazer", "quotes": [] }
+  ]
+}

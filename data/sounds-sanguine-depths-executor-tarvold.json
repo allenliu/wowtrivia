@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "npc": "Executor Tarvold",
+    "dungeon": "Sanguine Depths",
+    "filterName": "tarvold",
+    "namePattern": "",
+    "generated": "2026-05-19T14:41:38-07:00",
+    "soundCount": 11
+  },
+  "sounds": [
+    {
+      "soundId": 154053,
+      "filename": "VO_901_Executor_Tarvold_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/134/3515270/VO_901_Executor_Tarvold_01_M.ogg",
+      "npc": "Executor Tarvold",
+      "dungeon": "Sanguine Depths",
+      "transcript": "You will confess one way or another."
+    },
+    {
+      "soundId": 154058,
+      "filename": "VO_901_Executor_Tarvold_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/3515275/VO_901_Executor_Tarvold_06_M.ogg",
+      "npc": "Executor Tarvold",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Revenge mortal."
+    },
+    {
+      "soundId": 155883,
+      "filename": "VO_901_Executor_Tarvold_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/100/3572324/VO_901_Executor_Tarvold_09_M.ogg",
+      "npc": "Executor Tarvold",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Sunstrider belongs to us!"
+    },
+    {
+      "soundId": 155887,
+      "filename": "VO_901_Executor_Tarvold_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/3572328/VO_901_Executor_Tarvold_10_M.ogg",
+      "npc": "Executor Tarvold",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Your torment still awaits!"
+    },
+    {
+      "soundId": 155889,
+      "filename": "VO_901_Executor_Tarvold_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/106/3572330/VO_901_Executor_Tarvold_11_M.ogg",
+      "npc": "Executor Tarvold",
+      "dungeon": "Sanguine Depths",
+      "transcript": "I look forward to our time together!"
+    },
+    {
+      "soundId": 154055,
+      "filename": "VO_901_Executor_Tarvold_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/3515272/VO_901_Executor_Tarvold_03_M.ogg",
+      "npc": "Executor Tarvold",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Let us begin!"
+    },
+    {
+      "soundId": 154056,
+      "filename": "VO_901_Executor_Tarvold_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/137/3515273/VO_901_Executor_Tarvold_04_M.ogg",
+      "npc": "Executor Tarvold",
+      "dungeon": "Sanguine Depths",
+      "transcript": "The sinners... still... await!"
+    },
+    {
+      "soundId": 154059,
+      "filename": "VO_901_Executor_Tarvold_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/140/3515276/VO_901_Executor_Tarvold_07_M.ogg",
+      "npc": "Executor Tarvold",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Others are in need of my... ...ministrations."
+    },
+    {
+      "soundId": 155882,
+      "filename": "VO_901_Executor_Tarvold_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/3572323/VO_901_Executor_Tarvold_08_M.ogg",
+      "npc": "Executor Tarvold",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Mrenithos traitors! Gods, stop them!"
+    },
+    {
+      "soundId": 155892,
+      "filename": "VO_901_Executor_Tarvold_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/109/3572333/VO_901_Executor_Tarvold_12_M.ogg",
+      "npc": "Executor Tarvold",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Wrath is your most potent sin, Sunstrider. It will serve us well."
+    },
+    {
+      "soundId": 154057,
+      "filename": "VO_901_Executor_Tarvold_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/3515274/VO_901_Executor_Tarvold_05_M.ogg",
+      "npc": "Executor Tarvold",
+      "dungeon": "Sanguine Depths",
+      "transcript": "Pity. I thought you wouldn't do her."
+    }
+  ]
+}

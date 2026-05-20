@@ -1,0 +1,412 @@
+{
+  "meta": {
+    "npc": "Mueh'zala",
+    "dungeon": "De Other Side",
+    "filterName": "muehzala",
+    "namePattern": "",
+    "generated": "2026-05-19T16:33:08-07:00",
+    "soundCount": 50
+  },
+  "sounds": [
+    {
+      "soundId": 165014,
+      "filename": "VO_901_Muehzala_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/3730567/VO_901_Muehzala_03_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Aaaaaaah! You'll be too late. Me gave an ancient spirit the chance to be joining me. They made a bad choice. And now, they be trapped in the mall."
+    },
+    {
+      "soundId": 165074,
+      "filename": "VO_901_Muehzala_23_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/3730884/VO_901_Muehzala_23_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Your time be done, your power be spent, and now all my Zalla be come to collect."
+    },
+    {
+      "soundId": 169458,
+      "filename": "VO_901_Muehzala_Death_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/85/3778389/VO_901_Muehzala_Death_01.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "HAH!"
+    },
+    {
+      "soundId": 165012,
+      "filename": "VO_901_Muehzala_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/133/3730565/VO_901_Muehzala_01_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Ha ha ha ha ha! Foolish lore! It'll be stopping me, power! First, I'll be feasting on your followers... than you!"
+    },
+    {
+      "soundId": 165013,
+      "filename": "VO_901_Muehzala_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/134/3730566/VO_901_Muehzala_02_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Ha! Me no bow down to your cheap tricks!"
+    },
+    {
+      "soundId": 165031,
+      "filename": "VO_901_Muehzala_19_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/235/3730667/VO_901_Muehzala_19_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "No! You're just mortals! How is me?"
+    },
+    {
+      "soundId": 165073,
+      "filename": "VO_901_Muehzala_22_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/3730883/VO_901_Muehzala_22_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Some love that you beat, Bwonsamdi. Making deals instead of taking what be ours."
+    },
+    {
+      "soundId": 165079,
+      "filename": "VO_901_Muehzala_28_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/201/3730889/VO_901_Muehzala_28_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Once somebody will let mortals fight his battles, we always knew he'd be a coward."
+    },
+    {
+      "soundId": 165340,
+      "filename": "VO_901_Muehzala_32_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/3733474/VO_901_Muehzala_32_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "It'd be Mozalla who brought Hellia to the jailer's side, struck a deal for all Odin's eye, and made a banshee war chief with a whisper."
+    },
+    {
+      "soundId": 165345,
+      "filename": "VO_901_Muehzala_37_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/231/3733479/VO_901_Muehzala_37_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Don't be forget no major lore, one sandy. Now give me them souls, and kneel before your master."
+    },
+    {
+      "soundId": 165346,
+      "filename": "VO_901_Muehzala_38_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/232/3733480/VO_901_Muehzala_38_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "We don't need worshippers! The jail are gonna give me all the power I need. And once I'm the one who gonna be forgotten."
+    },
+    {
+      "soundId": 169455,
+      "filename": "VO_901_Muehzala_AttackCrit_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/47/3778351/VO_901_Muehzala_AttackCrit_01.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "TA-DAH!"
+    },
+    {
+      "soundId": 169456,
+      "filename": "VO_901_Muehzala_Wound_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/3778415/VO_901_Muehzala_Wound_01.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "RRRRRRRRRRRRRRRRRRRRRRRRRR"
+    },
+    {
+      "soundId": 165020,
+      "filename": "VO_901_Muehzala_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/223/3730655/VO_901_Muehzala_08_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "So small, so weak!"
+    },
+    {
+      "soundId": 165026,
+      "filename": "VO_901_Muehzala_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/230/3730662/VO_901_Muehzala_14_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Ha! This will be the end of one Sunday! And I-and I-you!"
+    },
+    {
+      "soundId": 165027,
+      "filename": "VO_901_Muehzala_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/231/3730663/VO_901_Muehzala_15_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Jana take ya!"
+    },
+    {
+      "soundId": 165028,
+      "filename": "VO_901_Muehzala_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/232/3730664/VO_901_Muehzala_16_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "You said the wrong lorra!"
+    },
+    {
+      "soundId": 165072,
+      "filename": "VO_901_Muehzala_21_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/194/3730882/VO_901_Muehzala_21_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "You'll be running to the Winter Queen, with your problems now!"
+    },
+    {
+      "soundId": 165076,
+      "filename": "VO_901_Muehzala_25_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/3730886/VO_901_Muehzala_25_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Too bad you betrayed all Moazzalla. Now we be enemies."
+    },
+    {
+      "soundId": 165078,
+      "filename": "VO_901_Muehzala_27_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/3730888/VO_901_Muehzala_27_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "He'll be not without me, and when he be done, he gonna be not again."
+    },
+    {
+      "soundId": 165081,
+      "filename": "VO_901_Muehzala_29_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/210/3730898/VO_901_Muehzala_29_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Ha ha ha ha ha! Look over coming back to his little necropolis. You're scaring me, follow us, gon' tear it down."
+    },
+    {
+      "soundId": 165082,
+      "filename": "VO_901_Muehzala_30_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/3730899/VO_901_Muehzala_30_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Me four seas be here to free me! And then you're gonna be real sorry."
+    },
+    {
+      "soundId": 165339,
+      "filename": "VO_901_Muehzala_31_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/225/3733473/VO_901_Muehzala_31_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Ha ha ha ha ha ha ha ha ha ha ha! These little friends of yours think they're gonna help you on one Sunday! What chance you'll be havin' against me!"
+    },
+    {
+      "soundId": 165341,
+      "filename": "VO_901_Muehzala_33_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/227/3733475/VO_901_Muehzala_33_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Where you be hiding all them Zandalari souls one Sunday? Give them to your boss man now or you gonna be sorry. REAL sorry."
+    },
+    {
+      "soundId": 169460,
+      "filename": "VO_901_Muehzala_Aggro_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/37/3778341/VO_901_Muehzala_Aggro_01.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Yeah"
+    },
+    {
+      "soundId": 169461,
+      "filename": "VO_901_Muehzala_BattleShout_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/3778381/VO_901_Muehzala_BattleShout_01.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "YOOOO you"
+    },
+    {
+      "soundId": 169459,
+      "filename": "VO_901_Muehzala_PreAggro_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/95/3778399/VO_901_Muehzala_PreAggro_01.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Huh?"
+    },
+    {
+      "soundId": 175990,
+      "filename": "MUS_90_AW_Loa_Muehzala_A",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/214/3853270/MUS_90_AW_Loa_Muehzala_A.mp3",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "You You You You You"
+    },
+    {
+      "soundId": 175991,
+      "filename": "MUS_90_AW_Loa_Muehzala_C",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/3853274/MUS_90_AW_Loa_Muehzala_C.mp3",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "You You You You"
+    },
+    {
+      "soundId": 165015,
+      "filename": "VO_901_Muehzala_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/3730568/VO_901_Muehzala_04_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "You don't be stopping the Jido. Then you work in his plans for a long time. A LONG TIME!"
+    },
+    {
+      "soundId": 165016,
+      "filename": "VO_901_Muehzala_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/137/3730569/VO_901_Muehzala_05_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "War has been burning this whole world to ashes! All over one! Eekah! Whisper to this foolish troll! Ha ha ha ha ha ha ha ha ha!"
+    },
+    {
+      "soundId": 165017,
+      "filename": "VO_901_Muehzala_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/3730570/VO_901_Muehzala_06_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Oh, you like me whispers little chieftain? Who's gonna send your soul to the mom itself? But you're born to this world, be too hard to break!"
+    },
+    {
+      "soundId": 165019,
+      "filename": "VO_901_Muehzala_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/222/3730654/VO_901_Muehzala_07_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Your life be mine!"
+    },
+    {
+      "soundId": 165022,
+      "filename": "VO_901_Muehzala_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/3730658/VO_901_Muehzala_10_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "There be no escaping dead."
+    },
+    {
+      "soundId": 165023,
+      "filename": "VO_901_Muehzala_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/227/3730659/VO_901_Muehzala_11_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Darkness be mine to command!"
+    },
+    {
+      "soundId": 165024,
+      "filename": "VO_901_Muehzala_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/228/3730660/VO_901_Muehzala_12_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Foolish mortals! Maybe the true god are dead!"
+    },
+    {
+      "soundId": 165029,
+      "filename": "VO_901_Muehzala_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/233/3730665/VO_901_Muehzala_17_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "To the mawage of souls! No one be defying Mazzalla!"
+    },
+    {
+      "soundId": 165032,
+      "filename": "VO_901_Muehzala_20_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/236/3730668/VO_901_Muehzala_20_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "That'd be some big dog one-sunday, but you'll be nothing before the Gila"
+    },
+    {
+      "soundId": 165075,
+      "filename": "VO_901_Muehzala_24_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/197/3730885/VO_901_Muehzala_24_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Your seed of power may be given me followers once and for all."
+    },
+    {
+      "soundId": 165077,
+      "filename": "VO_901_Muehzala_26_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/3730887/VO_901_Muehzala_26_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "After all he be doing for Buansamdi, raising him from priests to law, giving him the power debt, now he be using it against me."
+    },
+    {
+      "soundId": 165343,
+      "filename": "VO_901_Muehzala_35_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/229/3733477/VO_901_Muehzala_35_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "We want them swords, Bwonsandi! We want Rastakhan and all the Razandallari! It ain't wise to be holding out on Wazala!"
+    },
+    {
+      "soundId": 165344,
+      "filename": "VO_901_Muehzala_36_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/230/3733478/VO_901_Muehzala_36_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "The only power accounts be dead and dead be coming for them all"
+    },
+    {
+      "soundId": 169454,
+      "filename": "VO_901_Muehzala_Attack_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/3778361/VO_901_Muehzala_Attack_01.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "YUM!"
+    },
+    {
+      "soundId": 175999,
+      "filename": "MUS_90_AW_Loa_Muehzala_A",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/214/3853270/MUS_90_AW_Loa_Muehzala_A.mp3",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "You You You You You"
+    },
+    {
+      "soundId": 177445,
+      "filename": "MUS_90_AW_Loa_Muehzala_A",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/214/3853270/MUS_90_AW_Loa_Muehzala_A.mp3",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "You You You You You"
+    },
+    {
+      "soundId": 177447,
+      "filename": "MUS_90_AW_Loa_Muehzala_B",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/216/3853272/MUS_90_AW_Loa_Muehzala_B.mp3",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "You You You You"
+    },
+    {
+      "soundId": 176000,
+      "filename": "MUS_90_AW_Loa_Muehzala_E",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/222/3853278/MUS_90_AW_Loa_Muehzala_E.mp3",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "You You You You"
+    },
+    {
+      "soundId": 165021,
+      "filename": "VO_901_Muehzala_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/224/3730656/VO_901_Muehzala_09_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "The Shadow Stakeya!"
+    },
+    {
+      "soundId": 165030,
+      "filename": "VO_901_Muehzala_18_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/234/3730666/VO_901_Muehzala_18_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "That be the best your followers got once a day! Pathetic!"
+    },
+    {
+      "soundId": 165342,
+      "filename": "VO_901_Muehzala_34_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/228/3733476/VO_901_Muehzala_34_M.ogg",
+      "npc": "Mueh'zala",
+      "dungeon": "De Other Side",
+      "transcript": "Heh, you always be soft, Bonsangdi. Wicked! Sooner or later you're gonna break. Then the jailer be getting his do."
+    }
+  ]
+}

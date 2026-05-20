@@ -1,0 +1,356 @@
+{
+  "meta": {
+    "npc": "Lady Waycrest",
+    "dungeon": "Waycrest Manor",
+    "filterName": "lady_waycrest",
+    "namePattern": "^VO_.*Lady_Waycrest",
+    "generated": "2026-05-19T12:37:28-07:00",
+    "soundCount": 43
+  },
+  "sounds": [
+    {
+      "soundId": 105951,
+      "filename": "VO_801_Lady_Waycrest_19_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/158/1998750/VO_801_Lady_Waycrest_19_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Idiot! There can be no witnesses!"
+    },
+    {
+      "soundId": 105958,
+      "filename": "VO_801_Lady_Waycrest_26_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/165/1998757/VO_801_Lady_Waycrest_26_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Welcome home, daughter! I see you brought guests!"
+    },
+    {
+      "soundId": 105945,
+      "filename": "VO_801_Lady_Waycrest_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/152/1998744/VO_801_Lady_Waycrest_13_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "I'm telling you Arthur, you should not allow this! Our daughter marrying a common merchant!"
+    },
+    {
+      "soundId": 105955,
+      "filename": "VO_801_Lady_Waycrest_23_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/162/1998754/VO_801_Lady_Waycrest_23_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "I can tell by your dull expressions, that in your corner of the world, the concept of a home not made of DUNN is likely new and exciting."
+    },
+    {
+      "soundId": 107791,
+      "filename": "VO_801_Lady_Waycrest_38_F [RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/250/2007034/VO_801_Lady_Waycrest_38_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Come Arthur!"
+    },
+    {
+      "soundId": 97495,
+      "filename": "VO_801_Lady_Waycrest_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/1860673/VO_801_Lady_Waycrest_05_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Serves them right for opposing our love!"
+    },
+    {
+      "soundId": 105948,
+      "filename": "VO_801_Lady_Waycrest_16_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/155/1998747/VO_801_Lady_Waycrest_16_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "We are looking for a book. Don't you think we would have already checked the bookcase?"
+    },
+    {
+      "soundId": 105949,
+      "filename": "VO_801_Lady_Waycrest_17_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/156/1998748/VO_801_Lady_Waycrest_17_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Are you trying to waste our time?"
+    },
+    {
+      "soundId": 105950,
+      "filename": "VO_801_Lady_Waycrest_18_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/157/1998749/VO_801_Lady_Waycrest_18_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Here is your money, outlaw. Take it before anyone sees you."
+    },
+    {
+      "soundId": 105952,
+      "filename": "VO_801_Lady_Waycrest_20_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/1998751/VO_801_Lady_Waycrest_20_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "You had better!"
+    },
+    {
+      "soundId": 105961,
+      "filename": "VO_801_Lady_Waycrest_29_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/168/1998760/VO_801_Lady_Waycrest_29_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Ladies, ensure all visitors are made comfortable."
+    },
+    {
+      "soundId": 107789,
+      "filename": "VO_801_Lady_Waycrest_36_F [RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/248/2007032/VO_801_Lady_Waycrest_36_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Why, Marshal, that's no way to talk to a lady! I should teach you some manners!"
+    },
+    {
+      "soundId": 105946,
+      "filename": "VO_801_Lady_Waycrest_14_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/153/1998745/VO_801_Lady_Waycrest_14_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Her heart isn't doing our house any favours."
+    },
+    {
+      "soundId": 105947,
+      "filename": "VO_801_Lady_Waycrest_15_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/154/1998746/VO_801_Lady_Waycrest_15_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Why would my husband put his notebook in Lucille's pack? Are you daft?"
+    },
+    {
+      "soundId": 105953,
+      "filename": "VO_801_Lady_Waycrest_21_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/160/1998752/VO_801_Lady_Waycrest_21_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Where you come from? Is it considered polite to murder your hostess's servants?"
+    },
+    {
+      "soundId": 105954,
+      "filename": "VO_801_Lady_Waycrest_22_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/161/1998753/VO_801_Lady_Waycrest_22_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Un-second thought, don't answer that."
+    },
+    {
+      "soundId": 105956,
+      "filename": "VO_801_Lady_Waycrest_24_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/163/1998755/VO_801_Lady_Waycrest_24_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Continue to meddle in my affairs and your deaths will be long and abhorrent."
+    },
+    {
+      "soundId": 105957,
+      "filename": "VO_801_Lady_Waycrest_25_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/164/1998756/VO_801_Lady_Waycrest_25_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "You have overstayed your welcome. Very well. Now you shall never leave these grounds!"
+    },
+    {
+      "soundId": 105959,
+      "filename": "VO_801_Lady_Waycrest_27_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/166/1998758/VO_801_Lady_Waycrest_27_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Such insolence! Wait until your father hears of this! In the meantime, I leave you in the care of my servants!"
+    },
+    {
+      "soundId": 105960,
+      "filename": "VO_801_Lady_Waycrest_28_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/167/1998759/VO_801_Lady_Waycrest_28_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "It appears we have uninvited guests. No matter. I'm certain we can accommodate them."
+    },
+    {
+      "soundId": 105962,
+      "filename": "VO_801_Lady_Waycrest_30_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/1998761/VO_801_Lady_Waycrest_30_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Oh dear, it seems you have slaughtered my entire household!"
+    },
+    {
+      "soundId": 105963,
+      "filename": "VO_801_Lady_Waycrest_31_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/1998762/VO_801_Lady_Waycrest_31_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "The carnage is dripping through the floorboards!"
+    },
+    {
+      "soundId": 105964,
+      "filename": "VO_801_Lady_Waycrest_32_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/1998763/VO_801_Lady_Waycrest_32_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Why not join me in the basement and marvel at death's beauty?"
+    },
+    {
+      "soundId": 107784,
+      "filename": "VO_801_Lady_Waycrest_33_F [RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/228/2007012/VO_801_Lady_Waycrest_33_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "That's far enough."
+    },
+    {
+      "soundId": 107786,
+      "filename": "VO_801_Lady_Waycrest_34_F [RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/230/2007014/VO_801_Lady_Waycrest_34_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "I'm so glad you could join us, my dear. Your father has missed you so."
+    },
+    {
+      "soundId": 107788,
+      "filename": "VO_801_Lady_Waycrest_35_F [RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/232/2007016/VO_801_Lady_Waycrest_35_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Be appreciative girl, not only is your father alive and well, but he will soon be lord of all Kulteras. Come join us, child."
+    },
+    {
+      "soundId": 107790,
+      "filename": "VO_801_Lady_Waycrest_37_F [RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/2007033/VO_801_Lady_Waycrest_37_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Now, Marshal, be a deer and bring Lucille to my quarters, after you dispose of these pests."
+    },
+    {
+      "soundId": 97501,
+      "filename": "VO_801_Lady_Waycrest_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/1860679/VO_801_Lady_Waycrest_11_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "I will never let him go!"
+    },
+    {
+      "soundId": 97491,
+      "filename": "VO_801_Lady_Waycrest_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/61/1860669/VO_801_Lady_Waycrest_01_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Simply inferior!"
+    },
+    {
+      "soundId": 97492,
+      "filename": "VO_801_Lady_Waycrest_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/62/1860670/VO_801_Lady_Waycrest_02_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Good riddance!"
+    },
+    {
+      "soundId": 97498,
+      "filename": "VO_801_Lady_Waycrest_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/1860676/VO_801_Lady_Waycrest_08_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Oh look, Hasbond! Your supper has arrived!"
+    },
+    {
+      "soundId": 97499,
+      "filename": "VO_801_Lady_Waycrest_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/69/1860677/VO_801_Lady_Waycrest_09_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Hasbond, please attend to our guests."
+    },
+    {
+      "soundId": 97500,
+      "filename": "VO_801_Lady_Waycrest_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/70/1860678/VO_801_Lady_Waycrest_10_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "No! You won't take him from me!"
+    },
+    {
+      "soundId": 97502,
+      "filename": "VO_801_Lady_Waycrest_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/72/1860680/VO_801_Lady_Waycrest_12_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Our bond can never be broken!"
+    },
+    {
+      "soundId": 112871,
+      "filename": "VO_801_LADY_WAYCREST_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/222/2069214/VO_801_Lady_Waycrest_Attack_01.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Gyow!"
+    },
+    {
+      "soundId": 112874,
+      "filename": "VO_801_LADY_WAYCREST_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/242/2069234/VO_801_Lady_Waycrest_Wound_01.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Ugh!"
+    },
+    {
+      "soundId": 112873,
+      "filename": "VO_801_LADY_WAYCREST_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/237/2069229/VO_801_Lady_Waycrest_WoundCrit_01.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "OOOOO benim"
+    },
+    {
+      "soundId": 97493,
+      "filename": "VO_801_Lady_Waycrest_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/1860671/VO_801_Lady_Waycrest_03_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "We will never be parted!"
+    },
+    {
+      "soundId": 97494,
+      "filename": "VO_801_Lady_Waycrest_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/1860672/VO_801_Lady_Waycrest_04_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Be a dear husband and tidy up this mess."
+    },
+    {
+      "soundId": 97496,
+      "filename": "VO_801_Lady_Waycrest_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/66/1860674/VO_801_Lady_Waycrest_06_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "You will be consumed!"
+    },
+    {
+      "soundId": 97497,
+      "filename": "VO_801_Lady_Waycrest_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1860675/VO_801_Lady_Waycrest_07_F.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Reality Shatters on my command!"
+    },
+    {
+      "soundId": 112870,
+      "filename": "VO_801_LADY_WAYCREST_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/216/2069208/VO_801_Lady_Waycrest_AttackCrit_01.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Finish!"
+    },
+    {
+      "soundId": 112872,
+      "filename": "VO_801_LADY_WAYCREST_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/232/2069224/VO_801_Lady_Waycrest_BattleShout_01.ogg",
+      "npc": "Lady Waycrest",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Hola hola hola hola"
+    }
+  ]
+}

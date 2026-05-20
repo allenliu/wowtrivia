@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "npc": "Lady Hatecoil",
+    "dungeon": "Eye of Azshara",
+    "filterName": "hatecoil",
+    "namePattern": "^VO_.*Lady_Hatecoil",
+    "generated": "2026-05-19T12:39:50-07:00",
+    "soundCount": 16
+  },
+  "sounds": [
+    {
+      "soundId": 54198,
+      "filename": "VO_70_Lady_Hatecoil_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/234/1273066/VO_70_Lady_Hatecoil_05.ogg",
+      "npc": "Lady Hatecoil",
+      "dungeon": "Eye of Azshara",
+      "transcript": "PEDAFUL!"
+    },
+    {
+      "soundId": 60209,
+      "filename": "VO_70_LADY_HATECOIL_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/92/1369180/VO_70_Lady_Hatecoil_WoundCrit_01.ogg",
+      "npc": "Lady Hatecoil",
+      "dungeon": "Eye of Azshara",
+      "transcript": "HAAAAAAA"
+    },
+    {
+      "soundId": 54199,
+      "filename": "VO_70_Lady_Hatecoil_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/236/1273068/VO_70_Lady_Hatecoil_06.ogg",
+      "npc": "Lady Hatecoil",
+      "dungeon": "Eye of Azshara",
+      "transcript": "The hate coil proves superior!"
+    },
+    {
+      "soundId": 54194,
+      "filename": "VO_70_Lady_Hatecoil_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/1273058/VO_70_Lady_Hatecoil_01.ogg",
+      "npc": "Lady Hatecoil",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Continue the ritual! I will handle these fools!"
+    },
+    {
+      "soundId": 54195,
+      "filename": "VO_70_Lady_Hatecoil_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/228/1273060/VO_70_Lady_Hatecoil_02.ogg",
+      "npc": "Lady Hatecoil",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Can you feel the winds? They come for you."
+    },
+    {
+      "soundId": 54196,
+      "filename": "VO_70_Lady_Hatecoil_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/230/1273062/VO_70_Lady_Hatecoil_03.ogg",
+      "npc": "Lady Hatecoil",
+      "dungeon": "Eye of Azshara",
+      "transcript": "You are too late! The wrath of Ashara has arrived!"
+    },
+    {
+      "soundId": 54204,
+      "filename": "VO_70_Lady_Hatecoil_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/246/1273078/VO_70_Lady_Hatecoil_11.ogg",
+      "npc": "Lady Hatecoil",
+      "dungeon": "Eye of Azshara",
+      "transcript": "The waters rise!"
+    },
+    {
+      "soundId": 56655,
+      "filename": "VO_70_Lady_Hatecoil_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/1308546/VO_70_Lady_Hatecoil_12.ogg",
+      "npc": "Lady Hatecoil",
+      "dungeon": "Eye of Azshara",
+      "transcript": "It seems we have pests!"
+    },
+    {
+      "soundId": 60207,
+      "filename": "VO_70_LADY_HATECOIL_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/1369165/VO_70_Lady_Hatecoil_AttackCrit_01.ogg",
+      "npc": "Lady Hatecoil",
+      "dungeon": "Eye of Azshara",
+      "transcript": "W开啰!"
+    },
+    {
+      "soundId": 54197,
+      "filename": "VO_70_Lady_Hatecoil_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/232/1273064/VO_70_Lady_Hatecoil_04.ogg",
+      "npc": "Lady Hatecoil",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Too much to handle!"
+    },
+    {
+      "soundId": 54200,
+      "filename": "VO_70_Lady_Hatecoil_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/238/1273070/VO_70_Lady_Hatecoil_07.ogg",
+      "npc": "Lady Hatecoil",
+      "dungeon": "Eye of Azshara",
+      "transcript": "FRI-LAND-WALKERS!"
+    },
+    {
+      "soundId": 54201,
+      "filename": "VO_70_Lady_Hatecoil_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/240/1273072/VO_70_Lady_Hatecoil_08.ogg",
+      "npc": "Lady Hatecoil",
+      "dungeon": "Eye of Azshara",
+      "transcript": "Just you wait!"
+    },
+    {
+      "soundId": 54202,
+      "filename": "VO_70_Lady_Hatecoil_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/242/1273074/VO_70_Lady_Hatecoil_09.ogg",
+      "npc": "Lady Hatecoil",
+      "dungeon": "Eye of Azshara",
+      "transcript": "There's no escape!"
+    },
+    {
+      "soundId": 54203,
+      "filename": "VO_70_Lady_Hatecoil_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/244/1273076/VO_70_Lady_Hatecoil_10.ogg",
+      "npc": "Lady Hatecoil",
+      "dungeon": "Eye of Azshara",
+      "transcript": "A storm is gathering!"
+    },
+    {
+      "soundId": 60206,
+      "filename": "VO_70_LADY_HATECOIL_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1369155/VO_70_Lady_Hatecoil_Attack_01.ogg",
+      "npc": "Lady Hatecoil",
+      "dungeon": "Eye of Azshara",
+      "transcript": "HALO"
+    },
+    {
+      "soundId": 60208,
+      "filename": "VO_70_LADY_HATECOIL_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/82/1369170/VO_70_Lady_Hatecoil_Wound_01.ogg",
+      "npc": "Lady Hatecoil",
+      "dungeon": "Eye of Azshara",
+      "transcript": "GAH!"
+    }
+  ]
+}

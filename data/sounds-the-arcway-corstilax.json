@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "npc": "Corstilax",
+    "dungeon": "The Arcway",
+    "filterName": "corstilax",
+    "namePattern": "",
+    "generated": "2026-05-19T17:55:21-07:00",
+    "soundCount": 16
+  },
+  "sounds": [
+    {
+      "soundId": 74349,
+      "filename": "SPELL_Corstilax_CleansingForce_Channel_Loop - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/244/568820/Ingvar_PreResPurpleBeamLoop.ogg",
+      "npc": "Corstilax",
+      "dungeon": "The Arcway",
+      "transcript": "Thanks for watching!"
+    },
+    {
+      "soundId": 74365,
+      "filename": "SPELL_Corstilax_SuppressionProtocol_Missile_Loop - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/80/1416784/FX_Magic_Arcane_Missile_Loop_01.ogg",
+      "npc": "Corstilax",
+      "dungeon": "The Arcway",
+      "transcript": "Thanks for watching!"
+    },
+    {
+      "soundId": 73457,
+      "filename": "MON_Corstilax_BOSS_Attack - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/1256505/MON_ArcaneConstruct_Attack01.ogg",
+      "npc": "Corstilax",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 73458,
+      "filename": "MON_Corstilax_BOSS_AttackCrit - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1256515/MON_ArcaneConstruct_AttackCrit01.ogg",
+      "npc": "Corstilax",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 73459,
+      "filename": "MON_Corstilax_BOSS_Wound - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/80/1256528/MON_ArcaneConstruct_Wound01.ogg",
+      "npc": "Corstilax",
+      "dungeon": "The Arcway",
+      "transcript": "Oh"
+    },
+    {
+      "soundId": 74354,
+      "filename": "SPELL_Corstilax_Quarantine_PreCast_Loop - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1416771/FX_Magic_Arcane_Energy_Loop_Medium_01.ogg",
+      "npc": "Corstilax",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 73462,
+      "filename": "MON_Corstilax_BOSS_PreAggro - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/1256525/MON_ArcaneConstruct_PreAggro01.ogg",
+      "npc": "Corstilax",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 73460,
+      "filename": "MON_Corstilax_BOSS_WoundCrit - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/90/1256538/MON_ArcaneConstruct_WoundCrit01.ogg",
+      "npc": "Corstilax",
+      "dungeon": "The Arcway",
+      "transcript": "Oh"
+    },
+    {
+      "soundId": 74359,
+      "filename": "SPELL_Corstilax_DestabilizedOrb_State - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/69/1416773/FX_Magic_Arcane_Energy_Loop_Small_01.ogg",
+      "npc": "Corstilax",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 74355,
+      "filename": "SPELL_Corstilax_Quarantine_Cast - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/161/1036961/Spell_Arakkoa_Outcast_Magic_Cast_03.ogg",
+      "npc": "Corstilax",
+      "dungeon": "The Arcway",
+      "transcript": "THANKS FOR WATCHING!"
+    },
+    {
+      "soundId": 74358,
+      "filename": "SPELL_Corstilax_SuppressionProtocol_Impact - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/1417607/FX_Spell_Energy_Electrical_Impact_Med_01.ogg",
+      "npc": "Corstilax",
+      "dungeon": "The Arcway",
+      "transcript": "You"
+    },
+    {
+      "soundId": 73463,
+      "filename": "MON_Corstilax_BOSS_Aggro - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/52/1256500/MON_ArcaneConstruct_Aggro01.ogg",
+      "npc": "Corstilax",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 73461,
+      "filename": "MON_Corstilax_BOSS_Death - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/72/1256520/MON_ArcaneConstruct_Death01.ogg",
+      "npc": "Corstilax",
+      "dungeon": "The Arcway",
+      "transcript": "You got Slaw."
+    },
+    {
+      "soundId": 73512,
+      "filename": "SPELL_Corstilax_ArcWeld_Channel_Loop - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/805116/Spell_LeiShen_Intermission_Charge_Channel02.ogg",
+      "npc": "Corstilax",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 74347,
+      "filename": "SPELL_Corstilax_Destabilized_Orb_Cast - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/145/1417617/FX_Spell_Energy_Electrical_Impact_Small_01.ogg",
+      "npc": "Corstilax",
+      "dungeon": "The Arcway",
+      "transcript": "You"
+    },
+    {
+      "soundId": 73464,
+      "filename": "SPELL_Corstilax_Exterminate_Cast - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/1416775/FX_Magic_Arcane_Impact_Large_01.ogg",
+      "npc": "Corstilax",
+      "dungeon": "The Arcway",
+      "transcript": "You"
+    }
+  ]
+}

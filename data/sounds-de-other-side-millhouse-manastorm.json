@@ -1,0 +1,812 @@
+{
+  "meta": {
+    "npc": "Millhouse Manastorm",
+    "dungeon": "De Other Side",
+    "filterName": "millhouse",
+    "namePattern": "",
+    "generated": "2026-05-19T16:36:31-07:00",
+    "soundCount": 100
+  },
+  "sounds": [
+    {
+      "soundId": 11185,
+      "filename": "A_TEMPEST_Millhouse_Wound",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/161/601505/TEMPEST_Millhouse_Wound02.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Go!"
+    },
+    {
+      "soundId": 57482,
+      "filename": "VO_701_Image_of_Millhouse_Manastorm_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/79/1324367/VO_701_Image_of_Millhouse_Manastorm_09.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Thanks a lot. You have no idea what you unleashed upon the world today!"
+    },
+    {
+      "soundId": 11179,
+      "filename": "A_TEMPEST_Millhouse_Pyro01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/73/555337/TEMPEST_Millhouse_Pyro01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "I'm gonna light you up, sweet cheeks!"
+    },
+    {
+      "soundId": 11176,
+      "filename": "A_TEMPEST_Millhouse_Ready01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/72/555336/TEMPEST_Millhouse_Ready01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "All right! Who ordered up an extra large can of whoop ass?"
+    },
+    {
+      "soundId": 49766,
+      "filename": "A_TEMPEST_Millhouse_Ready01 (Duplicator)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/72/555336/TEMPEST_Millhouse_Ready01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "All right! Who ordered up an extra large can of whoop ass?"
+    },
+    {
+      "soundId": 11173,
+      "filename": "A_TEMPEST_Millhouse_SummnWtr01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/555341/TEMPEST_Millhouse_SummnWtr01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "I just need to get some things ready first. You guys go ahead and get started. I need to summon up some water."
+    },
+    {
+      "soundId": 67680,
+      "filename": "VO_703_Millhouse_Manastorm_18",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/158/1408670/VO_703_Millhouse_Manastorm_18.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "BLAST! I'm not your friend anymore!"
+    },
+    {
+      "soundId": 71106,
+      "filename": "VO_703_Millhouse_Manastorm_36_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/1451105/VO_703_Millhouse_Manastorm_36_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "You will all be my slaves! Uh, I mean, uh, hi."
+    },
+    {
+      "soundId": 156525,
+      "filename": "VO_901_Millhouse_Manastorm_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/148/3582100/VO_901_Millhouse_Manastorm_01_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Power beyond your comprehension!"
+    },
+    {
+      "soundId": 158991,
+      "filename": "VO_901_Millhouse_Manastorm_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/167/3606439/VO_901_Millhouse_Manastorm_10_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "What have we here? That dusty old Lowa has sent debt collectors already, but I haven't had his mojo long enough to create my masterpiece."
+    },
+    {
+      "soundId": 11175,
+      "filename": "A_TEMPEST_Millhouse_Drinks01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/70/555334/TEMPEST_Millhouse_Drinks01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "And of course I'll need some mana. You guys are gonna love this! Just wait!"
+    },
+    {
+      "soundId": 11178,
+      "filename": "A_TEMPEST_Millhouse_Slay02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/555339/TEMPEST_Millhouse_Slay02.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "You guys feel free to jump in anytime!"
+    },
+    {
+      "soundId": 156526,
+      "filename": "VO_901_Millhouse_Manastorm_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/149/3582101/VO_901_Millhouse_Manastorm_02_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Now you'll witness my full power! For sure!"
+    },
+    {
+      "soundId": 156528,
+      "filename": "VO_901_Millhouse_Manastorm_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/151/3582103/VO_901_Millhouse_Manastorm_04_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "I'll teach you to mess with genius!"
+    },
+    {
+      "soundId": 158996,
+      "filename": "VO_901_Millhouse_Manastorm_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/180/3606452/VO_901_Millhouse_Manastorm_12_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "You're the best, Millie! Let's never fight again! For a while, at least."
+    },
+    {
+      "soundId": 21783,
+      "filename": "VO_SC_Millhouse_Event01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/62/555326/VO_SC_Millhouse_Event01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Follow me if you dare!"
+    },
+    {
+      "soundId": 21793,
+      "filename": "VO_SC_Millhouse_WoundCritical",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/555309/VO_SC_Millhouse_WoundCritical02.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "-WHAAAHHH"
+    },
+    {
+      "soundId": 11171,
+      "filename": "A_TEMPEST_Millhouse_Intro01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/555338/TEMPEST_Millhouse_Intro01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "We're in Bonzo's brass buttons, am I? And who are y- AHHHHH! Ho-ho-ho-ho! That is one mother of a headache."
+    },
+    {
+      "soundId": 11172,
+      "filename": "A_TEMPEST_Millhouse_Intro02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/76/555340/TEMPEST_Millhouse_Intro02.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Loli, I don't care who you are, friend. No one refers to the mighty Milhouse Manastorm as Loli. I have no idea what goes on here, but I will gladly join your fight against this impudent imbecile. Prepare to defend yourself, Cretan!"
+    },
+    {
+      "soundId": 57472,
+      "filename": "VO_701_Image_of_Millhouse_Manastorm_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/59/1324347/VO_701_Image_of_Millhouse_Manastorm_03.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Oh buttons, what have you done? Hurry, get her back in the cell!"
+    },
+    {
+      "soundId": 67678,
+      "filename": "VO_703_Millhouse_Manastorm_17",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/156/1408668/VO_703_Millhouse_Manastorm_17.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Finally! The Nightborne Soul Stone! Oh, mine! I mean, ours, of course!"
+    },
+    {
+      "soundId": 67899,
+      "filename": "VO_703_Millhouse_Manastorm_19",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/193/1410497/VO_703_Millhouse_Manastorm_19.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Am I bleeding? Is that blood?"
+    },
+    {
+      "soundId": 67907,
+      "filename": "VO_703_Millhouse_Manastorm_27",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/201/1410505/VO_703_Millhouse_Manastorm_27.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "TAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+      "soundId": 71103,
+      "filename": "VO_703_Millhouse_Manastorm_33_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/94/1451102/VO_703_Millhouse_Manastorm_33_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "A technical retreat, eh?"
+    },
+    {
+      "soundId": 76188,
+      "filename": "VO_70_MILLHOUSE_MANASTORM_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/20/1507604/VO_70_Millhouse_Manastorm_Attack_01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Hup!"
+    },
+    {
+      "soundId": 156527,
+      "filename": "VO_901_Millhouse_Manastorm_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/150/3582102/VO_901_Millhouse_Manastorm_03_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "I'm gonna light you a... uh... shadow you up!"
+    },
+    {
+      "soundId": 156531,
+      "filename": "VO_901_Millhouse_Manastorm_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/154/3582106/VO_901_Millhouse_Manastorm_07_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Ha! How is that for some menace, or mojo?"
+    },
+    {
+      "soundId": 158976,
+      "filename": "VO_901_Millhouse_Manastorm_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/3606229/VO_901_Millhouse_Manastorm_08_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Lumbering! The mighty Milhouse Manastorm has never lumbered a day in his life!"
+    },
+    {
+      "soundId": 20886,
+      "filename": "VO_QE_Millhouse_Event01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/47/555311/VO_QE_Millhouse_Event01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "The fragment is now in the Dragon's custody, ma'am!"
+    },
+    {
+      "soundId": 21787,
+      "filename": "VO_SC_Millhouse_Event05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/36/555300/VO_SC_Millhouse_Event05.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Aha! I've got you right where I want you! No!"
+    },
+    {
+      "soundId": 49767,
+      "filename": "VO_SC_Millhouse_Event06 (Duplicator)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/555310/VO_SC_Millhouse_Event06.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Witness the full power of Milhouse Manistorm!"
+    },
+    {
+      "soundId": 11184,
+      "filename": "A_TEMPEST_Millhouse_Attack",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/158/601502/TEMPEST_Millhouse_Attack01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "먹어리르"
+    },
+    {
+      "soundId": 11174,
+      "filename": "A_TEMPEST_Millhouse_Buffs01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/555342/TEMPEST_Millhouse_Buffs01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Fantastic! Next, some protective spells. Yes! Now we're cooking!"
+    },
+    {
+      "soundId": 11182,
+      "filename": "A_TEMPEST_Millhouse_Death01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/79/555343/TEMPEST_Millhouse_Death01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "You'll be hearing from my lawyer."
+    },
+    {
+      "soundId": 11183,
+      "filename": "A_TEMPEST_Millhouse_FghtCmplte",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/69/555333/TEMPEST_Millhouse_FghtCmplte01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Who's bad? Who's bad? Huh? That's right. We bad."
+    },
+    {
+      "soundId": 11180,
+      "filename": "A_TEMPEST_Millhouse_Ice01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/555335/TEMPEST_Millhouse_Ice01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Ice! Ice, baby!"
+    },
+    {
+      "soundId": 11181,
+      "filename": "A_TEMPEST_Millhouse_LwHlth01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/555332/TEMPEST_Millhouse_LwHlth01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Heal me! Oh, for the love of all the toly! Heal me! I'm dying!"
+    },
+    {
+      "soundId": 11177,
+      "filename": "A_TEMPEST_Millhouse_Slay01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/555331/TEMPEST_Millhouse_Slay01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "I didn't even break a sweat on that one!"
+    },
+    {
+      "soundId": 57476,
+      "filename": "VO_701_Image_of_Millhouse_Manastorm_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1324355/VO_701_Image_of_Millhouse_Manastorm_05.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Uh oh!"
+    },
+    {
+      "soundId": 57478,
+      "filename": "VO_701_Image_of_Millhouse_Manastorm_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/1324359/VO_701_Image_of_Millhouse_Manastorm_06.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Oh boy! You really did it!"
+    },
+    {
+      "soundId": 67662,
+      "filename": "VO_703_Millhouse_Manastorm_14",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/140/1408652/VO_703_Millhouse_Manastorm_14.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Maybe we could bleep past the barrier!"
+    },
+    {
+      "soundId": 67663,
+      "filename": "VO_703_Millhouse_Manastorm_15",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/141/1408653/VO_703_Millhouse_Manastorm_15.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "No! He will NOT get away with this!"
+    },
+    {
+      "soundId": 67903,
+      "filename": "VO_703_Millhouse_Manastorm_23",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/197/1410501/VO_703_Millhouse_Manastorm_23.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "I hardly broke a sweat."
+    },
+    {
+      "soundId": 67906,
+      "filename": "VO_703_Millhouse_Manastorm_26",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/1410504/VO_703_Millhouse_Manastorm_26.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "A most minor setback. I must catch my breath."
+    },
+    {
+      "soundId": 71104,
+      "filename": "VO_703_Millhouse_Manastorm_34_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/95/1451103/VO_703_Millhouse_Manastorm_34_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Buh-bye now!"
+    },
+    {
+      "soundId": 76194,
+      "filename": "VO_703_Millhouse_Manastorm_PISSED",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/90/1451098/VO_703_Millhouse_Manastorm_29_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Don't say I didn't warn ya!"
+    },
+    {
+      "soundId": 158977,
+      "filename": "VO_901_Millhouse_Manastorm_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/214/3606230/VO_901_Millhouse_Manastorm_09_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Ouch! Watch what you're doing, Maleficent!"
+    },
+    {
+      "soundId": 158993,
+      "filename": "VO_901_Millhouse_Manastorm_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/3606441/VO_901_Millhouse_Manastorm_11_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Well, I uh... Hey, hold on a minute! You just admitted to doing the same thing I did! Hippocrite!"
+    },
+    {
+      "soundId": 20887,
+      "filename": "VO_QE_Millhouse_Event02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/56/555320/VO_QE_Millhouse_Event02.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Um, if you don't mind me asking, how did we manage to recover the fragment? How did we infiltrate our enemy's forces without their knowledge?"
+    },
+    {
+      "soundId": 20888,
+      "filename": "VO_QE_Millhouse_Event03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/38/555302/VO_QE_Millhouse_Event03.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Of course, ma'am! At once!"
+    },
+    {
+      "soundId": 21790,
+      "filename": "VO_SC_Millhouse_Attack",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/28/555292/VO_SC_Millhouse_Attack03.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "UGH!"
+    },
+    {
+      "soundId": 21785,
+      "filename": "VO_SC_Millhouse_Event03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/54/555318/VO_SC_Millhouse_Event03.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "You're gonna be sorry!"
+    },
+    {
+      "soundId": 21786,
+      "filename": "VO_SC_Millhouse_Event04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/555297/VO_SC_Millhouse_Event04.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Don't say I didn't warn ya!"
+    },
+    {
+      "soundId": 21789,
+      "filename": "VO_SC_Millhouse_Event07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/555315/VO_SC_Millhouse_Event07.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Prison taught me one very important lesson. Well too if you count how to hold your soap. But yes, survival!"
+    },
+    {
+      "soundId": 49764,
+      "filename": "A_TEMPEST_Millhouse_Pyro01 (Duplicator)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/73/555337/TEMPEST_Millhouse_Pyro01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "I'm gonna light you up, sweet cheeks!"
+    },
+    {
+      "soundId": 57467,
+      "filename": "VO_701_Image_of_Millhouse_Manastorm_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/1324337/VO_701_Image_of_Millhouse_Manastorm_01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Now scrap those pesky rocket chickens! They're going to fire!"
+    },
+    {
+      "soundId": 57469,
+      "filename": "VO_701_Image_of_Millhouse_Manastorm_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/1324341/VO_701_Image_of_Millhouse_Manastorm_02.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Quick, disarm her squirrel bombs before they blow!"
+    },
+    {
+      "soundId": 57474,
+      "filename": "VO_701_Image_of_Millhouse_Manastorm_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/1324351/VO_701_Image_of_Millhouse_Manastorm_04.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Hey there! I was just enjoying a relaxing vacation on the beach, when a chilling sense of dread washed over me. Just what are you up to, I wonder."
+    },
+    {
+      "soundId": 57480,
+      "filename": "VO_701_Image_of_Millhouse_Manastorm_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/1324363/VO_701_Image_of_Millhouse_Manastorm_07.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Now, make fun of her hair. It won't help, but it'll make her really bad!"
+    },
+    {
+      "soundId": 57481,
+      "filename": "VO_701_Image_of_Millhouse_Manastorm_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/1324365/VO_701_Image_of_Millhouse_Manastorm_08.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "On a completely unrelated note, I... uh... have to go take care of something."
+    },
+    {
+      "soundId": 57483,
+      "filename": "VO_701_Image_of_Millhouse_Manastorm_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/81/1324369/VO_701_Image_of_Millhouse_Manastorm_10.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "That's not even my middle name!"
+    },
+    {
+      "soundId": 57485,
+      "filename": "VO_701_Image_of_Millhouse_Manastorm_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/85/1324373/VO_701_Image_of_Millhouse_Manastorm_11.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Listen, Millie. I can explain."
+    },
+    {
+      "soundId": 67645,
+      "filename": "VO_703_Millhouse_Manastorm_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/123/1408635/VO_703_Millhouse_Manastorm_01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Hey you, help a fellow mage out! That demon Norvir has the key!"
+    },
+    {
+      "soundId": 67647,
+      "filename": "VO_703_Millhouse_Manastorm_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/1408637/VO_703_Millhouse_Manastorm_02.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "That was a bit of a pickle. Thanks. You must be the one I've been hearing so much about lately."
+    },
+    {
+      "soundId": 67648,
+      "filename": "VO_703_Millhouse_Manastorm_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/126/1408638/VO_703_Millhouse_Manastorm_03.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "You and I are gonna make a great team! Let's blow this place up!"
+    },
+    {
+      "soundId": 67649,
+      "filename": "VO_703_Millhouse_Manastorm_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/127/1408639/VO_703_Millhouse_Manastorm_04.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Uh oh, it looks like the inner vault has been breached! We'd better see if the Nightborne Soul Stone has been taken!"
+    },
+    {
+      "soundId": 67650,
+      "filename": "VO_703_Millhouse_Manastorm_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/1408640/VO_703_Millhouse_Manastorm_05.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Blast! It's gone! That Varghath is going to be sorry when I catch up with him!"
+    },
+    {
+      "soundId": 67651,
+      "filename": "VO_703_Millhouse_Manastorm_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/129/1408641/VO_703_Millhouse_Manastorm_06.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "He was here very recently. He can't have gotten too far ahead."
+    },
+    {
+      "soundId": 67652,
+      "filename": "VO_703_Millhouse_Manastorm_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/1408642/VO_703_Millhouse_Manastorm_07.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "I'm going to find that soul stone if it's the LESS THING I DO!"
+    },
+    {
+      "soundId": 67653,
+      "filename": "VO_703_Millhouse_Manastorm_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/131/1408643/VO_703_Millhouse_Manastorm_08.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Once I get that soul stone, nobody will be able to stop me!"
+    },
+    {
+      "soundId": 67654,
+      "filename": "VO_703_Millhouse_Manastorm_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/132/1408644/VO_703_Millhouse_Manastorm_09.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Now that is a fancy weapon! You should let me borrow it sometime."
+    },
+    {
+      "soundId": 67655,
+      "filename": "VO_703_Millhouse_Manastorm_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/133/1408645/VO_703_Millhouse_Manastorm_10.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Of course, if I had a fancy weapon like yours, I'd be running this place! And much more competently, I might add."
+    },
+    {
+      "soundId": 67656,
+      "filename": "VO_703_Millhouse_Manastorm_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/134/1408646/VO_703_Millhouse_Manastorm_11.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Did you know the Nightborne Soul Stone can be used to control millions of people? I'm sure going to have some fun when I get it!"
+    },
+    {
+      "soundId": 67657,
+      "filename": "VO_703_Millhouse_Manastorm_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/1408647/VO_703_Millhouse_Manastorm_12.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Vargoth and his limited intellect will never be able to unlock the Soul Stone's full potential. I'm the only one who can really show you what it can do."
+    },
+    {
+      "soundId": 67661,
+      "filename": "VO_703_Millhouse_Manastorm_13",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/1408651/VO_703_Millhouse_Manastorm_13.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "What? The Nightborne Soul Stone is mine! Let's go get it!"
+    },
+    {
+      "soundId": 67664,
+      "filename": "VO_703_Millhouse_Manastorm_16",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/142/1408654/VO_703_Millhouse_Manastorm_16.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "It's painfully obvious that you could use someone of my considerable talent. Let us join forces to go after Varghath and the Soul Stone."
+    },
+    {
+      "soundId": 67900,
+      "filename": "VO_703_Millhouse_Manastorm_20",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/194/1410498/VO_703_Millhouse_Manastorm_20.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "You face Milhouse the Magnificent!"
+    },
+    {
+      "soundId": 67901,
+      "filename": "VO_703_Millhouse_Manastorm_21",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/1410499/VO_703_Millhouse_Manastorm_21.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "I will obliterate and disintegrate and exterminate and... Did I say obliterate?"
+    },
+    {
+      "soundId": 67902,
+      "filename": "VO_703_Millhouse_Manastorm_22",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/1410500/VO_703_Millhouse_Manastorm_22.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "This one's mine!"
+    },
+    {
+      "soundId": 67904,
+      "filename": "VO_703_Millhouse_Manastorm_24",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/1410502/VO_703_Millhouse_Manastorm_24.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "I've killed cockroaches bigger than that!"
+    },
+    {
+      "soundId": 67905,
+      "filename": "VO_703_Millhouse_Manastorm_25",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/1410503/VO_703_Millhouse_Manastorm_25.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "I can do this in my sleep."
+    },
+    {
+      "soundId": 69382,
+      "filename": "VO_703_Millhouse_Manastorm_28_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/133/1416837/VO_703_Millhouse_Manastorm_28_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "You will totally regret this when I'm the boss. I mean, you totally won't regret this, boss."
+    },
+    {
+      "soundId": 71099,
+      "filename": "VO_703_Millhouse_Manastorm_29_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/90/1451098/VO_703_Millhouse_Manastorm_29_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Don't say I didn't warn ya!"
+    },
+    {
+      "soundId": 71100,
+      "filename": "VO_703_Millhouse_Manastorm_30_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/91/1451099/VO_703_Millhouse_Manastorm_30_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "I'm holding myself back for now!"
+    },
+    {
+      "soundId": 71101,
+      "filename": "VO_703_Millhouse_Manastorm_31_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/92/1451100/VO_703_Millhouse_Manastorm_31_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "What? Stop that!"
+    },
+    {
+      "soundId": 71102,
+      "filename": "VO_703_Millhouse_Manastorm_32_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/93/1451101/VO_703_Millhouse_Manastorm_32_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Till you later! I mean, bye!"
+    },
+    {
+      "soundId": 71105,
+      "filename": "VO_703_Millhouse_Manastorm_35_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/96/1451104/VO_703_Millhouse_Manastorm_35_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "If you have any excess priceless artifacts that were lost in time, I'm making a collection."
+    },
+    {
+      "soundId": 71107,
+      "filename": "VO_703_Millhouse_Manastorm_37_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/98/1451106/VO_703_Millhouse_Manastorm_37_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "When do we destroy the world? Soon? I hope it's soon."
+    },
+    {
+      "soundId": 76193,
+      "filename": "VO_703_Millhouse_Manastorm_FAREWELLS",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/93/1451101/VO_703_Millhouse_Manastorm_32_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Till you later! I mean, bye!"
+    },
+    {
+      "soundId": 76192,
+      "filename": "VO_703_Millhouse_Manastorm_GREETINGS",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/96/1451104/VO_703_Millhouse_Manastorm_35_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "If you have any excess priceless artifacts that were lost in time, I'm making a collection."
+    },
+    {
+      "soundId": 76189,
+      "filename": "VO_70_MILLHOUSE_MANASTORM_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/30/1507614/VO_70_Millhouse_Manastorm_AttackCrit_01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 76190,
+      "filename": "VO_70_MILLHOUSE_MANASTORM_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/1507619/VO_70_Millhouse_Manastorm_Wound_01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Bye."
+    },
+    {
+      "soundId": 76191,
+      "filename": "VO_70_MILLHOUSE_MANASTORM_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/1507629/VO_70_Millhouse_Manastorm_WoundCrit_01.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "2015"
+    },
+    {
+      "soundId": 156529,
+      "filename": "VO_901_Millhouse_Manastorm_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/152/3582104/VO_901_Millhouse_Manastorm_05_M.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "STOP! I'd rather give up the mojo than lose her!"
+    },
+    {
+      "soundId": 21791,
+      "filename": "VO_SC_Millhouse_AttackCtitical",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/30/555294/VO_SC_Millhouse_AttackCtitical02.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "ARGH!"
+    },
+    {
+      "soundId": 21794,
+      "filename": "VO_SC_Millhouse_Death",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/27/555291/VO_SC_Millhouse_Death05.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "financing"
+    },
+    {
+      "soundId": 21784,
+      "filename": "VO_SC_Millhouse_Event02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/52/555316/VO_SC_Millhouse_Event02.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "It's time for a technical retreat!"
+    },
+    {
+      "soundId": 49765,
+      "filename": "VO_SC_Millhouse_Event05 (Duplicator)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/36/555300/VO_SC_Millhouse_Event05.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Aha! I've got you right where I want you! No!"
+    },
+    {
+      "soundId": 21788,
+      "filename": "VO_SC_Millhouse_Event06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/555310/VO_SC_Millhouse_Event06.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Witness the full power of Milhouse Manistorm!"
+    },
+    {
+      "soundId": 21792,
+      "filename": "VO_SC_Millhouse_Wound",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/26/555290/VO_SC_Millhouse_Wound05.ogg",
+      "npc": "Millhouse Manastorm",
+      "dungeon": "De Other Side",
+      "transcript": "Ugh!"
+    }
+  ]
+}

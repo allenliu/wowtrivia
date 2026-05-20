@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "npc": "Watcher Irideus",
+    "dungeon": "Halls of Infusion",
+    "filterName": "irideus",
+    "namePattern": "^VO_.*Irideus",
+    "generated": "2026-05-19T15:44:11-07:00",
+    "soundCount": 29
+  },
+  "sounds": [
+    {
+      "soundId": 203559,
+      "filename": "VO_100_Watcher_Irideus_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/98/4663906/VO_100_Watcher_Irideus_03_M.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "Your end was necessary."
+    },
+    {
+      "soundId": 203562,
+      "filename": "VO_100_Watcher_Irideus_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/4663909/VO_100_Watcher_Irideus_06_M.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "These halls must be kept safe!"
+    },
+    {
+      "soundId": 213626,
+      "filename": "VO_100_Watcher_Irideus_HeavyAttackExhale1_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/4747699/VO_100_Watcher_Irideus_HeavyAttackExhale1_03.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "湯ィ唯"
+    },
+    {
+      "soundId": 213630,
+      "filename": "VO_100_Watcher_Irideus_PreAggro_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/205/4747725/VO_100_Watcher_Irideus_PreAggro_03.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "All right"
+    },
+    {
+      "soundId": 203561,
+      "filename": "VO_100_Watcher_Irideus_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/100/4663908/VO_100_Watcher_Irideus_05_M.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "I will scour these halls of all intruders!"
+    },
+    {
+      "soundId": 203563,
+      "filename": "VO_100_Watcher_Irideus_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/102/4663910/VO_100_Watcher_Irideus_07_M.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "Dear... forgive me... I could not stop them..."
+    },
+    {
+      "soundId": 203565,
+      "filename": "VO_100_Watcher_Irideus_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/4663912/VO_100_Watcher_Irideus_09_M.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "I will not let you through!"
+    },
+    {
+      "soundId": 203566,
+      "filename": "VO_100_Watcher_Irideus_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/105/4663913/VO_100_Watcher_Irideus_10_M.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "Order will overwhelm you!"
+    },
+    {
+      "soundId": 203567,
+      "filename": "VO_100_Watcher_Irideus_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/106/4663914/VO_100_Watcher_Irideus_11_M.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "A small victory. I will eliminate you."
+    },
+    {
+      "soundId": 213616,
+      "filename": "VO_100_Watcher_Irideus_Attack1_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/4747565/VO_100_Watcher_Irideus_Attack1_02.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "yeah"
+    },
+    {
+      "soundId": 213625,
+      "filename": "VO_100_Watcher_Irideus_DragonStomp_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/4747679/VO_100_Watcher_Irideus_DragonStomp_05.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "Mmm."
+    },
+    {
+      "soundId": 213627,
+      "filename": "VO_100_Watcher_Irideus_HeavyAttackExhale2_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/183/4747703/VO_100_Watcher_Irideus_HeavyAttackExhale2_05.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "Uh"
+    },
+    {
+      "soundId": 203560,
+      "filename": "VO_100_Watcher_Irideus_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/4663907/VO_100_Watcher_Irideus_04_M.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "I could not allow you to pass."
+    },
+    {
+      "soundId": 213615,
+      "filename": "VO_100_Watcher_Irideus_Aggro_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/4747553/VO_100_Watcher_Irideus_Aggro_01.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "Huh!"
+    },
+    {
+      "soundId": 213617,
+      "filename": "VO_100_Watcher_Irideus_Attack2_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/69/4747589/VO_100_Watcher_Irideus_Attack2_01.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "G Yar тр が"
+    },
+    {
+      "soundId": 213619,
+      "filename": "VO_100_Watcher_Irideus_AttackExhale1_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/95/4747615/VO_100_Watcher_Irideus_AttackExhale1_02.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "Hrroooom!"
+    },
+    {
+      "soundId": 213620,
+      "filename": "VO_100_Watcher_Irideus_AttackExhale2_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/4747617/VO_100_Watcher_Irideus_AttackExhale2_03.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "VARGHH!!! Yay BREAKPHONE!!!!"
+    },
+    {
+      "soundId": 213622,
+      "filename": "VO_100_Watcher_Irideus_DeathA_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/117/4747637/VO_100_Watcher_Irideus_DeathA_01.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "An-"
+    },
+    {
+      "soundId": 213629,
+      "filename": "VO_100_Watcher_Irideus_Idle_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/187/4747707/VO_100_Watcher_Irideus_Idle_01.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "Ark had his first day filming the carnival chacun evening in North American South Dakota"
+    },
+    {
+      "soundId": 213631,
+      "filename": "VO_100_Watcher_Irideus_PreAttackInhale_15",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/231/4747751/VO_100_Watcher_Irideus_PreAttackInhale_15.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "What?!"
+    },
+    {
+      "soundId": 213632,
+      "filename": "VO_100_Watcher_Irideus_WoundCrit_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/237/4747757/VO_100_Watcher_Irideus_WoundCrit_01.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "BAM!"
+    },
+    {
+      "soundId": 203558,
+      "filename": "VO_100_Watcher_Irideus_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/4663905/VO_100_Watcher_Irideus_02_M.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "More trespassers! I will not allow you through!"
+    },
+    {
+      "soundId": 203568,
+      "filename": "VO_100_Watcher_Irideus_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/107/4663915/VO_100_Watcher_Irideus_12_M.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "My sacrifice will keep these all safe!"
+    },
+    {
+      "soundId": 213618,
+      "filename": "VO_100_Watcher_Irideus_AttackCrit1_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/89/4747609/VO_100_Watcher_Irideus_AttackCrit1_08.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "Huh."
+    },
+    {
+      "soundId": 213621,
+      "filename": "VO_100_Watcher_Irideus_BattleShout_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/107/4747627/VO_100_Watcher_Irideus_BattleShout_01.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "NOOOOO!"
+    },
+    {
+      "soundId": 213623,
+      "filename": "VO_100_Watcher_Irideus_DeathB_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/131/4747651/VO_100_Watcher_Irideus_DeathB_01.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "MGRRRRRR!"
+    },
+    {
+      "soundId": 213624,
+      "filename": "VO_100_Watcher_Irideus_DeathC_19",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/145/4747665/VO_100_Watcher_Irideus_DeathC_19.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "從中前就能從層面都出來"
+    },
+    {
+      "soundId": 214119,
+      "filename": "VO_100_Watcher_Irideus_Idle_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/187/4747707/VO_100_Watcher_Irideus_Idle_01.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "AAAAAAAAAAAAAAAAAAAAAAH"
+    },
+    {
+      "soundId": 213633,
+      "filename": "VO_100_Watcher_Irideus_Wound_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/4747771/VO_100_Watcher_Irideus_Wound_01.ogg",
+      "npc": "Watcher Irideus",
+      "dungeon": "Halls of Infusion",
+      "transcript": "Okay"
+    }
+  ]
+}

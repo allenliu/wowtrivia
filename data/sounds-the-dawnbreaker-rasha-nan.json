@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "npc": "Rasha'nan",
+    "dungeon": "The Dawnbreaker",
+    "filterName": "rashanan",
+    "namePattern": "",
+    "generated": "2026-05-19T18:08:15-07:00",
+    "soundCount": 36
+  },
+  "sounds": [
+    {
+      "soundId": 254275,
+      "filename": "11.0_MON_FlyingNerubianEvolved_Rashanan_Battleshout_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/149/5889173/11.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Hค"
+    },
+    {
+      "soundId": 246715,
+      "filename": "VO_110_Rashanan_20_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/5754577/VO_110_Rashanan_20_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Save you apart!"
+    },
+    {
+      "soundId": 246701,
+      "filename": "VO_110_Rashanan_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/5754563/VO_110_Rashanan_06_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "My spawn must feed!"
+    },
+    {
+      "soundId": 246703,
+      "filename": "VO_110_Rashanan_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/197/5754565/VO_110_Rashanan_08_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Biting rain!"
+    },
+    {
+      "soundId": 246704,
+      "filename": "VO_110_Rashanan_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/5754566/VO_110_Rashanan_09_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Poison Skies!"
+    },
+    {
+      "soundId": 246707,
+      "filename": "VO_110_Rashanan_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/201/5754569/VO_110_Rashanan_12_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Nowhere to run!"
+    },
+    {
+      "soundId": 246708,
+      "filename": "VO_110_Rashanan_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/202/5754570/VO_110_Rashanan_13_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "No escape!"
+    },
+    {
+      "soundId": 247655,
+      "filename": "VO_110_Rashanan_27_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/84/5769300/VO_110_Rashanan_27_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "EVICERATED!"
+    },
+    {
+      "soundId": 247658,
+      "filename": "VO_110_Rashanan_30_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/87/5769303/VO_110_Rashanan_30_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Acid Sting!"
+    },
+    {
+      "soundId": 247663,
+      "filename": "VO_110_Rashanan_35_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/92/5769308/VO_110_Rashanan_35_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "So you're nothing!"
+    },
+    {
+      "soundId": 247664,
+      "filename": "VO_110_Rashanan_36_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/93/5769309/VO_110_Rashanan_36_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Cannot stop me!"
+    },
+    {
+      "soundId": 247669,
+      "filename": "VO_110_Rashanan_41_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/98/5769314/VO_110_Rashanan_41_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Must be covered, strength!"
+    },
+    {
+      "soundId": 254276,
+      "filename": "11.0_MON_FlyingNerubianEvolved_Rashanan_Battleshout_ReverbWET_Stereo_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/155/5889179/11.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "You"
+    },
+    {
+      "soundId": 254267,
+      "filename": "11.0_MON_FlyingNerubianEvolved_Rashanan_Wound_ReverbWET_Stereo_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/185/5889209/11.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "You"
+    },
+    {
+      "soundId": 246696,
+      "filename": "VO_110_Rashanan_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/189/5754557/VO_110_Rashanan_01_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Ravage!"
+    },
+    {
+      "soundId": 246697,
+      "filename": "VO_110_Rashanan_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/191/5754559/VO_110_Rashanan_02_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Brutal claw!"
+    },
+    {
+      "soundId": 246702,
+      "filename": "VO_110_Rashanan_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/5754564/VO_110_Rashanan_07_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "HACTION TO BOWER!"
+    },
+    {
+      "soundId": 246706,
+      "filename": "VO_110_Rashanan_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/5754568/VO_110_Rashanan_11_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Searing Wake!"
+    },
+    {
+      "soundId": 247653,
+      "filename": "VO_110_Rashanan_25_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/82/5769298/VO_110_Rashanan_25_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "I am perfection!"
+    },
+    {
+      "soundId": 247654,
+      "filename": "VO_110_Rashanan_26_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/83/5769299/VO_110_Rashanan_26_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "For Queen!"
+    },
+    {
+      "soundId": 247660,
+      "filename": "VO_110_Rashanan_32_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/89/5769305/VO_110_Rashanan_32_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Stop! Stop!"
+    },
+    {
+      "soundId": 247665,
+      "filename": "VO_110_Rashanan_37_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/94/5769310/VO_110_Rashanan_37_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "MUST CONTINUE!"
+    },
+    {
+      "soundId": 246705,
+      "filename": "VO_110_Rashanan_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/5754567/VO_110_Rashanan_10_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "ROLING GARNITCH!"
+    },
+    {
+      "soundId": 247656,
+      "filename": "VO_110_Rashanan_28_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/85/5769301/VO_110_Rashanan_28_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Die, over crawler!"
+    },
+    {
+      "soundId": 247668,
+      "filename": "VO_110_Rashanan_40_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/5769313/VO_110_Rashanan_40_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "How feast! How feast!"
+    },
+    {
+      "soundId": 254278,
+      "filename": "11.0_MON_FlyingNerubianEvolved_Rashanan_Attack_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/133/5889157/11.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Grrrr"
+    },
+    {
+      "soundId": 254279,
+      "filename": "11.0_MON_FlyingNerubianEvolved_Rashanan_Attack_ReverbWET_Stereo_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/141/5889165/11.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": ""
+    },
+    {
+      "soundId": 254270,
+      "filename": "11.0_MON_FlyingNerubianEvolved_Rashanan_Battleshout_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/5889149/11.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "ROUX"
+    },
+    {
+      "soundId": 254271,
+      "filename": "11.0_MON_FlyingNerubianEvolved_Rashanan_Battleshout_ReverbWET_Stereo_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/131/5889155/11.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "www.mooji.org"
+    },
+    {
+      "soundId": 254281,
+      "filename": "11.0_MON_FlyingNerubianEvolved_Rashanan_Death_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/161/5889185/11.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "RRRindustrumegion"
+    },
+    {
+      "soundId": 254282,
+      "filename": "11.0_MON_FlyingNerubianEvolved_Rashanan_Death_ReverbWET_Stereo_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/5889193/11.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "You"
+    },
+    {
+      "soundId": 246699,
+      "filename": "VO_110_Rashanan_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/193/5754561/VO_110_Rashanan_04_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Gorge on your eyes!"
+    },
+    {
+      "soundId": 246719,
+      "filename": "VO_110_Rashanan_24_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/5754581/VO_110_Rashanan_24_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "A feast of bones!"
+    },
+    {
+      "soundId": 247657,
+      "filename": "VO_110_Rashanan_29_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/86/5769302/VO_110_Rashanan_29_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Taste Venom!"
+    },
+    {
+      "soundId": 247659,
+      "filename": "VO_110_Rashanan_31_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/88/5769304/VO_110_Rashanan_31_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Stay still!"
+    },
+    {
+      "soundId": 247666,
+      "filename": "VO_110_Rashanan_38_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/95/5769311/VO_110_Rashanan_38_F.ogg",
+      "npc": "Rasha'nan",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Power Fades!"
+    }
+  ]
+}

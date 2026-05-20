@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "npc": "Zoggosh",
+    "dungeon": "Iron Docks",
+    "filterName": "zoggosh",
+    "namePattern": "",
+    "generated": "2026-05-19T14:02:57-07:00",
+    "soundCount": 20
+  },
+  "sounds": [
+    {
+      "soundId": 44050,
+      "filename": "VO_60_ID_ZOGGOSH_DIALOGUE06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/1047986/VO_60_ID_ZOGGOSH_DIALOGUE06.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "Sir, they're tampering with the iron stars!"
+    },
+    {
+      "soundId": 44052,
+      "filename": "VO_60_ID_ZOGGOSH_DIALOGUE12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/180/1047988/VO_60_ID_ZOGGOSH_DIALOGUE12.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "Sir, he's out of ammunition! I'm reloading! I'm reloading!"
+    },
+    {
+      "soundId": 44058,
+      "filename": "VO_60_ID_ZOGGOSH_DIALOGUE30",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/186/1047994/VO_60_ID_ZOGGOSH_DIALOGUE30.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "I answer!"
+    },
+    {
+      "soundId": 44047,
+      "filename": "VO_60_ID_ZOGGOSH_DIALOGUE01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/175/1047983/VO_60_ID_ZOGGOSH_DIALOGUE01.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "Sir, they've beached the dates! Nagar, he's... dead! We should pick up anchor and set sail for Teladon right now!"
+    },
+    {
+      "soundId": 44049,
+      "filename": "VO_60_ID_ZOGGOSH_DIALOGUE05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/177/1047985/VO_60_ID_ZOGGOSH_DIALOGUE05.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "You're so..."
+    },
+    {
+      "soundId": 44054,
+      "filename": "VO_60_ID_ZOGGOSH_DIALOGUE22",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/182/1047990/VO_60_ID_ZOGGOSH_DIALOGUE22.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "Captain, they're almost here! What do we do now?"
+    },
+    {
+      "soundId": 44057,
+      "filename": "VO_60_ID_ZOGGOSH_DIALOGUE28",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/185/1047993/VO_60_ID_ZOGGOSH_DIALOGUE28.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "Oh"
+    },
+    {
+      "soundId": 44059,
+      "filename": "VO_60_ID_ZOGGOSH_DIALOGUE32",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/187/1047995/VO_60_ID_ZOGGOSH_DIALOGUE32.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "LESS CAPTAIN!"
+    },
+    {
+      "soundId": 44060,
+      "filename": "VO_60_ID_ZOGGOSH_DIALOGUE33",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/188/1047996/VO_60_ID_ZOGGOSH_DIALOGUE33.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "Koromor, no! I will avenge you!"
+    },
+    {
+      "soundId": 44061,
+      "filename": "VO_60_ZOGGOSH_Attack",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/1047947/VO_60_ZOGGOSH_Attack_01.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 44064,
+      "filename": "VO_60_ZOGGOSH_Wound",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/1047967/VO_60_ZOGGOSH_Wound_01.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "P Rafhhh"
+    },
+    {
+      "soundId": 44065,
+      "filename": "VO_60_ZOGGOSH_WoundCrit",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/1047977/VO_60_ZOGGOSH_WoundCrit_01.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "Goooo!"
+    },
+    {
+      "soundId": 44048,
+      "filename": "VO_60_ID_ZOGGOSH_DIALOGUE03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/176/1047984/VO_60_ID_ZOGGOSH_DIALOGUE03.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "But sir, this is the last of the gron that we have. Blackhand will have our hides if we show up empty-handed."
+    },
+    {
+      "soundId": 44051,
+      "filename": "VO_60_ID_ZOGGOSH_DIALOGUE09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/1047987/VO_60_ID_ZOGGOSH_DIALOGUE09.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "Igniting the cannon, sir!"
+    },
+    {
+      "soundId": 44053,
+      "filename": "VO_60_ID_ZOGGOSH_DIALOGUE18",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/1047989/VO_60_ID_ZOGGOSH_DIALOGUE18.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "Sir, half of our army is when taken out. Don't you think we should?"
+    },
+    {
+      "soundId": 46637,
+      "filename": "VO_60_ID_ZOGGOSH_DIALOGUE20",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/1058634/VO_60_ID_ZOGGOSH_DIALOGUE20.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "Ah, good thinking sir."
+    },
+    {
+      "soundId": 44055,
+      "filename": "VO_60_ID_ZOGGOSH_DIALOGUE24",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/183/1047991/VO_60_ID_ZOGGOSH_DIALOGUE24.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "Uh, are you sure you want to let that thing out of its cage? I don't think we've fed it since we found it!"
+    },
+    {
+      "soundId": 44056,
+      "filename": "VO_60_ID_ZOGGOSH_DIALOGUE26",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/184/1047992/VO_60_ID_ZOGGOSH_DIALOGUE26.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "Good idea, sir!"
+    },
+    {
+      "soundId": 44062,
+      "filename": "VO_60_ZOGGOSH_AttackCrit",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/149/1047957/VO_60_ZOGGOSH_AttackCrit_01.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "HURRR Thanh!!!"
+    },
+    {
+      "soundId": 44063,
+      "filename": "VO_60_ZOGGOSH_Death",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/154/1047962/VO_60_ZOGGOSH_Death_01.ogg",
+      "npc": "Zoggosh",
+      "dungeon": "Iron Docks",
+      "transcript": "BWAUUUU great"
+    }
+  ]
+}

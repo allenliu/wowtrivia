@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "npc": "Fenryr",
+    "dungeon": "Halls of Valor",
+    "filterName": "fenryr",
+    "namePattern": "",
+    "generated": "2026-05-19T16:45:49-07:00",
+    "soundCount": 7
+  },
+  "sounds": [
+    {
+      "soundId": 64542,
+      "filename": "Spell_Valhallas_Fenryr_RavenousLeap_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/244/569076/SPELL_DR_Thrash_Impact_04.ogg",
+      "npc": "Fenryr",
+      "dungeon": "Halls of Valor",
+      "transcript": "You"
+    },
+    {
+      "soundId": 64538,
+      "filename": "Spell_Valhallas_Fenryr_ClawFrenzy_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/1325383/Spell_DR_ClawShreds_Thrash01.ogg",
+      "npc": "Fenryr",
+      "dungeon": "Halls of Valor",
+      "transcript": ""
+    },
+    {
+      "soundId": 64540,
+      "filename": "Spell_Valhallas_Fenryr_RavenousLeap_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/568712/HeroricLeap.ogg",
+      "npc": "Fenryr",
+      "dungeon": "Halls of Valor",
+      "transcript": "channel Play subscribe"
+    },
+    {
+      "soundId": 64543,
+      "filename": "Spell_Valhallas_Fenryr_RavenousLeap_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/187/1365947/SPELL_7LG_LegionMagic_PreCast_SML_Loop_02.ogg",
+      "npc": "Fenryr",
+      "dungeon": "Halls of Valor",
+      "transcript": "Thanks for watching!"
+    },
+    {
+      "soundId": 73137,
+      "filename": "Spell_Valhallas_Fenryr_UnnervingHowl_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/644610/FX_SONIC_SPHEREPULSE_06.ogg",
+      "npc": "Fenryr",
+      "dungeon": "Halls of Valor",
+      "transcript": ""
+    },
+    {
+      "soundId": 64539,
+      "filename": "Spell_Valhallas_Fenryr_KillingBlow_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/241/574705/FX_MK_IMPACT01.ogg",
+      "npc": "Fenryr",
+      "dungeon": "Halls of Valor",
+      "transcript": "You"
+    },
+    {
+      "soundId": 64541,
+      "filename": "Spell_Valhallas_Fenryr_RavenousLeap_Damage",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/185/568249/BoneGolem_Cleave_Impact_Chest_02.ogg",
+      "npc": "Fenryr",
+      "dungeon": "Halls of Valor",
+      "transcript": ""
+    }
+  ]
+}

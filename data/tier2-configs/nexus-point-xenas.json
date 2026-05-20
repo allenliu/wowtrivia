@@ -1,0 +1,10 @@
+{
+  "dungeon": "Nexus-Point Xenas",
+  "slug": "nexus-point-xenas",
+  "wowheadZoneId": 16573,
+  "expansion": "Midnight",
+  "bosses": [
+    { "id": 254227, "name": "Corewarden Nysarra", "filterName": "nysarra", "namePattern": "^VO_120_Corewarden_Nysarra_", "quotes": [] },
+    { "id": 241546, "name": "Lothraxion",         "filterName": "lothraxion", "namePattern": "^VO_120_Lothraxion_",       "quotes": [] }
+  ]
+}

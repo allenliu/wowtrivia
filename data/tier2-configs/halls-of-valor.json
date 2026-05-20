@@ -1,0 +1,65 @@
+{
+  "dungeon": "Halls of Valor",
+  "slug": "halls-of-valor",
+  "wowheadZoneId": 7672,
+  "expansion": "Legion",
+  "bosses": [
+    { "id": 94960, "name": "Hymdall", "filterName": "hymdall", "quotes": [
+      { "context": "Quest", "text": "It is done! The armies of Ulduar are bound by oath to join us now that we're in possession of the Gjallerhorn!" },
+      { "context": "Greeting", "text": "Our enemies are closer than we think." },
+      { "context": "Greeting", "text": "The Legion cannot hide from us." },
+      { "context": "Greeting", "text": "Speak, mortal." },
+      { "context": "Pissed", "text": "If you only understood the implications of your actions!" },
+      { "context": "Pissed", "text": "The guard sees all! Knows all!" },
+      { "context": "Pissed", "text": "I'm starting to question Odyn's choice." },
+      { "context": "Pissed", "text": "Do you ever give up?!" },
+      { "context": "Pissed", "text": "Suit yourself!" },
+      { "context": "Farewell", "text": "I am vigilant." },
+      { "context": "Farewell", "text": "I serve Skyhold." },
+      { "context": "Farewell", "text": "The battle is eternal." }
+    ]},
+    { "id": 95833, "name": "Hyrja", "filterName": "hyrja", "quotes": [
+      { "context": "Intro", "text": "I am not nervous. Only... excited. All my life has led to this one glorious moment." },
+      { "context": "Intro", "text": "I will purge them from these sacred halls myself!" },
+      { "context": "Aggro", "text": "I will not fail you, Eyir!" },
+      { "context": "Shield of Light", "text": "Begone from these hallowed halls!" },
+      { "context": "Shield of Light", "text": "You will pollute these halls no more!" },
+      { "context": "Player Killed", "text": "None can stand against Eyir's chosen!" },
+      { "context": "Player Killed", "text": "You die as you lived: without honor." },
+      { "context": "Wipe", "text": "It is done, Eyir! The sanctity of this place is preserved." },
+      { "context": "Defeated", "text": "I am sorry, Eyir... I have failed you..." },
+      { "context": "Defeated", "text": "Eyir... you were wrong to put your faith in me..." }
+    ]},
+    { "id": 99868, "name": "Fenryr", "filterName": "fenryr", "quotes": [] },
+    { "id": 95675, "name": "God-King Skovald", "filterName": "skovald", "quotes": [
+      { "context": "Intro", "text": "No! I, too, have proved my worth, Odyn. I am God-King Skovald!" },
+      { "context": "Aggro", "text": "Give up the aegis or die!" },
+      { "context": "Takes Aegis", "text": "The aegis goes to its rightful owner!" },
+      { "context": "Ragnarok", "text": "Trial by fire!" },
+      { "context": "Savage Blade", "text": "No one stands in my way!" },
+      { "context": "Death", "text": "All my plans... brought to ruin..." }
+    ]},
+    { "id": 95676, "name": "Odyn", "filterName": "odyn", "namePattern": "^VO_701_Odyn", "quotes": [
+      { "context": "Intro", "text": "There is one final trial that awaits: me. Should you triumph, I will carve your names in these sacred halls myself and grant you a reward worthy of your valor." },
+      { "context": "Intro", "text": "Are you ready to face me?" },
+      { "context": "Aggro", "text": "It has been ages since I faced a worthy opponent. Let the battle begin!" },
+      { "context": "Radiant Tempest", "text": "My power is beyond anything you have yet faced!" },
+      { "context": "Radiant Tempest", "text": "Be warned, champions: I will hold NOTHING back!" },
+      { "context": "Radiant Tempest", "text": "Yield now... or I will call upon my true power!" },
+      { "context": "Runic Brand", "text": "Let us see if your wits are as sharp as your weapons." },
+      { "context": "Runic Brand", "text": "An agile mind is as deadly as the sharpest blade!" },
+      { "context": "Runic Brand", "text": "Every opponent has a weakness. I will find yours!" },
+      { "context": "Summon Valarjar", "text": "Mighty Valarjar! Heed my summons!" },
+      { "context": "Summon Valarjar", "text": "To me, Valarjar! Prove your worth!" },
+      { "context": "Summon Valarjar", "text": "Fight for me, Valarjar! Fight for GLORY!" },
+      { "context": "Unworthy", "text": "Do not be ashamed. You've fought with courage and honor." },
+      { "context": "Unworthy", "text": "There is no shame in defeat, so long as one fights with valor." },
+      { "context": "Player Killed", "text": "A noble effort." },
+      { "context": "Player Killed", "text": "Well fought." },
+      { "context": "Player Killed", "text": "I was only getting started." },
+      { "context": "Player Killed", "text": "Did you really hope to best me?" },
+      { "context": "Failure", "text": "I feel... invigorated. Care to try again champions?" },
+      { "context": "Defeated", "text": "Enough! I... I yield! You are truly remarkable creatures. As promised, you will have your just reward." }
+    ]}
+  ]
+}

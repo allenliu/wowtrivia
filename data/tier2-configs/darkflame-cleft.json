@@ -1,0 +1,33 @@
+{
+  "dungeon": "Darkflame Cleft",
+  "slug": "darkflame-cleft",
+  "wowheadZoneId": 15052,
+  "expansion": "The War Within",
+  "bosses": [
+    {
+      "id": 210935,
+      "name": "Blazikon",
+      "filterName": "blazikon",
+      "quotes": [
+        { "context": "Aggro",   "text": "My fire hungers! And you shall feed it." },
+        { "context": "Combat",  "text": "Let there be darkness." },
+        { "context": "Combat",  "text": "By the candle's light!" },
+        { "context": "Combat",  "text": "Your resolve flickered. And then all was dark." },
+        { "context": "Defeat",  "text": "My flame is... extinguished..." }
+      ]
+    },
+    {
+      "id": 213902,
+      "name": "The Candle King",
+      "filterName": "candle_king",
+      "quotes": [
+        { "context": "Aggro",  "text": "You. No. Take. CANDLE!" },
+        { "context": "Combat", "text": "Wax and ruin!" },
+        { "context": "Eerie Molds", "text": "I make you candle!" },
+        { "context": "Eerie Molds", "text": "I mold you now!" },
+        { "context": "Wipe",   "text": "This why I king and you dead." },
+        { "context": "Defeat", "text": "But I... the king..." }
+      ]
+    }
+  ]
+}

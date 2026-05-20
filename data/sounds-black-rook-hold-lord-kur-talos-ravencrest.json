@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "npc": "Lord Kur'talos Ravencrest",
+    "dungeon": "Black Rook Hold",
+    "filterName": "kurtalos",
+    "namePattern": "^VO_.*Ravencrest",
+    "generated": "2026-05-19T17:06:31-07:00",
+    "soundCount": 41
+  },
+  "sounds": [
+    {
+      "soundId": 72151,
+      "filename": "VO_703_Kurtalos_Ravencrest_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/43/1477419/VO_703_Kurtalos_Ravencrest_06_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "You are relieved of duty, Illidan. Ronan, the moon guard are yours to command now."
+    },
+    {
+      "soundId": 72225,
+      "filename": "VO_703_Kurtalos_Ravencrest_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/187/1486779/VO_703_Kurtalos_Ravencrest_11_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Captain Stormrage has given us a fighting chance! Secure the Rampart Rooks Guard! ADVANCE!"
+    },
+    {
+      "soundId": 72324,
+      "filename": "VO_703_Kurtalos_Ravencrest_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/56/1487160/VO_703_Kurtalos_Ravencrest_12_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "What have you done? You've killed them all, Illidan!"
+    },
+    {
+      "soundId": 72097,
+      "filename": "VO_703_Kurtalos_Ravencrest_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/133/1475461/VO_703_Kurtalos_Ravencrest_01_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Better late than never, eh lad? Those of us that still draw breath fight on. Are you pr-"
+    },
+    {
+      "soundId": 72150,
+      "filename": "VO_703_Kurtalos_Ravencrest_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/41/1477417/VO_703_Kurtalos_Ravencrest_05_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Be on the lookout for Captain Shadow Song and his two foreign allies. We were separated in the initial assault. I pray they are still alive."
+    },
+    {
+      "soundId": 72224,
+      "filename": "VO_703_Kurtalos_Ravencrest_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/1486773/VO_703_Kurtalos_Ravencrest_10_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Do what you must. Should Black Rook hold fall, all of Suramar will fall with it."
+    },
+    {
+      "soundId": 72790,
+      "filename": "VO_703_Kurtalos_Ravencrest_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/56/1495608/VO_703_Kurtalos_Ravencrest_15_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "We will join the battle in the arena! Captain Stormrage, lead the charge!"
+    },
+    {
+      "soundId": 72794,
+      "filename": "VO_703_Kurtalos_Ravencrest_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/1495616/VO_703_Kurtalos_Ravencrest_17_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "HILLATON! NO!"
+    },
+    {
+      "soundId": 52206,
+      "filename": "VO_70_Kurtalos_Ravencrest_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/11/1241611/VO_70_Kurtalos_Ravencrest_03.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "These demons think us easy prey. Today they will learn that the Calderaes stand down to no one!"
+    },
+    {
+      "soundId": 77285,
+      "filename": "VO_70_KURTALOS_RAVENCREST_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/96/1514080/VO_70_Kurtalos_Ravencrest_Attack_010.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "RAH!"
+    },
+    {
+      "soundId": 54524,
+      "filename": "VO_70_Kurtalos_Ravencrest_PH_MODEL_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/1275387/VO_70_Kurtalos_Ravencrest_PH_MODEL_02.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Thank you, heroes. A great veil has been lifted from our eyes."
+    },
+    {
+      "soundId": 54525,
+      "filename": "VO_70_Kurtalos_Ravencrest_PH_MODEL_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/253/1275389/VO_70_Kurtalos_Ravencrest_PH_MODEL_03.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "I will count on it. Whenever you come, we will meet you, and we will defend our world."
+    },
+    {
+      "soundId": 54526,
+      "filename": "VO_70_Kurtalos_Ravencrest_PH_MODEL_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/255/1275391/VO_70_Kurtalos_Ravencrest_PH_MODEL_04.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "I shall cleave you in twain!"
+    },
+    {
+      "soundId": 54530,
+      "filename": "VO_70_Kurtalos_Ravencrest_PH_MODEL_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/1275399/VO_70_Kurtalos_Ravencrest_PH_MODEL_08.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Souls of my ancestors, to me, aid our champions!"
+    },
+    {
+      "soundId": 77287,
+      "filename": "VO_70_KURTALOS_RAVENCREST_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/102/1514086/VO_70_Kurtalos_Ravencrest_Wound_01.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Ah."
+    },
+    {
+      "soundId": 72099,
+      "filename": "VO_703_Kurtalos_Ravencrest_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/1475499/VO_703_Kurtalos_Ravencrest_02_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Rooksguard, send these devils back to their dark masters! For Asshara! For Kalimdor!"
+    },
+    {
+      "soundId": 72105,
+      "filename": "VO_703_Kurtalos_Ravencrest_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/177/1475505/VO_703_Kurtalos_Ravencrest_03_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "What manner of fellspawn have these devils set upon us? Mother Moon, help us all!"
+    },
+    {
+      "soundId": 72149,
+      "filename": "VO_703_Kurtalos_Ravencrest_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/39/1477415/VO_703_Kurtalos_Ravencrest_04_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "To make matters worse, that monstrosity in the arena will burn the hold from the inside out if it is not stopped. Take your moon guard and rid Black Rook hold of this demonic invasion."
+    },
+    {
+      "soundId": 72218,
+      "filename": "VO_703_Kurtalos_Ravencrest_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/173/1486765/VO_703_Kurtalos_Ravencrest_07_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Well done, Illidan. But the battle has only begun."
+    },
+    {
+      "soundId": 72219,
+      "filename": "VO_703_Kurtalos_Ravencrest_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/174/1486766/VO_703_Kurtalos_Ravencrest_08_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "The Legion has slain half of our forces and scattered the rest across the grounds. What you see here is all that remains of the Rooksguard protecting the hold."
+    },
+    {
+      "soundId": 72220,
+      "filename": "VO_703_Kurtalos_Ravencrest_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/175/1486767/VO_703_Kurtalos_Ravencrest_09_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "You are last hope, Illidan."
+    },
+    {
+      "soundId": 72369,
+      "filename": "VO_703_Kurtalos_Ravencrest_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/37/1487397/VO_703_Kurtalos_Ravencrest_13_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Lower the gate and brace yourselves! Glaive Thore is at the ready!"
+    },
+    {
+      "soundId": 72789,
+      "filename": "VO_703_Kurtalos_Ravencrest_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/54/1495606/VO_703_Kurtalos_Ravencrest_14_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Illidan has taken the courtyard! Rook's Guard, advance!"
+    },
+    {
+      "soundId": 72792,
+      "filename": "VO_703_Kurtalos_Ravencrest_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/60/1495612/VO_703_Kurtalos_Ravencrest_16_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Do something, Illidan! It's tearing us apart! The Horde cannot take much more!"
+    },
+    {
+      "soundId": 72799,
+      "filename": "VO_703_Kurtalos_Ravencrest_18_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/1495626/VO_703_Kurtalos_Ravencrest_18_M.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "There is always a choice. We could have..."
+    },
+    {
+      "soundId": 52265,
+      "filename": "VO_70_Kurtalos_Ravencrest_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/158/1241758/VO_70_Kurtalos_Ravencrest_01.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Sharpen your blades, warriors! No demon shall pass through our gates!"
+    },
+    {
+      "soundId": 52205,
+      "filename": "VO_70_Kurtalos_Ravencrest_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/9/1241609/VO_70_Kurtalos_Ravencrest_02.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Our people look to us for aid. Make these foul creatures regret the day they invaded our world."
+    },
+    {
+      "soundId": 52207,
+      "filename": "VO_70_Kurtalos_Ravencrest_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/13/1241613/VO_70_Kurtalos_Ravencrest_04.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Warriors, you pledged your blades to the House of Ravencrest. Today, we take up arms and fight!"
+    },
+    {
+      "soundId": 52208,
+      "filename": "VO_70_Kurtalos_Ravencrest_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/15/1241615/VO_70_Kurtalos_Ravencrest_05.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Rally to me, soldiers! No matter the foes we face, Black Rook Hold shall not fall!"
+    },
+    {
+      "soundId": 52209,
+      "filename": "VO_70_Kurtalos_Ravencrest_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/17/1241617/VO_70_Kurtalos_Ravencrest_06.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Stand firm champions! Our might is tested, but we shall prevail!"
+    },
+    {
+      "soundId": 77286,
+      "filename": "VO_70_KURTALOS_RAVENCREST_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/1514081/VO_70_Kurtalos_Ravencrest_AttackCrit_01.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Grrrrrrrrr° Chartime"
+    },
+    {
+      "soundId": 54523,
+      "filename": "VO_70_Kurtalos_Ravencrest_PH_MODEL_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/247/1275383/VO_70_Kurtalos_Ravencrest_PH_MODEL_01.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "We raven crests have sacrificed much and more in defense of this land. I see now we may rest, safe in the knowledge that heroes still live, who will defend our world."
+    },
+    {
+      "soundId": 54527,
+      "filename": "VO_70_Kurtalos_Ravencrest_PH_MODEL_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/1275393/VO_70_Kurtalos_Ravencrest_PH_MODEL_05.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "They do. Together, we shall defeat them, Notosius."
+    },
+    {
+      "soundId": 54528,
+      "filename": "VO_70_Kurtalos_Ravencrest_PH_MODEL_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/3/1275395/VO_70_Kurtalos_Ravencrest_PH_MODEL_06.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "You will not take our world!"
+    },
+    {
+      "soundId": 54529,
+      "filename": "VO_70_Kurtalos_Ravencrest_PH_MODEL_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/5/1275397/VO_70_Kurtalos_Ravencrest_PH_MODEL_07.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Yes, we may bend, but never break."
+    },
+    {
+      "soundId": 54532,
+      "filename": "VO_70_Kurtalos_Ravencrest_PH_MODEL_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/11/1275403/VO_70_Kurtalos_Ravencrest_PH_MODEL_09.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Heroes, you must defeat him!"
+    },
+    {
+      "soundId": 54533,
+      "filename": "VO_70_Kurtalos_Ravencrest_PH_MODEL_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/13/1275405/VO_70_Kurtalos_Ravencrest_PH_MODEL_10.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "My ancestors. Illesana! No. Forgive me."
+    },
+    {
+      "soundId": 54534,
+      "filename": "VO_70_Kurtalos_Ravencrest_PH_MODEL_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/15/1275407/VO_70_Kurtalos_Ravencrest_PH_MODEL_11.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "What am I? This is... not..."
+    },
+    {
+      "soundId": 54535,
+      "filename": "VO_70_Kurtalos_Ravencrest_PH_MODEL_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/17/1275409/VO_70_Kurtalos_Ravencrest_PH_MODEL_12.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "No. No!"
+    },
+    {
+      "soundId": 54536,
+      "filename": "VO_70_Kurtalos_Ravencrest_PH_MODEL_13",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/19/1275411/VO_70_Kurtalos_Ravencrest_PH_MODEL_13.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Fiends, you shall never have our world!"
+    },
+    {
+      "soundId": 77288,
+      "filename": "VO_70_KURTALOS_RAVENCREST_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/112/1514096/VO_70_Kurtalos_Ravencrest_WoundCrit_01.ogg",
+      "npc": "Lord Kur'talos Ravencrest",
+      "dungeon": "Black Rook Hold",
+      "transcript": "UGH!"
+    }
+  ]
+}

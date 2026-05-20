@@ -1,0 +1,28 @@
+{
+  "dungeon": "Neltharus",
+  "slug": "neltharus",
+  "wowheadZoneId": 14011,
+  "expansion": "Dragonflight",
+  "bosses": [
+    {
+      "id": 189478,
+      "name": "Forgemaster Gorek",
+      "filterName": "forgemaster_gorek",
+      "namePattern": "^VO_.*Forgemaster_Gorek",
+      "quotes": [
+        { "context": "Aggro",            "text": "You dare interrupt my work?" },
+        { "context": "Might of the Forge","text": "Let's see what I have for you..." },
+        { "context": "Death",            "text": "But... my... work..." }
+      ]
+    },
+    {
+      "id": 189340,
+      "name": "Chargath, Bane of Scales",
+      "filterName": "chargath",
+      "quotes": [
+        { "context": "Intro", "text": "My skills are wasted on these books!" },
+        { "context": "Intro", "text": "All the tactics we need can be found in my weapon and my wrath!" }
+      ]
+    }
+  ]
+}

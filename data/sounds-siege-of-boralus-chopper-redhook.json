@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "npc": "Chopper Redhook",
+    "dungeon": "Siege of Boralus",
+    "filterName": "redhook",
+    "namePattern": "^VO_.*REDHOOK|^VO_.*Redhook",
+    "generated": "2026-05-19T15:53:47-07:00",
+    "soundCount": 19
+  },
+  "sounds": [
+    {
+      "soundId": 102501,
+      "filename": "VO_801_CHOPPER_REDHOOK_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/224/1951968/VO_801_Chopper_Redhook_WoundCrit_01.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "GO!"
+    },
+    {
+      "soundId": 97174,
+      "filename": "VO_801_Chopper_Redhook_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/56/1857592/VO_801_Chopper_Redhook_01_M.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Hihihihi....Biriiiiig crease!"
+    },
+    {
+      "soundId": 97186,
+      "filename": "VO_801_Chopper_Redhook_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/1857604/VO_801_Chopper_Redhook_13_M.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Up, up... So many juicy muscles... Ugh!"
+    },
+    {
+      "soundId": 102500,
+      "filename": "VO_801_CHOPPER_REDHOOK_DEATH",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/219/1951963/VO_801_Chopper_Redhook_Death_01.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "grunt"
+    },
+    {
+      "soundId": 97175,
+      "filename": "VO_801_Chopper_Redhook_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/1857593/VO_801_Chopper_Redhook_02_M.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "INCOMING!"
+    },
+    {
+      "soundId": 97176,
+      "filename": "VO_801_Chopper_Redhook_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/58/1857594/VO_801_Chopper_Redhook_03_M.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "I'll feast on your gold!"
+    },
+    {
+      "soundId": 97177,
+      "filename": "VO_801_Chopper_Redhook_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/59/1857595/VO_801_Chopper_Redhook_04_M.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "COMING!"
+    },
+    {
+      "soundId": 97178,
+      "filename": "VO_801_Chopper_Redhook_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/60/1857596/VO_801_Chopper_Redhook_05_M.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Kana Hokuya!"
+    },
+    {
+      "soundId": 97179,
+      "filename": "VO_801_Chopper_Redhook_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/61/1857597/VO_801_Chopper_Redhook_06_M.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "You can't run!"
+    },
+    {
+      "soundId": 97180,
+      "filename": "VO_801_Chopper_Redhook_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/62/1857598/VO_801_Chopper_Redhook_07_M.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "You're next!"
+    },
+    {
+      "soundId": 97181,
+      "filename": "VO_801_Chopper_Redhook_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/1857599/VO_801_Chopper_Redhook_08_M.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Lens to the slaughter!"
+    },
+    {
+      "soundId": 97182,
+      "filename": "VO_801_Chopper_Redhook_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/1857600/VO_801_Chopper_Redhook_09_M.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "I'll chop you lot of bits!"
+    },
+    {
+      "soundId": 97183,
+      "filename": "VO_801_Chopper_Redhook_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/1857601/VO_801_Chopper_Redhook_10_M.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Don't let me go to waste!"
+    },
+    {
+      "soundId": 97184,
+      "filename": "VO_801_Chopper_Redhook_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/66/1857602/VO_801_Chopper_Redhook_11_M.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "That's what I call a prime cut!"
+    },
+    {
+      "soundId": 97185,
+      "filename": "VO_801_Chopper_Redhook_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1857603/VO_801_Chopper_Redhook_12_M.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "March on for the waters!"
+    },
+    {
+      "soundId": 102498,
+      "filename": "VO_801_CHOPPER_REDHOOK_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/206/1951950/VO_801_Chopper_Redhook_Attack_01.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "HUH!"
+    },
+    {
+      "soundId": 102497,
+      "filename": "VO_801_CHOPPER_REDHOOK_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/1951944/VO_801_Chopper_Redhook_AttackCrit_01.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Florida"
+    },
+    {
+      "soundId": 102499,
+      "filename": "VO_801_CHOPPER_REDHOOK_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/216/1951960/VO_801_Chopper_Redhook_BattleShout_01.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Oooooooooooo! Fiftyuffs"
+    },
+    {
+      "soundId": 102502,
+      "filename": "VO_801_CHOPPER_REDHOOK_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/229/1951973/VO_801_Chopper_Redhook_Wound_01.ogg",
+      "npc": "Chopper Redhook",
+      "dungeon": "Siege of Boralus",
+      "transcript": "DUNE"
+    }
+  ]
+}

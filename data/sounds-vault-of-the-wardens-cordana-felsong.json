@@ -1,0 +1,748 @@
+{
+  "meta": {
+    "npc": "Cordana Felsong",
+    "dungeon": "Vault of the Wardens",
+    "filterName": "cordana",
+    "namePattern": "^VO_.*Cordana",
+    "generated": "2026-05-19T16:55:29-07:00",
+    "soundCount": 92
+  },
+  "sounds": [
+    {
+      "soundId": 55464,
+      "filename": "VO_70_Cordana_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/1282849/VO_70_Cordana_09.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Vengeance will be mine!"
+    },
+    {
+      "soundId": 57309,
+      "filename": "VO_701_Cordana_Felsong_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/1322754/VO_701_Cordana_Felsong_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Judge me all you like, sister, but you cannot stop us."
+    },
+    {
+      "soundId": 44113,
+      "filename": "VO_60_SMV_GULDAN_APPROACH_CORDANA_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/253/1048061/VO_60_SMV_GULDAN_APPROACH_CORDANA_04.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "We suspect the shadow council have corrupted the area."
+    },
+    {
+      "soundId": 44122,
+      "filename": "VO_60_SMV_GULDAN_HUB_CORDANA_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/1048070/VO_60_SMV_GULDAN_HUB_CORDANA_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I'm going ahead to the demon's lair. We'll capture it together."
+    },
+    {
+      "soundId": 55465,
+      "filename": "VO_70_Cordana_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/1282851/VO_70_Cordana_08.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Watch your step, it's a long way down."
+    },
+    {
+      "soundId": 44130,
+      "filename": "VO_60_CORDANA_Attack",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/12/1048076/VO_60_CORDANA_Attack_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "HOO!"
+    },
+    {
+      "soundId": 44132,
+      "filename": "VO_60_CORDANA_Death",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/27/1048091/VO_60_CORDANA_Death_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Huh! Huh!"
+    },
+    {
+      "soundId": 49595,
+      "filename": "VO_61_CORDANA_BREAKING_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/62/1102142/VO_61_CORDANA_BREAKING_03.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "You are using the tools of our enemy."
+    },
+    {
+      "soundId": 55456,
+      "filename": "VO_70_Cordana_17",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/17/1282833/VO_70_Cordana_17.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "And now you fools have brought me the key. I'll thank you to hand it over, willingly or otherwise."
+    },
+    {
+      "soundId": 44133,
+      "filename": "VO_60_CORDANA_Wound",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/32/1048096/VO_60_CORDANA_Wound_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Ah!"
+    },
+    {
+      "soundId": 44112,
+      "filename": "VO_60_SMV_GULDAN_APPROACH_CORDANA_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/1048060/VO_60_SMV_GULDAN_APPROACH_CORDANA_03.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "CADGAR brought our group out here to deal with a strange taint on the nearby woods."
+    },
+    {
+      "soundId": 57327,
+      "filename": "VO_701_Cordana_Felsong_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/20/1322772/VO_701_Cordana_Felsong_02.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Hurry then, the Wardens are coming with the Illidarian Toe."
+    },
+    {
+      "soundId": 63245,
+      "filename": "VO_703_Cordana_Felsong_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/1389698/VO_703_Cordana_Felsong_04.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "And now you fools have fallen into my trap. Let's see how you fare in the dark."
+    },
+    {
+      "soundId": 55463,
+      "filename": "VO_70_Cordana_18",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/1282847/VO_70_Cordana_18.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "All night elf children learn to love the dark."
+    },
+    {
+      "soundId": 44131,
+      "filename": "VO_60_CORDANA_AttackCrit",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/22/1048086/VO_60_CORDANA_AttackCrit_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "HUGH AHH"
+    },
+    {
+      "soundId": 44134,
+      "filename": "VO_60_CORDANA_WoundCrit",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/42/1048106/VO_60_CORDANA_WoundCrit_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "the"
+    },
+    {
+      "soundId": 44145,
+      "filename": "VO_60_LQ_CORDANA_GAME_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/54/1048118/VO_60_LQ_CORDANA_GAME_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Archmage, be careful."
+    },
+    {
+      "soundId": 44147,
+      "filename": "VO_60_LQ_CORDANA_GAME_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/56/1048120/VO_60_LQ_CORDANA_GAME_03.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Champion, the Archmage!"
+    },
+    {
+      "soundId": 44149,
+      "filename": "VO_60_LQ_CORDANA_INTRO_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/58/1048122/VO_60_LQ_CORDANA_INTRO_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "The Archmage is expecting you."
+    },
+    {
+      "soundId": 44120,
+      "filename": "VO_60_SMV_GULDAN_CAVE_CORDANA_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/4/1048068/VO_60_SMV_GULDAN_CAVE_CORDANA_03.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Well done. I'll take it back to the outpost and see that it's secured."
+    },
+    {
+      "soundId": 44125,
+      "filename": "VO_60_SMV_GULDAN_STAB_CORDANA_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/9/1048073/VO_60_SMV_GULDAN_STAB_CORDANA_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Katgar, someone's here."
+    },
+    {
+      "soundId": 44127,
+      "filename": "VO_60_SMV_GULDAN_STAB_CORDANA_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/11/1048075/VO_60_SMV_GULDAN_STAB_CORDANA_04.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I knew it. You should have stayed back at the Garrison Archmage."
+    },
+    {
+      "soundId": 50322,
+      "filename": "VO_62_CORDANA_LEGENDARY_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/106/1123690/VO_62_CORDANA_LEGENDARY_05.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "The orb of dominion spoke to me. I saw the truth!"
+    },
+    {
+      "soundId": 50325,
+      "filename": "VO_62_CORDANA_LEGENDARY_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/109/1123693/VO_62_CORDANA_LEGENDARY_08.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Very well. Walk away. Nothing will stop Gul'dan, for the Legion stands behind him. Mark my words, your leaders will betray you. Azeroth will burn."
+    },
+    {
+      "soundId": 63243,
+      "filename": "VO_703_Cordana_Felsong_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/126/1389694/VO_703_Cordana_Felsong_02.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I have what I was after, but I stayed just so that I could put an end to you once and for all."
+    },
+    {
+      "soundId": 55472,
+      "filename": "VO_70_Cordana_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/1282865/VO_70_Cordana_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "So be it. I will slay you all."
+    },
+    {
+      "soundId": 55461,
+      "filename": "VO_70_Cordana_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/27/1282843/VO_70_Cordana_12.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I will not be stopped. I have fought too long, suffered too much. Victory must be mine!"
+    },
+    {
+      "soundId": 55460,
+      "filename": "VO_70_Cordana_13",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/25/1282841/VO_70_Cordana_13.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "beaten? How you are nothing."
+    },
+    {
+      "soundId": 55459,
+      "filename": "VO_70_Cordana_14",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/23/1282839/VO_70_Cordana_14.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Your death was inevitable."
+    },
+    {
+      "soundId": 52662,
+      "filename": "VO_70_Cordana_Felsong_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/1242911/VO_70_Cordana_Felsong_05.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Ah, we've been expecting you. How is KADGAR?"
+    },
+    {
+      "soundId": 44138,
+      "filename": "VO_60_FR_CORDANA_COUNCIL_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/47/1048111/VO_60_FR_CORDANA_COUNCIL_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Every Shadow Council member we kill now is one less headache later."
+    },
+    {
+      "soundId": 44139,
+      "filename": "VO_60_FR_CORDANA_FLOW_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/48/1048112/VO_60_FR_CORDANA_FLOW_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "It sounds like they've conjured demonic eye sentries. Be careful down there."
+    },
+    {
+      "soundId": 44142,
+      "filename": "VO_60_FR_CORDANA_PASSAGE_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/1048115/VO_60_FR_CORDANA_PASSAGE_03.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "We're certain the Shadow Council is involved, but we've yet to pinpoint them."
+    },
+    {
+      "soundId": 44143,
+      "filename": "VO_60_FR_CORDANA_PASSAGE_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/52/1048116/VO_60_FR_CORDANA_PASSAGE_04.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I was just explaining the situation."
+    },
+    {
+      "soundId": 44146,
+      "filename": "VO_60_LQ_CORDANA_GAME_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/55/1048119/VO_60_LQ_CORDANA_GAME_02.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Mark Mage, look out!"
+    },
+    {
+      "soundId": 44150,
+      "filename": "VO_60_LQ_CORDANA_INTRO_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/59/1048123/VO_60_LQ_CORDANA_INTRO_02.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Be careful, champion."
+    },
+    {
+      "soundId": 44110,
+      "filename": "VO_60_SMV_GULDAN_APPROACH_CORDANA_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/250/1048058/VO_60_SMV_GULDAN_APPROACH_CORDANA_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Ishnu Allah, Commander. Over here."
+    },
+    {
+      "soundId": 44118,
+      "filename": "VO_60_SMV_GULDAN_CAVE_CORDANA_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/1048066/VO_60_SMV_GULDAN_CAVE_CORDANA_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Come on, this way!"
+    },
+    {
+      "soundId": 44136,
+      "filename": "VO_60_TAN_CORDANA_DPEVENTS_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/66/1048130/VO_60_TAN_CORDANA_DPEVENTS_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "The front lines are faltering. They cannot hold for much longer."
+    },
+    {
+      "soundId": 49596,
+      "filename": "VO_61_CORDANA_BREAKING_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/1102143/VO_61_CORDANA_BREAKING_04.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I do not like this."
+    },
+    {
+      "soundId": 50323,
+      "filename": "VO_62_CORDANA_LEGENDARY_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/107/1123691/VO_62_CORDANA_LEGENDARY_06.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Khaadgar is just a child swaggering around, torturing his prisoners, playing with lives, dabbling in magics he pretends to comprehend."
+    },
+    {
+      "soundId": 63242,
+      "filename": "VO_703_Cordana_Felsong_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/124/1389692/VO_703_Cordana_Felsong_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "How utterly predictable. I knew that you would come."
+    },
+    {
+      "soundId": 63244,
+      "filename": "VO_703_Cordana_Felsong_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/1389696/VO_703_Cordana_Felsong_03.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I already have this Argyraid Keystone, but I stayed, just so that I could put an end to you once and for all."
+    },
+    {
+      "soundId": 55470,
+      "filename": "VO_70_Cordana_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/1282861/VO_70_Cordana_03.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Death embraces you. Perhaps not for the first time."
+    },
+    {
+      "soundId": 55466,
+      "filename": "VO_70_Cordana_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/37/1282853/VO_70_Cordana_07.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Your downfall is inevitable."
+    },
+    {
+      "soundId": 55444,
+      "filename": "VO_70_Cordana_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/1282809/VO_70_Cordana_10.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "May the night shroud me in shadow."
+    },
+    {
+      "soundId": 52661,
+      "filename": "VO_70_Cordana_Felsong_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/1242909/VO_70_Cordana_Felsong_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Be wary, an old friend is here."
+    },
+    {
+      "soundId": 52658,
+      "filename": "VO_70_Cordana_Felsong_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/23/1242903/VO_70_Cordana_Felsong_02.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Kill them, Malinoth!"
+    },
+    {
+      "soundId": 44140,
+      "filename": "VO_60_FR_CORDANA_PASSAGE_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/1048113/VO_60_FR_CORDANA_PASSAGE_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Cadgar will join us on the way. Come, Thrombar lies just over the ridge."
+    },
+    {
+      "soundId": 44141,
+      "filename": "VO_60_FR_CORDANA_PASSAGE_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/50/1048114/VO_60_FR_CORDANA_PASSAGE_02.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I've been scouting the dunes, a demonic force has infected some of the beasts."
+    },
+    {
+      "soundId": 44144,
+      "filename": "VO_60_FR_CORDANA_WORMS_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/1048117/VO_60_FR_CORDANA_WORMS_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Watch yourself out there. Those things come out of nowhere."
+    },
+    {
+      "soundId": 44148,
+      "filename": "VO_60_LQ_CORDANA_HUNT_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/1048121/VO_60_LQ_CORDANA_HUNT_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I will stay with the Archmage and find help. Quickly, Captcha, Girona."
+    },
+    {
+      "soundId": 44151,
+      "filename": "VO_60_LQ_CORDANA_MIND_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/60/1048124/VO_60_LQ_CORDANA_MIND_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Archmage."
+    },
+    {
+      "soundId": 44152,
+      "filename": "VO_60_LQ_CORDANA_MIND_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/61/1048125/VO_60_LQ_CORDANA_MIND_02.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Kedgar, stop! What's the difference between this and torture?"
+    },
+    {
+      "soundId": 44153,
+      "filename": "VO_60_LQ_CORDANA_MIND_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/62/1048126/VO_60_LQ_CORDANA_MIND_03.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I don't even know what you're fighting for anymore."
+    },
+    {
+      "soundId": 44154,
+      "filename": "VO_60_LQ_CORDANA_RING_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/1048127/VO_60_LQ_CORDANA_RING_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Huh, it worked!"
+    },
+    {
+      "soundId": 44155,
+      "filename": "VO_60_LQ_CORDANA_TARNISHED_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/1048128/VO_60_LQ_CORDANA_TARNISHED_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Incredible work! The Archmage would be lost without you."
+    },
+    {
+      "soundId": 44128,
+      "filename": "VO_60_SMV_CORDANA_FAREWELL",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/240/1048048/VO_60_SMV_CORDANA_FAREWELL_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Always vigilant."
+    },
+    {
+      "soundId": 44129,
+      "filename": "VO_60_SMV_CORDANA_GREETING",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/245/1048053/VO_60_SMV_CORDANA_GREETING_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Commander."
+    },
+    {
+      "soundId": 44111,
+      "filename": "VO_60_SMV_GULDAN_APPROACH_CORDANA_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/1048059/VO_60_SMV_GULDAN_APPROACH_CORDANA_02.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "The outpost is only a short distance up the hill. Come, the Ark Mage awaits."
+    },
+    {
+      "soundId": 44114,
+      "filename": "VO_60_SMV_GULDAN_APPROACH_CORDANA_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/254/1048062/VO_60_SMV_GULDAN_APPROACH_CORDANA_05.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "A veil that reeks of fell magic shrouds the woods and the shadow moon orc village beyond."
+    },
+    {
+      "soundId": 44115,
+      "filename": "VO_60_SMV_GULDAN_APPROACH_CORDANA_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/255/1048063/VO_60_SMV_GULDAN_APPROACH_CORDANA_06.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "We think the Shadow Council have overtaken the village, but Cadgar doesn't want to make a move until we know what they're up to."
+    },
+    {
+      "soundId": 44116,
+      "filename": "VO_60_SMV_GULDAN_APPROACH_CORDANA_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/0/1048064/VO_60_SMV_GULDAN_APPROACH_CORDANA_07.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "We must pierce the veil that shrouds their activity. There's a plan, but we need your aid."
+    },
+    {
+      "soundId": 44117,
+      "filename": "VO_60_SMV_GULDAN_APPROACH_CORDANA_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/1048065/VO_60_SMV_GULDAN_APPROACH_CORDANA_08.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "This isn't going to be easy. Wanna help me capture a demon?"
+    },
+    {
+      "soundId": 44119,
+      "filename": "VO_60_SMV_GULDAN_CAVE_CORDANA_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/3/1048067/VO_60_SMV_GULDAN_CAVE_CORDANA_02.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "In here."
+    },
+    {
+      "soundId": 44121,
+      "filename": "VO_60_SMV_GULDAN_CAVE_CORDANA_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/5/1048069/VO_60_SMV_GULDAN_CAVE_CORDANA_04.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Come, foul creature."
+    },
+    {
+      "soundId": 44123,
+      "filename": "VO_60_SMV_GULDAN_HUB_CORDANA_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/1048071/VO_60_SMV_GULDAN_HUB_CORDANA_02.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "It'd be easier to guard you if you stayed out of sight, CADGAR."
+    },
+    {
+      "soundId": 44124,
+      "filename": "VO_60_SMV_GULDAN_HUB_CORDANA_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/8/1048072/VO_60_SMV_GULDAN_HUB_CORDANA_03.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "You're right, you're not going out there."
+    },
+    {
+      "soundId": 44126,
+      "filename": "VO_60_SMV_GULDAN_STAB_CORDANA_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/10/1048074/VO_60_SMV_GULDAN_STAB_CORDANA_02.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "A SESSON!"
+    },
+    {
+      "soundId": 44135,
+      "filename": "VO_60_TAN_CORDANA_DAM_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/1048129/VO_60_TAN_CORDANA_DAM_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "We are yours to command."
+    },
+    {
+      "soundId": 44137,
+      "filename": "VO_60_TLD_ZANGARRA_CORDANA_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1048131/VO_60_TLD_ZANGARRA_CORDANA_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Very well. I'll meet you there. Stay safe."
+    },
+    {
+      "soundId": 49593,
+      "filename": "VO_61_CORDANA_BREAKING_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/60/1102140/VO_61_CORDANA_BREAKING_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Ugh, I can feel the dark energy surrounding you. What is that thing?"
+    },
+    {
+      "soundId": 49594,
+      "filename": "VO_61_CORDANA_BREAKING_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/61/1102141/VO_61_CORDANA_BREAKING_02.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Archmage, that is dark magic you're working with."
+    },
+    {
+      "soundId": 49597,
+      "filename": "VO_61_CORDANA_BREAKING_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/1102144/VO_61_CORDANA_BREAKING_05.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Give me that orb, Katkar. I will destroy that hideous thing."
+    },
+    {
+      "soundId": 49598,
+      "filename": "VO_61_CORDANA_ORB_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/1102145/VO_61_CORDANA_ORB_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Watch yourself champion. The Shadow Council will pray on your doubts and weaknesses."
+    },
+    {
+      "soundId": 50318,
+      "filename": "VO_62_CORDANA_LEGENDARY_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/102/1123686/VO_62_CORDANA_LEGENDARY_01.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Books. Yes, Gul'dan's tomes. Are you sure Cadgar didn't try to use them?"
+    },
+    {
+      "soundId": 50319,
+      "filename": "VO_62_CORDANA_LEGENDARY_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/103/1123687/VO_62_CORDANA_LEGENDARY_02.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Books of power, books of knowledge, books written in the language of chaos. Don't you worry, champion, all will be destroyed."
+    },
+    {
+      "soundId": 50320,
+      "filename": "VO_62_CORDANA_LEGENDARY_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/1123688/VO_62_CORDANA_LEGENDARY_03.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Now, give me your ring. I need it. Give it here."
+    },
+    {
+      "soundId": 50321,
+      "filename": "VO_62_CORDANA_LEGENDARY_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/105/1123689/VO_62_CORDANA_LEGENDARY_04.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Then I will take it from you, for the glory of Gul'dan!"
+    },
+    {
+      "soundId": 50324,
+      "filename": "VO_62_CORDANA_LEGENDARY_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/108/1123692/VO_62_CORDANA_LEGENDARY_07.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Such is the power of the Legion!"
+    },
+    {
+      "soundId": 57342,
+      "filename": "VO_701_Cordana_Felsong_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/1322787/VO_701_Cordana_Felsong_03.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "So here's the key to Azeroth's downfall."
+    },
+    {
+      "soundId": 57410,
+      "filename": "VO_701_Cordana_Felsong_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/95/1323103/VO_701_Cordana_Felsong_04.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Come do your best. Nightglaive has been undergoing some changes."
+    },
+    {
+      "soundId": 57411,
+      "filename": "VO_701_Cordana_Felsong_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/1323105/VO_701_Cordana_Felsong_05.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "We are ready for you."
+    },
+    {
+      "soundId": 55471,
+      "filename": "VO_70_Cordana_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/47/1282863/VO_70_Cordana_02.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "You should know better than to challenge a warden."
+    },
+    {
+      "soundId": 55469,
+      "filename": "VO_70_Cordana_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/43/1282859/VO_70_Cordana_04.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "The best prison needs no walls."
+    },
+    {
+      "soundId": 55468,
+      "filename": "VO_70_Cordana_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/41/1282857/VO_70_Cordana_05.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "A Wardens' Glaive can be the toughest armor."
+    },
+    {
+      "soundId": 55467,
+      "filename": "VO_70_Cordana_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/39/1282855/VO_70_Cordana_06.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "HEEYAH!"
+    },
+    {
+      "soundId": 55462,
+      "filename": "VO_70_Cordana_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/1282845/VO_70_Cordana_11.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "My powers have grown since joining the Legion. Here, let me show you."
+    },
+    {
+      "soundId": 55458,
+      "filename": "VO_70_Cordana_15",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/21/1282837/VO_70_Cordana_15.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "How utterly predictable, myev is nothing if not persistent."
+    },
+    {
+      "soundId": 55457,
+      "filename": "VO_70_Cordana_16",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/19/1282835/VO_70_Cordana_16.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "I knew she had that artifact secreted away after the events at the Black Temple."
+    },
+    {
+      "soundId": 52659,
+      "filename": "VO_70_Cordana_Felsong_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/25/1242905/VO_70_Cordana_Felsong_03.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Feel the fel energy course through."
+    },
+    {
+      "soundId": 52660,
+      "filename": "VO_70_Cordana_Felsong_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/27/1242907/VO_70_Cordana_Felsong_04.ogg",
+      "npc": "Cordana Felsong",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Felsworn Nightglaive, prove yourself. I have other matters to attend to."
+    }
+  ]
+}

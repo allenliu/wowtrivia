@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "npc": "Sporecaller Zancha",
+    "dungeon": "The Underrot",
+    "filterName": "zancha",
+    "namePattern": "",
+    "generated": "2026-05-19T18:12:18-07:00",
+    "soundCount": 33
+  },
+  "sounds": [
+    {
+      "soundId": 97546,
+      "filename": "VO_801_High_Priest_Zancha_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/223/1860831/vo_801_high_priest_zancha_06_m.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "The Blood God Claims You!"
+    },
+    {
+      "soundId": 110099,
+      "filename": "Spell_Dungeon_Underrot_SporecallerZancha_SeismicStomp_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/154/1489050/FX_Stone_Rock_Door_Impact_01.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "BOOM!"
+    },
+    {
+      "soundId": 109961,
+      "filename": "VO_801_Sporecaller_Zancha_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/2020430/VO_801_Sporecaller_Zancha_02_M.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "BLIGHT FLIES"
+    },
+    {
+      "soundId": 19769,
+      "filename": "AMB_KezanChaos_Night",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/185/539065/AMB_KezanChaos_Night01.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    },
+    {
+      "soundId": 110104,
+      "filename": "Spell_Dungeon_Underrot_SporecallerZancha_NecroticBolt_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/162/1016226/SPELL_Felblast_Precast.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    },
+    {
+      "soundId": 97543,
+      "filename": "VO_801_High_Priest_Zancha_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/220/1860828/vo_801_high_priest_zancha_03_m.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "The harvest draws near!"
+    },
+    {
+      "soundId": 97549,
+      "filename": "VO_801_High_Priest_Zancha_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/1860834/vo_801_high_priest_zancha_09_m.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "My garden must be fed!"
+    },
+    {
+      "soundId": 110103,
+      "filename": "Spell_Dungeon_Underrot_SporecallerZancha_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/1936967/FX_AcidHissBubbles_Impact_Large_01.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "you"
+    },
+    {
+      "soundId": 110102,
+      "filename": "Spell_Dungeon_Underrot_SporecallerZancha_FesteringHarvest_Precas",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/163/978339/SPELL_Podling_PoisonSquirt_Missile_Loop.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    },
+    {
+      "soundId": 110105,
+      "filename": "Spell_Dungeon_Underrot_SporecallerZancha_NecrocticBolt_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/153/1016217/SPELL_Felblast_Cast01.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "You"
+    },
+    {
+      "soundId": 110106,
+      "filename": "Spell_Dungeon_Underrot_SporecallerZancha_NecroticBlast_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/158/1016222/SPELL_Felblast_Imapct01.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "BOOM!"
+    },
+    {
+      "soundId": 97541,
+      "filename": "VO_801_High_Priest_Zancha_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/1860826/vo_801_high_priest_zancha_01_m.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "PREY!"
+    },
+    {
+      "soundId": 97542,
+      "filename": "VO_801_High_Priest_Zancha_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/219/1860827/vo_801_high_priest_zancha_02_m.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "The Blythribs!"
+    },
+    {
+      "soundId": 97544,
+      "filename": "VO_801_High_Priest_Zancha_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/221/1860829/vo_801_high_priest_zancha_04_m.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "All shall we do!"
+    },
+    {
+      "soundId": 97547,
+      "filename": "VO_801_High_Priest_Zancha_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/224/1860832/vo_801_high_priest_zancha_07_m.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "Everything decays."
+    },
+    {
+      "soundId": 97548,
+      "filename": "VO_801_High_Priest_Zancha_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/225/1860833/vo_801_high_priest_zancha_08_m.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "More flesh to feed upon!"
+    },
+    {
+      "soundId": 109962,
+      "filename": "VO_801_Sporecaller_Zancha_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/79/2020431/VO_801_Sporecaller_Zancha_03_M.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "Corruption Blooms!"
+    },
+    {
+      "soundId": 109963,
+      "filename": "VO_801_Sporecaller_Zancha_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/80/2020432/VO_801_Sporecaller_Zancha_04_M.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "WITHER!"
+    },
+    {
+      "soundId": 109966,
+      "filename": "VO_801_Sporecaller_Zancha_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/83/2020435/VO_801_Sporecaller_Zancha_07_M.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "everything decays"
+    },
+    {
+      "soundId": 109967,
+      "filename": "VO_801_Sporecaller_Zancha_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/84/2020436/VO_801_Sporecaller_Zancha_08_M.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "PESTA!"
+    },
+    {
+      "soundId": 109968,
+      "filename": "VO_801_Sporecaller_Zancha_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/85/2020437/VO_801_Sporecaller_Zancha_09_M.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "Must feed!"
+    },
+    {
+      "soundId": 19768,
+      "filename": "AMB_KezanChaos_Day",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/158/539038/AMB_KezanChaos_Day01.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    },
+    {
+      "soundId": 110094,
+      "filename": "Spell_Dungeon_Underrot_SporecallerZancha_CreateSpore",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/243/1031155/6TJ_Mushroom_Poison_01_Oneshot01.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    },
+    {
+      "soundId": 110074,
+      "filename": "Spell_Dungeon_Underrot_SporecallerZancha_FungalSkeleton_State",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/243/632307/FX_Amber_Channel03.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    },
+    {
+      "soundId": 110097,
+      "filename": "Spell_Dungeon_Underrot_SporecallerZancha_Shockwave_cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/15/1345551/FX_RockImpact_Heavy_Short_03.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    },
+    {
+      "soundId": 110098,
+      "filename": "Spell_Dungeon_Underrot_SporecallerZancha_Shockwave_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/247/839927/FX_Rock_Large_Impact_01.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "You"
+    },
+    {
+      "soundId": 110107,
+      "filename": "Spell_Dungeon_Underrot_SporecallerZancha_SporeDetonation_Explosi",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/30/632862/FX_Amber_Explosion02.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "BOOM!"
+    },
+    {
+      "soundId": 97545,
+      "filename": "VO_801_High_Priest_Zancha_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/222/1860830/vo_801_high_priest_zancha_05_m.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "The rot must spread!"
+    },
+    {
+      "soundId": 109960,
+      "filename": "VO_801_Sporecaller_Zancha_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/2020429/VO_801_Sporecaller_Zancha_01_M.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "GROWL!"
+    },
+    {
+      "soundId": 109964,
+      "filename": "VO_801_Sporecaller_Zancha_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/81/2020433/VO_801_Sporecaller_Zancha_05_M.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "ROTMUST SPREAD"
+    },
+    {
+      "soundId": 109965,
+      "filename": "VO_801_Sporecaller_Zancha_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/82/2020434/VO_801_Sporecaller_Zancha_06_M.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "Harvest!"
+    },
+    {
+      "soundId": 109969,
+      "filename": "VO_801_Sporecaller_Zancha_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/86/2020438/VO_801_Sporecaller_Zancha_10_M.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "Such fatal soil."
+    },
+    {
+      "soundId": 97550,
+      "filename": "VO_801_High_Priest_Zancha_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/227/1860835/vo_801_high_priest_zancha_10_m.ogg",
+      "npc": "Sporecaller Zancha",
+      "dungeon": "The Underrot",
+      "transcript": "Ha ha ha ha ha ha! Good! More holes to implant!"
+    }
+  ]
+}

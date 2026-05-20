@@ -1,0 +1,68 @@
+{
+    "meta":  {
+                 "schemaVersion":  2,
+                 "dungeon":  "Spires of Ascension",
+                 "wowheadZoneId":  12837,
+                 "expansion":  "Shadowlands",
+                 "generated":  "2026-05-19T08:17:30-07:00"
+             },
+    "npcs":  [
+                 {
+                     "id":  165714,
+                     "name":  "Kyrestia the Firstborne",
+                     "elite":  true,
+                     "quotes":  [
+                                    {
+                                        "soundId":  155756,
+                                        "filename":  "vo-901-kyrestia-the-firstborne-the-archon-23-f",
+                                        "fileDataId":  3571136,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/192/3571136/VO_901_Kyrestia_the_Firstborne_The_Archon_23_F.ogg",
+                                        "text":  "Devos...",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  155758,
+                                        "filename":  "vo-901-kyrestia-the-firstborne-the-archon-25-f",
+                                        "fileDataId":  3571138,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/194/3571138/VO_901_Kyrestia_the_Firstborne_The_Archon_25_F.ogg",
+                                        "text":  "Long have we believed that our mortal lives are burdens to be shed in the name of service. And yet, the deeds of mortals are what won the day.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  160654,
+                                        "filename":  "vo-901-kyrestia-the-firstborne-the-archon-76-f",
+                                        "fileDataId":  3620276,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/180/3620276/VO_901_Kyrestia_the_Firstborne_The_Archon_76_F.ogg",
+                                        "text":  "The Jailer has twisted your mind, Devos. You must be stopped... no matter the cost.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  155757,
+                                        "filename":  "vo-901-kyrestia-the-firstborne-the-archon-24-f",
+                                        "fileDataId":  3571137,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/193/3571137/VO_901_Kyrestia_the_Firstborne_The_Archon_24_F.ogg",
+                                        "text":  "The Jailer's schemes have torn a schism in the ranks of the kyrian. One that must be healed.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  155759,
+                                        "filename":  "vo-901-kyrestia-the-firstborne-the-archon-26-f",
+                                        "fileDataId":  3571139,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/195/3571139/VO_901_Kyrestia_the_Firstborne_The_Archon_26_F.ogg",
+                                        "text":  "You have my gratitude. Once the Jailer lies defeated... there may be much for the kyrian to discuss.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 }
+             ]
+}

@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "npc": "Hadal Darkfathom",
+    "dungeon": "Siege of Boralus",
+    "filterName": "darkfathom",
+    "namePattern": "",
+    "generated": "2026-05-19T15:51:52-07:00",
+    "soundCount": 19
+  },
+  "sounds": [
+    {
+      "soundId": 115629,
+      "filename": "SPELL_8.0_SiegeofBoralus_HadalDarkfathom_BrinePool_State_Loop",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/242/625394/FX_WaterWheel_WaterMovement_Medium_Loop_01.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Thank you."
+    },
+    {
+      "soundId": 115639,
+      "filename": "SPELL_8.0_SiegeofBoralus_HadalDarkfathom_CrashingTide_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/17/1260561/2H_MaceHit_MTL_Stone_Crit_01.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": ""
+    },
+    {
+      "soundId": 115630,
+      "filename": "SPELL_8.0_SiegeofBoralus_HadalDarkfathom_TidalSurge_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/2066752/FX_Water_Cast_Large01.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": ""
+    },
+    {
+      "soundId": 97187,
+      "filename": "VO_801_Hadal_Darkfathom_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/1857633/VO_801_Hadal_Darkfathom_01_M.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": "BREAK!"
+    },
+    {
+      "soundId": 97192,
+      "filename": "VO_801_Hadal_Darkfathom_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/102/1857638/VO_801_Hadal_Darkfathom_06_M.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": "You were out of your dips!"
+    },
+    {
+      "soundId": 110000,
+      "filename": "VO_801_HADAL_DARKFATHOM_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/221/2020829/VO_801_Hadal_Darkfathom_BattleShout_01.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": "RRRRRRAHS"
+    },
+    {
+      "soundId": 110002,
+      "filename": "VO_801_HADAL_DARKFATHOM_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/230/2020838/VO_801_Hadal_Darkfathom_Wound_01.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Neu!"
+    },
+    {
+      "soundId": 115627,
+      "filename": "SPELL_8.0_SiegeofBoralus_HadalDarkfathom_BreakWater_Cast_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/154/1489050/FX_Stone_Rock_Door_Impact_01.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": "BOOM!"
+    },
+    {
+      "soundId": 118829,
+      "filename": "SPELL_8.0_SiegeofBoralus_HadalDarkfathom_BreakWater_Cast_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/80/2066768/FX_Water_Impact_Large01.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": ""
+    },
+    {
+      "soundId": 115628,
+      "filename": "SPELL_8.0_SiegeofBoralus_HadalDarkfathom_BreakWater_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/102/2066790/FX_Water_ProjectileLaunch01.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Thanks for watching!"
+    },
+    {
+      "soundId": 115631,
+      "filename": "SPELL_8.0_SiegeofBoralus_HadalDarkfathom_TidalSurge_Loop",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/2066785/FX_Water_Missile03_Loop.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": ""
+    },
+    {
+      "soundId": 97188,
+      "filename": "VO_801_Hadal_Darkfathom_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/98/1857634/VO_801_Hadal_Darkfathom_02_M.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": "My pets must feed!"
+    },
+    {
+      "soundId": 97189,
+      "filename": "VO_801_Hadal_Darkfathom_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/1857635/VO_801_Hadal_Darkfathom_03_M.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Fall seven five, your bones shall lie!"
+    },
+    {
+      "soundId": 97190,
+      "filename": "VO_801_Hadal_Darkfathom_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/100/1857636/VO_801_Hadal_Darkfathom_04_M.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": "The depths will be your tomb!"
+    },
+    {
+      "soundId": 97191,
+      "filename": "VO_801_Hadal_Darkfathom_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/1857637/VO_801_Hadal_Darkfathom_05_M.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Return... ...my body... ...to the sea."
+    },
+    {
+      "soundId": 97193,
+      "filename": "VO_801_Hadal_Darkfathom_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/103/1857639/VO_801_Hadal_Darkfathom_07_M.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": "PENFOROUSED"
+    },
+    {
+      "soundId": 97194,
+      "filename": "VO_801_Hadal_Darkfathom_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/1857640/VO_801_Hadal_Darkfathom_08_M.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Nothing survives the deep."
+    },
+    {
+      "soundId": 109999,
+      "filename": "VO_801_HADAL_DARKFATHOM_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/2020816/VO_801_Hadal_Darkfathom_AttackCrit_01.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Eeeh!?"
+    },
+    {
+      "soundId": 110001,
+      "filename": "VO_801_HADAL_DARKFATHOM_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/225/2020833/VO_801_Hadal_Darkfathom_WoundCrit_01.ogg",
+      "npc": "Hadal Darkfathom",
+      "dungeon": "Siege of Boralus",
+      "transcript": "DOH!"
+    }
+  ]
+}

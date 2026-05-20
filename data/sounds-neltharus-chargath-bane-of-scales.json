@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "npc": "Chargath, Bane of Scales",
+    "dungeon": "Neltharus",
+    "filterName": "chargath",
+    "namePattern": "",
+    "generated": "2026-05-19T13:38:14-07:00",
+    "soundCount": 18
+  },
+  "sounds": [
+    {
+      "soundId": 205363,
+      "filename": "VO_100_Chargath_Bane_of_Scales_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/96/4677216/VO_100_Chargath_Bane_of_Scales_10_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "The hunt begins!"
+    },
+    {
+      "soundId": 205354,
+      "filename": "VO_100_Chargath_Bane_of_Scales_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/87/4677207/VO_100_Chargath_Bane_of_Scales_01_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "You're next!"
+    },
+    {
+      "soundId": 205360,
+      "filename": "VO_100_Chargath_Bane_of_Scales_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/93/4677213/VO_100_Chargath_Bane_of_Scales_07_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "Magma Flows!"
+    },
+    {
+      "soundId": 205361,
+      "filename": "VO_100_Chargath_Bane_of_Scales_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/94/4677214/VO_100_Chargath_Bane_of_Scales_08_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "Drowning Slag!"
+    },
+    {
+      "soundId": 205362,
+      "filename": "VO_100_Chargath_Bane_of_Scales_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/95/4677215/VO_100_Chargath_Bane_of_Scales_09_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "I'll strip the scales from your flesh!"
+    },
+    {
+      "soundId": 205366,
+      "filename": "VO_100_Chargath_Bane_of_Scales_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/4677219/VO_100_Chargath_Bane_of_Scales_13_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "Scalesbane indeed!"
+    },
+    {
+      "soundId": 205369,
+      "filename": "VO_100_Chargath_Bane_of_Scales_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/102/4677222/VO_100_Chargath_Bane_of_Scales_16_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "My skills are wasted on these... ...box!"
+    },
+    {
+      "soundId": 205355,
+      "filename": "VO_100_Chargath_Bane_of_Scales_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/88/4677208/VO_100_Chargath_Bane_of_Scales_02_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "I'll have you head!"
+    },
+    {
+      "soundId": 205356,
+      "filename": "VO_100_Chargath_Bane_of_Scales_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/89/4677209/VO_100_Chargath_Bane_of_Scales_03_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "A lucky step!"
+    },
+    {
+      "soundId": 205357,
+      "filename": "VO_100_Chargath_Bane_of_Scales_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/90/4677210/VO_100_Chargath_Bane_of_Scales_04_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "I will not be subdued!"
+    },
+    {
+      "soundId": 205358,
+      "filename": "VO_100_Chargath_Bane_of_Scales_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/91/4677211/VO_100_Chargath_Bane_of_Scales_05_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "I'll clip your wings!"
+    },
+    {
+      "soundId": 205359,
+      "filename": "VO_100_Chargath_Bane_of_Scales_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/92/4677212/VO_100_Chargath_Bane_of_Scales_06_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "To the ground with you!"
+    },
+    {
+      "soundId": 205364,
+      "filename": "VO_100_Chargath_Bane_of_Scales_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/4677217/VO_100_Chargath_Bane_of_Scales_11_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "That... ...shames me."
+    },
+    {
+      "soundId": 205365,
+      "filename": "VO_100_Chargath_Bane_of_Scales_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/98/4677218/VO_100_Chargath_Bane_of_Scales_12_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "Another hunt ends!"
+    },
+    {
+      "soundId": 205403,
+      "filename": "VO_100_Chargath_Bane_of_Scales_18_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/222/4677342/VO_100_Chargath_Bane_of_Scales_18_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "Finally! A test worthed by attention!"
+    },
+    {
+      "soundId": 205367,
+      "filename": "VO_100_Chargath_Bane_of_Scales_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/100/4677220/VO_100_Chargath_Bane_of_Scales_14_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "Another trophy for my wall!"
+    },
+    {
+      "soundId": 205368,
+      "filename": "VO_100_Chargath_Bane_of_Scales_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/4677221/VO_100_Chargath_Bane_of_Scales_15_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "Harlead challenge!"
+    },
+    {
+      "soundId": 205370,
+      "filename": "VO_100_Chargath_Bane_of_Scales_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/103/4677223/VO_100_Chargath_Bane_of_Scales_17_M.ogg",
+      "npc": "Chargath, Bane of Scales",
+      "dungeon": "Neltharus",
+      "transcript": "All the tactics we need can be found in my weapon and my wrath!"
+    }
+  ]
+}

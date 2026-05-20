@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "npc": "Gutshot",
+    "dungeon": "Brackenhide Hollow",
+    "filterName": "gutshot",
+    "namePattern": "",
+    "generated": "2026-05-19T18:16:14-07:00",
+    "soundCount": 14
+  },
+  "sounds": [
+    {
+      "soundId": 203435,
+      "filename": "VO_100_Gutshot_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/242/4663538/VO_100_Gutshot_01_F.ogg",
+      "npc": "Gutshot",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Ha ha! Gotcha is most painful way to die!"
+    },
+    {
+      "soundId": 203469,
+      "filename": "VO_100_Gutshot_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/86/4663638/VO_100_Gutshot_12_F.ogg",
+      "npc": "Gutshot",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Weak prey shouldn't challenge the Brackenheit!"
+    },
+    {
+      "soundId": 203459,
+      "filename": "VO_100_Gutshot_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/42/4663594/VO_100_Gutshot_07_F.ogg",
+      "npc": "Gutshot",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Not you, Magnus! I'm too..."
+    },
+    {
+      "soundId": 203462,
+      "filename": "VO_100_Gutshot_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/79/4663631/VO_100_Gutshot_08_F.ogg",
+      "npc": "Gutshot",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "No! I raised her from Cobb!"
+    },
+    {
+      "soundId": 203463,
+      "filename": "VO_100_Gutshot_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/80/4663632/VO_100_Gutshot_09_F.ogg",
+      "npc": "Gutshot",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Rip them apart, beast!"
+    },
+    {
+      "soundId": 115579,
+      "filename": "SPELL_8.0_SiegeofBoralus_CaptainLockwood_GutShot_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/160/921248/Spell_HU_Blunderbuss_WeaponFire_01.ogg",
+      "npc": "Gutshot",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "You"
+    },
+    {
+      "soundId": 115587,
+      "filename": "SPELL_8.0_SiegeofBoralus_CaptainLockwood_GutShot_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/23/1315095/Projectile_Bullet_Impact04.ogg",
+      "npc": "Gutshot",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": ""
+    },
+    {
+      "soundId": 203437,
+      "filename": "VO_100_Gutshot_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/244/4663540/VO_100_Gutshot_02_F.ogg",
+      "npc": "Gutshot",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Run Free Cubs!"
+    },
+    {
+      "soundId": 203438,
+      "filename": "VO_100_Gutshot_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/245/4663541/VO_100_Gutshot_03_F.ogg",
+      "npc": "Gutshot",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Cuckobs, fading time!"
+    },
+    {
+      "soundId": 203440,
+      "filename": "VO_100_Gutshot_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/247/4663543/VO_100_Gutshot_05_F.ogg",
+      "npc": "Gutshot",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Love the sound of trap snaps! Hee hee hee!"
+    },
+    {
+      "soundId": 203465,
+      "filename": "VO_100_Gutshot_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/82/4663634/VO_100_Gutshot_10_F.ogg",
+      "npc": "Gutshot",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Ha! What weak soft prey!"
+    },
+    {
+      "soundId": 203468,
+      "filename": "VO_100_Gutshot_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/85/4663637/VO_100_Gutshot_11_F.ogg",
+      "npc": "Gutshot",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "The scent of a fresh kill!"
+    },
+    {
+      "soundId": 203439,
+      "filename": "VO_100_Gutshot_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/246/4663542/VO_100_Gutshot_04_F.ogg",
+      "npc": "Gutshot",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "What's your feet? Ha ha ha ha!"
+    },
+    {
+      "soundId": 203441,
+      "filename": "VO_100_Gutshot_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/248/4663544/VO_100_Gutshot_06_F.ogg",
+      "npc": "Gutshot",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "So easy when prey come to me!"
+    }
+  ]
+}

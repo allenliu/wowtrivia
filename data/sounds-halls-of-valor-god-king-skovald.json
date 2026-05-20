@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "npc": "God-King Skovald",
+    "dungeon": "Halls of Valor",
+    "filterName": "skovald",
+    "namePattern": "",
+    "generated": "2026-05-19T16:46:30-07:00",
+    "soundCount": 42
+  },
+  "sounds": [
+    {
+      "soundId": 74902,
+      "filename": "SPELL_MKOrderHall_ServentOfSkovald_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/153/1016217/SPELL_Felblast_Cast01.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "You"
+    },
+    {
+      "soundId": 54627,
+      "filename": "VO_70_God-King_Skovald_23",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/55/1275703/VO_70_God-King_Skovald_23.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "PERISH IN NEVER ENDING FLAME!"
+    },
+    {
+      "soundId": 69870,
+      "filename": "VO_703_God-King_Skovald_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/1418155/VO_703_God-King_Skovald_07_M.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "You again? Do you really think you beat me with a legion at my side?"
+    },
+    {
+      "soundId": 64578,
+      "filename": "Spell_Skovald_Roar",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/155/1329307/VO_70_God-King_Skovald_AttackCrit_01.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "RAAAAAUGH"
+    },
+    {
+      "soundId": 51617,
+      "filename": "VO_70_God-King_Skovald_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/162/1237922/VO_70_God-King_Skovald_01.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "You are too late, weakling! Even now, we break the dragons to serve us!"
+    },
+    {
+      "soundId": 52680,
+      "filename": "VO_70_God-King_Skovald_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1242947/VO_70_God-King_Skovald_06.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Your ancient rites and rituals mean nothing to me, Yotna!"
+    },
+    {
+      "soundId": 54615,
+      "filename": "VO_70_God-King_Skovald_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/1275679/VO_70_God-King_Skovald_11.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "No one stands in my way!"
+    },
+    {
+      "soundId": 54623,
+      "filename": "VO_70_God-King_Skovald_19",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/47/1275695/VO_70_God-King_Skovald_19.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "The power is mine!"
+    },
+    {
+      "soundId": 54624,
+      "filename": "VO_70_God-King_Skovald_20",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/1275697/VO_70_God-King_Skovald_20.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Now the ages is where it belongs!"
+    },
+    {
+      "soundId": 54629,
+      "filename": "VO_70_God-King_Skovald_25",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/59/1275707/VO_70_God-King_Skovald_25.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Your suffering will be eternal!"
+    },
+    {
+      "soundId": 57634,
+      "filename": "VO_70_GOD-KING_SKOVALD_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/149/1329301/VO_70_God-King_Skovald_Attack_04.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Eh."
+    },
+    {
+      "soundId": 74901,
+      "filename": "SPELL_MKOrderHall_ServentOfSkovald_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/162/1016226/SPELL_Felblast_Precast.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": ""
+    },
+    {
+      "soundId": 61401,
+      "filename": "VO_703_God-King_Skovald_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/1378335/VO_703_God-King_Skovald_04.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Enough! I go tired of this!"
+    },
+    {
+      "soundId": 61404,
+      "filename": "VO_703_God-King_Skovald_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/1378339/VO_703_God-King_Skovald_06.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Thousands of worlds will be mine to conquer!"
+    },
+    {
+      "soundId": 71123,
+      "filename": "VO_703_God-King_Skovald_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/116/1451636/VO_703_God-King_Skovald_08_M.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Give up, fool! The bone speakers will never let an outsider be judged worthy!"
+    },
+    {
+      "soundId": 51625,
+      "filename": "VO_70_God-King_Skovald_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/214/1237974/VO_70_God-King_Skovald_03.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Give up, outsider! You are not worthy of the Halls of Valor!"
+    },
+    {
+      "soundId": 52678,
+      "filename": "VO_70_God-King_Skovald_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/1242943/VO_70_God-King_Skovald_04.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Cower here in your cave, while it still stands!"
+    },
+    {
+      "soundId": 54616,
+      "filename": "VO_70_God-King_Skovald_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/1275681/VO_70_God-King_Skovald_12.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "I will not be stopped!"
+    },
+    {
+      "soundId": 54618,
+      "filename": "VO_70_God-King_Skovald_14",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/37/1275685/VO_70_God-King_Skovald_14.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Ah! Little more than a nuisance!"
+    },
+    {
+      "soundId": 54626,
+      "filename": "VO_70_God-King_Skovald_22",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/1275701/VO_70_God-King_Skovald_22.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Learn from me!"
+    },
+    {
+      "soundId": 54628,
+      "filename": "VO_70_God-King_Skovald_24",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/1275705/VO_70_God-King_Skovald_24.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "By flame be scourged!"
+    },
+    {
+      "soundId": 54630,
+      "filename": "VO_70_God-King_Skovald_26",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/61/1275709/VO_70_God-King_Skovald_26.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "You will die in agony!"
+    },
+    {
+      "soundId": 61397,
+      "filename": "VO_703_God-King_Skovald_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/25/1378329/VO_703_God-King_Skovald_01.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "My forces are limitless!"
+    },
+    {
+      "soundId": 61399,
+      "filename": "VO_703_God-King_Skovald_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/27/1378331/VO_703_God-King_Skovald_02.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Don't think you stand a chance simply because you have come this far! You are nothing! NOTHING!"
+    },
+    {
+      "soundId": 61400,
+      "filename": "VO_703_God-King_Skovald_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/1378333/VO_703_God-King_Skovald_03.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "The ages will be mine, you fools! And there's nothing you can do to stop me!"
+    },
+    {
+      "soundId": 61403,
+      "filename": "VO_703_God-King_Skovald_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/1378337/VO_703_God-King_Skovald_05.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Minions of Delegion! Destroy these worms!"
+    },
+    {
+      "soundId": 51626,
+      "filename": "VO_70_God-King_Skovald_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/220/1237980/VO_70_God-King_Skovald_02.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Only I possess the power of a foreign year! The ages will be mine!"
+    },
+    {
+      "soundId": 52679,
+      "filename": "VO_70_God-King_Skovald_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/1242945/VO_70_God-King_Skovald_05.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "I will conquer your trials and take the ages for my own!"
+    },
+    {
+      "soundId": 53041,
+      "filename": "VO_70_God-King_Skovald_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/39/1244199/VO_70_God-King_Skovald_07.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": ""
+    },
+    {
+      "soundId": 54611,
+      "filename": "VO_70_God-King_Skovald_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/22/1275670/VO_70_God-King_Skovald_08.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "No! I too have proved my worth, Odin! I am God King Scovald! These mortals dare not challenge my claim to the ages!"
+    },
+    {
+      "soundId": 54612,
+      "filename": "VO_70_God-King_Skovald_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/25/1275673/VO_70_God-King_Skovald_09.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "If these false champions will not yield the ages by choice, then they will surrender it in debt!"
+    },
+    {
+      "soundId": 54614,
+      "filename": "VO_70_God-King_Skovald_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/1275677/VO_70_God-King_Skovald_10.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Give up the ages or die!"
+    },
+    {
+      "soundId": 54617,
+      "filename": "VO_70_God-King_Skovald_13",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/1275683/VO_70_God-King_Skovald_13.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "You overestimated your skill!"
+    },
+    {
+      "soundId": 54619,
+      "filename": "VO_70_God-King_Skovald_15",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/39/1275687/VO_70_God-King_Skovald_15.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Another obstacle removed!"
+    },
+    {
+      "soundId": 54620,
+      "filename": "VO_70_God-King_Skovald_16",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/41/1275689/VO_70_God-King_Skovald_16.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "All my plans... Hehehehe... ...brought to ruin!"
+    },
+    {
+      "soundId": 54621,
+      "filename": "VO_70_God-King_Skovald_17",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/43/1275691/VO_70_God-King_Skovald_17.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Ha! The ages goes to its rightful owner!"
+    },
+    {
+      "soundId": 54622,
+      "filename": "VO_70_God-King_Skovald_18",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/1275693/VO_70_God-King_Skovald_18.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "You will not keep what you did not earn!"
+    },
+    {
+      "soundId": 54625,
+      "filename": "VO_70_God-King_Skovald_21",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/1275699/VO_70_God-King_Skovald_21.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Trial by fire!"
+    },
+    {
+      "soundId": 54631,
+      "filename": "VO_70_God-King_Skovald_27",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/1275712/VO_70_God-King_Skovald_27.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Cry for mercy so the Legion may laugh!"
+    },
+    {
+      "soundId": 57635,
+      "filename": "VO_70_GOD-KING_SKOVALD_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/155/1329307/VO_70_God-King_Skovald_AttackCrit_01.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "labor"
+    },
+    {
+      "soundId": 57636,
+      "filename": "VO_70_GOD-KING_SKOVALD_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/160/1329312/VO_70_God-King_Skovald_Wound_01.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Eugh!"
+    },
+    {
+      "soundId": 57637,
+      "filename": "VO_70_GOD-KING_SKOVALD_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/1329322/VO_70_God-King_Skovald_WoundCrit_01.ogg",
+      "npc": "God-King Skovald",
+      "dungeon": "Halls of Valor",
+      "transcript": "Owww!"
+    }
+  ]
+}

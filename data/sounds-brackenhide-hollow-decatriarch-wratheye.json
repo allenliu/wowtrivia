@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "npc": "Decatriarch Wratheye",
+    "dungeon": "Brackenhide Hollow",
+    "filterName": "wratheye",
+    "namePattern": "",
+    "generated": "2026-05-19T18:08:58-07:00",
+    "soundCount": 15
+  },
+  "sounds": [
+    {
+      "soundId": 203448,
+      "filename": "VO_100_Decatriarch_Wratheye_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/4663583/VO_100_Decatriarch_Wratheye_04_F.ogg",
+      "npc": "Decatriarch Wratheye",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Rot and die!"
+    },
+    {
+      "soundId": 214746,
+      "filename": "VO_100_Decatriarch_Wratheye_Idle_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/17/4821009/VO_100_Decatriarch_Wratheye_Idle_02.ogg",
+      "npc": "Decatriarch Wratheye",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Come on!"
+    },
+    {
+      "soundId": 214745,
+      "filename": "VO_100_Decatriarch_Wratheye_Idle1_43",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/255/4820991/VO_100_Decatriarch_Wratheye_Idle1_43.ogg",
+      "npc": "Decatriarch Wratheye",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": ""
+    },
+    {
+      "soundId": 203445,
+      "filename": "VO_100_Decatriarch_Wratheye_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/28/4663580/VO_100_Decatriarch_Wratheye_01_F.ogg",
+      "npc": "Decatriarch Wratheye",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Choke and wither!"
+    },
+    {
+      "soundId": 203446,
+      "filename": "VO_100_Decatriarch_Wratheye_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/4663581/VO_100_Decatriarch_Wratheye_02_F.ogg",
+      "npc": "Decatriarch Wratheye",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Your rotting flesh feeds my strength!"
+    },
+    {
+      "soundId": 203450,
+      "filename": "VO_100_Decatriarch_Wratheye_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/4663585/VO_100_Decatriarch_Wratheye_06_F.ogg",
+      "npc": "Decatriarch Wratheye",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Everything rots away in the end. I control decay. I claim everything. I will wither this world and eat its bones."
+    },
+    {
+      "soundId": 203453,
+      "filename": "VO_100_Decatriarch_Wratheye_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/36/4663588/VO_100_Decatriarch_Wratheye_09_F.ogg",
+      "npc": "Decatriarch Wratheye",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "You killed the hot leader? Clever meat!"
+    },
+    {
+      "soundId": 203455,
+      "filename": "VO_100_Decatriarch_Wratheye_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/38/4663590/VO_100_Decatriarch_Wratheye_11_F.ogg",
+      "npc": "Decatriarch Wratheye",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Your weakling meat will rot!"
+    },
+    {
+      "soundId": 203457,
+      "filename": "VO_100_Decatriarch_Wratheye_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/40/4663592/VO_100_Decatriarch_Wratheye_13_F.ogg",
+      "npc": "Decatriarch Wratheye",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "You killedatory now語"
+    },
+    {
+      "soundId": 203447,
+      "filename": "VO_100_Decatriarch_Wratheye_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/30/4663582/VO_100_Decatriarch_Wratheye_03_F.ogg",
+      "npc": "Decatriarch Wratheye",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "This power obeys me!"
+    },
+    {
+      "soundId": 203451,
+      "filename": "VO_100_Decatriarch_Wratheye_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/34/4663586/VO_100_Decatriarch_Wratheye_07_F.ogg",
+      "npc": "Decatriarch Wratheye",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "No! I will not lose more! The rot will come for you! And I- I will claim your withered bones, your homes, everything!"
+    },
+    {
+      "soundId": 203452,
+      "filename": "VO_100_Decatriarch_Wratheye_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/4663587/VO_100_Decatriarch_Wratheye_08_F.ogg",
+      "npc": "Decatriarch Wratheye",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Come to me, clever meat! I'll wither your strength myself!"
+    },
+    {
+      "soundId": 203456,
+      "filename": "VO_100_Decatriarch_Wratheye_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/39/4663591/VO_100_Decatriarch_Wratheye_12_F.ogg",
+      "npc": "Decatriarch Wratheye",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Wither into nothing!"
+    },
+    {
+      "soundId": 203449,
+      "filename": "VO_100_Decatriarch_Wratheye_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/32/4663584/VO_100_Decatriarch_Wratheye_05_F.ogg",
+      "npc": "Decatriarch Wratheye",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Your corpses will spread the rats!"
+    },
+    {
+      "soundId": 203454,
+      "filename": "VO_100_Decatriarch_Wratheye_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/37/4663589/VO_100_Decatriarch_Wratheye_10_F.ogg",
+      "npc": "Decatriarch Wratheye",
+      "dungeon": "Brackenhide Hollow",
+      "transcript": "Corpse falls! Decay spreads!"
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "meta": {
+    "npc": "Echelon",
+    "dungeon": "Halls of Atonement",
+    "filterName": "echelon",
+    "namePattern": "^VO_901_Echelon_",
+    "generated": "2026-05-19T04:59:08-07:00",
+    "soundCount": 48
+  },
+  "sounds": [
+    {
+      "soundId": 159210,
+      "filename": "VO_901_Echelon_33_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/236/3607788/VO_901_Echelon_33_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Your role is to hold still and stay silent."
+    },
+    {
+      "soundId": 159262,
+      "filename": "VO_901_Echelon_38_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/210/3608018/VO_901_Echelon_38_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "You are late!"
+    },
+    {
+      "soundId": 164935,
+      "filename": "VO_901_Echelon_PreAggro_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/3730120/VO_901_Echelon_PreAggro_01.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Hmm?"
+    },
+    {
+      "soundId": 157557,
+      "filename": "VO_901_Echelon_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/94/3589214/VO_901_Echelon_02_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Drown in blood!"
+    },
+    {
+      "soundId": 157558,
+      "filename": "VO_901_Echelon_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/95/3589215/VO_901_Echelon_03_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Blood take you!"
+    },
+    {
+      "soundId": 164930,
+      "filename": "VO_901_Echelon_Attack_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/166/3730086/VO_901_Echelon_Attack_01.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 157559,
+      "filename": "VO_901_Echelon_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/96/3589216/VO_901_Echelon_04_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "The ground bleeds!"
+    },
+    {
+      "soundId": 157566,
+      "filename": "VO_901_Echelon_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/103/3589223/VO_901_Echelon_11_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "To my side!"
+    },
+    {
+      "soundId": 157568,
+      "filename": "VO_901_Echelon_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/105/3589225/VO_901_Echelon_13_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "O'Payley Minions!"
+    },
+    {
+      "soundId": 164937,
+      "filename": "VO_901_Echelon_BattleShout_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/186/3730106/VO_901_Echelon_BattleShout_01.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "HAAAAAAA"
+    },
+    {
+      "soundId": 164934,
+      "filename": "VO_901_Echelon_Death_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/192/3730112/VO_901_Echelon_Death_01.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "UGH!"
+    },
+    {
+      "soundId": 164932,
+      "filename": "VO_901_Echelon_Wound_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/220/3730140/VO_901_Echelon_Wound_01.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "GAH!"
+    },
+    {
+      "soundId": 157569,
+      "filename": "VO_901_Echelon_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/106/3589226/VO_901_Echelon_14_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Be gone, rebel filth!"
+    },
+    {
+      "soundId": 157572,
+      "filename": "VO_901_Echelon_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/109/3589229/VO_901_Echelon_17_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "You never stood a chance!"
+    },
+    {
+      "soundId": 157573,
+      "filename": "VO_901_Echelon_18_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/110/3589230/VO_901_Echelon_18_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Your failure is complete!"
+    },
+    {
+      "soundId": 159188,
+      "filename": "VO_901_Echelon_22_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/214/3607766/VO_901_Echelon_22_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I will locate the Inquisitor. You find her, Sinstone."
+    },
+    {
+      "soundId": 159192,
+      "filename": "VO_901_Echelon_24_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/3607770/VO_901_Echelon_24_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I have located the Inquisitor. You had better have her sin stone."
+    },
+    {
+      "soundId": 159204,
+      "filename": "VO_901_Echelon_30_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/230/3607782/VO_901_Echelon_30_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Inquisitor Vilhelm is close. And you are slow!"
+    },
+    {
+      "soundId": 159207,
+      "filename": "VO_901_Echelon_31_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/233/3607785/VO_901_Echelon_31_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Be gone, Jamu!"
+    },
+    {
+      "soundId": 159209,
+      "filename": "VO_901_Echelon_32_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/235/3607787/VO_901_Echelon_32_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I will retrieve the accuser's sin stone."
+    },
+    {
+      "soundId": 164926,
+      "filename": "VO_901_Echelon_34_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/206/3608014/VO_901_Echelon_34_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Finally!"
+    },
+    {
+      "soundId": 164931,
+      "filename": "VO_901_Echelon_AttackCrit_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/156/3730076/VO_901_Echelon_AttackCrit_01.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "URGH!"
+    },
+    {
+      "soundId": 164933,
+      "filename": "VO_901_Echelon_WoundCrit_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/210/3730130/VO_901_Echelon_WoundCrit_01.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "AHH!!!"
+    },
+    {
+      "soundId": 157560,
+      "filename": "VO_901_Echelon_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/3589217/VO_901_Echelon_05_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Your fate is carved in stone!"
+    },
+    {
+      "soundId": 157561,
+      "filename": "VO_901_Echelon_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/98/3589218/VO_901_Echelon_06_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Flash is weak!"
+    },
+    {
+      "soundId": 157565,
+      "filename": "VO_901_Echelon_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/102/3589222/VO_901_Echelon_10_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Dust to dust!"
+    },
+    {
+      "soundId": 157570,
+      "filename": "VO_901_Echelon_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/107/3589227/VO_901_Echelon_15_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "This cannot be..."
+    },
+    {
+      "soundId": 157571,
+      "filename": "VO_901_Echelon_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/108/3589228/VO_901_Echelon_16_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Finally you are silent!"
+    },
+    {
+      "soundId": 159189,
+      "filename": "VO_901_Echelon_23_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/215/3607767/VO_901_Echelon_23_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Expropriate Temel as well. He knows how to best exploit synstomes."
+    },
+    {
+      "soundId": 159193,
+      "filename": "VO_901_Echelon_25_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/219/3607771/VO_901_Echelon_25_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I will reassemble the sinstone for you, Temel."
+    },
+    {
+      "soundId": 159195,
+      "filename": "VO_901_Echelon_26_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/221/3607773/VO_901_Echelon_26_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I will locate the second Inquisitor Sinstone. Meet me back here."
+    },
+    {
+      "soundId": 159198,
+      "filename": "VO_901_Echelon_27_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/224/3607776/VO_901_Echelon_27_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I have located the next Sin Stone. Have you dealt with Inquisitor Stellia?"
+    },
+    {
+      "soundId": 159260,
+      "filename": "VO_901_Echelon_36_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/3608016/VO_901_Echelon_36_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Out of my way!"
+    },
+    {
+      "soundId": 159261,
+      "filename": "VO_901_Echelon_37_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/3608017/VO_901_Echelon_37_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Sir, you are the mall walker."
+    },
+    {
+      "soundId": 157562,
+      "filename": "VO_901_Echelon_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/3589219/VO_901_Echelon_07_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Be still, mortal!"
+    },
+    {
+      "soundId": 157563,
+      "filename": "VO_901_Echelon_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/100/3589220/VO_901_Echelon_08_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Just from above!"
+    },
+    {
+      "soundId": 157564,
+      "filename": "VO_901_Echelon_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/3589221/VO_901_Echelon_09_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "You will be crushed!"
+    },
+    {
+      "soundId": 157567,
+      "filename": "VO_901_Echelon_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/3589224/VO_901_Echelon_12_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "SLAVE THE TRESS PASSES!"
+    },
+    {
+      "soundId": 157574,
+      "filename": "VO_901_Echelon_19_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/3589231/VO_901_Echelon_19_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "DRIGS TO THE LAST!"
+    },
+    {
+      "soundId": 159186,
+      "filename": "VO_901_Echelon_20_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/212/3607764/VO_901_Echelon_20_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Sin stones are the most powerful and despised weapons in Revendreth."
+    },
+    {
+      "soundId": 159187,
+      "filename": "VO_901_Echelon_21_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/3607765/VO_901_Echelon_21_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "When everyone is running from their past, the worst thing that you can do is shove their faces in it."
+    },
+    {
+      "soundId": 159199,
+      "filename": "VO_901_Echelon_28_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/225/3607777/VO_901_Echelon_28_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Inquisitor Wilhelm hid the pieces of his sinstone along the path above. Find them."
+    },
+    {
+      "soundId": 159200,
+      "filename": "VO_901_Echelon_29_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/3607778/VO_901_Echelon_29_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I will find the Inquisitor!"
+    },
+    {
+      "soundId": 159258,
+      "filename": "VO_901_Echelon_34_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/206/3608014/VO_901_Echelon_34_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Finally!"
+    },
+    {
+      "soundId": 159259,
+      "filename": "VO_901_Echelon_35_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/3608015/VO_901_Echelon_35_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Move out!"
+    },
+    {
+      "soundId": 164927,
+      "filename": "VO_901_Echelon_37_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/3608017/VO_901_Echelon_37_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Sir, you are the mall walker."
+    },
+    {
+      "soundId": 159263,
+      "filename": "VO_901_Echelon_39_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/3608019/VO_901_Echelon_39_M.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Pay attention! I will not repeat myself!"
+    },
+    {
+      "soundId": 164936,
+      "filename": "VO_901_Echelon_Aggro_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/146/3730066/VO_901_Echelon_Aggro_01.ogg",
+      "npc": "Echelon",
+      "dungeon": "Halls of Atonement",
+      "transcript": "HPMHM мне 게임 ze ME"
+    }
+  ]
+}

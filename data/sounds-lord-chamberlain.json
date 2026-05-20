@@ -1,0 +1,780 @@
+{
+  "meta": {
+    "npc": "Lord Chamberlain",
+    "dungeon": "Halls of Atonement",
+    "filterName": "lord_chamberlain",
+    "namePattern": "^VO_901_Lord_Chamberlain_",
+    "generated": "2026-05-19T04:50:26-07:00",
+    "soundCount": 96
+  },
+  "sounds": [
+    {
+      "soundId": 169147,
+      "filename": "VO_901_Lord_Chamberlain_Wound_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/39/3772967/VO_901_Lord_Chamberlain_Wound_01.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "BAH!"
+    },
+    {
+      "soundId": 159212,
+      "filename": "VO_901_Lord_Chamberlain_44_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/238/3607790/VO_901_Lord_Chamberlain_44_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "My underlings have delivered your sinstone right into my hands!"
+    },
+    {
+      "soundId": 159509,
+      "filename": "VO_901_Lord_Chamberlain_61_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/58/3609402/VO_901_Lord_Chamberlain_61_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "No doubt by now you have heard of the anima drought plaguing our reality."
+    },
+    {
+      "soundId": 159525,
+      "filename": "VO_901_Lord_Chamberlain_71_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/109/3609453/VO_901_Lord_Chamberlain_71_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Stoneboard are fanatically loyal defenders, typically. The rebels have been swayed by pretty rhetoric and lies."
+    },
+    {
+      "soundId": 169146,
+      "filename": "VO_901_Lord_Chamberlain_AttackCrit_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/3/3772931/VO_901_Lord_Chamberlain_AttackCrit_01.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "hrrgeh country"
+    },
+    {
+      "soundId": 156545,
+      "filename": "VO_901_Lord_Chamberlain_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/3582148/VO_901_Lord_Chamberlain_13_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Your pride undoes you."
+    },
+    {
+      "soundId": 156550,
+      "filename": "VO_901_Lord_Chamberlain_18_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/201/3582153/VO_901_Lord_Chamberlain_18_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I am losing my patience!"
+    },
+    {
+      "soundId": 156552,
+      "filename": "VO_901_Lord_Chamberlain_20_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/203/3582155/VO_901_Lord_Chamberlain_20_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Worthless servants!"
+    },
+    {
+      "soundId": 159205,
+      "filename": "VO_901_Lord_Chamberlain_41_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/231/3607783/VO_901_Lord_Chamberlain_41_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "The wards protecting your sins don't have crumbled accuser."
+    },
+    {
+      "soundId": 159214,
+      "filename": "VO_901_Lord_Chamberlain_45_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/240/3607792/VO_901_Lord_Chamberlain_45_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I will use the accuser's sinstone to break her, just like the Inquisitors."
+    },
+    {
+      "soundId": 159510,
+      "filename": "VO_901_Lord_Chamberlain_62_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/59/3609403/VO_901_Lord_Chamberlain_62_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "We face this challenge with dignity and remain united behind the master. Rivendreath remains resolute."
+    },
+    {
+      "soundId": 159519,
+      "filename": "VO_901_Lord_Chamberlain_65_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/89/3609433/VO_901_Lord_Chamberlain_65_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Draven is one of the few remaining leaders of a failed rebellion."
+    },
+    {
+      "soundId": 159570,
+      "filename": "VO_901_Lord_Chamberlain_73_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/246/3609590/VO_901_Lord_Chamberlain_73_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Trust in the Master's plan."
+    },
+    {
+      "soundId": 156544,
+      "filename": "VO_901_Lord_Chamberlain_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/3582147/VO_901_Lord_Chamberlain_12_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I have anima to spare!"
+    },
+    {
+      "soundId": 156547,
+      "filename": "VO_901_Lord_Chamberlain_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/3582150/VO_901_Lord_Chamberlain_15_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Feel the weight of your sins."
+    },
+    {
+      "soundId": 156553,
+      "filename": "VO_901_Lord_Chamberlain_21_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/204/3582156/VO_901_Lord_Chamberlain_21_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I tire of your boorish presence. It seems I must deal with you myself."
+    },
+    {
+      "soundId": 159197,
+      "filename": "VO_901_Lord_Chamberlain_40_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/223/3607775/VO_901_Lord_Chamberlain_40_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "How long do you think until my andolings eliminate your second inquisitor?"
+    },
+    {
+      "soundId": 159573,
+      "filename": "VO_901_Lord_Chamberlain_76_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/3609593/VO_901_Lord_Chamberlain_76_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I serve the master."
+    },
+    {
+      "soundId": 160799,
+      "filename": "VO_901_Lord_Chamberlain_76_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/3609593/VO_901_Lord_Chamberlain_76_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I serve the master."
+    },
+    {
+      "soundId": 160800,
+      "filename": "VO_901_Lord_Chamberlain_80_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/253/3609597/VO_901_Lord_Chamberlain_80_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Are you getting snooty with me?"
+    },
+    {
+      "soundId": 169149,
+      "filename": "VO_901_Lord_Chamberlain_Death_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/25/3772953/VO_901_Lord_Chamberlain_Death_01.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Vert-"
+    },
+    {
+      "soundId": 155034,
+      "filename": "VO_901_Lord_Chamberlain_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/61/3546941/VO_901_Lord_Chamberlain_06_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I humbly present the Moor Walker."
+    },
+    {
+      "soundId": 156546,
+      "filename": "VO_901_Lord_Chamberlain_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/197/3582149/VO_901_Lord_Chamberlain_14_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "You have not earned your pride."
+    },
+    {
+      "soundId": 159169,
+      "filename": "VO_901_Lord_Chamberlain_31_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/3607747/VO_901_Lord_Chamberlain_31_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "By decree of the master, the accuser is to be imprisoned and I shall assume control of the halls of atonement."
+    },
+    {
+      "soundId": 159174,
+      "filename": "VO_901_Lord_Chamberlain_34_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/3607752/VO_901_Lord_Chamberlain_34_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Look how easily the defiant fall. Their souls have been hollowed by arrogance."
+    },
+    {
+      "soundId": 159196,
+      "filename": "VO_901_Lord_Chamberlain_39_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/222/3607774/VO_901_Lord_Chamberlain_39_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "The ward around your sinstone weakens, accuser."
+    },
+    {
+      "soundId": 159217,
+      "filename": "VO_901_Lord_Chamberlain_48_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/243/3607795/VO_901_Lord_Chamberlain_48_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "whose every prophet came from murder."
+    },
+    {
+      "soundId": 159228,
+      "filename": "VO_901_Lord_Chamberlain_55_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/254/3607806/VO_901_Lord_Chamberlain_55_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "The daughter you murdered in the dark of night."
+    },
+    {
+      "soundId": 159234,
+      "filename": "VO_901_Lord_Chamberlain_56_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/4/3607812/VO_901_Lord_Chamberlain_56_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "You murdered her! Your own daughter!"
+    },
+    {
+      "soundId": 159240,
+      "filename": "VO_901_Lord_Chamberlain_58_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/10/3607818/VO_901_Lord_Chamberlain_58_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "The master must want me to stay here and establish control of the halls, his top priority."
+    },
+    {
+      "soundId": 159520,
+      "filename": "VO_901_Lord_Chamberlain_66_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/90/3609434/VO_901_Lord_Chamberlain_66_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "There are those disloyal Ven-their and Stoneborn who believe the master is responsible for the anima drought. Such heresy."
+    },
+    {
+      "soundId": 159521,
+      "filename": "VO_901_Lord_Chamberlain_67_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/91/3609435/VO_901_Lord_Chamberlain_67_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Come, let us proceed on foot. I do not fancy being flung off a cliff again."
+    },
+    {
+      "soundId": 160010,
+      "filename": "VO_901_Lord_Chamberlain_83_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/3614257/VO_901_Lord_Chamberlain_83_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "And even that I will take from you, traitor."
+    },
+    {
+      "soundId": 160282,
+      "filename": "VO_901_Lord_Chamberlain_85_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/165/3616677/VO_901_Lord_Chamberlain_85_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I shall present your corpse to the master."
+    },
+    {
+      "soundId": 160284,
+      "filename": "VO_901_Lord_Chamberlain_87_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/167/3616679/VO_901_Lord_Chamberlain_87_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Pitiful thing! I shall be your doom!"
+    },
+    {
+      "soundId": 169148,
+      "filename": "VO_901_Lord_Chamberlain_WoundCrit_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/3772963/VO_901_Lord_Chamberlain_WoundCrit_01.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "URGH TITLE"
+    },
+    {
+      "soundId": 153491,
+      "filename": "VO_901_Lord_Chamberlain_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/73/3501897/VO_901_Lord_Chamberlain_01_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Rebels! Just drive either over or through them! They would not dare to!"
+    },
+    {
+      "soundId": 156539,
+      "filename": "VO_901_Lord_Chamberlain_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/190/3582142/VO_901_Lord_Chamberlain_07_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Pitiful wretches!"
+    },
+    {
+      "soundId": 156543,
+      "filename": "VO_901_Lord_Chamberlain_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/194/3582146/VO_901_Lord_Chamberlain_11_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "The Anima overflows!"
+    },
+    {
+      "soundId": 156549,
+      "filename": "VO_901_Lord_Chamberlain_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/3582152/VO_901_Lord_Chamberlain_17_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "You are beneath my contempt!"
+    },
+    {
+      "soundId": 156557,
+      "filename": "VO_901_Lord_Chamberlain_25_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/3582160/VO_901_Lord_Chamberlain_25_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "to think someone of my station had to resort to such measures."
+    },
+    {
+      "soundId": 159171,
+      "filename": "VO_901_Lord_Chamberlain_32_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/197/3607749/VO_901_Lord_Chamberlain_32_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "In your defiance, you reveal the vast pride within you, accuser."
+    },
+    {
+      "soundId": 159172,
+      "filename": "VO_901_Lord_Chamberlain_33_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/3607750/VO_901_Lord_Chamberlain_33_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "You are unworthy of your title, your privilege and your power."
+    },
+    {
+      "soundId": 159177,
+      "filename": "VO_901_Lord_Chamberlain_35_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/203/3607755/VO_901_Lord_Chamberlain_35_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Oh, accuser. You sound... scared."
+    },
+    {
+      "soundId": 159183,
+      "filename": "VO_901_Lord_Chamberlain_36_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/3607761/VO_901_Lord_Chamberlain_36_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Do try to stay on your feet, Mall Walker."
+    },
+    {
+      "soundId": 159185,
+      "filename": "VO_901_Lord_Chamberlain_38_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/3607763/VO_901_Lord_Chamberlain_38_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I shall keep the accuser busy. Find and destroy those inquisitors."
+    },
+    {
+      "soundId": 159215,
+      "filename": "VO_901_Lord_Chamberlain_46_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/241/3607793/VO_901_Lord_Chamberlain_46_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I name the accuser her true name. Harriet the Crimson Shade."
+    },
+    {
+      "soundId": 159216,
+      "filename": "VO_901_Lord_Chamberlain_47_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/242/3607794/VO_901_Lord_Chamberlain_47_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "who orchestrated the assassinations of countless innocents."
+    },
+    {
+      "soundId": 159218,
+      "filename": "VO_901_Lord_Chamberlain_49_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/244/3607796/VO_901_Lord_Chamberlain_49_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Who killed her own..."
+    },
+    {
+      "soundId": 159219,
+      "filename": "VO_901_Lord_Chamberlain_50_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/245/3607797/VO_901_Lord_Chamberlain_50_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Wha- Why is nothing happening?"
+    },
+    {
+      "soundId": 159224,
+      "filename": "VO_901_Lord_Chamberlain_52_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/250/3607802/VO_901_Lord_Chamberlain_52_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "My medallion must be able to amplify the synth stone somehow!"
+    },
+    {
+      "soundId": 159225,
+      "filename": "VO_901_Lord_Chamberlain_53_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/3607803/VO_901_Lord_Chamberlain_53_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "HAHAHA! I am triumphant!"
+    },
+    {
+      "soundId": 159226,
+      "filename": "VO_901_Lord_Chamberlain_54_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/3607804/VO_901_Lord_Chamberlain_54_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "My medallion has made manifest your own accuser! Do you recognize her?"
+    },
+    {
+      "soundId": 159506,
+      "filename": "VO_901_Lord_Chamberlain_59_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/3609377/VO_901_Lord_Chamberlain_59_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Hold creatures, this is a guest, not a charge."
+    },
+    {
+      "soundId": 159508,
+      "filename": "VO_901_Lord_Chamberlain_60_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/3609401/VO_901_Lord_Chamberlain_60_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Come mortal, let us away from this place."
+    },
+    {
+      "soundId": 159512,
+      "filename": "VO_901_Lord_Chamberlain_63_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/3609411/VO_901_Lord_Chamberlain_63_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "The Mistblade graces us with her presence. And what cage did our Marwalker here let you out of?"
+    },
+    {
+      "soundId": 159518,
+      "filename": "VO_901_Lord_Chamberlain_64_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/88/3609432/VO_901_Lord_Chamberlain_64_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Be on your guard. Draven and his lackeys may still be lurking nearby."
+    },
+    {
+      "soundId": 159523,
+      "filename": "VO_901_Lord_Chamberlain_69_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/3609445/VO_901_Lord_Chamberlain_69_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Mortal, we should split up to avoid being an easier target. Try not to die."
+    },
+    {
+      "soundId": 159524,
+      "filename": "VO_901_Lord_Chamberlain_70_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/106/3609450/VO_901_Lord_Chamberlain_70_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Ah, Darkhaven. They welcome anyone here. No sense of propriety. At least up in the castle there is an order as to who is permitted."
+    },
+    {
+      "soundId": 159572,
+      "filename": "VO_901_Lord_Chamberlain_75_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/248/3609592/VO_901_Lord_Chamberlain_75_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Revendreth is Resolute."
+    },
+    {
+      "soundId": 159574,
+      "filename": "VO_901_Lord_Chamberlain_77_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/250/3609594/VO_901_Lord_Chamberlain_77_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Welcome to Revendreth."
+    },
+    {
+      "soundId": 159576,
+      "filename": "VO_901_Lord_Chamberlain_79_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/3609596/VO_901_Lord_Chamberlain_79_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Sire Denathrius looks forward to me introducing you."
+    },
+    {
+      "soundId": 159579,
+      "filename": "VO_901_Lord_Chamberlain_82_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/255/3609599/VO_901_Lord_Chamberlain_82_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Know your place mortal. You have few allies in this realm."
+    },
+    {
+      "soundId": 160287,
+      "filename": "VO_901_Lord_Chamberlain_90_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/3616682/VO_901_Lord_Chamberlain_90_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "We rebuke the lies of the accuser and her traitors!"
+    },
+    {
+      "soundId": 160289,
+      "filename": "VO_901_Lord_Chamberlain_92_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/172/3616684/VO_901_Lord_Chamberlain_92_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Echelon, bring me another soul to harvest!"
+    },
+    {
+      "soundId": 169145,
+      "filename": "VO_901_Lord_Chamberlain_Attack_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/9/3772937/VO_901_Lord_Chamberlain_Attack_01.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 153492,
+      "filename": "VO_901_Lord_Chamberlain_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/3501898/VO_901_Lord_Chamberlain_02_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "AHHHHHHHHH!"
+    },
+    {
+      "soundId": 153496,
+      "filename": "VO_901_Lord_Chamberlain_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/3501902/VO_901_Lord_Chamberlain_03_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "He is your master too, traitor. Release us at once!"
+    },
+    {
+      "soundId": 153533,
+      "filename": "VO_901_Lord_Chamberlain_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/3502020/VO_901_Lord_Chamberlain_04_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Your generosity is as vast as your wisdom, master. Your will be done."
+    },
+    {
+      "soundId": 155033,
+      "filename": "VO_901_Lord_Chamberlain_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/60/3546940/VO_901_Lord_Chamberlain_05_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Begging my masters pardon."
+    },
+    {
+      "soundId": 156540,
+      "filename": "VO_901_Lord_Chamberlain_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/191/3582143/VO_901_Lord_Chamberlain_08_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Behold the might of the Venetian!"
+    },
+    {
+      "soundId": 156541,
+      "filename": "VO_901_Lord_Chamberlain_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/192/3582144/VO_901_Lord_Chamberlain_09_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "You are no match for my power!"
+    },
+    {
+      "soundId": 156548,
+      "filename": "VO_901_Lord_Chamberlain_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/3582151/VO_901_Lord_Chamberlain_16_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Out of my way!"
+    },
+    {
+      "soundId": 156551,
+      "filename": "VO_901_Lord_Chamberlain_19_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/202/3582154/VO_901_Lord_Chamberlain_19_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Be gone, Rebel!"
+    },
+    {
+      "soundId": 156554,
+      "filename": "VO_901_Lord_Chamberlain_22_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/205/3582157/VO_901_Lord_Chamberlain_22_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "You were never up to par."
+    },
+    {
+      "soundId": 156555,
+      "filename": "VO_901_Lord_Chamberlain_23_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/206/3582158/VO_901_Lord_Chamberlain_23_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "A waste of my talents."
+    },
+    {
+      "soundId": 156556,
+      "filename": "VO_901_Lord_Chamberlain_24_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/3582159/VO_901_Lord_Chamberlain_24_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "What did the monster ever see in you?"
+    },
+    {
+      "soundId": 159184,
+      "filename": "VO_901_Lord_Chamberlain_37_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/210/3607762/VO_901_Lord_Chamberlain_37_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "You are embarrassing yourself. And by proxy, me."
+    },
+    {
+      "soundId": 159206,
+      "filename": "VO_901_Lord_Chamberlain_42_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/232/3607784/VO_901_Lord_Chamberlain_42_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Ashalon, retrieve it for me immediately."
+    },
+    {
+      "soundId": 159211,
+      "filename": "VO_901_Lord_Chamberlain_43_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/237/3607789/VO_901_Lord_Chamberlain_43_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "The hour of your defeat has arrived, accuser."
+    },
+    {
+      "soundId": 159222,
+      "filename": "VO_901_Lord_Chamberlain_51_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/248/3607800/VO_901_Lord_Chamberlain_51_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Eshalon, my walker, protect me!"
+    },
+    {
+      "soundId": 159236,
+      "filename": "VO_901_Lord_Chamberlain_57_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/3607814/VO_901_Lord_Chamberlain_57_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I have broken through the accuser's defenses! Crush her while she is weak!"
+    },
+    {
+      "soundId": 159522,
+      "filename": "VO_901_Lord_Chamberlain_68_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/100/3609444/VO_901_Lord_Chamberlain_68_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "You, with the ugly face, ride the carriage off in a different direction as a distraction."
+    },
+    {
+      "soundId": 159569,
+      "filename": "VO_901_Lord_Chamberlain_72_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/245/3609589/VO_901_Lord_Chamberlain_72_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Rumors regarding the drought woefully overstated."
+    },
+    {
+      "soundId": 160798,
+      "filename": "VO_901_Lord_Chamberlain_72_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/245/3609589/VO_901_Lord_Chamberlain_72_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Rumors regarding the drought woefully overstated."
+    },
+    {
+      "soundId": 159571,
+      "filename": "VO_901_Lord_Chamberlain_74_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/247/3609591/VO_901_Lord_Chamberlain_74_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Give no credence to the rumors of rebellion."
+    },
+    {
+      "soundId": 171752,
+      "filename": "VO_901_Lord_Chamberlain_76_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/3609593/VO_901_Lord_Chamberlain_76_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "I serve the master."
+    },
+    {
+      "soundId": 159575,
+      "filename": "VO_901_Lord_Chamberlain_78_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/3609595/VO_901_Lord_Chamberlain_78_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "May I help you?"
+    },
+    {
+      "soundId": 159578,
+      "filename": "VO_901_Lord_Chamberlain_81_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/254/3609598/VO_901_Lord_Chamberlain_81_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Siodenathrius will hear of this disrespect."
+    },
+    {
+      "soundId": 160281,
+      "filename": "VO_901_Lord_Chamberlain_84_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/164/3616676/VO_901_Lord_Chamberlain_84_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Do you know who I am?"
+    },
+    {
+      "soundId": 160283,
+      "filename": "VO_901_Lord_Chamberlain_86_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/166/3616678/VO_901_Lord_Chamberlain_86_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "FOR THE MASTER!"
+    },
+    {
+      "soundId": 160286,
+      "filename": "VO_901_Lord_Chamberlain_89_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/3616681/VO_901_Lord_Chamberlain_89_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "These souls cannot possibly be redeemed. Harvest them all!"
+    },
+    {
+      "soundId": 160288,
+      "filename": "VO_901_Lord_Chamberlain_91_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/3616683/VO_901_Lord_Chamberlain_91_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Hunt down every soul that hides within these halls."
+    },
+    {
+      "soundId": 161369,
+      "filename": "VO_901_Lord_Chamberlain_94_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/42/3641386/VO_901_Lord_Chamberlain_94_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "What's in the name of the master?"
+    },
+    {
+      "soundId": 169150,
+      "filename": "VO_901_Lord_Chamberlain_M_BattleShout_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/3772957/VO_901_Lord_Chamberlain_M_BattleShout_01.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Hyaaaaaa!"
+    },
+    {
+      "soundId": 159577,
+      "filename": "VO_901_Lord_Chamberlain_80_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/253/3609597/VO_901_Lord_Chamberlain_80_M.ogg",
+      "npc": "Lord Chamberlain",
+      "dungeon": "Halls of Atonement",
+      "transcript": "Are you getting snooty with me?"
+    }
+  ]
+}

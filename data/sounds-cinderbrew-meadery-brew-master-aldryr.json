@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "npc": "Brew Master Aldryr",
+    "dungeon": "Cinderbrew Meadery",
+    "filterName": "aldryr",
+    "namePattern": "",
+    "generated": "2026-05-19T13:43:33-07:00",
+    "soundCount": 12
+  },
+  "sounds": [
+    {
+      "soundId": 247723,
+      "filename": "VO_110_Brewmaster_Aldryr_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/157/5769373/VO_110_Brewmaster_Aldryr_05_M.ogg",
+      "npc": "Brew Master Aldryr",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "had too much."
+    },
+    {
+      "soundId": 268618,
+      "filename": "11.0 Dungeon - Brewery - Boss 1 - Brew Master Aldryr - Keg Smash - Wood Smash - Impact - Nested A",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/58/633402/GO_StackOfWood_Break01.ogg",
+      "npc": "Brew Master Aldryr",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "BOOM!"
+    },
+    {
+      "soundId": 247724,
+      "filename": "VO_110_Brewmaster_Aldryr_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/158/5769374/VO_110_Brewmaster_Aldryr_06_M.ogg",
+      "npc": "Brew Master Aldryr",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Your tab's settled."
+    },
+    {
+      "soundId": 247735,
+      "filename": "VO_110_Brewmaster_Aldryr_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/5769386/VO_110_Brewmaster_Aldryr_11_M.ogg",
+      "npc": "Brew Master Aldryr",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Don't go to go home, but you can't stay here."
+    },
+    {
+      "soundId": 247721,
+      "filename": "VO_110_Brewmaster_Aldryr_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/155/5769371/VO_110_Brewmaster_Aldryr_03_M.ogg",
+      "npc": "Brew Master Aldryr",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "It's to be a bar fight then! Good!"
+    },
+    {
+      "soundId": 247719,
+      "filename": "VO_110_Brewmaster_Aldryr_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/152/5769368/VO_110_Brewmaster_Aldryr_01_M.ogg",
+      "npc": "Brew Master Aldryr",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Oi! Canada's on his bulky maker livin'."
+    },
+    {
+      "soundId": 247720,
+      "filename": "VO_110_Brewmaster_Aldryr_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/154/5769370/VO_110_Brewmaster_Aldryr_02_M.ogg",
+      "npc": "Brew Master Aldryr",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "You're driving away my paying customers!"
+    },
+    {
+      "soundId": 247722,
+      "filename": "VO_110_Brewmaster_Aldryr_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/156/5769372/VO_110_Brewmaster_Aldryr_04_M.ogg",
+      "npc": "Brew Master Aldryr",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "cutting you off."
+    },
+    {
+      "soundId": 247725,
+      "filename": "VO_110_Brewmaster_Aldryr_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/5769375/VO_110_Brewmaster_Aldryr_07_M.ogg",
+      "npc": "Brew Master Aldryr",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Time for happy hour!"
+    },
+    {
+      "soundId": 247732,
+      "filename": "VO_110_Brewmaster_Aldryr_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/167/5769383/VO_110_Brewmaster_Aldryr_08_M.ogg",
+      "npc": "Brew Master Aldryr",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "BREAK IT UP!"
+    },
+    {
+      "soundId": 247733,
+      "filename": "VO_110_Brewmaster_Aldryr_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/168/5769384/VO_110_Brewmaster_Aldryr_09_M.ogg",
+      "npc": "Brew Master Aldryr",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "GOATS DOWN SMOOTH!"
+    },
+    {
+      "soundId": 247736,
+      "filename": "VO_110_Brewmaster_Aldryr_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/5769387/VO_110_Brewmaster_Aldryr_12_M.ogg",
+      "npc": "Brew Master Aldryr",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Guess that was... Last Call."
+    }
+  ]
+}

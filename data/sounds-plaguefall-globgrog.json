@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "npc": "Globgrog",
+    "dungeon": "Plaguefall",
+    "filterName": "globgrog",
+    "namePattern": "^VO_.*Globgrog",
+    "generated": "2026-05-19T15:42:11-07:00",
+    "soundCount": 12
+  },
+  "sounds": [
+    {
+      "soundId": 152565,
+      "filename": "VO_901_Globgrog_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/39/3484199/VO_901_Globgrog_10_M.ogg",
+      "npc": "Globgrog",
+      "dungeon": "Plaguefall",
+      "transcript": "The Sly protects me!"
+    },
+    {
+      "soundId": 152557,
+      "filename": "VO_901_Globgrog_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/3484191/VO_901_Globgrog_02_M.ogg",
+      "npc": "Globgrog",
+      "dungeon": "Plaguefall",
+      "transcript": "You will become a banquet."
+    },
+    {
+      "soundId": 152566,
+      "filename": "VO_901_Globgrog_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/40/3484200/VO_901_Globgrog_11_M.ogg",
+      "npc": "Globgrog",
+      "dungeon": "Plaguefall",
+      "transcript": "Intruders, you will be devoured whole!"
+    },
+    {
+      "soundId": 152558,
+      "filename": "VO_901_Globgrog_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/32/3484192/VO_901_Globgrog_03_M.ogg",
+      "npc": "Globgrog",
+      "dungeon": "Plaguefall",
+      "transcript": "More! The slime needs more!"
+    },
+    {
+      "soundId": 152560,
+      "filename": "VO_901_Globgrog_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/34/3484194/VO_901_Globgrog_05_M.ogg",
+      "npc": "Globgrog",
+      "dungeon": "Plaguefall",
+      "transcript": "You are nothing but food!"
+    },
+    {
+      "soundId": 152556,
+      "filename": "VO_901_Globgrog_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/30/3484190/VO_901_Globgrog_01_M.ogg",
+      "npc": "Globgrog",
+      "dungeon": "Plaguefall",
+      "transcript": "The Hunger Answer!"
+    },
+    {
+      "soundId": 152561,
+      "filename": "VO_901_Globgrog_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/3484195/VO_901_Globgrog_06_M.ogg",
+      "npc": "Globgrog",
+      "dungeon": "Plaguefall",
+      "transcript": "The slime must feast!"
+    },
+    {
+      "soundId": 153221,
+      "filename": "VO_901_Globgrog_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/3490227/VO_901_Globgrog_12_M.ogg",
+      "npc": "Globgrog",
+      "dungeon": "Plaguefall",
+      "transcript": "The disease spreads!"
+    },
+    {
+      "soundId": 153222,
+      "filename": "VO_901_Globgrog_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/180/3490228/VO_901_Globgrog_13_M.ogg",
+      "npc": "Globgrog",
+      "dungeon": "Plaguefall",
+      "transcript": "Contagion!"
+    },
+    {
+      "soundId": 152559,
+      "filename": "VO_901_Globgrog_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/3484193/VO_901_Globgrog_04_M.ogg",
+      "npc": "Globgrog",
+      "dungeon": "Plaguefall",
+      "transcript": "Your flesh will be consumed."
+    },
+    {
+      "soundId": 153223,
+      "filename": "VO_901_Globgrog_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/3490229/VO_901_Globgrog_14_M.ogg",
+      "npc": "Globgrog",
+      "dungeon": "Plaguefall",
+      "transcript": "Stay away!"
+    },
+    {
+      "soundId": 153224,
+      "filename": "VO_901_Globgrog_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/182/3490230/VO_901_Globgrog_15_M.ogg",
+      "npc": "Globgrog",
+      "dungeon": "Plaguefall",
+      "transcript": "Do not interfere!"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "npc": "Ingra Maloch",
+    "dungeon": "Mists of Tirna Scithe",
+    "filterName": "maloch",
+    "namePattern": "",
+    "generated": "2026-05-19T15:26:54-07:00",
+    "soundCount": 19
+  },
+  "sounds": [
+    {
+      "soundId": 163327,
+      "filename": "VO_901_Ingra_Maloch_Wound_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/184/3718072/VO_901_Ingra_Maloch_Wound_01.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": ""
+    },
+    {
+      "soundId": 152786,
+      "filename": "VO_901_Ingra_Maloch_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/121/3485817/VO_901_Ingra_Maloch_04_M.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Nature is meant to be controlled, conquers, and the Grust will conquer all!"
+    },
+    {
+      "soundId": 152784,
+      "filename": "VO_901_Ingra_Maloch_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/119/3485815/VO_901_Ingra_Maloch_02_M.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Throes will consume you!"
+    },
+    {
+      "soundId": 152787,
+      "filename": "VO_901_Ingra_Maloch_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/122/3485818/VO_901_Ingra_Maloch_05_M.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Poffetic creatures! Worshiping sticks and leaves!"
+    },
+    {
+      "soundId": 152790,
+      "filename": "VO_901_Ingra_Maloch_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/3485821/VO_901_Ingra_Maloch_08_M.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "I will break you into sprinters!"
+    },
+    {
+      "soundId": 152793,
+      "filename": "VO_901_Ingra_Maloch_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/3485824/VO_901_Ingra_Maloch_11_M.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "I am your worst nightmare!"
+    },
+    {
+      "soundId": 152795,
+      "filename": "VO_901_Ingra_Maloch_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/3485826/VO_901_Ingra_Maloch_13_M.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "HOPEFAY ME!"
+    },
+    {
+      "soundId": 152796,
+      "filename": "VO_901_Ingra_Maloch_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/131/3485827/VO_901_Ingra_Maloch_14_M.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "You will do my bidding!"
+    },
+    {
+      "soundId": 155306,
+      "filename": "VO_901_Ingra_Maloch_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/3555329/VO_901_Ingra_Maloch_15_M.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Darkness surrounds me!"
+    },
+    {
+      "soundId": 152783,
+      "filename": "VO_901_Ingra_Maloch_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/118/3485814/VO_901_Ingra_Maloch_01_M.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Beautiful wretches! You have done nothing but waste my time!"
+    },
+    {
+      "soundId": 152785,
+      "filename": "VO_901_Ingra_Maloch_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/120/3485816/VO_901_Ingra_Maloch_03_M.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Rise in the dirt!"
+    },
+    {
+      "soundId": 152788,
+      "filename": "VO_901_Ingra_Maloch_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/123/3485819/VO_901_Ingra_Maloch_06_M.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "What you are all weak?"
+    },
+    {
+      "soundId": 152791,
+      "filename": "VO_901_Ingra_Maloch_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/126/3485822/VO_901_Ingra_Maloch_09_M.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "How dare you defy me!"
+    },
+    {
+      "soundId": 152794,
+      "filename": "VO_901_Ingra_Maloch_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/129/3485825/VO_901_Ingra_Maloch_12_M.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Be gone from my sight!"
+    },
+    {
+      "soundId": 163326,
+      "filename": "VO_901_Ingra_Maloch_AttackCrit_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/3718026/VO_901_Ingra_Maloch_AttackCrit_01.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "nineteen"
+    },
+    {
+      "soundId": 163325,
+      "filename": "VO_901_Ingra_Maloch_Attack_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/148/3718036/VO_901_Ingra_Maloch_Attack_01.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Heh!"
+    },
+    {
+      "soundId": 152789,
+      "filename": "VO_901_Ingra_Maloch_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/124/3485820/VO_901_Ingra_Maloch_07_M.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "TIRNIN! CROSS THESE INSEX!"
+    },
+    {
+      "soundId": 163329,
+      "filename": "VO_901_Ingra_Maloch_Battleshout_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/168/3718056/VO_901_Ingra_Maloch_Battleshout_01.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "grace"
+    },
+    {
+      "soundId": 163328,
+      "filename": "VO_901_Ingra_Maloch_WoundCrit_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/174/3718062/VO_901_Ingra_Maloch_WoundCrit_01.ogg",
+      "npc": "Ingra Maloch",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "so"
+    }
+  ]
+}

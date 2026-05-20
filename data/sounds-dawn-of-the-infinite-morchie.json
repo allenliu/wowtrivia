@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "npc": "Morchie",
+    "dungeon": "Dawn of the Infinite",
+    "filterName": "morchie",
+    "namePattern": "",
+    "generated": "2026-05-19T17:17:36-07:00",
+    "soundCount": 37
+  },
+  "sounds": [
+    {
+      "soundId": 225871,
+      "filename": "VO_1015_Morchie_40_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/238/5146350/VO_1015_Morchie_40_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Aww, is the goodie-goody trying to save Nosdormu? Well, too bad."
+    },
+    {
+      "soundId": 225794,
+      "filename": "VO_1015_Morchie_32_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/161/5146273/VO_1015_Morchie_32_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Bye-bye now!"
+    },
+    {
+      "soundId": 225763,
+      "filename": "VO_1015_Morchie_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/5146242/VO_1015_Morchie_01_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "More more cheese are better than one"
+    },
+    {
+      "soundId": 225767,
+      "filename": "VO_1015_Morchie_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/134/5146246/VO_1015_Morchie_05_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Heroes of Azeroth! More like zeros!"
+    },
+    {
+      "soundId": 225769,
+      "filename": "VO_1015_Morchie_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/5146248/VO_1015_Morchie_07_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "I'll get it together!"
+    },
+    {
+      "soundId": 225772,
+      "filename": "VO_1015_Morchie_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/5146251/VO_1015_Morchie_10_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "There can only be one more chi!"
+    },
+    {
+      "soundId": 225777,
+      "filename": "VO_1015_Morchie_15_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/144/5146256/VO_1015_Morchie_15_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Time bomb away!"
+    },
+    {
+      "soundId": 225782,
+      "filename": "VO_1015_Morchie_20_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/149/5146261/VO_1015_Morchie_20_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Stop in the name of Morchi!"
+    },
+    {
+      "soundId": 225795,
+      "filename": "VO_1015_Morchie_33_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/162/5146274/VO_1015_Morchie_33_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Too bad for you! I'll be sure to take real good care of the timeways!"
+    },
+    {
+      "soundId": 225764,
+      "filename": "VO_1015_Morchie_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/131/5146243/VO_1015_Morchie_02_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "More cheese! Get out here!"
+    },
+    {
+      "soundId": 225768,
+      "filename": "VO_1015_Morchie_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/5146247/VO_1015_Morchie_06_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "I have friends too!"
+    },
+    {
+      "soundId": 225779,
+      "filename": "VO_1015_Morchie_17_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/146/5146258/VO_1015_Morchie_17_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "This will trip you all up!"
+    },
+    {
+      "soundId": 225781,
+      "filename": "VO_1015_Morchie_19_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/148/5146260/VO_1015_Morchie_19_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Let's put a pause on things!"
+    },
+    {
+      "soundId": 225789,
+      "filename": "VO_1015_Morchie_27_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/156/5146268/VO_1015_Morchie_27_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "The true timeline is mine!"
+    },
+    {
+      "soundId": 225790,
+      "filename": "VO_1015_Morchie_28_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/157/5146269/VO_1015_Morchie_28_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "You won't ruin my timeline!"
+    },
+    {
+      "soundId": 225800,
+      "filename": "VO_1015_Morchie_37_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/167/5146279/VO_1015_Morchie_37_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Oh sure, you can interrogate me. Or you could go save your precious bronze temple."
+    },
+    {
+      "soundId": 225872,
+      "filename": "VO_1015_Morchie_41_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/239/5146351/VO_1015_Morchie_41_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "You! I'll deal with personally! This timeline has no need for heroes!"
+    },
+    {
+      "soundId": 225873,
+      "filename": "VO_1015_Morchie_42_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/240/5146352/VO_1015_Morchie_42_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "No! It was supposed to be... My time!"
+    },
+    {
+      "soundId": 225874,
+      "filename": "VO_1015_Morchie_43_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/241/5146353/VO_1015_Morchie_43_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "You all know what to do."
+    },
+    {
+      "soundId": 229634,
+      "filename": "VO_1015_Morchie_Attack_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/5195310/VO_1015_Morchie_Attack_01.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "CLICK!"
+    },
+    {
+      "soundId": 229635,
+      "filename": "VO_1015_Morchie_Death_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/5195331/VO_1015_Morchie_Death_01.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "H gehen..."
+    },
+    {
+      "soundId": 229683,
+      "filename": "VO_1015_Morchie_Main_MeleeWindup_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/232/5197032/VO_1015_Morchie_Main_MeleeWindup_01.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Whaaaa curh!!"
+    },
+    {
+      "soundId": 229637,
+      "filename": "VO_1015_Morchie_Wound_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/87/5195351/VO_1015_Morchie_Wound_01.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Hup!"
+    },
+    {
+      "soundId": 225770,
+      "filename": "VO_1015_Morchie_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/137/5146249/VO_1015_Morchie_08_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Now stop getting beaten up!"
+    },
+    {
+      "soundId": 225771,
+      "filename": "VO_1015_Morchie_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/5146250/VO_1015_Morchie_09_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "What good are you all?"
+    },
+    {
+      "soundId": 225776,
+      "filename": "VO_1015_Morchie_14_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/143/5146255/VO_1015_Morchie_14_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 225778,
+      "filename": "VO_1015_Morchie_16_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/145/5146257/VO_1015_Morchie_16_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Each time, sand!"
+    },
+    {
+      "soundId": 225780,
+      "filename": "VO_1015_Morchie_18_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/147/5146259/VO_1015_Morchie_18_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Stay still!"
+    },
+    {
+      "soundId": 225793,
+      "filename": "VO_1015_Morchie_31_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/160/5146272/VO_1015_Morchie_31_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Run down!"
+    },
+    {
+      "soundId": 225796,
+      "filename": "VO_1015_Morchie_34_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/163/5146275/VO_1015_Morchie_34_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Huh figured it out. Did you a little too late?"
+    },
+    {
+      "soundId": 225798,
+      "filename": "VO_1015_Morchie_35_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/165/5146277/VO_1015_Morchie_35_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "It's Morty, you brat! And yes, the time has come to bring about MuraZon!"
+    },
+    {
+      "soundId": 225799,
+      "filename": "VO_1015_Morchie_36_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/166/5146278/VO_1015_Morchie_36_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Wanna stop me? Catch me if you can!"
+    },
+    {
+      "soundId": 225802,
+      "filename": "VO_1015_Morchie_38_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/5146281/VO_1015_Morchie_38_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "We shall ensure the rise of our master, Mirazand! And the longer you stand here talking to me, well..."
+    },
+    {
+      "soundId": 225803,
+      "filename": "VO_1015_Morchie_39_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/5146282/VO_1015_Morchie_39_F.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "AAHAHAHAHAHAHA! muah! muahhh!"
+    },
+    {
+      "soundId": 229633,
+      "filename": "VO_1015_Morchie_AttackCrit_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/36/5195300/VO_1015_Morchie_AttackCrit_01.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "THNK HermIt"
+    },
+    {
+      "soundId": 229636,
+      "filename": "VO_1015_Morchie_WoundCrit_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/5195341/VO_1015_Morchie_WoundCrit_01.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "AHHHHHHHHHH"
+    },
+    {
+      "soundId": 229682,
+      "filename": "VO_1015_Morchie_Main_BattleshoutLarge_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/5197018/VO_1015_Morchie_Main_BattleshoutLarge_01.ogg",
+      "npc": "Morchie",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "AHHHHHHHHHH"
+    }
+  ]
+}

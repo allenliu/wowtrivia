@@ -1,0 +1,12 @@
+{
+  "dungeon": "Neltharion's Lair",
+  "slug": "neltharions-lair",
+  "wowheadZoneId": 7546,
+  "expansion": "Legion",
+  "bosses": [
+    { "id": 91005, "name": "Naraxas", "filterName": "naraxas", "quotes": [] },
+    { "id": 91003, "name": "Rokmora", "filterName": "rokmora", "quotes": [] },
+    { "id": 91004, "name": "Ularogg Cragshaper", "filterName": "ularogg", "quotes": [] },
+    { "id": 91007, "name": "Dargrul", "filterName": "dargrul", "namePattern": "^VO_.*Dargrul", "quotes": [] }
+  ]
+}

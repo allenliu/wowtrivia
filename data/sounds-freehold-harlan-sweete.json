@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "npc": "Harlan Sweete",
+    "dungeon": "Freehold",
+    "filterName": "sweete",
+    "namePattern": "^VO_.*Sweete",
+    "generated": "2026-05-19T17:54:15-07:00",
+    "soundCount": 7
+  },
+  "sounds": [
+    {
+      "soundId": 105922,
+      "filename": "VO_801_Harlan_Sweete_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1998659/VO_801_Harlan_Sweete_16_M.ogg",
+      "npc": "Harlan Sweete",
+      "dungeon": "Freehold",
+      "transcript": "Hmm... What to do with a couple of mutinous rats? Why don't we let the dice decide?"
+    },
+    {
+      "soundId": 105919,
+      "filename": "VO_801_Harlan_Sweete_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/1998656/VO_801_Harlan_Sweete_13_M.ogg",
+      "npc": "Harlan Sweete",
+      "dungeon": "Freehold",
+      "transcript": "That's it boys! Work him over good!"
+    },
+    {
+      "soundId": 105920,
+      "filename": "VO_801_Harlan_Sweete_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/1998657/VO_801_Harlan_Sweete_14_M.ogg",
+      "npc": "Harlan Sweete",
+      "dungeon": "Freehold",
+      "transcript": "Things have changed, Flynn. I'm the captain now. And once the Proudmoors are out of the way, we'll be free to plunder all of Kul Tiras."
+    },
+    {
+      "soundId": 105923,
+      "filename": "VO_801_Harlan_Sweete_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/1998660/VO_801_Harlan_Sweete_17_M.ogg",
+      "npc": "Harlan Sweete",
+      "dungeon": "Freehold",
+      "transcript": "Ooooooh, bad luck for you! Hahahahaha! Carve him up!"
+    },
+    {
+      "soundId": 105927,
+      "filename": "VO_801_Harlan_Sweete_21_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/72/1998664/VO_801_Harlan_Sweete_21_M.ogg",
+      "npc": "Harlan Sweete",
+      "dungeon": "Freehold",
+      "transcript": "God, these dice are cursed! Just get in there!"
+    },
+    {
+      "soundId": 105929,
+      "filename": "VO_801_Harlan_Sweete_23_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/1998666/VO_801_Harlan_Sweete_23_M.ogg",
+      "npc": "Harlan Sweete",
+      "dungeon": "Freehold",
+      "transcript": "The proud moors are done for! And when Lady Ashvane takes the throne, I'll command her fleet!"
+    },
+    {
+      "soundId": 112998,
+      "filename": "VO_801_HARLAN_SWEETE_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/2097579/VO_801_Harlan_Sweete_Attack_01.ogg",
+      "npc": "Harlan Sweete",
+      "dungeon": "Freehold",
+      "transcript": "Huh."
+    }
+  ]
+}

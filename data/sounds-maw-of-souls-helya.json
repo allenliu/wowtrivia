@@ -1,0 +1,756 @@
+{
+  "meta": {
+    "npc": "Helya",
+    "dungeon": "Maw of Souls",
+    "filterName": "helya",
+    "namePattern": "^VO_.*Helya",
+    "generated": "2026-05-19T17:01:01-07:00",
+    "soundCount": 93
+  },
+  "sounds": [
+    {
+      "soundId": 54394,
+      "filename": "VO_70_Helya_25",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/109/1274989/VO_70_Helya_25.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Your soul will find no shelter here!"
+    },
+    {
+      "soundId": 54372,
+      "filename": "VO_70_Helya_19",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/1274945/VO_70_Helya_19.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Odin values these creatures!"
+    },
+    {
+      "soundId": 54389,
+      "filename": "VO_70_Helya_20",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/1274979/VO_70_Helya_20.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "No! This is not possible!"
+    },
+    {
+      "soundId": 54396,
+      "filename": "VO_70_Helya_27",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/1274993/VO_70_Helya_27.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Do you think you have won? You have merely survived the storm. The seas are unstoppable!"
+    },
+    {
+      "soundId": 53004,
+      "filename": "VO_70_Helya_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/221/1244125/VO_70_Helya_12.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "How resourceful you are! You might make a worthwhile plaything yet!"
+    },
+    {
+      "soundId": 60381,
+      "filename": "VO_701_Specter_of_Helya_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/180/1370036/VO_701_Specter_of_Helya_02.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Fake Fuss you weak fool! Your torment will be unending!"
+    },
+    {
+      "soundId": 54392,
+      "filename": "VO_70_Helya_23",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/105/1274985/VO_70_Helya_23.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Your fate rains down!"
+    },
+    {
+      "soundId": 77479,
+      "filename": "VO_71_Helya_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/140/1517708/VO_71_Helya_03_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Come mortals, you have earned an eternity of torment!"
+    },
+    {
+      "soundId": 77499,
+      "filename": "VO_71_Helya_23_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/160/1517728/VO_71_Helya_23_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "The cold will shatter you!"
+    },
+    {
+      "soundId": 163105,
+      "filename": "VO_901_Helya_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/188/3707836/VO_901_Helya_08_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "You will pay for that insult! The skies of your world will be darkened by the wings of my Morsworn!"
+    },
+    {
+      "soundId": 180222,
+      "filename": "VO_91_Helya_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/4073899/VO_91_Helya_06_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "So naive. So blind to Odin's failings."
+    },
+    {
+      "soundId": 180229,
+      "filename": "VO_91_Helya_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/4073906/VO_91_Helya_09_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "May it taste like ashes in his throat."
+    },
+    {
+      "soundId": 180585,
+      "filename": "VO_91_Helya_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/4076796/VO_91_Helya_13_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "I will twist every Valkyr you send, Odin. Just as you twisted me so long ago. Your own eye betrays them all. Such sweet irony."
+    },
+    {
+      "soundId": 53002,
+      "filename": "VO_70_Helya_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/217/1244121/VO_70_Helya_10.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "You are clever outsider, but your efforts will only prove futile."
+    },
+    {
+      "soundId": 53003,
+      "filename": "VO_70_Helya_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/219/1244123/VO_70_Helya_11.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Do not think you are close to winning unworthy one!"
+    },
+    {
+      "soundId": 53006,
+      "filename": "VO_70_Helya_13",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/225/1244129/VO_70_Helya_13.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "No! My darling pet! You will pay for this!"
+    },
+    {
+      "soundId": 54243,
+      "filename": "VO_70_Helya_16",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/108/1273708/VO_70_Helya_16.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "It is finished. I banish your weak mortal souls forevermore."
+    },
+    {
+      "soundId": 54245,
+      "filename": "VO_70_Helya_18",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/112/1273712/VO_70_Helya_18.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "I am losing my patience!"
+    },
+    {
+      "soundId": 54390,
+      "filename": "VO_70_Helya_21",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/1274981/VO_70_Helya_21.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "What matter of creatures are you?"
+    },
+    {
+      "soundId": 54397,
+      "filename": "VO_70_Helya_28",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/115/1274995/VO_70_Helya_28.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Curse you all! Do you really think to conquer my domain? All of Helheim will stand against you!"
+    },
+    {
+      "soundId": 77477,
+      "filename": "VO_71_Helya_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/1517706/VO_71_Helya_01_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Oh no! Odin's mighty champions have come to end my reign! Whatever shall I do?"
+    },
+    {
+      "soundId": 77495,
+      "filename": "VO_71_Helya_19_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/156/1517724/VO_71_Helya_19_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Soon you will join the rakes of my K'valdeer!"
+    },
+    {
+      "soundId": 163103,
+      "filename": "VO_901_Helya_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/186/3707834/VO_901_Helya_07_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Your wretched souls will feed the coming darkness!"
+    },
+    {
+      "soundId": 180041,
+      "filename": "VO_91_Helya_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/4071622/VO_91_Helya_04_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Your time has long passed, you crepit fool! I will enjoy drowning you!"
+    },
+    {
+      "soundId": 180221,
+      "filename": "VO_91_Helya_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/4073898/VO_91_Helya_05_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Did you really think you'd escape to my notice?"
+    },
+    {
+      "soundId": 180225,
+      "filename": "VO_91_Helya_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/174/4073902/VO_91_Helya_07_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Your defiance is meaningless! I already have what I need!"
+    },
+    {
+      "soundId": 180230,
+      "filename": "VO_91_Helya_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/4073907/VO_91_Helya_10_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Skyja, see them out!"
+    },
+    {
+      "soundId": 52517,
+      "filename": "VO_70_Helya_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/1242293/VO_70_Helya_02.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": ""
+    },
+    {
+      "soundId": 52988,
+      "filename": "VO_70_Helya_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/189/1244093/VO_70_Helya_04.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Such insolence! None will leave Helheim while I rule!"
+    },
+    {
+      "soundId": 52989,
+      "filename": "VO_70_Helya_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/191/1244095/VO_70_Helya_05.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "What?! This cannot be!"
+    },
+    {
+      "soundId": 52993,
+      "filename": "VO_70_Helya_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/1244103/VO_70_Helya_07.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "NOOOO!"
+    },
+    {
+      "soundId": 52998,
+      "filename": "VO_70_Helya_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/1244113/VO_70_Helya_08.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Unworthy! You will kneel before addressing the great Helia!"
+    },
+    {
+      "soundId": 54391,
+      "filename": "VO_70_Helya_22",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/103/1274983/VO_70_Helya_22.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Embrace your fate, fools!"
+    },
+    {
+      "soundId": 54395,
+      "filename": "VO_70_Helya_26",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/1274991/VO_70_Helya_26.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "You all will regret trespassing in my realm!"
+    },
+    {
+      "soundId": 54402,
+      "filename": "VO_70_Helya_33",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/1275005/VO_70_Helya_33.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Stop squirming!"
+    },
+    {
+      "soundId": 57694,
+      "filename": "VO_70_HELYA_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/15/1331471/VO_70_Helya_Attack_010.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "FINISHAH!"
+    },
+    {
+      "soundId": 77482,
+      "filename": "VO_71_Helya_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/143/1517711/VO_71_Helya_06_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Mine! Mine forever!"
+    },
+    {
+      "soundId": 77485,
+      "filename": "VO_71_Helya_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/146/1517714/VO_71_Helya_09_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Soon the halls of valor will fall. Odin's last days are upon him!"
+    },
+    {
+      "soundId": 77486,
+      "filename": "VO_71_Helya_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/147/1517715/VO_71_Helya_10_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "My reign cannot end!"
+    },
+    {
+      "soundId": 77498,
+      "filename": "VO_71_Helya_22_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/1517727/VO_71_Helya_22_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Your doom lurks within the fog!"
+    },
+    {
+      "soundId": 77502,
+      "filename": "VO_71_Helya_26_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/163/1517731/VO_71_Helya_26_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "I'll blow you a kiss!"
+    },
+    {
+      "soundId": 161462,
+      "filename": "VO_901_Helya_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/3642479/VO_901_Helya_05_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": ""
+    },
+    {
+      "soundId": 180039,
+      "filename": "VO_91_Helya_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/4071620/VO_91_Helya_02_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Scared now Draxie? The Jailer does not tolerate weakness in his ranks."
+    },
+    {
+      "soundId": 180040,
+      "filename": "VO_91_Helya_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/197/4071621/VO_91_Helya_03_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Take my boon, Viraz! You are outnumbered after all!"
+    },
+    {
+      "soundId": 180228,
+      "filename": "VO_91_Helya_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/177/4073905/VO_91_Helya_08_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Now bear this message back to your master little bird!"
+    },
+    {
+      "soundId": 183554,
+      "filename": "VO_91_Helya_Death_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/12/4191756/VO_91_Helya_Death_01.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "HAH! UGH!"
+    },
+    {
+      "soundId": 60377,
+      "filename": "VO_701_Specter_of_Helya_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/176/1370032/VO_701_Specter_of_Helya_01.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "So this is the champion of Odin. Let them die by Odin's own blades. I bless these weapons with the fury of Helheim. Go, Figfus! Slay the champion and earn my favor for all eternity!"
+    },
+    {
+      "soundId": 60382,
+      "filename": "VO_701_Specter_of_Helya_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/1370037/VO_701_Specter_of_Helya_03.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "I grow weary of your presence. Tell Odin that this changes nothing. He will suffer my wrath for ages to come!"
+    },
+    {
+      "soundId": 70180,
+      "filename": "VO_703_Helya_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/98/1444706/VO_703_Helya_01_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Think of this as repayment for your previous insult, Valarjar!"
+    },
+    {
+      "soundId": 70181,
+      "filename": "VO_703_Helya_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/1444707/VO_703_Helya_02_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "This isn't over, mortal! I will see my blades returned! And your souls suffer in my grasp!"
+    },
+    {
+      "soundId": 52516,
+      "filename": "VO_70_Helya_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/1242291/VO_70_Helya_01.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": ""
+    },
+    {
+      "soundId": 52518,
+      "filename": "VO_70_Helya_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/183/1242295/VO_70_Helya_03.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": ""
+    },
+    {
+      "soundId": 52991,
+      "filename": "VO_70_Helya_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/1244099/VO_70_Helya_06.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "No one leaves Helheim! No one!"
+    },
+    {
+      "soundId": 53000,
+      "filename": "VO_70_Helya_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/1244117/VO_70_Helya_09.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Have fun with my pet, outsider! I will enjoy watching him break you!"
+    },
+    {
+      "soundId": 53008,
+      "filename": "VO_70_Helya_14",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/229/1244133/VO_70_Helya_14.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Remember our bargain, Benji. Do not dare cross me."
+    },
+    {
+      "soundId": 54180,
+      "filename": "VO_70_Helya_15",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/1273030/VO_70_Helya_15.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "You have come far enough! Time to die!"
+    },
+    {
+      "soundId": 54244,
+      "filename": "VO_70_Helya_17",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/110/1273710/VO_70_Helya_17.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "You will pay for that!"
+    },
+    {
+      "soundId": 54393,
+      "filename": "VO_70_Helya_24",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/107/1274987/VO_70_Helya_24.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Be gone to the next life!"
+    },
+    {
+      "soundId": 54398,
+      "filename": "VO_70_Helya_29",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/117/1274997/VO_70_Helya_29.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "I have had enough! This ends now!"
+    },
+    {
+      "soundId": 54399,
+      "filename": "VO_70_Helya_30",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/119/1274999/VO_70_Helya_30.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "An eternity of agony awaits you!"
+    },
+    {
+      "soundId": 54400,
+      "filename": "VO_70_Helya_31",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/121/1275001/VO_70_Helya_31.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "I will drown you all like rats!"
+    },
+    {
+      "soundId": 54401,
+      "filename": "VO_70_Helya_32",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/123/1275003/VO_70_Helya_32.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Hold still!"
+    },
+    {
+      "soundId": 57695,
+      "filename": "VO_70_HELYA_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/16/1331472/VO_70_Helya_AttackCrit_01.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "D' Everyone!"
+    },
+    {
+      "soundId": 57696,
+      "filename": "VO_70_HELYA_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/21/1331477/VO_70_Helya_Wound_01.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Danng!"
+    },
+    {
+      "soundId": 57697,
+      "filename": "VO_70_HELYA_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/1331487/VO_70_Helya_WoundCrit_01.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "NOOOOOO"
+    },
+    {
+      "soundId": 77478,
+      "filename": "VO_71_Helya_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/1517707/VO_71_Helya_02_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "So kind of you to deliver your souls to me. It will save my Valkyr the trouble of fetching them from the surface world!"
+    },
+    {
+      "soundId": 77480,
+      "filename": "VO_71_Helya_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/141/1517709/VO_71_Helya_04_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Your souls belong to me!"
+    },
+    {
+      "soundId": 77481,
+      "filename": "VO_71_Helya_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/142/1517710/VO_71_Helya_05_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Another soul drowned!"
+    },
+    {
+      "soundId": 77483,
+      "filename": "VO_71_Helya_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/144/1517712/VO_71_Helya_07_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Drowning despair, lap dogs of Odin!"
+    },
+    {
+      "soundId": 77484,
+      "filename": "VO_71_Helya_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/145/1517713/VO_71_Helya_08_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Odin's fabled champions! Ha! Barely worth my time!"
+    },
+    {
+      "soundId": 77487,
+      "filename": "VO_71_Helya_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/148/1517716/VO_71_Helya_11_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Damn you, Odin! Damn you!"
+    },
+    {
+      "soundId": 77488,
+      "filename": "VO_71_Helya_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/149/1517717/VO_71_Helya_12_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "He must not win!"
+    },
+    {
+      "soundId": 77489,
+      "filename": "VO_71_Helya_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/150/1517718/VO_71_Helya_13_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Let the shadows take you!"
+    },
+    {
+      "soundId": 77490,
+      "filename": "VO_71_Helya_14_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/151/1517719/VO_71_Helya_14_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Darkness upon your soul!"
+    },
+    {
+      "soundId": 77491,
+      "filename": "VO_71_Helya_15_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/152/1517720/VO_71_Helya_15_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Shiver, tremble, quake!"
+    },
+    {
+      "soundId": 77492,
+      "filename": "VO_71_Helya_16_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/153/1517721/VO_71_Helya_16_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "RELISH THE COLD KISS OF THE SEA!"
+    },
+    {
+      "soundId": 77493,
+      "filename": "VO_71_Helya_17_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/154/1517722/VO_71_Helya_17_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Tachy Tachy!"
+    },
+    {
+      "soundId": 77494,
+      "filename": "VO_71_Helya_18_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/155/1517723/VO_71_Helya_18_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Do I have your attention?"
+    },
+    {
+      "soundId": 77496,
+      "filename": "VO_71_Helya_20_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/157/1517725/VO_71_Helya_20_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Your efforts are for not mortals! Odin will never be free!"
+    },
+    {
+      "soundId": 77497,
+      "filename": "VO_71_Helya_21_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/158/1517726/VO_71_Helya_21_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Behold my army of the damned!"
+    },
+    {
+      "soundId": 77500,
+      "filename": "VO_71_Helya_24_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/161/1517729/VO_71_Helya_24_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "You'll catch your death of cold!"
+    },
+    {
+      "soundId": 77501,
+      "filename": "VO_71_Helya_25_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/162/1517730/VO_71_Helya_25_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Breathe deep and despair!"
+    },
+    {
+      "soundId": 77503,
+      "filename": "VO_71_Helya_27_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/164/1517732/VO_71_Helya_27_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "BREAK UPON THE WAVES!"
+    },
+    {
+      "soundId": 158962,
+      "filename": "VO_901_Helya_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/217/3605209/VO_901_Helya_01_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Good. Our allies are eager to strike."
+    },
+    {
+      "soundId": 161436,
+      "filename": "VO_901_Helya_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/254/3642366/VO_901_Helya_02_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Leave your plaything, my pet! There is work to be done!"
+    },
+    {
+      "soundId": 161455,
+      "filename": "VO_901_Helya_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/3642472/VO_901_Helya_03_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Take his power, Lasunia. Use him to fuel your transformation."
+    },
+    {
+      "soundId": 161461,
+      "filename": "VO_901_Helya_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/110/3642478/VO_901_Helya_04_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Do not fail me, Lasonia. Prove that you are worthy of your newfound power."
+    },
+    {
+      "soundId": 161464,
+      "filename": "VO_901_Helya_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/3642481/VO_901_Helya_06_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "It seems you have guests. Paragon. Do take care of them."
+    },
+    {
+      "soundId": 163107,
+      "filename": "VO_901_Helya_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/190/3707838/VO_901_Helya_09_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Drown! Drown among the souls of the damned!"
+    },
+    {
+      "soundId": 180038,
+      "filename": "VO_91_Helya_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/4071619/VO_91_Helya_01_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Tear that necropolis out of the sky! Drag it down!"
+    },
+    {
+      "soundId": 180512,
+      "filename": "VO_91_Helya_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/4076577/VO_91_Helya_11_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "Underling? Hell yeah is no one's underling. I will not be silenced! I will not be imprisoned! My wrath shall hodge your..."
+    },
+    {
+      "soundId": 180513,
+      "filename": "VO_91_Helya_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/34/4076578/VO_91_Helya_12_F.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "N together!"
+    },
+    {
+      "soundId": 183555,
+      "filename": "VO_91_Helya_BattleShout_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/4/4191748/VO_91_Helya_BattleShout_03.ogg",
+      "npc": "Helya",
+      "dungeon": "Maw of Souls",
+      "transcript": "HEEYAAAAAAK!"
+    }
+  ]
+}

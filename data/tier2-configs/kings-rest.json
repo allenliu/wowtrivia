@@ -1,0 +1,38 @@
+{
+  "dungeon": "King's Rest",
+  "slug": "kings-rest",
+  "wowheadZoneId": 9526,
+  "expansion": "Battle for Azeroth",
+  "bosses": [
+    {
+      "id": 136160,
+      "name": "King Dazar",
+      "filterName": "dazar",
+      "namePattern": "^VO_.*Dazar",
+      "quotes": [
+        { "context": "Aggro",   "text": "Hunting season has begun!" },
+        { "context": "Summon Reban",  "text": "Come... come, my dear Reban. It is feeding time!" },
+        { "context": "Summon T'zala", "text": "Even death cannot break de bond between us, my pets. Now feast, T'zala... FEAST!" },
+        { "context": "Phase",         "text": "Enough! You have earned de honor of dying by my hand!" },
+        { "context": "Blade Combo",   "text": "I will shred your flesh!" },
+        { "context": "Gale Slash",    "text": "None can withstand my blade!" },
+        { "context": "Quaking Leap",  "text": "Time to bleed!" },
+        { "context": "Defeat", "text": "You have broken Zul's hold! I serve dat swine no longer!" },
+        { "context": "Defeat", "text": "You have freed me from a cruel fate, but Zul is merely a puppet in a larger plan." },
+        { "context": "Defeat", "text": "Even now his master gathers power. Zul will not rest until all de world is in de Blood God's grip." },
+        { "context": "Defeat", "text": "For de sake of Zandalar... and for your kingdoms as well... you must stop him." }
+      ]
+    },
+    {
+      "id": 134993,
+      "name": "Mchimba the Embalmer",
+      "filterName": "mchimba",
+      "quotes": [
+        { "context": "Aggro",            "text": "Your bodies bear de infection!" },
+        { "context": "Burn Corruption",  "text": "De blood curse must be purged!" },
+        { "context": "Entomb",           "text": "Prepare de body!" },
+        { "context": "Death",            "text": "De dead... must be... preserved..." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,820 @@
+{
+  "meta": {
+    "npc": "Chrono-Lord Deios",
+    "dungeon": "Dawn of the Infinite",
+    "filterName": "deios",
+    "namePattern": "^VO_.*Deios",
+    "generated": "2026-05-19T17:20:12-07:00",
+    "soundCount": 101
+  },
+  "sounds": [
+    {
+      "soundId": 228387,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_08_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/5168768/VO_1015_CHRONO-LORD_DEIOS_08_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Inference to me!"
+    },
+    {
+      "soundId": 228400,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_14_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/134/5168774/VO_1015_CHRONO-LORD_DEIOS_14_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "You shall never wake, Ysera!"
+    },
+    {
+      "soundId": 228418,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_21_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/141/5168781/VO_1015_CHRONO-LORD_DEIOS_21_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "I have you now, Néstoru! Give in to your true self, to Morison!"
+    },
+    {
+      "soundId": 228433,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_28_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/148/5168788/VO_1015_CHRONO-LORD_DEIOS_28_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Merasad shall rise and lead us to a greater future! Can you not see?"
+    },
+    {
+      "soundId": 228374,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_02_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/94/5168734/VO_1015_CHRONO-LORD_DEIOS_02_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "This will slow you down!"
+    },
+    {
+      "soundId": 228421,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_22_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/142/5168782/VO_1015_CHRONO-LORD_DEIOS_22_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "The Infinite Dawn rises, a future free of torment, perfected by our protection!"
+    },
+    {
+      "soundId": 203147,
+      "filename": "VO_100_Chrono-Lord_Deios_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/4661567/VO_100_Chrono-Lord_Deios_02_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "I fear I will have to deny your queen her prize. The disc you seek will be mine."
+    },
+    {
+      "soundId": 203149,
+      "filename": "VO_100_Chrono-Lord_Deios_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/4661569/VO_100_Chrono-Lord_Deios_04_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Now the disc is lost to time, just as you are about to be."
+    },
+    {
+      "soundId": 228372,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_01_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/92/5168732/VO_1015_CHRONO-LORD_DEIOS_01_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "The second slow!"
+    },
+    {
+      "soundId": 228373,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_01_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/121/5168761/VO_1015_CHRONO-LORD_DEIOS_01_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "The second slow!"
+    },
+    {
+      "soundId": 228384,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_07_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/5168739/VO_1015_CHRONO-LORD_DEIOS_07_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "You are but flies!"
+    },
+    {
+      "soundId": 228391,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_10_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/102/5168742/VO_1015_CHRONO-LORD_DEIOS_10_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Master Moon, your time is up!"
+    },
+    {
+      "soundId": 228428,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_26_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/118/5168758/VO_1015_CHRONO-LORD_DEIOS_26_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Marisan's will is inevitable."
+    },
+    {
+      "soundId": 203169,
+      "filename": "VO_100_Chrono-Lord_Deios_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/186/4661690/VO_100_Chrono-Lord_Deios_08_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "You will be lost in time!"
+    },
+    {
+      "soundId": 203173,
+      "filename": "VO_100_Chrono-Lord_Deios_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/190/4661694/VO_100_Chrono-Lord_Deios_12_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Your life was finite."
+    },
+    {
+      "soundId": 203174,
+      "filename": "VO_100_Chrono-Lord_Deios_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/191/4661695/VO_100_Chrono-Lord_Deios_13_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "...Binevitable."
+    },
+    {
+      "soundId": 203175,
+      "filename": "VO_100_Chrono-Lord_Deios_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/192/4661696/VO_100_Chrono-Lord_Deios_14_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "A predictable outcome."
+    },
+    {
+      "soundId": 203178,
+      "filename": "VO_100_Chrono-Lord_Deios_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/4661699/VO_100_Chrono-Lord_Deios_17_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "The timelines are converging. There will be only one aspect, and Murson shall be infinite!"
+    },
+    {
+      "soundId": 228380,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_05_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/5168737/VO_1015_CHRONO-LORD_DEIOS_05_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Seize your actions!"
+    },
+    {
+      "soundId": 228382,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_06_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/98/5168738/VO_1015_CHRONO-LORD_DEIOS_06_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "You cannot stop me!"
+    },
+    {
+      "soundId": 228392,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_10_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/5168770/VO_1015_CHRONO-LORD_DEIOS_10_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Mazdor move! Your time is up!"
+    },
+    {
+      "soundId": 228401,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_15_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/107/5168747/VO_1015_CHRONO-LORD_DEIOS_15_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "The Infinite Sheldon!"
+    },
+    {
+      "soundId": 228404,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_16_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/108/5168748/VO_1015_CHRONO-LORD_DEIOS_16_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Our infinite vision, shall one day be agh!"
+    },
+    {
+      "soundId": 228411,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_18_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/5168778/VO_1015_CHRONO-LORD_DEIOS_18_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "You're all blind!"
+    },
+    {
+      "soundId": 228423,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_23_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/143/5168783/VO_1015_CHRONO-LORD_DEIOS_23_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "You blind fools!"
+    },
+    {
+      "soundId": 228432,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_28_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/120/5168760/VO_1015_CHRONO-LORD_DEIOS_28_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Merazan shall rise and lead us to a greater future! Can you not see?"
+    },
+    {
+      "soundId": 203146,
+      "filename": "VO_100_Chrono-Lord_Deios_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/62/4661566/VO_100_Chrono-Lord_Deios_01_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "What have we here? Alexstrasza's lap dogs, I suspect."
+    },
+    {
+      "soundId": 203148,
+      "filename": "VO_100_Chrono-Lord_Deios_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/4661568/VO_100_Chrono-Lord_Deios_03_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "This disk may hold the secret to the aspects regaining their power, and we cannot allow that to happen."
+    },
+    {
+      "soundId": 203166,
+      "filename": "VO_100_Chrono-Lord_Deios_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/183/4661687/VO_100_Chrono-Lord_Deios_05_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "The time weighs answer to me!"
+    },
+    {
+      "soundId": 203167,
+      "filename": "VO_100_Chrono-Lord_Deios_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/184/4661688/VO_100_Chrono-Lord_Deios_06_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "You cannot even comprehend the infinite possibilities!"
+    },
+    {
+      "soundId": 203168,
+      "filename": "VO_100_Chrono-Lord_Deios_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/185/4661689/VO_100_Chrono-Lord_Deios_07_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Can you feel your feet closing in?"
+    },
+    {
+      "soundId": 203170,
+      "filename": "VO_100_Chrono-Lord_Deios_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/187/4661691/VO_100_Chrono-Lord_Deios_09_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "The sands will scour you from this timeline!"
+    },
+    {
+      "soundId": 203177,
+      "filename": "VO_100_Chrono-Lord_Deios_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/194/4661698/VO_100_Chrono-Lord_Deios_16_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Your efforts are impressive, but in vain."
+    },
+    {
+      "soundId": 228375,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_02_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/122/5168762/VO_1015_CHRONO-LORD_DEIOS_02_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "This will slow you down!"
+    },
+    {
+      "soundId": 225645,
+      "filename": "VO_1015_Chrono-Lord_Deios_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/5146113/VO_1015_Chrono-Lord_Deios_03_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 225646,
+      "filename": "VO_1015_Chrono-Lord_Deios_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/5146114/VO_1015_Chrono-Lord_Deios_04_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228378,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_04_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/96/5168736/VO_1015_CHRONO-LORD_DEIOS_04_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Time itself enshrouds me!"
+    },
+    {
+      "soundId": 225647,
+      "filename": "VO_1015_Chrono-Lord_Deios_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/3/5146115/VO_1015_Chrono-Lord_Deios_05_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228381,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_05_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/5168765/VO_1015_CHRONO-LORD_DEIOS_05_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Seize your actions!"
+    },
+    {
+      "soundId": 225648,
+      "filename": "VO_1015_Chrono-Lord_Deios_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/5/5146117/VO_1015_Chrono-Lord_Deios_06_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228383,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_06_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/126/5168766/VO_1015_CHRONO-LORD_DEIOS_06_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "You cannot stop me!"
+    },
+    {
+      "soundId": 225649,
+      "filename": "VO_1015_Chrono-Lord_Deios_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/5146118/VO_1015_Chrono-Lord_Deios_07_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 225650,
+      "filename": "VO_1015_Chrono-Lord_Deios_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/5146119/VO_1015_Chrono-Lord_Deios_08_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 225653,
+      "filename": "VO_1015_Chrono-Lord_Deios_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/12/5146124/VO_1015_Chrono-Lord_Deios_11_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228393,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_11_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/103/5168743/VO_1015_CHRONO-LORD_DEIOS_11_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Queen of Dragons! You're nothing!"
+    },
+    {
+      "soundId": 228395,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_12_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/5168744/VO_1015_CHRONO-LORD_DEIOS_12_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Not the Earth Water yet, are you?"
+    },
+    {
+      "soundId": 225655,
+      "filename": "VO_1015_Chrono-Lord_Deios_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/14/5146126/VO_1015_Chrono-Lord_Deios_13_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228399,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_14_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/106/5168746/VO_1015_CHRONO-LORD_DEIOS_14_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "You shall never wait, Ysera!"
+    },
+    {
+      "soundId": 225657,
+      "filename": "VO_1015_Chrono-Lord_Deios_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/17/5146129/VO_1015_Chrono-Lord_Deios_15_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228412,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_19_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/5168751/VO_1015_CHRONO-LORD_DEIOS_19_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "We are inevitable!"
+    },
+    {
+      "soundId": 228414,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_19_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/5168779/VO_1015_CHRONO-LORD_DEIOS_19_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "We are inevitable!"
+    },
+    {
+      "soundId": 225685,
+      "filename": "VO_1015_Chrono-Lord_Deios_20_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/52/5146164/VO_1015_Chrono-Lord_Deios_20_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228415,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_20_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/112/5168752/VO_1015_CHRONO-LORD_DEIOS_20_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "We are infinite!"
+    },
+    {
+      "soundId": 228417,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_21_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/5168753/VO_1015_CHRONO-LORD_DEIOS_21_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "I have you now, Nastorno. Give in to your true self, to Morisand!"
+    },
+    {
+      "soundId": 225687,
+      "filename": "VO_1015_Chrono-Lord_Deios_22_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/54/5146166/VO_1015_Chrono-Lord_Deios_22_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228420,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_22_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/114/5168754/VO_1015_CHRONO-LORD_DEIOS_22_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "The Infinite Dawn Rises, a future free of torment, perfected by our protection!"
+    },
+    {
+      "soundId": 228422,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_23_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/115/5168755/VO_1015_CHRONO-LORD_DEIOS_23_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "You blind fools!"
+    },
+    {
+      "soundId": 228425,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_24_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/144/5168784/VO_1015_CHRONO-LORD_DEIOS_24_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "You are nothing!"
+    },
+    {
+      "soundId": 225695,
+      "filename": "VO_1015_Chrono-Lord_Deios_25_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/62/5146174/VO_1015_Chrono-Lord_Deios_25_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 225696,
+      "filename": "VO_1015_Chrono-Lord_Deios_26_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/5146175/VO_1015_Chrono-Lord_Deios_26_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228431,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_27_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/147/5168787/VO_1015_CHRONO-LORD_DEIOS_27_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Mirazan's vision shall finally come to pass!"
+    },
+    {
+      "soundId": 203171,
+      "filename": "VO_100_Chrono-Lord_Deios_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/188/4661692/VO_100_Chrono-Lord_Deios_10_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Lost in the sands!"
+    },
+    {
+      "soundId": 203172,
+      "filename": "VO_100_Chrono-Lord_Deios_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/189/4661693/VO_100_Chrono-Lord_Deios_11_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "In all timelines, you failed to stop me."
+    },
+    {
+      "soundId": 203176,
+      "filename": "VO_100_Chrono-Lord_Deios_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/193/4661697/VO_100_Chrono-Lord_Deios_15_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Your failures are infinite."
+    },
+    {
+      "soundId": 225643,
+      "filename": "VO_1015_Chrono-Lord_Deios_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/255/5146111/VO_1015_Chrono-Lord_Deios_01_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 225644,
+      "filename": "VO_1015_Chrono-Lord_Deios_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/0/5146112/VO_1015_Chrono-Lord_Deios_02_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228376,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_03_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/95/5168735/VO_1015_CHRONO-LORD_DEIOS_03_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Sons of Eternity protect me!"
+    },
+    {
+      "soundId": 228377,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_03_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/123/5168763/VO_1015_CHRONO-LORD_DEIOS_03_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Sanzas of Eternity, protect me!"
+    },
+    {
+      "soundId": 228379,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_04_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/124/5168764/VO_1015_CHRONO-LORD_DEIOS_04_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Time itself enshrouds me!"
+    },
+    {
+      "soundId": 228385,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_07_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/127/5168767/VO_1015_CHRONO-LORD_DEIOS_07_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "You are but flies!"
+    },
+    {
+      "soundId": 228386,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_08_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/100/5168740/VO_1015_CHRONO-LORD_DEIOS_08_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Invulets To Be!"
+    },
+    {
+      "soundId": 225651,
+      "filename": "VO_1015_Chrono-Lord_Deios_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/8/5146120/VO_1015_Chrono-Lord_Deios_09_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228388,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_09_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/5168741/VO_1015_CHRONO-LORD_DEIOS_09_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Come, my Invinits!"
+    },
+    {
+      "soundId": 228389,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_09_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/129/5168769/VO_1015_CHRONO-LORD_DEIOS_09_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Come, my Invenents!"
+    },
+    {
+      "soundId": 225652,
+      "filename": "VO_1015_Chrono-Lord_Deios_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/10/5146122/VO_1015_Chrono-Lord_Deios_10_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228394,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_11_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/131/5168771/VO_1015_CHRONO-LORD_DEIOS_11_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Queen of Dragons, you're nothing!"
+    },
+    {
+      "soundId": 225654,
+      "filename": "VO_1015_Chrono-Lord_Deios_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/13/5146125/VO_1015_Chrono-Lord_Deios_12_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228396,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_12_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/132/5168772/VO_1015_CHRONO-LORD_DEIOS_12_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Not the Earth Water yet, are you?"
+    },
+    {
+      "soundId": 228397,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_13_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/105/5168745/VO_1015_CHRONO-LORD_DEIOS_13_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "What is a spell, Mieber? Without his spells!"
+    },
+    {
+      "soundId": 228398,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_13_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/133/5168773/VO_1015_CHRONO-LORD_DEIOS_13_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "What is a spell, Liba? Without his spells!"
+    },
+    {
+      "soundId": 225656,
+      "filename": "VO_1015_Chrono-Lord_Deios_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/15/5146127/VO_1015_Chrono-Lord_Deios_14_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228402,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_15_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/5168775/VO_1015_CHRONO-LORD_DEIOS_15_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "De N. Welts an Dorn!"
+    },
+    {
+      "soundId": 225681,
+      "filename": "VO_1015_Chrono-Lord_Deios_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/48/5146160/VO_1015_Chrono-Lord_Deios_16_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228405,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_16_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/5168776/VO_1015_CHRONO-LORD_DEIOS_16_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Our infinite vision shall one day be..."
+    },
+    {
+      "soundId": 225682,
+      "filename": "VO_1015_Chrono-Lord_Deios_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/5146161/VO_1015_Chrono-Lord_Deios_17_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228406,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_17_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/109/5168749/VO_1015_CHRONO-LORD_DEIOS_17_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "The world's open. Can you not see?"
+    },
+    {
+      "soundId": 228407,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_17_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/137/5168777/VO_1015_CHRONO-LORD_DEIOS_17_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "The world shall burn. Can you not see?"
+    },
+    {
+      "soundId": 225683,
+      "filename": "VO_1015_Chrono-Lord_Deios_18_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/50/5146162/VO_1015_Chrono-Lord_Deios_18_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228410,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_18_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/110/5168750/VO_1015_CHRONO-LORD_DEIOS_18_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "You're all blind!"
+    },
+    {
+      "soundId": 225684,
+      "filename": "VO_1015_Chrono-Lord_Deios_19_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/5146163/VO_1015_Chrono-Lord_Deios_19_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228416,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_20_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/140/5168780/VO_1015_CHRONO-LORD_DEIOS_20_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "We are infinite!"
+    },
+    {
+      "soundId": 225686,
+      "filename": "VO_1015_Chrono-Lord_Deios_21_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/5146165/VO_1015_Chrono-Lord_Deios_21_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 225688,
+      "filename": "VO_1015_Chrono-Lord_Deios_23_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/55/5146167/VO_1015_Chrono-Lord_Deios_23_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 225694,
+      "filename": "VO_1015_Chrono-Lord_Deios_24_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/61/5146173/VO_1015_Chrono-Lord_Deios_24_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228424,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_24_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/116/5168756/VO_1015_CHRONO-LORD_DEIOS_24_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "You are nothing!"
+    },
+    {
+      "soundId": 228426,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_25_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/117/5168757/VO_1015_CHRONO-LORD_DEIOS_25_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "The Infinite Profiles!"
+    },
+    {
+      "soundId": 228427,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_25_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/145/5168785/VO_1015_CHRONO-LORD_DEIOS_25_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "The infinite prevails!"
+    },
+    {
+      "soundId": 228429,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_26_M_STEREO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/146/5168786/VO_1015_CHRONO-LORD_DEIOS_26_M_STEREO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Marisan's will is inevitable!"
+    },
+    {
+      "soundId": 225697,
+      "filename": "VO_1015_Chrono-Lord_Deios_27_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/5146176/VO_1015_Chrono-Lord_Deios_27_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    },
+    {
+      "soundId": 228430,
+      "filename": "VO_1015_CHRONO-LORD_DEIOS_27_M_MONO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/119/5168759/VO_1015_CHRONO-LORD_DEIOS_27_M_MONO.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": "Merazons vision shall finally come to pass!"
+    },
+    {
+      "soundId": 225898,
+      "filename": "VO_1015_Chrono-Lord_Deios_28_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/9/5146377/VO_1015_Chrono-Lord_Deios_28_M.ogg",
+      "npc": "Chrono-Lord Deios",
+      "dungeon": "Dawn of the Infinite",
+      "transcript": ""
+    }
+  ]
+}

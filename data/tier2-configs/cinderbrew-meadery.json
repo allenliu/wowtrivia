@@ -1,0 +1,57 @@
+{
+  "dungeon": "Cinderbrew Meadery",
+  "slug": "cinderbrew-meadery",
+  "wowheadZoneId": 15103,
+  "expansion": "The War Within",
+  "bosses": [
+    {
+      "id": 214661,
+      "name": "Goldie Baronbottom",
+      "filterName": "baronbottom",
+      "quotes": [
+        { "context": "Combat", "text": "You won't be takin' this meadery from me!" },
+        { "context": "Combat", "text": "Cashing out!" },
+        { "context": "Combat", "text": "Boom time!" },
+        { "context": "Combat", "text": "Killing is my business, and it's boomin'!" }
+      ]
+    },
+    {
+      "id": 218000,
+      "name": "Benk Buzzbee",
+      "filterName": "buzzbee",
+      "quotes": [
+        { "context": "Combat", "text": "Burns so sweet!" },
+        { "context": "Combat", "text": "The best for my bees!" },
+        { "context": "Combat", "text": "Time to bust out my bees!" },
+        { "context": "Combat", "text": "Flap those wings, darlin'!" },
+        { "context": "Combat", "text": "Who will be... the bees' knees... now?" },
+        { "context": "Combat", "text": "Hot honey, comin' atcha!" },
+        { "context": "Combat", "text": "Feedin' time!" },
+        { "context": "Combat", "text": "Buzz off!" },
+        { "context": "Combat", "text": "Get those wings pumpin'!" },
+        { "context": "Combat", "text": "Got snacks for ya!" },
+        { "context": "Combat", "text": "Stings, don't it?" },
+        { "context": "Combat", "text": "Buh-bye now!" },
+        { "context": "Victory","text": "Victory! Sweet as honey." }
+      ]
+    },
+    {
+      "id": 210271,
+      "name": "Brew Master Aldryr",
+      "filterName": "aldryr",
+      "quotes": [
+        { "context": "Combat", "text": "Goes down smooth!" },
+        { "context": "Combat", "text": "It's to be a bar fight then? Good!" },
+        { "context": "Combat", "text": "Break it up!" },
+        { "context": "Defeat", "text": "Guess that was... last call..." },
+        { "context": "Phase",  "text": "Time for happy hour!" },
+        { "context": "Combat", "text": "You're driving away my paying customers!" },
+        { "context": "Combat", "text": "Don't gotta go home, but ya can't stay here." },
+        { "context": "Combat", "text": "Oi! Can't a dishonest barkeep make a living?" },
+        { "context": "Combat", "text": "Had too much?" },
+        { "context": "Combat", "text": "Cutting you off!" },
+        { "context": "Combat", "text": "Your tab's settled!" }
+      ]
+    }
+  ]
+}

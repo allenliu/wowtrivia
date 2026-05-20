@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "npc": "Inquisitor Tormentorum",
+    "dungeon": "Vault of the Wardens",
+    "filterName": "tormentorum",
+    "namePattern": "",
+    "generated": "2026-05-19T16:54:12-07:00",
+    "soundCount": 11
+  },
+  "sounds": [
+    {
+      "soundId": 64827,
+      "filename": "VO_703_Inquisitor_Tormentorum_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/1402177/VO_703_Inquisitor_Tormentorum_04.ogg",
+      "npc": "Inquisitor Tormentorum",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Let's see who's behind door number!"
+    },
+    {
+      "soundId": 64829,
+      "filename": "VO_703_Inquisitor_Tormentorum_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1402179/VO_703_Inquisitor_Tormentorum_06.ogg",
+      "npc": "Inquisitor Tormentorum",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "How terribly disappointing."
+    },
+    {
+      "soundId": 74866,
+      "filename": "VO_70_INQUISITOR_TORMENTORUM_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/66/1503042/VO_70_Inquisitor_Tormentorum_WoundCrit_01.ogg",
+      "npc": "Inquisitor Tormentorum",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "F challenge!"
+    },
+    {
+      "soundId": 64824,
+      "filename": "VO_703_Inquisitor_Tormentorum_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/61/1402173/VO_703_Inquisitor_Tormentorum_01.ogg",
+      "npc": "Inquisitor Tormentorum",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Ah, new subjects."
+    },
+    {
+      "soundId": 64828,
+      "filename": "VO_703_Inquisitor_Tormentorum_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/66/1402178/VO_703_Inquisitor_Tormentorum_05.ogg",
+      "npc": "Inquisitor Tormentorum",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Your souls are mine."
+    },
+    {
+      "soundId": 74863,
+      "filename": "VO_70_INQUISITOR_TORMENTORUM_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/1503022/VO_70_Inquisitor_Tormentorum_Attack_06.ogg",
+      "npc": "Inquisitor Tormentorum",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Oh"
+    },
+    {
+      "soundId": 64825,
+      "filename": "VO_703_Inquisitor_Tormentorum_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/1402175/VO_703_Inquisitor_Tormentorum_02.ogg",
+      "npc": "Inquisitor Tormentorum",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "A pity."
+    },
+    {
+      "soundId": 64826,
+      "filename": "VO_703_Inquisitor_Tormentorum_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/1402176/VO_703_Inquisitor_Tormentorum_03.ogg",
+      "npc": "Inquisitor Tormentorum",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "That becomes you."
+    },
+    {
+      "soundId": 64830,
+      "filename": "VO_703_Inquisitor_Tormentorum_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/1402180/VO_703_Inquisitor_Tormentorum_07.ogg",
+      "npc": "Inquisitor Tormentorum",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Playtime has ended."
+    },
+    {
+      "soundId": 74864,
+      "filename": "VO_70_INQUISITOR_TORMENTORUM_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/1503027/VO_70_Inquisitor_Tormentorum_AttackCrit_01.ogg",
+      "npc": "Inquisitor Tormentorum",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "Rrraaugg"
+    },
+    {
+      "soundId": 74865,
+      "filename": "VO_70_INQUISITOR_TORMENTORUM_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/56/1503032/VO_70_Inquisitor_Tormentorum_Wound_01.ogg",
+      "npc": "Inquisitor Tormentorum",
+      "dungeon": "Vault of the Wardens",
+      "transcript": "GAH!"
+    }
+  ]
+}

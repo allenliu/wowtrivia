@@ -1,0 +1,17 @@
+{
+  "dungeon": "The MOTHERLODE!!",
+  "slug": "the-motherlode",
+  "wowheadZoneId": 8064,
+  "expansion": "Battle for Azeroth",
+  "bosses": [
+    { "id": 129227, "name": "Azerokk", "filterName": "azerokk", "quotes": [
+      { "context": "Aggro", "text": "You trespass in my domain!" },
+      { "context": "Resonant Pulse", "text": "The ground will consume you!" },
+      { "context": "Azerite Infusion","text": "The blood of Azeroth flows through you!" },
+      { "context": "Call Earthrager","text": "Arise!" },
+      { "context": "Death", "text": "The wounds... must be mended..." }
+    ]},
+    { "id": 129232, "name": "Mogul Razdunk", "filterName": "razdunk", "namePattern": "^VO_801_(MOGUL_RAZDUNK|Mogul_Razdunk)_", "quotes": [] },
+    { "id": 129231, "name": "Rixxa Fluxflame", "filterName": "rixxa", "namePattern": "^VO_801_(RIXXA|Rixxa)_", "quotes": [] }
+  ]
+}

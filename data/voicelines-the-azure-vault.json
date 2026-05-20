@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "schemaVersion": 3,
+    "dungeon": "The Azure Vault",
+    "wowheadZoneId": 13954,
+    "expansion": "Dragonflight",
+    "generated": "2026-05-19T17:17:04-07:00",
+    "notes": "Mixed Tier-1 (Wowhead Quotes) + Tier-2 (wiki + Whisper) entries."
+  },
+  "npcs": [
+    {
+      "id": 201094,
+      "name": "Sindragosa",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 221786,
+          "filename": "vo-101-sindragosa-40-f",
+          "fileDataId": 5023688,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/5023688/VO_101_Sindragosa_40_F.ogg",
+          "text": "I should have stopped Neltharion when I first suspected his motives... I am so sorry it has come to this.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 221784,
+          "filename": "vo-101-sindragosa-38-f",
+          "fileDataId": 5023686,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/5023686/VO_101_Sindragosa_38_F.ogg",
+          "text": "She's holding herself back?",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 221782,
+          "filename": "vo-101-sindragosa-36-f",
+          "fileDataId": 5023684,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/5023684/VO_101_Sindragosa_36_F.ogg",
+          "text": "There must be something left of me in there!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 221780,
+          "filename": "vo-101-sindragosa-34-f",
+          "fileDataId": 5023682,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/194/5023682/VO_101_Sindragosa_34_F.ogg",
+          "text": "This beast is what became of me? Twisted by darkness and anger?",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 197081,
+      "name": "Sindragosa",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 209443,
+          "filename": "vo-100-sindragosa-70-f",
+          "fileDataId": 4696448,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/4696448/VO_100_Sindragosa_70_F.ogg",
+          "text": "Telash must not break the final seal. The consequences would be dire... please, hurry.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208379,
+          "filename": "vo-100-sindragosa-63-f",
+          "fileDataId": 4690610,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/4690610/VO_100_Sindragosa_63_F.ogg",
+          "text": "I placed him in stasis, until I could find a proper cure.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208378,
+          "filename": "vo-100-sindragosa-62-f",
+          "fileDataId": 4690609,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/177/4690609/VO_100_Sindragosa_62_F.ogg",
+          "text": "My dear one... he knew that wild magic was dangerous, but he meddled with it anyway. By the time we found him, we could not stop the growth.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208373,
+          "filename": "vo-100-sindragosa-57-f",
+          "fileDataId": 4690556,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/124/4690556/VO_100_Sindragosa_57_F.ogg",
+          "text": "Poor Azureblade... I do not blame her. I should have thought of her before... I left.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208374,
+          "filename": "vo-100-sindragosa-58-f",
+          "fileDataId": 4690557,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/4690557/VO_100_Sindragosa_58_F.ogg",
+          "text": "This door... I sense a breach behind it. The Sundered Flame must be this way.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 187482,
+      "name": "Sindragosa",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 208380,
+          "filename": "vo-100-sindragosa-64-f",
+          "fileDataId": 4690611,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/4690611/VO_100_Sindragosa_64_F.ogg",
+          "text": "And then... I was gone.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 206926,
+          "filename": "vo-100-sindragosa-33-f",
+          "fileDataId": 4683388,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/124/4683388/VO_100_Sindragosa_33_F.ogg",
+          "text": "Be wary, champions. My vault is many things, but harmless is not one of them.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208381,
+          "filename": "vo-100-sindragosa-65-f",
+          "fileDataId": 4690612,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/180/4690612/VO_100_Sindragosa_65_F.ogg",
+          "text": "Champion. You did what was needed, and ended his suffering. Thank you.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 206931,
+          "filename": "vo-100-sindragosa-38-f",
+          "fileDataId": 4683393,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/129/4683393/VO_100_Sindragosa_38_F.ogg",
+          "text": "Do be on the lookout for the growth of extra appendages.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208382,
+          "filename": "vo-100-sindragosa-66-f",
+          "fileDataId": 4690613,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/4690613/VO_100_Sindragosa_66_F.ogg",
+          "text": "I am but a simulacrum, but once, I was a mother as well. Please... leave me to mourn.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208376,
+          "filename": "vo-100-sindragosa-60-f",
+          "fileDataId": 4690563,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/131/4690563/VO_100_Sindragosa_60_F.ogg",
+          "text": "It looks as though it has grown wild over the years. I will need you to... prune it.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208375,
+          "filename": "vo-100-sindragosa-59-f",
+          "fileDataId": 4690562,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/4690562/VO_100_Sindragosa_59_F.ogg",
+          "text": "Once, my beloved Malygos gifted me with arcane seeds. I planted them here--a little garden from him.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 206925,
+          "filename": "vo-100-sindragosa-32-f",
+          "fileDataId": 4683387,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/123/4683387/VO_100_Sindragosa_32_F.ogg",
+          "text": "Since the majority of the vault's caretakers are flightless, I incorporated a means of safe travel via these tomes.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 209439,
+          "filename": "vo-100-sindragosa-68-f",
+          "fileDataId": 4696444,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/124/4696444/VO_100_Sindragosa_68_F.ogg",
+          "text": "The Sundered Flame have been delving into my vault.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 206929,
+          "filename": "vo-100-sindragosa-36-f",
+          "fileDataId": 4683391,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/127/4683391/VO_100_Sindragosa_36_F.ogg",
+          "text": "The location of my vault was chosen to harness and make use of this powerful ley line.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 206928,
+          "filename": "vo-100-sindragosa-35-f",
+          "fileDataId": 4683390,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/126/4683390/VO_100_Sindragosa_35_F.ogg",
+          "text": "Their gaze pierces all. If they see you, all nearby creatures will awaken to purge you from the vault.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208383,
+          "filename": "vo-100-sindragosa-67-f",
+          "fileDataId": 4690694,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/4690694/VO_100_Sindragosa_67_F.ogg",
+          "text": "There is no sign of the Sundered Flame here. Come, this way.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 206927,
+          "filename": "vo-100-sindragosa-34-f",
+          "fileDataId": 4683389,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/4683389/VO_100_Sindragosa_34_F.ogg",
+          "text": "These whelplings perceive anyone not of my blood as a threat.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 209440,
+          "filename": "vo-100-sindragosa-69-f",
+          "fileDataId": 4696445,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/4696445/VO_100_Sindragosa_69_F.ogg",
+          "text": "They do not understand the dangers within, nor the powers they meddle with.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208377,
+          "filename": "vo-100-sindragosa-61-f",
+          "fileDataId": 4690568,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/4690568/VO_100_Sindragosa_61_F.ogg",
+          "text": "We are too late... oh, oh no.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 206930,
+          "filename": "vo-100-sindragosa-37-f",
+          "fileDataId": 4683392,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/4683392/VO_100_Sindragosa_37_F.ogg",
+          "text": "While a marvel to behold, I am unsure of what effects it will have on your mortal form.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 206924,
+          "filename": "vo-100-sindragosa-31-f",
+          "fileDataId": 4683386,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/122/4683386/VO_100_Sindragosa_31_F.ogg",
+          "text": "You have discovered one of my Books of Translocation.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 186738,
+      "name": "Umbrelskul",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 208111,
+          "filename": "VO_100_Umbrelskul_11_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/184/4689592/VO_100_Umbrelskul_11_M.ogg",
+          "text": "Mother!",
+          "source": "wiki",
+          "wikiContext": "Event",
+          "transcript": "Mother!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208109,
+          "filename": "VO_100_Umbrelskul_09_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/182/4689590/VO_100_Umbrelskul_09_M.ogg",
+          "text": "My agony is yours!",
+          "source": "wiki",
+          "wikiContext": "Aggro",
+          "transcript": "My agony is yours!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208106,
+          "filename": "VO_100_Umbrelskul_06_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/4689587/VO_100_Umbrelskul_06_M.ogg",
+          "text": "Get them off, get them off!",
+          "source": "wiki",
+          "wikiContext": "Crystalline Roar",
+          "transcript": "Get them off! Get them off!",
+          "matchScore": 1,
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208104,
+          "filename": "VO_100_Umbrelskul_04_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/177/4689585/VO_100_Umbrelskul_04_M.ogg",
+          "text": "No! I will not go!",
+          "source": "wiki",
+          "wikiContext": "Arcane Eruption",
+          "transcript": "No! I will not go!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208101,
+          "filename": "VO_100_Umbrelskul_01_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/174/4689582/VO_100_Umbrelskul_01_M.ogg",
+          "text": "Stay back! Stack back!",
+          "source": "wiki",
+          "wikiContext": "Unleashed Destruction",
+          "transcript": "Stay back! Stay back!",
+          "matchScore": 0.9,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208105,
+          "filename": "VO_100_Umbrelskul_05_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/4689586/VO_100_Umbrelskul_05_M.ogg",
+          "text": "Get away from me!",
+          "source": "wiki",
+          "wikiContext": "Unleashed Destruction",
+          "transcript": "Get away from me!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208107,
+          "filename": "VO_100_Umbrelskul_07_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/180/4689588/VO_100_Umbrelskul_07_M.ogg",
+          "text": "Mother... I am... sorry...",
+          "source": "wiki",
+          "wikiContext": "Death",
+          "transcript": "Mother! I am sorry!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208103,
+          "filename": "VO_100_Umbrelskul_03_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/176/4689584/VO_100_Umbrelskul_03_M.ogg",
+          "text": "I will show you pain!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "I will show you pain!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 208108,
+          "filename": "VO_100_Umbrelskul_08_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/4689589/VO_100_Umbrelskul_08_M.ogg",
+          "text": "I cannot be contained!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "I cannot be contained!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

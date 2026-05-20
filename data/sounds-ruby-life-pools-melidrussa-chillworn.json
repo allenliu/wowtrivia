@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "npc": "Melidrussa Chillworn",
+    "dungeon": "Ruby Life Pools",
+    "filterName": "melidrussa",
+    "namePattern": "",
+    "generated": "2026-05-19T18:18:40-07:00",
+    "soundCount": 24
+  },
+  "sounds": [
+    {
+      "soundId": 214723,
+      "filename": "VO_100_Melidrussa_Chillworn_Aggro_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/240/4820720/VO_100_Melidrussa_Chillworn_Aggro_02.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Uhh!"
+    },
+    {
+      "soundId": 214724,
+      "filename": "VO_100_Melidrussa_Chillworn_AttackCrit_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/254/4820734/VO_100_Melidrussa_Chillworn_AttackCrit_02.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 202046,
+      "filename": "VO_100_Melidrussa_Chillworn_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/186/4641978/VO_100_Melidrussa_Chillworn_03_F.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "My allies sacrificed themselves so that I could return these eggs to their natural state. I will not fail!"
+    },
+    {
+      "soundId": 202051,
+      "filename": "VO_100_Melidrussa_Chillworn_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/191/4641983/VO_100_Melidrussa_Chillworn_08_F.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "You will not interfere!"
+    },
+    {
+      "soundId": 202047,
+      "filename": "VO_100_Melidrussa_Chillworn_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/187/4641979/VO_100_Melidrussa_Chillworn_04_F.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "My chill will freeze your bones!"
+    },
+    {
+      "soundId": 214728,
+      "filename": "VO_100_Melidrussa_Chillworn_BattleShout_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/24/4820760/VO_100_Melidrussa_Chillworn_BattleShout_02.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Dolphins"
+    },
+    {
+      "soundId": 214732,
+      "filename": "VO_100_Melidrussa_Chillworn_Idle_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/4820782/VO_100_Melidrussa_Chillworn_Idle_01.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Huh."
+    },
+    {
+      "soundId": 202049,
+      "filename": "VO_100_Melidrussa_Chillworn_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/189/4641981/VO_100_Melidrussa_Chillworn_06_F.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "ISE CONSUME YOU!"
+    },
+    {
+      "soundId": 202052,
+      "filename": "VO_100_Melidrussa_Chillworn_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/192/4641984/VO_100_Melidrussa_Chillworn_09_F.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "A MISERABLE END"
+    },
+    {
+      "soundId": 202055,
+      "filename": "VO_100_Melidrussa_Chillworn_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/4641987/VO_100_Melidrussa_Chillworn_12_F.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "I will save these eggs!"
+    },
+    {
+      "soundId": 214734,
+      "filename": "VO_100_Melidrussa_Chillworn_WoundCrit_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/4820814/VO_100_Melidrussa_Chillworn_WoundCrit_02.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Eugh!"
+    },
+    {
+      "soundId": 214735,
+      "filename": "VO_100_Melidrussa_Chillworn_Wound_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/90/4820826/VO_100_Melidrussa_Chillworn_Wound_08.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Ugh!"
+    },
+    {
+      "soundId": 202044,
+      "filename": "VO_100_Melidrussa_Chillworn_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/184/4641976/VO_100_Melidrussa_Chillworn_01_F.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "I am sorry, but I need your strength, little ones!"
+    },
+    {
+      "soundId": 202048,
+      "filename": "VO_100_Melidrussa_Chillworn_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/188/4641980/VO_100_Melidrussa_Chillworn_05_F.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": ""
+    },
+    {
+      "soundId": 202050,
+      "filename": "VO_100_Melidrussa_Chillworn_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/190/4641982/VO_100_Melidrussa_Chillworn_07_F.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Be frozen and shatter!"
+    },
+    {
+      "soundId": 202053,
+      "filename": "VO_100_Melidrussa_Chillworn_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/193/4641985/VO_100_Melidrussa_Chillworn_10_F.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Begone, dragon lackey!"
+    },
+    {
+      "soundId": 202054,
+      "filename": "VO_100_Melidrussa_Chillworn_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/194/4641986/VO_100_Melidrussa_Chillworn_11_F.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Only death for those who follow order."
+    },
+    {
+      "soundId": 202056,
+      "filename": "VO_100_Melidrussa_Chillworn_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/4641988/VO_100_Melidrussa_Chillworn_13_F.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Ours is the true path."
+    },
+    {
+      "soundId": 214727,
+      "filename": "VO_100_Melidrussa_Chillworn_Attack_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/254/4820734/VO_100_Melidrussa_Chillworn_AttackCrit_02.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 214729,
+      "filename": "VO_100_Melidrussa_Chillworn_Death_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/30/4820766/VO_100_Melidrussa_Chillworn_Death_03.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Ahhhhh!"
+    },
+    {
+      "soundId": 214731,
+      "filename": "VO_100_Melidrussa_Chillworn_HeavyAttackExhale_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/38/4820774/VO_100_Melidrussa_Chillworn_HeavyAttackExhale_01.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 202045,
+      "filename": "VO_100_Melidrussa_Chillworn_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/185/4641977/VO_100_Melidrussa_Chillworn_02_F.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "No, these whelps are pure. They will show you the truth!"
+    },
+    {
+      "soundId": 214725,
+      "filename": "VO_100_Melidrussa_Chillworn_AttackExhale_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/4/4820740/VO_100_Melidrussa_Chillworn_AttackExhale_09.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 214733,
+      "filename": "VO_100_Melidrussa_Chillworn_PreAggro_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/66/4820802/VO_100_Melidrussa_Chillworn_PreAggro_01.ogg",
+      "npc": "Melidrussa Chillworn",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Huh?"
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "meta": {
+    "npc": "Balakar Khan",
+    "dungeon": "The Nokhud Offensive",
+    "filterName": "balakar",
+    "namePattern": "",
+    "generated": "2026-05-19T17:22:47-07:00",
+    "soundCount": 56
+  },
+  "sounds": [
+    {
+      "soundId": 205473,
+      "filename": "VO_100_Balakar_Khan_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/4677572/VO_100_Balakar_Khan_11_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "FUNDER AND LIGHTNING! THE TRUE POWER OF ONARA!"
+    },
+    {
+      "soundId": 214991,
+      "filename": "VO_100_Balakar_Khan_Attack_Exhale1_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/4826670/VO_100_Balakar_Khan_Attack_Exhale1_10.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Huh"
+    },
+    {
+      "soundId": 205762,
+      "filename": "VO_100_Balakar_Khan_38_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/167/4678567/VO_100_Balakar_Khan_38_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "The Noku deserve the power of the storm! We will show the Maruk how far they have fallen!"
+    },
+    {
+      "soundId": 203064,
+      "filename": "VO_100_Balakar_Khan_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/73/4661321/VO_100_Balakar_Khan_02_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Out of my sight."
+    },
+    {
+      "soundId": 205477,
+      "filename": "VO_100_Balakar_Khan_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/4677584/VO_100_Balakar_Khan_15_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "So weak! You have always been weak!"
+    },
+    {
+      "soundId": 206956,
+      "filename": "VO_100_Balakar_Khan_45_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/221/4683741/VO_100_Balakar_Khan_45_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Oh, let the storm envelop you, Windsage."
+    },
+    {
+      "soundId": 214995,
+      "filename": "VO_100_Balakar_Khan_DeathB_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/100/4826724/VO_100_Balakar_Khan_DeathB_01.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "..."
+    },
+    {
+      "soundId": 205496,
+      "filename": "VO_100_Balakar_Khan_32_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/4677639/VO_100_Balakar_Khan_32_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "The week must die!"
+    },
+    {
+      "soundId": 205501,
+      "filename": "VO_100_Balakar_Khan_37_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/22/4677654/VO_100_Balakar_Khan_37_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "If the Eagle Mother will not gift me her power, I will take it!"
+    },
+    {
+      "soundId": 214994,
+      "filename": "VO_100_Balakar_Khan_DeathA_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/86/4826710/VO_100_Balakar_Khan_DeathA_01.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Yeah!"
+    },
+    {
+      "soundId": 203063,
+      "filename": "VO_100_Balakar_Khan_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/72/4661320/VO_100_Balakar_Khan_01_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Hmm."
+    },
+    {
+      "soundId": 205471,
+      "filename": "VO_100_Balakar_Khan_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/190/4677566/VO_100_Balakar_Khan_09_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Your skulls will shatter beneath my hooves!"
+    },
+    {
+      "soundId": 205482,
+      "filename": "VO_100_Balakar_Khan_20_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/223/4677599/VO_100_Balakar_Khan_20_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Uh... Ancestors... Ancestors, forgive me."
+    },
+    {
+      "soundId": 205484,
+      "filename": "VO_100_Balakar_Khan_22_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/229/4677605/VO_100_Balakar_Khan_22_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "This land is our birthright!"
+    },
+    {
+      "soundId": 205489,
+      "filename": "VO_100_Balakar_Khan_25_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/238/4677614/VO_100_Balakar_Khan_25_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Another puppet strings are cut."
+    },
+    {
+      "soundId": 205490,
+      "filename": "VO_100_Balakar_Khan_26_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/241/4677617/VO_100_Balakar_Khan_26_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Sick of fans are never remembered."
+    },
+    {
+      "soundId": 205500,
+      "filename": "VO_100_Balakar_Khan_36_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/19/4677651/VO_100_Balakar_Khan_36_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "The feeble yield to the strong!"
+    },
+    {
+      "soundId": 206910,
+      "filename": "VO_100_Balakar_Khan_42_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/80/4683344/VO_100_Balakar_Khan_42_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "You desecrate the memory of Maru thousand bones, Cerest!"
+    },
+    {
+      "soundId": 212149,
+      "filename": "VO_100_Balakar_Khan_46_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/47/4733231/VO_100_Balakar_Khan_46_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Grateful? Ha! Dragons only respect dragons!"
+    },
+    {
+      "soundId": 214992,
+      "filename": "VO_100_Balakar_Khan_Attack_Exhale2_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/66/4826690/VO_100_Balakar_Khan_Attack_Exhale2_01.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 214998,
+      "filename": "VO_100_Balakar_Khan_Heavy_Attack_Exhale2_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/4826752/VO_100_Balakar_Khan_Heavy_Attack_Exhale2_09.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "HUH"
+    },
+    {
+      "soundId": 215000,
+      "filename": "VO_100_Balakar_Khan_Idle2_35",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/148/4826772/VO_100_Balakar_Khan_Idle2_35.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": ""
+    },
+    {
+      "soundId": 215001,
+      "filename": "VO_100_Balakar_Khan_PreAggro_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/158/4826782/VO_100_Balakar_Khan_PreAggro_01.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Grrrgh!"
+    },
+    {
+      "soundId": 215004,
+      "filename": "VO_100_Balakar_Khan_Wound_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/206/4826830/VO_100_Balakar_Khan_Wound_01.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Eugh!"
+    },
+    {
+      "soundId": 203065,
+      "filename": "VO_100_Balakar_Khan_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/4661322/VO_100_Balakar_Khan_03_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Get out!"
+    },
+    {
+      "soundId": 203067,
+      "filename": "VO_100_Balakar_Khan_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/76/4661324/VO_100_Balakar_Khan_05_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "What do you want of us, outsider?"
+    },
+    {
+      "soundId": 210968,
+      "filename": "VO_100_Balakar_Khan_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/4661326/VO_100_Balakar_Khan_07_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "HOW DARE YOU TOUCH ME?!"
+    },
+    {
+      "soundId": 205470,
+      "filename": "VO_100_Balakar_Khan_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/184/4677560/VO_100_Balakar_Khan_08_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "You cannot stand against me!"
+    },
+    {
+      "soundId": 205472,
+      "filename": "VO_100_Balakar_Khan_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/193/4677569/VO_100_Balakar_Khan_10_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Slashed and skewered!"
+    },
+    {
+      "soundId": 205476,
+      "filename": "VO_100_Balakar_Khan_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/205/4677581/VO_100_Balakar_Khan_14_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "My storm will bring forth a magia marook. Greatness awaits us!"
+    },
+    {
+      "soundId": 205487,
+      "filename": "VO_100_Balakar_Khan_24_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/235/4677611/VO_100_Balakar_Khan_24_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "I will defend my land!"
+    },
+    {
+      "soundId": 205497,
+      "filename": "VO_100_Balakar_Khan_33_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/10/4677642/VO_100_Balakar_Khan_33_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Fare my wrath!"
+    },
+    {
+      "soundId": 205499,
+      "filename": "VO_100_Balakar_Khan_35_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/16/4677648/VO_100_Balakar_Khan_35_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "You will be trampled into dust!"
+    },
+    {
+      "soundId": 205773,
+      "filename": "VO_100_Balakar_Khan_39_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/4678600/VO_100_Balakar_Khan_39_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "You pathetic excuses for senta are beneath me. But here, take care of these weaklings!"
+    },
+    {
+      "soundId": 206909,
+      "filename": "VO_100_Balakar_Khan_41_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/4683341/VO_100_Balakar_Khan_41_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "A true leader would never surrender this land to outsiders!"
+    },
+    {
+      "soundId": 214987,
+      "filename": "VO_100_Balakar_Khan_Attack1_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/240/4826608/VO_100_Balakar_Khan_Attack1_01.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Eugh!"
+    },
+    {
+      "soundId": 215002,
+      "filename": "VO_100_Balakar_Khan_Pre_Attack_Inhale_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/176/4826800/VO_100_Balakar_Khan_Pre_Attack_Inhale_07.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "mm"
+    },
+    {
+      "soundId": 210966,
+      "filename": "VO_100_Balakar_Khan_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/72/4661320/VO_100_Balakar_Khan_01_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Hmm."
+    },
+    {
+      "soundId": 203066,
+      "filename": "VO_100_Balakar_Khan_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/4661323/VO_100_Balakar_Khan_04_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "The Maruk have not had a strong con since Thousand Bones himself."
+    },
+    {
+      "soundId": 210967,
+      "filename": "VO_100_Balakar_Khan_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/4661323/VO_100_Balakar_Khan_04_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "The Maruk have not had a strong con since Thousand Bones himself."
+    },
+    {
+      "soundId": 203068,
+      "filename": "VO_100_Balakar_Khan_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/4661325/VO_100_Balakar_Khan_06_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Fight or leave."
+    },
+    {
+      "soundId": 203069,
+      "filename": "VO_100_Balakar_Khan_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/4661326/VO_100_Balakar_Khan_07_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "HOW DARE YOU TOUCH ME?!"
+    },
+    {
+      "soundId": 205474,
+      "filename": "VO_100_Balakar_Khan_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/4677575/VO_100_Balakar_Khan_12_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Ha! I will use Onara's power for more than breezes and blessings!"
+    },
+    {
+      "soundId": 205498,
+      "filename": "VO_100_Balakar_Khan_34_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/13/4677645/VO_100_Balakar_Khan_34_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Thieves! Liars!"
+    },
+    {
+      "soundId": 206907,
+      "filename": "VO_100_Balakar_Khan_40_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/4683335/VO_100_Balakar_Khan_40_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "No Marook blood will be spilled for them!"
+    },
+    {
+      "soundId": 206912,
+      "filename": "VO_100_Balakar_Khan_43_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/86/4683350/VO_100_Balakar_Khan_43_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "No! These planes belong to the Marook!"
+    },
+    {
+      "soundId": 206913,
+      "filename": "VO_100_Balakar_Khan_44_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/89/4683353/VO_100_Balakar_Khan_44_M.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "And Marukai belongs to the LACUDE!"
+    },
+    {
+      "soundId": 215024,
+      "filename": "VO_100_Balakar_Khan_Attack2_18",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/4826630/VO_100_Balakar_Khan_Attack2_18.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "HMM!"
+    },
+    {
+      "soundId": 214989,
+      "filename": "VO_100_Balakar_Khan_AttackCrit1_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/22/4826646/VO_100_Balakar_Khan_AttackCrit1_01.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "RUH"
+    },
+    {
+      "soundId": 214990,
+      "filename": "VO_100_Balakar_Khan_AttackCrit2_19",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/38/4826662/VO_100_Balakar_Khan_AttackCrit2_19.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "RUH!"
+    },
+    {
+      "soundId": 214993,
+      "filename": "VO_100_Balakar_Khan_BattleShout_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/82/4826706/VO_100_Balakar_Khan_BattleShout_02.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "RAAA lady!"
+    },
+    {
+      "soundId": 214997,
+      "filename": "VO_100_Balakar_Khan_DeathC_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/110/4826734/VO_100_Balakar_Khan_DeathC_01.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": ""
+    },
+    {
+      "soundId": 214999,
+      "filename": "VO_100_Balakar_Khan_Idle1_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/4826762/VO_100_Balakar_Khan_Idle1_01.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": ""
+    },
+    {
+      "soundId": 215003,
+      "filename": "VO_100_Balakar_Khan_WoundCrit_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/192/4826816/VO_100_Balakar_Khan_WoundCrit_02.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Eughh!"
+    },
+    {
+      "soundId": 214986,
+      "filename": "VO_100_Balakar_Khan_Aggro_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/4826586/VO_100_Balakar_Khan_Aggro_01.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "Oh"
+    },
+    {
+      "soundId": 214988,
+      "filename": "VO_100_Balakar_Khan_Attack2_18",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/4826630/VO_100_Balakar_Khan_Attack2_18.ogg",
+      "npc": "Balakar Khan",
+      "dungeon": "The Nokhud Offensive",
+      "transcript": "HMM!"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "dungeon": "The Underrot",
+  "slug": "the-underrot",
+  "wowheadZoneId": 9391,
+  "expansion": "Battle for Azeroth",
+  "bosses": [
+    { "id": 131318, "name": "Elder Leaxa", "filterName": "leaxa", "quotes": [] },
+    { "id": 131383, "name": "Sporecaller Zancha", "filterName": "zancha", "quotes": [] },
+    { "id": 133007, "name": "Unbound Abomination", "filterName": "unbound_abomination", "namePattern": "^VO_.*Unbound", "quotes": [] },
+    { "id": 131817, "name": "Cragmaw the Infested", "filterName": "cragmaw", "quotes": [] }
+  ]
+}

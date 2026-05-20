@@ -1,0 +1,1006 @@
+{
+  "meta": {
+    "schemaVersion": 3,
+    "dungeon": "Neltharion's Lair",
+    "wowheadZoneId": 7546,
+    "expansion": "Legion",
+    "generated": "2026-05-19T17:16:15-07:00",
+    "notes": "Mixed Tier-1 (Wowhead Quotes) + Tier-2 (wiki + Whisper) entries."
+  },
+  "npcs": [
+    {
+      "id": 90998,
+      "name": "Blightshard Shaper",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 54697,
+          "filename": "vo-70-blightshard-shaper-04",
+          "fileDataId": 1276070,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/166/1276070/VO_70_Blightshard_Shaper_04.ogg",
+          "text": "Mother of Worms! Arise!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54709,
+          "filename": "vo-70-blightshard-shaper-05",
+          "fileDataId": 1276100,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/1276100/VO_70_Blightshard_Shaper_05.ogg",
+          "text": "She comes! Naraxas will feast on your bones!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54710,
+          "filename": "vo-70-blightshard-shaper-06",
+          "fileDataId": 1276104,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/1276104/VO_70_Blightshard_Shaper_06.ogg",
+          "text": "Yes! AHAHAHA! Wait-nooo! AAAHHHHHhhhhh!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 91007,
+      "name": "Dargrul",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 54729,
+          "filename": "vo-70-dargrul-15",
+          "fileDataId": 1276425,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/9/1276425/VO_70_Dargrul_15.ogg",
+          "text": "How is this possible?! I... I was chosen...",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54733,
+          "filename": "vo-70-dargrul-19",
+          "fileDataId": 1276433,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/17/1276433/VO_70_Dargrul_19.ogg",
+          "text": "I will break this world asunder before I let you take my hammer!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54722,
+          "filename": "vo-70-dargrul-08",
+          "fileDataId": 1276214,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/54/1276214/VO_70_Dargrul_08.ogg",
+          "text": "The mountain will gnaw on your bones!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54732,
+          "filename": "vo-70-dargrul-18",
+          "fileDataId": 1276431,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/15/1276431/VO_70_Dargrul_18.ogg",
+          "text": "Yes. TRY to take the hammer from me!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54725,
+          "filename": "VO_70_Dargrul_11",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/1276417/VO_70_Dargrul_11.ogg",
+          "text": "Ha ha ha ha ha! I mountain will swallow you all!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Ha ha ha ha ha! I mountain will swallow you all!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54321,
+          "filename": "VO_70_Dargrul_04",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/219/1274843/VO_70_Dargrul_04.ogg",
+          "text": "You want my hammer? Come get for it!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "You want my hammer? Come get for it!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54724,
+          "filename": "VO_70_Dargrul_10",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/255/1276415/VO_70_Dargrul_10.ogg",
+          "text": "The molten soul of Azeroth, it guffs you!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "The molten soul of Azeroth, it guffs you!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54728,
+          "filename": "VO_70_Dargrul_14",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/1276423/VO_70_Dargrul_14.ogg",
+          "text": "The might of Kasgaroth flows through me!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "The might of Kasgaroth flows through me!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54730,
+          "filename": "VO_70_Dargrul_16",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/11/1276427/VO_70_Dargrul_16.ogg",
+          "text": "The Tauron were wrong about you!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "The Tauron were wrong about you!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54278,
+          "filename": "VO_70_Dargrul_03",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/1274586/VO_70_Dargrul_03.ogg",
+          "text": "I want this Charn Runeer to tell the others. Tell them their doom will come once I master this hammer.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "I want this Charn Runeer to tell the others. Tell them their doom will come once I master this hammer.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54718,
+          "filename": "VO_70_Dargrul_05",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/240/1276144/VO_70_Dargrul_05.ogg",
+          "text": "The Tarn believed you were prophesized to seize my hammer! Ha ha ha ha ha! Pathetic!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "The Tarn believed you were prophesized to seize my hammer! Ha ha ha ha ha! Pathetic!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54719,
+          "filename": "VO_70_Dargrul_06",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/246/1276150/VO_70_Dargrul_06.ogg",
+          "text": "Let them come. Witness the fate of those who stand against one worthy of wielding the power of a Titan!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Let them come. Witness the fate of those who stand against one worthy of wielding the power of a Titan!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 60721,
+          "filename": "VO_70_DARGRUL_ATTACKCRIT",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/1370876/VO_70_Dargrul_AttackCrit_01.ogg",
+          "text": "giant shower bunları you you you you you you",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "giant shower bunları you you you you you you",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54735,
+          "filename": "VO_70_Dargrul_21",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/21/1276437/VO_70_Dargrul_21.ogg",
+          "text": "I will re-forge this world as I see fit!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "I will re-forge this world as I see fit!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54775,
+          "filename": "VO_70_Dargrul_24",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/1277219/VO_70_Dargrul_24.ogg",
+          "text": "When you're done with this distraction, meet us in River Bend!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "When you're done with this distraction, meet us in River Bend!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54898,
+          "filename": "VO_70_Dargrul_27",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/1277666/VO_70_Dargrul_27.ogg",
+          "text": "Children of the deep rise and crush these Shangri-nears!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Children of the deep rise and crush these Shangri-nears!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54267,
+          "filename": "VO_70_Dargrul_01",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/192/1274560/VO_70_Dargrul_01.ogg",
+          "text": "I want these torren off my mountain!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "I want these torren off my mountain!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54268,
+          "filename": "VO_70_Dargrul_02",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/197/1274565/VO_70_Dargrul_02.ogg",
+          "text": "You dare challenge me?",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "You dare challenge me?",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54721,
+          "filename": "VO_70_Dargrul_07",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/1276155/VO_70_Dargrul_07.ogg",
+          "text": "I can shape the world just as the Titans did.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "I can shape the world just as the Titans did.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54723,
+          "filename": "VO_70_Dargrul_09",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/129/1276289/VO_70_Dargrul_09.ogg",
+          "text": "Hear the eaves and roars at my command!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Hear the eaves and roars at my command!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54726,
+          "filename": "VO_70_Dargrul_12",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/3/1276419/VO_70_Dargrul_12.ogg",
+          "text": "It is time to end this.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "It is time to end this.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54727,
+          "filename": "VO_70_Dargrul_13",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/5/1276421/VO_70_Dargrul_13.ogg",
+          "text": "I am the Shaper and Forger of this world!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "I am the Shaper and Forger of this world!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54731,
+          "filename": "VO_70_Dargrul_17",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/13/1276429/VO_70_Dargrul_17.ogg",
+          "text": "MWAH! The hammer falls upon you!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "MWAH! The hammer falls upon you!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54734,
+          "filename": "VO_70_Dargrul_20",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/19/1276435/VO_70_Dargrul_20.ogg",
+          "text": "Only I can wield the Hammer's power!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Only I can wield the Hammer's power!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54773,
+          "filename": "VO_70_Dargrul_22",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/1277215/VO_70_Dargrul_22.ogg",
+          "text": "Are these Ronir giving you too much trouble, Galmog?",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Are these Ronir giving you too much trouble, Galmog?",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54774,
+          "filename": "VO_70_Dargrul_23",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/1277217/VO_70_Dargrul_23.ogg",
+          "text": "Perhaps I misjudged your worth.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Perhaps I misjudged your worth.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54873,
+          "filename": "VO_70_Dargrul_25",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/176/1277616/VO_70_Dargrul_25.ogg",
+          "text": "By this hammer, I claim this mountain!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "By this hammer, I claim this mountain!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 90997,
+      "name": "Mightstone Breaker",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 54691,
+          "filename": "vo-70-mightstone-breaker-02",
+          "fileDataId": 1276006,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/102/1276006/VO_70_Mightstone_Breaker_02.ogg",
+          "text": "Search everywhere! These peasants have been hiding rations from the army! If you're not fighting, you're not eating!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 100700,
+      "name": "Navarrogg",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 54674,
+          "filename": "vo-70-navarrogg-03",
+          "fileDataId": 1275922,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/18/1275922/VO_70_Navarrogg_03.ogg",
+          "text": "Dargrul cannot control the hammer, Ularogg! He will DESTROY Highmountain, not CONQUER it!",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54588,
+          "filename": "vo-70-navarrogg-01",
+          "fileDataId": 1275616,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/224/1275616/VO_70_Navarrogg_01.ogg",
+          "text": "Hurry, friends. Every moment we linger, Dargrul kills more of our allies.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54708,
+          "filename": "vo-70-navarrogg-06",
+          "fileDataId": 1276097,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/193/1276097/VO_70_Navarrogg_06.ogg",
+          "text": "If they complete this summoning, our passage to Dargrul will be blocked!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54737,
+          "filename": "vo-70-navarrogg-08",
+          "fileDataId": 1276442,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/26/1276442/VO_70_Navarrogg_08.ogg",
+          "text": "It's done, heroes. With Dargrul dead and the hammer reclaimed, the drogbar are broken. Now begins the long task of reuniting our tribes, but balance has returned to Highmountain.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54689,
+          "filename": "vo-70-navarrogg-05",
+          "fileDataId": 1275969,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/1275969/VO_70_Navarrogg_05.ogg",
+          "text": "Quickly, into the barrels! I'll hold them here and join you down river!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54716,
+          "filename": "vo-70-navarrogg-07",
+          "fileDataId": 1276133,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/229/1276133/VO_70_Navarrogg_07.ogg",
+          "text": "There is no more time! We must strike at Dargrul now!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54686,
+          "filename": "vo-70-navarrogg-04",
+          "fileDataId": 1275957,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/1275957/VO_70_Navarrogg_04.ogg",
+          "text": "They know we're coming now. I hope our allies can keep their main forces occupied long enough for us to complete our mission.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 91003,
+      "name": "Rokmora",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 54551,
+          "filename": "vo-70-rokmora-04",
+          "fileDataId": 1275441,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/1275441/VO_70_Rokmora_04.ogg",
+          "text": "Rok SMASH!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54531,
+          "filename": "vo-70-rokmora-01",
+          "fileDataId": 1275401,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/9/1275401/VO_70_Rokmora_01.ogg",
+          "text": "Rok shatter!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54549,
+          "filename": "vo-70-rokmora-03",
+          "fileDataId": 1275437,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/1275437/VO_70_Rokmora_03.ogg",
+          "text": "Rok... no... break",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 64336,
+          "filename": "Mon_Neltharion_Rokmora_Shatter_Precast_Exertion",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/151/1260695/MON_Crystal_Fury_Aggro_01.ogg",
+          "text": "League of Legends",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "League of Legends",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54555,
+          "filename": "VO_70_Rokmora_06",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/142/1275534/VO_70_Rokmora_06.ogg",
+          "text": "Nothing beat rock!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Nothing beat rock!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54553,
+          "filename": "VO_70_Rokmora_05",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/1275530/VO_70_Rokmora_05.ogg",
+          "text": "Tiny Pedal! Big Pedal!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Tiny Pedal! Big Pedal!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 73118,
+          "filename": "MON_Neltharion_Rokmora_Shatter_Jump_Up_Exertion",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/231/1415399/VO_70_Rokmora_AttackCrit_01.ogg",
+          "text": "Rrrrrrrrrrrrrrrrrr!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Rrrrrrrrrrrrrrrrrr!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54548,
+          "filename": "VO_70_Rokmora_02",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/43/1275435/VO_70_Rokmora_02.ogg",
+          "text": "Look stronger!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Look stronger!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 113526,
+      "name": "Spiritwalker Ebonhorn",
+      "elite": false,
+      "quotes": [
+        {
+          "soundId": 54693,
+          "filename": "vo-70-wrathion-16",
+          "fileDataId": 1276010,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/106/1276010/VO_70_Wrathion_16.ogg",
+          "text": "No, I won't be doing that. I will find my own path and rejoin you on the other side.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54610,
+          "filename": "vo-70-wrathion-15",
+          "fileDataId": 1275668,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/20/1275668/VO_70_Wrathion_15.ogg",
+          "text": "These drogbar have been tapping into abilities they should not possess. No doubt it has something to do with the latent power still lingering within these rocks.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54608,
+          "filename": "vo-70-wrathion-14",
+          "fileDataId": 1275663,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/15/1275663/VO_70_Wrathion_14.ogg",
+          "text": "The Underking uses slaves to dig at the bones of my father?! He does not know the powers he meddles with.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 100701,
+      "name": "Spiritwalker Ebonhorn",
+      "elite": false,
+      "quotes": [
+        {
+          "soundId": 54720,
+          "filename": "vo-70-wrathion-20",
+          "fileDataId": 1276153,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/1276153/VO_70_Wrathion_20.ogg",
+          "text": "I am sorry heroes, I must leave you now. Yet know this, I have witnessed your deeds with pride and I am sure you will not fail Highmountain in this final hour.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54717,
+          "filename": "vo-70-wrathion-19",
+          "fileDataId": 1276136,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/232/1276136/VO_70_Wrathion_19.ogg",
+          "text": "I am sorry, heroes. It appears the treasure you seek will be found on the &quot;other&quot; end of this beast.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54592,
+          "filename": "vo-70-wrathion-13",
+          "fileDataId": 1275624,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/232/1275624/VO_70_Wrathion_13.ogg",
+          "text": "My father's ancient lair. There is still power within these rocks that should not be disturbed.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54736,
+          "filename": "vo-70-wrathion-21",
+          "fileDataId": 1276439,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/23/1276439/VO_70_Wrathion_21.ogg",
+          "text": "The hammer never chose you, Dargrul. It seeks a wielder who possesses true strength, and you were found lacking.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54738,
+          "filename": "vo-70-wrathion-22",
+          "fileDataId": 1276445,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/1276445/VO_70_Wrathion_22.ogg",
+          "text": "The power of the mad king Dargrul is broken and Highmountain has you to thank, heroes. Now, there are other family matters that require my attention. Farewell, I hope when next we meet it is under more peaceful circumstances.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 102228,
+      "name": "Stonedark Slave",
+      "elite": false,
+      "quotes": [
+        {
+          "soundId": 54692,
+          "filename": "vo-70-rockbait-fisher-01",
+          "fileDataId": 1276008,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/1276008/VO_70_Rockbait_Fisher_01.ogg",
+          "text": "Please, you've already taken all the food we have.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 91004,
+      "name": "Ularogg Cragshaper",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 54701,
+          "filename": "vo-70-ularogg-cragshaper-08",
+          "fileDataId": 1276080,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/176/1276080/VO_70_Ularogg_Cragshaper_08.ogg",
+          "text": "Go ahead and RUN. It will change nothing.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54704,
+          "filename": "vo-70-ularogg-cragshaper-11",
+          "fileDataId": 1276086,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/182/1276086/VO_70_Ularogg_Cragshaper_11.ogg",
+          "text": "Pay attention, Navarogg. I want you to see your heroes die.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54703,
+          "filename": "vo-70-ularogg-cragshaper-10",
+          "fileDataId": 1276084,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/180/1276084/VO_70_Ularogg_Cragshaper_10.ogg",
+          "text": "So this is what it feels like to break.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 68061,
+          "filename": "MON_Drogbar_AttackCrit (Ularogg Cragshaper)",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/1258419/MON_Drogbar_ArrackCrit01.ogg",
+          "text": "Is rejection.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Is rejection.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 73792,
+          "filename": "Spell_Ularogg_StrikeMountain_HandsMove_StoneGrind",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/17/943377/FX_Ogre_RollingBoulder_Rock_Loop.ogg",
+          "text": "Thank you for watching.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Thank you for watching.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54698,
+          "filename": "VO_70_Ularogg_Cragshaper_05",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/1276073/VO_70_Ularogg_Cragshaper_05.ogg",
+          "text": "High mountain itself rises against you!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "High mountain itself rises against you!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54700,
+          "filename": "VO_70_Ularogg_Cragshaper_07",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/173/1276077/VO_70_Ularogg_Cragshaper_07.ogg",
+          "text": "High Mountain will be your tomb.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "High Mountain will be your tomb.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54702,
+          "filename": "VO_70_Ularogg_Cragshaper_09",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/1276082/VO_70_Ularogg_Cragshaper_09.ogg",
+          "text": "You will never wield the power of Karsgaras!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "You will never wield the power of Karsgaras!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54707,
+          "filename": "VO_70_Ularogg_Cragshaper_14",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/188/1276092/VO_70_Ularogg_Cragshaper_14.ogg",
+          "text": "Ah, that felt wonderful.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Ah, that felt wonderful.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 60789,
+          "filename": "VO_60_ULAROGG_ATTACKCRIT",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/143/1373071/VO_60_ULAROGG_AttackCrit_01.ogg",
+          "text": "MMMMMMMMMMMMMMMMMMMMM幸g that I had two units in one run.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "MMMMMMMMMMMMMMMMMMMMM幸g that I had two units in one run.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54277,
+          "filename": "VO_70_Ularogg_Cragshaper_01",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/216/1274584/VO_70_Ularogg_Cragshaper_01.ogg",
+          "text": "My under king, this one still lives.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "My under king, this one still lives.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54633,
+          "filename": "VO_70_Ularogg_Cragshaper_02",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/89/1275737/VO_70_Ularogg_Cragshaper_02.ogg",
+          "text": "Navarag, the Traier, you would lead these intruders against us!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Navarag, the Traier, you would lead these intruders against us!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54678,
+          "filename": "VO_70_Ularogg_Cragshaper_03",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/1275933/VO_70_Ularogg_Cragshaper_03.ogg",
+          "text": "Either way, I will enjoy every moment of it. Rock Mora! Crush them!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Either way, I will enjoy every moment of it. Rock Mora! Crush them!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54696,
+          "filename": "VO_70_Ularogg_Cragshaper_04",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/129/1276033/VO_70_Ularogg_Cragshaper_04.ogg",
+          "text": "So brittle! So easy to break!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "So brittle! So easy to break!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54699,
+          "filename": "VO_70_Ularogg_Cragshaper_06",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/1276075/VO_70_Ularogg_Cragshaper_06.ogg",
+          "text": "Your bones shatter so easily!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Your bones shatter so easily!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54705,
+          "filename": "VO_70_Ularogg_Cragshaper_12",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/184/1276088/VO_70_Ularogg_Cragshaper_12.ogg",
+          "text": "Stand against the Dragbar and face the might of Kogarath himself!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Stand against the Dragbar and face the might of Kogarath himself!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 54706,
+          "filename": "VO_70_Ularogg_Cragshaper_13",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/186/1276090/VO_70_Ularogg_Cragshaper_13.ogg",
+          "text": "High Mountain Take You!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "High Mountain Take You!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 91005,
+      "name": "Naraxas",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 73821,
+          "filename": "Spell_Naraxas_Boss_Intro_Emerge",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/645422/MON_Sha_Boss_BattleRoar.ogg",
+          "text": "Especially with the",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Especially with the",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 73529,
+          "filename": "MON_Naraxas_AttackCrit_Boss",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/180/553652/LavaWorm_Attack_Crit_04.ogg",
+          "text": "Listen to parts by wearing or touching theandoos.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Listen to parts by wearing or touching theandoos.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 73531,
+          "filename": "MON_Naraxas_WoundCrt_Boss",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/177/553649/LavaWorm_Wound_Crit_04.ogg",
+          "text": "aram background music playing nice pop-rock lagi at a he at",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "aram background music playing nice pop-rock lagi at a he at",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 73584,
+          "filename": "Spell_Naraxas_Devour_SpitOut_State_Done",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/28/632860/FX_Amber_Explosion01.ogg",
+          "text": "THANKS FOR WATCHING!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "THANKS FOR WATCHING!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 73577,
+          "filename": "Spell_Naraxas_Yell",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/60/638268/SPELL_AZURESERPENT_BREATH_01.ogg",
+          "text": "Merry Christmas from Color Εptich Victory season 3",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Merry Christmas from Color Εptich Victory season 3",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 73578,
+          "filename": "Spell_Naraxas_Vomit_Element",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/568177/FrostBreath.ogg",
+          "text": "Thanks for evenly adjusting the gear pass. drastic",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Thanks for evenly adjusting the gear pass. drastic",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

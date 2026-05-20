@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "npc": "King Dazar",
+    "dungeon": "King's Rest",
+    "filterName": "dazar",
+    "namePattern": "^VO_.*Dazar",
+    "generated": "2026-05-19T13:16:32-07:00",
+    "soundCount": 11
+  },
+  "sounds": [
+    {
+      "soundId": 110004,
+      "filename": "VO_801_KING_DAZAR_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/247/2020855/VO_801_King_Dazar_Attack_01.ogg",
+      "npc": "King Dazar",
+      "dungeon": "King's Rest",
+      "transcript": "Grrr!"
+    },
+    {
+      "soundId": 110005,
+      "filename": "VO_801_KING_DAZAR_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/2020865/VO_801_King_Dazar_BattleShout_01.ogg",
+      "npc": "King Dazar",
+      "dungeon": "King's Rest",
+      "transcript": "AHHHHHHH"
+    },
+    {
+      "soundId": 127358,
+      "filename": "VO_81_NATHANOS_GREETING_Zuldazar",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/81/2001233/VO_801_Nathanos_Blightcaller_98_M.ogg",
+      "npc": "King Dazar",
+      "dungeon": "King's Rest",
+      "transcript": "Hmm, speaker of the horde."
+    },
+    {
+      "soundId": 102909,
+      "filename": "VO_801_King_Dazar_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/206/1957326/VO_801_King_Dazar_04_M.ogg",
+      "npc": "King Dazar",
+      "dungeon": "King's Rest",
+      "transcript": "Enough! You have earned the honor of dying by my hand!"
+    },
+    {
+      "soundId": 102918,
+      "filename": "VO_801_King_Dazar_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/215/1957335/VO_801_King_Dazar_13_M.ogg",
+      "npc": "King Dazar",
+      "dungeon": "King's Rest",
+      "transcript": "SIREN'S PROPHET OF LIES"
+    },
+    {
+      "soundId": 102922,
+      "filename": "VO_801_King_Dazar_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/219/1957339/VO_801_King_Dazar_17_M.ogg",
+      "npc": "King Dazar",
+      "dungeon": "King's Rest",
+      "transcript": "Crawl back to your master and see how he rewards failure!"
+    },
+    {
+      "soundId": 102907,
+      "filename": "VO_801_King_Dazar_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/204/1957324/VO_801_King_Dazar_02_M.ogg",
+      "npc": "King Dazar",
+      "dungeon": "King's Rest",
+      "transcript": "Even death cannot break the bond between us, my pets. Now feast, Tazala! Feast!"
+    },
+    {
+      "soundId": 102910,
+      "filename": "VO_801_King_Dazar_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/1957327/VO_801_King_Dazar_05_M.ogg",
+      "npc": "King Dazar",
+      "dungeon": "King's Rest",
+      "transcript": "None can withstand my blade!"
+    },
+    {
+      "soundId": 102913,
+      "filename": "VO_801_King_Dazar_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/210/1957330/VO_801_King_Dazar_08_M.ogg",
+      "npc": "King Dazar",
+      "dungeon": "King's Rest",
+      "transcript": "You will pay for desecrating my temple!"
+    },
+    {
+      "soundId": 102914,
+      "filename": "VO_801_King_Dazar_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/1957331/VO_801_King_Dazar_09_M.ogg",
+      "npc": "King Dazar",
+      "dungeon": "King's Rest",
+      "transcript": "Can it be? Yes! Unlust!"
+    },
+    {
+      "soundId": 110003,
+      "filename": "VO_801_KING_DAZAR_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/240/2020848/VO_801_King_Dazar_AttackCrit_01.ogg",
+      "npc": "King Dazar",
+      "dungeon": "King's Rest",
+      "transcript": "Yeah!"
+    }
+  ]
+}

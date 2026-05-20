@@ -1,0 +1,28 @@
+{
+    "meta":  {
+                 "schemaVersion":  2,
+                 "dungeon":  "Voidscar Arena",
+                 "wowheadZoneId":  16425,
+                 "expansion":  "Midnight",
+                 "generated":  "2026-05-19T16:14:57-07:00"
+             },
+    "npcs":  [
+                 {
+                     "id":  248015,
+                     "name":  "Charonus",
+                     "elite":  true,
+                     "quotes":  [
+                                    {
+                                        "soundId":  308401,
+                                        "filename":  "vo-120-charonus-29-m",
+                                        "fileDataId":  7331021,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/205/7331021/VO_120_Charonus_29_M.ogg",
+                                        "text":  "You're handling them with ease. Brutok, show them why they should regret that.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 }
+             ]
+}

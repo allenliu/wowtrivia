@@ -1,0 +1,13 @@
+{
+    "meta":  {
+                 "schemaVersion":  3,
+                 "dungeon":  "Grimrail Depot",
+                 "wowheadZoneId":  6984,
+                 "expansion":  "Warlords of Draenor",
+                 "generated":  "2026-05-19T18:25:33-07:00",
+                 "notes":  "Mixed Tier-1 (Wowhead Quotes) + Tier-2 (wiki + Whisper) entries."
+             },
+    "npcs":  [
+
+             ]
+}

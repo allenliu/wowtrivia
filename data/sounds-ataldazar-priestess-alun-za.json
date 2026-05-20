@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "npc": "Priestess Alun'za",
+    "dungeon": "Atal'Dazar",
+    "filterName": "alunza",
+    "namePattern": "^VO_.*Alunza",
+    "generated": "2026-05-19T13:48:23-07:00",
+    "soundCount": 19
+  },
+  "sounds": [
+    {
+      "soundId": 103230,
+      "filename": "VO_801_PRIESTESS_ALUNZA_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/1964133/VO_801_Priestess_Alunza_Wound_01.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Oh"
+    },
+    {
+      "soundId": 97331,
+      "filename": "VO_801_Priestess_Alunza_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/1860127/VO_801_Priestess_Alunza_04_F.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You should never have come here!"
+    },
+    {
+      "soundId": 97336,
+      "filename": "VO_801_Priestess_Alunza_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/44/1860140/VO_801_Priestess_Alunza_09_F.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Corruption be purified!"
+    },
+    {
+      "soundId": 97339,
+      "filename": "VO_801_Priestess_Alunza_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/47/1860143/VO_801_Priestess_Alunza_12_F.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You came for the gold, but you will leave behind your bones!"
+    },
+    {
+      "soundId": 103226,
+      "filename": "VO_801_PRIESTESS_ALUNZA_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/1964107/VO_801_Priestess_Alunza_AttackCrit_01.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 103228,
+      "filename": "VO_801_PRIESTESS_ALUNZA_DEATH",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/91/1964123/VO_801_Priestess_Alunza_Death_01.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Oh! Ohhhh!"
+    },
+    {
+      "soundId": 97328,
+      "filename": "VO_801_Priestess_Alunza_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/28/1860124/VO_801_Priestess_Alunza_01_F.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Death is a better fit for you."
+    },
+    {
+      "soundId": 97329,
+      "filename": "VO_801_Priestess_Alunza_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/1860125/VO_801_Priestess_Alunza_02_F.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You have been cleansed."
+    },
+    {
+      "soundId": 97330,
+      "filename": "VO_801_Priestess_Alunza_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/30/1860126/VO_801_Priestess_Alunza_03_F.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Only the worthy are buried here. Your corpses will feed the raptors."
+    },
+    {
+      "soundId": 97332,
+      "filename": "VO_801_Priestess_Alunza_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/40/1860136/VO_801_Priestess_Alunza_05_F.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "A TALDASAS POWER FLOWS THROUGH ME!"
+    },
+    {
+      "soundId": 97333,
+      "filename": "VO_801_Priestess_Alunza_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/41/1860137/VO_801_Priestess_Alunza_06_F.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "My claws will find your heart!"
+    },
+    {
+      "soundId": 97334,
+      "filename": "VO_801_Priestess_Alunza_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/42/1860138/VO_801_Priestess_Alunza_07_F.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "The gold answers my call."
+    },
+    {
+      "soundId": 97335,
+      "filename": "VO_801_Priestess_Alunza_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/43/1860139/VO_801_Priestess_Alunza_08_F.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "This gold is under my power."
+    },
+    {
+      "soundId": 97337,
+      "filename": "VO_801_Priestess_Alunza_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/1860141/VO_801_Priestess_Alunza_10_F.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You do not belong here!"
+    },
+    {
+      "soundId": 97338,
+      "filename": "VO_801_Priestess_Alunza_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/1860142/VO_801_Priestess_Alunza_11_F.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Servants of Yasma are not welcome here!"
+    },
+    {
+      "soundId": 97340,
+      "filename": "VO_801_Priestess_Alunza_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/48/1860144/VO_801_Priestess_Alunza_13_F.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "The pools must be cleansed."
+    },
+    {
+      "soundId": 103227,
+      "filename": "VO_801_PRIESTESS_ALUNZA_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/81/1964113/VO_801_Priestess_Alunza_Attack_01.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 103237,
+      "filename": "VO_801_Priestess_Alunza_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/110/1964398/VO_801_Priestess_Alunza_Battleshout_01.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "RAAAAAAAGH!"
+    },
+    {
+      "soundId": 103229,
+      "filename": "VO_801_PRIESTESS_ALUNZA_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/96/1964128/VO_801_Priestess_Alunza_WoundCrit_01.ogg",
+      "npc": "Priestess Alun'za",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Agh!"
+    }
+  ]
+}

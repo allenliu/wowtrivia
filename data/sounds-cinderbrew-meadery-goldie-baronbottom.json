@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "npc": "Goldie Baronbottom",
+    "dungeon": "Cinderbrew Meadery",
+    "filterName": "baronbottom",
+    "namePattern": "",
+    "generated": "2026-05-19T13:42:25-07:00",
+    "soundCount": 27
+  },
+  "sounds": [
+    {
+      "soundId": 251828,
+      "filename": "VO_110_Goldie_Baronbottom_20_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/5858890/VO_110_Goldie_Baronbottom_20_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "You goody goodies don't know who you're dealing with!"
+    },
+    {
+      "soundId": 251831,
+      "filename": "VO_110_Goldie_Baronbottom_23_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/5858893/VO_110_Goldie_Baronbottom_23_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Hey! You're really trying to be a bee in my barn, ain't ya?"
+    },
+    {
+      "soundId": 251833,
+      "filename": "VO_110_Goldie_Baronbottom_25_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/79/5858895/VO_110_Goldie_Baronbottom_25_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "You take out my barman, my prototype, and my beekeeper!"
+    },
+    {
+      "soundId": 247737,
+      "filename": "VO_110_Goldie_Baronbottom_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/172/5769388/VO_110_Goldie_Baronbottom_01_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Alright, you may have gotten my employees."
+    },
+    {
+      "soundId": 251834,
+      "filename": "VO_110_Goldie_Baronbottom_26_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/80/5858896/VO_110_Goldie_Baronbottom_26_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "I guess I'm gonna have to show ya and ya rockheaded friend, who's boss?"
+    },
+    {
+      "soundId": 251824,
+      "filename": "VO_110_Goldie_Baronbottom_16_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/59/5858875/VO_110_Goldie_Baronbottom_16_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Show them what we got on Tap, Eldryer!"
+    },
+    {
+      "soundId": 247742,
+      "filename": "VO_110_Goldie_Baronbottom_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/5769394/VO_110_Goldie_Baronbottom_06_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "The two is over."
+    },
+    {
+      "soundId": 247745,
+      "filename": "VO_110_Goldie_Baronbottom_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/5769397/VO_110_Goldie_Baronbottom_09_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Caching out!"
+    },
+    {
+      "soundId": 247747,
+      "filename": "VO_110_Goldie_Baronbottom_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/183/5769399/VO_110_Goldie_Baronbottom_11_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "That's what you get when you mess with the B-E-O!"
+    },
+    {
+      "soundId": 251825,
+      "filename": "VO_110_Goldie_Baronbottom_17_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/66/5858882/VO_110_Goldie_Baronbottom_17_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Yappel here signed some papers he didn't read. And now Goldie Bearin' Bottom is B-E-O of this joint."
+    },
+    {
+      "soundId": 251826,
+      "filename": "VO_110_Goldie_Baronbottom_18_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/72/5858888/VO_110_Goldie_Baronbottom_18_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Yeah, yeah, but there'll be more of it. More me, more money. That's good business."
+    },
+    {
+      "soundId": 251829,
+      "filename": "VO_110_Goldie_Baronbottom_21_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/5858891/VO_110_Goldie_Baronbottom_21_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "We had to lock up ya bees. Lettin' them be free range was too much labor."
+    },
+    {
+      "soundId": 251832,
+      "filename": "VO_110_Goldie_Baronbottom_24_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/5858894/VO_110_Goldie_Baronbottom_24_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "You may have disrupted my business, but I'm still boss, and this is still my maitre!"
+    },
+    {
+      "soundId": 251835,
+      "filename": "VO_110_Goldie_Baronbottom_27_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/81/5858897/VO_110_Goldie_Baronbottom_27_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "You do any more damage? And I'll catch you out, you hear me?"
+    },
+    {
+      "soundId": 247739,
+      "filename": "VO_110_Goldie_Baronbottom_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/175/5769391/VO_110_Goldie_Baronbottom_03_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "You won't be taking this mirror from me!"
+    },
+    {
+      "soundId": 247743,
+      "filename": "VO_110_Goldie_Baronbottom_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/5769395/VO_110_Goldie_Baronbottom_07_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Killing is my business and it's boomin'!"
+    },
+    {
+      "soundId": 247748,
+      "filename": "VO_110_Goldie_Baronbottom_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/184/5769400/VO_110_Goldie_Baronbottom_12_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "It was a risk. A verse. Market."
+    },
+    {
+      "soundId": 251827,
+      "filename": "VO_110_Goldie_Baronbottom_19_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/73/5858889/VO_110_Goldie_Baronbottom_19_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Hey! That meat elemental took months of R&D!"
+    },
+    {
+      "soundId": 251830,
+      "filename": "VO_110_Goldie_Baronbottom_22_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/76/5858892/VO_110_Goldie_Baronbottom_22_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "And the anger and frustration just makes their honey spicier! Right, Bank? Bank!"
+    },
+    {
+      "soundId": 251836,
+      "filename": "VO_110_Goldie_Baronbottom_28_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/82/5858898/VO_110_Goldie_Baronbottom_28_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "And now you're riding my bees like some nature-loving weirdo!"
+    },
+    {
+      "soundId": 247738,
+      "filename": "VO_110_Goldie_Baronbottom_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/174/5769390/VO_110_Goldie_Baronbottom_02_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "But now, you're dealing with the BEO herself!"
+    },
+    {
+      "soundId": 247740,
+      "filename": "VO_110_Goldie_Baronbottom_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/176/5769392/VO_110_Goldie_Baronbottom_04_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Just business!"
+    },
+    {
+      "soundId": 247741,
+      "filename": "VO_110_Goldie_Baronbottom_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/177/5769393/VO_110_Goldie_Baronbottom_05_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Meh, that one... fired."
+    },
+    {
+      "soundId": 247744,
+      "filename": "VO_110_Goldie_Baronbottom_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/180/5769396/VO_110_Goldie_Baronbottom_08_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Boop time!"
+    },
+    {
+      "soundId": 248591,
+      "filename": "VO_110_Goldie_Baronbottom_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/5779635/VO_110_Goldie_Baronbottom_13_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Just for you!"
+    },
+    {
+      "soundId": 251822,
+      "filename": "VO_110_Goldie_Baronbottom_14_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/5858873/VO_110_Goldie_Baronbottom_14_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Well, what do we have here? New customers?"
+    },
+    {
+      "soundId": 251823,
+      "filename": "VO_110_Goldie_Baronbottom_15_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/58/5858874/VO_110_Goldie_Baronbottom_15_F.ogg",
+      "npc": "Goldie Baronbottom",
+      "dungeon": "Cinderbrew Meadery",
+      "transcript": "Oh, are you looking for something a little hotter?"
+    }
+  ]
+}

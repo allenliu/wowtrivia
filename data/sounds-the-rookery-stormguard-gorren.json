@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "npc": "Stormguard Gorren",
+    "dungeon": "The Rookery",
+    "filterName": "gorren",
+    "namePattern": "",
+    "generated": "2026-05-19T18:10:39-07:00",
+    "soundCount": 16
+  },
+  "sounds": [
+    {
+      "soundId": 247944,
+      "filename": "VO_110_Stormguard_Gorren_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/140/5769612/VO_110_Stormguard_Gorren_05_M.ogg",
+      "npc": "Stormguard Gorren",
+      "dungeon": "The Rookery",
+      "transcript": "No, my mate!"
+    },
+    {
+      "soundId": 247946,
+      "filename": "VO_110_Stormguard_Gorren_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/142/5769614/VO_110_Stormguard_Gorren_07_M.ogg",
+      "npc": "Stormguard Gorren",
+      "dungeon": "The Rookery",
+      "transcript": "My fellow, you're ruin!"
+    },
+    {
+      "soundId": 247948,
+      "filename": "VO_110_Stormguard_Gorren_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/144/5769616/VO_110_Stormguard_Gorren_09_M.ogg",
+      "npc": "Stormguard Gorren",
+      "dungeon": "The Rookery",
+      "transcript": "Feel my blessing!"
+    },
+    {
+      "soundId": 251820,
+      "filename": "VO_110_Stormguard_Gorren_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/5858861/VO_110_Stormguard_Gorren_14_M.ogg",
+      "npc": "Stormguard Gorren",
+      "dungeon": "The Rookery",
+      "transcript": "Come then, face me. I will stand proud on the debris of your corpse."
+    },
+    {
+      "soundId": 247940,
+      "filename": "VO_110_Stormguard_Gorren_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/5769607/VO_110_Stormguard_Gorren_01_M.ogg",
+      "npc": "Stormguard Gorren",
+      "dungeon": "The Rookery",
+      "transcript": "The title, The Glory, it should have been mine, Bale Grimm!"
+    },
+    {
+      "soundId": 247941,
+      "filename": "VO_110_Stormguard_Gorren_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/137/5769609/VO_110_Stormguard_Gorren_02_M.ogg",
+      "npc": "Stormguard Gorren",
+      "dungeon": "The Rookery",
+      "transcript": "You never deserve to be Stormward!"
+    },
+    {
+      "soundId": 247942,
+      "filename": "VO_110_Stormguard_Gorren_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/5769610/VO_110_Stormguard_Gorren_03_M.ogg",
+      "npc": "Stormguard Gorren",
+      "dungeon": "The Rookery",
+      "transcript": "I command this rookery! By right!"
+    },
+    {
+      "soundId": 247943,
+      "filename": "VO_110_Stormguard_Gorren_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/5769611/VO_110_Stormguard_Gorren_04_M.ogg",
+      "npc": "Stormguard Gorren",
+      "dungeon": "The Rookery",
+      "transcript": "My strength prevails!"
+    },
+    {
+      "soundId": 247947,
+      "filename": "VO_110_Stormguard_Gorren_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/143/5769615/VO_110_Stormguard_Gorren_08_M.ogg",
+      "npc": "Stormguard Gorren",
+      "dungeon": "The Rookery",
+      "transcript": "Share in my gift."
+    },
+    {
+      "soundId": 247949,
+      "filename": "VO_110_Stormguard_Gorren_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/145/5769617/VO_110_Stormguard_Gorren_10_M.ogg",
+      "npc": "Stormguard Gorren",
+      "dungeon": "The Rookery",
+      "transcript": "Your death is my directive!"
+    },
+    {
+      "soundId": 247951,
+      "filename": "VO_110_Stormguard_Gorren_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/147/5769619/VO_110_Stormguard_Gorren_12_M.ogg",
+      "npc": "Stormguard Gorren",
+      "dungeon": "The Rookery",
+      "transcript": "The invaders are vanquished. My duty done."
+    },
+    {
+      "soundId": 247952,
+      "filename": "VO_110_Stormguard_Gorren_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/148/5769620/VO_110_Stormguard_Gorren_13_M.ogg",
+      "npc": "Stormguard Gorren",
+      "dungeon": "The Rookery",
+      "transcript": "I deserve this power."
+    },
+    {
+      "soundId": 251821,
+      "filename": "VO_110_Stormguard_Gorren_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/5858862/VO_110_Stormguard_Gorren_15_M.ogg",
+      "npc": "Stormguard Gorren",
+      "dungeon": "The Rookery",
+      "transcript": "The void writers follow me now"
+    },
+    {
+      "soundId": 268695,
+      "filename": "11.0 Dungeon - Rookery - Boss 2 - Storm Gorren - Chaotic Corruption - Missile Destination",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/110/973166/FX_Spirit_Vortex01.ogg",
+      "npc": "Stormguard Gorren",
+      "dungeon": "The Rookery",
+      "transcript": ""
+    },
+    {
+      "soundId": 247945,
+      "filename": "VO_110_Stormguard_Gorren_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/141/5769613/VO_110_Stormguard_Gorren_06_M.ogg",
+      "npc": "Stormguard Gorren",
+      "dungeon": "The Rookery",
+      "transcript": "CRUSHED BY MY POWER!"
+    },
+    {
+      "soundId": 247950,
+      "filename": "VO_110_Stormguard_Gorren_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/146/5769618/VO_110_Stormguard_Gorren_11_M.ogg",
+      "npc": "Stormguard Gorren",
+      "dungeon": "The Rookery",
+      "transcript": "The might of my hammer!"
+    }
+  ]
+}

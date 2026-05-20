@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "npc": "Archdruid Glaidalis",
+    "dungeon": "Darkheart Thicket",
+    "filterName": "glaidalis",
+    "namePattern": "",
+    "generated": "2026-05-19T17:46:04-07:00",
+    "soundCount": 28
+  },
+  "sounds": [
+    {
+      "soundId": 64339,
+      "filename": "Spell_NightmareDungeon_Glaidalis_PrimalRampage_Charge_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/1386378/SPELL_MA_Charged_Up_01.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "You"
+    },
+    {
+      "soundId": 54155,
+      "filename": "VO_70_Arch-Druid_Glaidalis_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/8/1272584/VO_70_Arch-Druid_Glaidalis_11.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I just had the strangest nightmare."
+    },
+    {
+      "soundId": 54147,
+      "filename": "VO_70_Arch-Druid_Glaidalis_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/248/1272568/VO_70_Arch-Druid_Glaidalis_03.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I will bleed the nightmare from you!"
+    },
+    {
+      "soundId": 54153,
+      "filename": "VO_70_Arch-Druid_Glaidalis_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/4/1272580/VO_70_Arch-Druid_Glaidalis_09.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I see now, I am the Defiler."
+    },
+    {
+      "soundId": 54162,
+      "filename": "VO_70_Arch-Druid_Glaidalis_18",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/22/1272598/VO_70_Arch-Druid_Glaidalis_18.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Your blood reeks of corruption."
+    },
+    {
+      "soundId": 54146,
+      "filename": "VO_70_Arch-Druid_Glaidalis_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/246/1272566/VO_70_Arch-Druid_Glaidalis_02.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Defilers, so it is you who have befell these woods with the nightmare"
+    },
+    {
+      "soundId": 54150,
+      "filename": "VO_70_Arch-Druid_Glaidalis_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/254/1272574/VO_70_Arch-Druid_Glaidalis_06.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I am Nature's Fury incarnate!"
+    },
+    {
+      "soundId": 54154,
+      "filename": "VO_70_Arch-Druid_Glaidalis_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/1272582/VO_70_Arch-Druid_Glaidalis_10.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "The nightmare clouds my thoughts no more."
+    },
+    {
+      "soundId": 54156,
+      "filename": "VO_70_Arch-Druid_Glaidalis_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/10/1272586/VO_70_Arch-Druid_Glaidalis_12.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Be purified in the light of the stars!"
+    },
+    {
+      "soundId": 54158,
+      "filename": "VO_70_Arch-Druid_Glaidalis_14",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/14/1272590/VO_70_Arch-Druid_Glaidalis_14.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Nature graces me with its bounty!"
+    },
+    {
+      "soundId": 54160,
+      "filename": "VO_70_Arch-Druid_Glaidalis_16",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/18/1272594/VO_70_Arch-Druid_Glaidalis_16.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "The nightmare will not take root in these sacred woods."
+    },
+    {
+      "soundId": 54161,
+      "filename": "VO_70_Arch-Druid_Glaidalis_17",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/20/1272596/VO_70_Arch-Druid_Glaidalis_17.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Stay down, Defiler!"
+    },
+    {
+      "soundId": 54163,
+      "filename": "VO_70_Arch-Druid_Glaidalis_19",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/24/1272600/VO_70_Arch-Druid_Glaidalis_19.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Only death can free you from the nightmare."
+    },
+    {
+      "soundId": 54935,
+      "filename": "VO_70_Arch-Druid_Glaidalis_24",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/22/1278230/VO_70_Arch-Druid_Glaidalis_24.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Your power burns. How have you twisted the size of a loom to obey your will?"
+    },
+    {
+      "soundId": 54936,
+      "filename": "VO_70_Arch-Druid_Glaidalis_25",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/24/1278232/VO_70_Arch-Druid_Glaidalis_25.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I sense a powerful druid among you. You dare to challenge my authority?"
+    },
+    {
+      "soundId": 64340,
+      "filename": "Spell_NightmareDungeon_Glaidalis_PrimalRamage_HeavyImpact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/203/1120203/Spell_Corruption_Heavy_Impact01.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "You"
+    },
+    {
+      "soundId": 64372,
+      "filename": "Spell_NightmareDungeon_Glaidalis_PrimalRampage_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/185/568249/BoneGolem_Cleave_Impact_Chest_02.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": ""
+    },
+    {
+      "soundId": 54145,
+      "filename": "VO_70_Arch-Druid_Glaidalis_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/244/1272564/VO_70_Arch-Druid_Glaidalis_01.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Defilers, I can smell the nightmare in your blood. Be gone from these woods or suffer nature's wrath!"
+    },
+    {
+      "soundId": 54148,
+      "filename": "VO_70_Arch-Druid_Glaidalis_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/250/1272570/VO_70_Arch-Druid_Glaidalis_04.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "By tooth and claw, be purged!"
+    },
+    {
+      "soundId": 54149,
+      "filename": "VO_70_Arch-Druid_Glaidalis_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/1272572/VO_70_Arch-Druid_Glaidalis_05.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I am the Vessel of Nature's Fury!"
+    },
+    {
+      "soundId": 54151,
+      "filename": "VO_70_Arch-Druid_Glaidalis_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/0/1272576/VO_70_Arch-Druid_Glaidalis_07.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "And do falladore!"
+    },
+    {
+      "soundId": 54152,
+      "filename": "VO_70_Arch-Druid_Glaidalis_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/1272578/VO_70_Arch-Druid_Glaidalis_08.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "The Wilds are safe from the nightmare once again."
+    },
+    {
+      "soundId": 54157,
+      "filename": "VO_70_Arch-Druid_Glaidalis_13",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/12/1272588/VO_70_Arch-Druid_Glaidalis_13.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "The Wilds, sustain me!"
+    },
+    {
+      "soundId": 54159,
+      "filename": "VO_70_Arch-Druid_Glaidalis_15",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/16/1272592/VO_70_Arch-Druid_Glaidalis_15.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I am one with the flows of nature!"
+    },
+    {
+      "soundId": 54931,
+      "filename": "VO_70_Arch-Druid_Glaidalis_20",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/14/1278222/VO_70_Arch-Druid_Glaidalis_20.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "You are blessed with great restorative powers, Druid. But I will rip you all apart in the end!"
+    },
+    {
+      "soundId": 54932,
+      "filename": "VO_70_Arch-Druid_Glaidalis_21",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/16/1278224/VO_70_Arch-Druid_Glaidalis_21.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "You fight with the fury of Ersoc himself! No! I will not be defeated!"
+    },
+    {
+      "soundId": 54933,
+      "filename": "VO_70_Arch-Druid_Glaidalis_22",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/18/1278226/VO_70_Arch-Druid_Glaidalis_22.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "What power comes from those fangs, Defiler? You fight with the strength of the ancients themselves!"
+    },
+    {
+      "soundId": 54934,
+      "filename": "VO_70_Arch-Druid_Glaidalis_23",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/20/1278228/VO_70_Arch-Druid_Glaidalis_23.ogg",
+      "npc": "Archdruid Glaidalis",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "What is that you hold Druid?"
+    }
+  ]
+}

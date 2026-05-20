@@ -1,0 +1,226 @@
+{
+    "meta":  {
+                 "schemaVersion":  2,
+                 "dungeon":  "Uldaman: Legacy of Tyr",
+                 "wowheadZoneId":  13968,
+                 "expansion":  "Dragonflight",
+                 "generated":  "2026-05-19T09:27:34-07:00"
+             },
+    "npcs":  [
+                 {
+                     "id":  191912,
+                     "name":  "Baelog",
+                     "elite":  true,
+                     "quotes":  [
+                                    {
+                                        "soundId":  203144,
+                                        "filename":  "vo-100-baelog-06-m",
+                                        "fileDataId":  4661564,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/60/4661564/VO_100_Baelog_06_M.ogg",
+                                        "text":  "Heroes, you can keep searchin' for... whatever it is you folks are after.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  203140,
+                                        "filename":  "vo-100-baelog-05-m",
+                                        "fileDataId":  4661560,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/56/4661560/VO_100_Baelog_05_M.ogg",
+                                        "text":  "Hmm, some kinda library.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 },
+                 {
+                     "id":  184581,
+                     "name":  "Baelog",
+                     "elite":  true,
+                     "quotes":  [
+                                    {
+                                        "soundId":  203139,
+                                        "filename":  "vo-100-baelog-04-m",
+                                        "fileDataId":  4661559,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/55/4661559/VO_100_Baelog_04_M.ogg",
+                                        "text":  "Least this lunkhead got the door open. Ye better go on while Olaf recovers.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  203205,
+                                        "filename":  "vo-100-baelog-10-m",
+                                        "fileDataId":  4661827,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/67/4661827/VO_100_Baelog_10_M.ogg",
+                                        "text":  "Much obliged, strangers. We'll lend ye a hand after we get our bearings.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  203134,
+                                        "filename":  "vo-100-baelog-03-m",
+                                        "fileDataId":  4661554,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/50/4661554/VO_100_Baelog_03_M.ogg",
+                                        "text":  "That did it! Now let's see what we can find inside.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  203133,
+                                        "filename":  "vo-100-baelog-02-m",
+                                        "fileDataId":  4661553,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/49/4661553/VO_100_Baelog_02_M.ogg",
+                                        "text":  "Want ta see somethin' nifty? Watch this!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 },
+                 {
+                     "id":  184582,
+                     "name":  "Eric \"The Swift\"",
+                     "elite":  true,
+                     "quotes":  [
+                                    {
+                                        "soundId":  203142,
+                                        "filename":  "vo-100-erik-the-swift-04-m",
+                                        "fileDataId":  4661562,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/58/4661562/VO_100_Erik_The_Swift_04_M.ogg",
+                                        "text":  "Maybe we can find a few treasure maps. We'll have a look while you go on ahead.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  203203,
+                                        "filename":  "vo-100-erik-the-swift-11-m",
+                                        "fileDataId":  4661825,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/65/4661825/VO_100_Erik_The_Swift_11_M.ogg",
+                                        "text":  "Okay, okay! We give up!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  203135,
+                                        "filename":  "vo-100-erik-the-swift-03-m",
+                                        "fileDataId":  4661555,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/51/4661555/VO_100_Erik_The_Swift_03_M.ogg",
+                                        "text":  "Tyr's marvelous mustache! Another locked door.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  203132,
+                                        "filename":  "vo-100-erik-the-swift-02-m",
+                                        "fileDataId":  4661552,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/48/4661552/VO_100_Erik_The_Swift_02_M.ogg",
+                                        "text":  "We know how ta open the door, but that ugly rockhead always kept us out.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  203143,
+                                        "filename":  "vo-100-erik-the-swift-05-m",
+                                        "fileDataId":  4661563,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/59/4661563/VO_100_Erik_The_Swift_05_M.ogg",
+                                        "text":  "Whoa... look at all this stuff!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 },
+                 {
+                     "id":  191913,
+                     "name":  "Olaf",
+                     "elite":  true,
+                     "quotes":  [
+                                    {
+                                        "soundId":  203141,
+                                        "filename":  "vo-100-olaf-06-m",
+                                        "fileDataId":  4661561,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/57/4661561/VO_100_Olaf_06_M.ogg",
+                                        "text":  "A what now? All I see are books!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  203136,
+                                        "filename":  "vo-100-olaf-03-m",
+                                        "fileDataId":  4661556,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/52/4661556/VO_100_Olaf_03_M.ogg",
+                                        "text":  "Leave this to me!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  203138,
+                                        "filename":  "vo-100-olaf-05-m",
+                                        "fileDataId":  4661558,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/54/4661558/VO_100_Olaf_05_M.ogg",
+                                        "text":  "OOF! My head...",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  203137,
+                                        "filename":  "vo-100-olaf-04-m",
+                                        "fileDataId":  4661557,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/53/4661557/VO_100_Olaf_04_M.ogg",
+                                        "text":  "SHIELD CHAAAARGE!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  203145,
+                                        "filename":  "vo-100-olaf-07-m",
+                                        "fileDataId":  4661565,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/61/4661565/VO_100_Olaf_07_M.ogg",
+                                        "text":  "Yeah, we're callin' dibs on this room! Safe travels, all!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 },
+                 {
+                     "id":  184580,
+                     "name":  "Olaf",
+                     "elite":  true,
+                     "quotes":  [
+                                    {
+                                        "soundId":  203131,
+                                        "filename":  "vo-100-olaf-02-m",
+                                        "fileDataId":  4661551,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/47/4661551/VO_100_Olaf_02_M.ogg",
+                                        "text":  "Nice work! That trogg has been a real pest.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  203204,
+                                        "filename":  "vo-100-olaf-12-m",
+                                        "fileDataId":  4661826,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/66/4661826/VO_100_Olaf_12_M.ogg",
+                                        "text":  "Ya know, I think that tussle actually helped clear my head!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 }
+             ]
+}

@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "npc": "Corewarden Nysarra",
+    "dungeon": "Nexus-Point Xenas",
+    "filterName": "nysarra",
+    "namePattern": "",
+    "generated": "2026-05-19T18:32:22-07:00",
+    "soundCount": 14
+  },
+  "sounds": [
+    {
+      "soundId": 308105,
+      "filename": "VO_120_Corewarden_Nysarra_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/173/7329965/VO_120_Corewarden_Nysarra_07_F.ogg",
+      "npc": "Corewarden Nysarra",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "You have annoyed me for far too long!"
+    },
+    {
+      "soundId": 308101,
+      "filename": "VO_120_Corewarden_Nysarra_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/7329961/VO_120_Corewarden_Nysarra_03_F.ogg",
+      "npc": "Corewarden Nysarra",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Eliminate these intruders or be devoured!"
+    },
+    {
+      "soundId": 308108,
+      "filename": "VO_120_Corewarden_Nysarra_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/176/7329968/VO_120_Corewarden_Nysarra_10_F.ogg",
+      "npc": "Corewarden Nysarra",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Must I do everything myself?"
+    },
+    {
+      "soundId": 308100,
+      "filename": "VO_120_Corewarden_Nysarra_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/168/7329960/VO_120_Corewarden_Nysarra_02_F.ogg",
+      "npc": "Corewarden Nysarra",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Go! Show me why I tolerate your incompetence!"
+    },
+    {
+      "soundId": 308099,
+      "filename": "VO_120_Corewarden_Nysarra_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/166/7329958/VO_120_Corewarden_Nysarra_01_F.ogg",
+      "npc": "Corewarden Nysarra",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Prove your worth, you pathetic lackeys!"
+    },
+    {
+      "soundId": 308102,
+      "filename": "VO_120_Corewarden_Nysarra_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/7329962/VO_120_Corewarden_Nysarra_04_F.ogg",
+      "npc": "Corewarden Nysarra",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Minions, do not disappoint me again!"
+    },
+    {
+      "soundId": 308106,
+      "filename": "VO_120_Corewarden_Nysarra_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/174/7329966/VO_120_Corewarden_Nysarra_08_F.ogg",
+      "npc": "Corewarden Nysarra",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "There will be no end to your suffering."
+    },
+    {
+      "soundId": 308110,
+      "filename": "VO_120_Corewarden_Nysarra_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/7329970/VO_120_Corewarden_Nysarra_12_F.ogg",
+      "npc": "Corewarden Nysarra",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "I won't be satisfied until Lothraxian shares your fate!"
+    },
+    {
+      "soundId": 308107,
+      "filename": "VO_120_Corewarden_Nysarra_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/175/7329967/VO_120_Corewarden_Nysarra_09_F.ogg",
+      "npc": "Corewarden Nysarra",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Yet another battle, I am still wounded from the last one!"
+    },
+    {
+      "soundId": 308109,
+      "filename": "VO_120_Corewarden_Nysarra_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/177/7329969/VO_120_Corewarden_Nysarra_11_F.ogg",
+      "npc": "Corewarden Nysarra",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "All of this, for that red shit Xel-"
+    },
+    {
+      "soundId": 308160,
+      "filename": "VO_120_Corewarden_Nysarra_14_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/126/7330174/VO_120_Corewarden_Nysarra_14_F.ogg",
+      "npc": "Corewarden Nysarra",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Is there no end to you intruders? Do us all a favor and die before I have to kill you myself!"
+    },
+    {
+      "soundId": 308103,
+      "filename": "VO_120_Corewarden_Nysarra_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/7329963/VO_120_Corewarden_Nysarra_05_F.ogg",
+      "npc": "Corewarden Nysarra",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "Useless! At least you can fuel my power!"
+    },
+    {
+      "soundId": 308104,
+      "filename": "VO_120_Corewarden_Nysarra_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/172/7329964/VO_120_Corewarden_Nysarra_06_F.ogg",
+      "npc": "Corewarden Nysarra",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "The light still burns! Curse that damn Nathrezim!"
+    },
+    {
+      "soundId": 308111,
+      "filename": "VO_120_Corewarden_Nysarra_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/7329971/VO_120_Corewarden_Nysarra_13_F.ogg",
+      "npc": "Corewarden Nysarra",
+      "dungeon": "Nexus-Point Xenas",
+      "transcript": "What a miserable display! You have all failed in your purpose!"
+    }
+  ]
+}

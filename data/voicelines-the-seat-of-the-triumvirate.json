@@ -1,0 +1,713 @@
+{
+  "meta": {
+    "schemaVersion": 3,
+    "dungeon": "The Seat of the Triumvirate",
+    "wowheadZoneId": 8910,
+    "expansion": "Legion",
+    "generated": "2026-05-19T18:08:45-07:00",
+    "notes": "Mixed Tier-1 (Wowhead Quotes) + Tier-2 (wiki + Whisper) entries."
+  },
+  "npcs": [
+    {
+      "id": 123743,
+      "name": "Alleria Windrunner",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 87561,
+          "filename": "vo-73-alleria-windrunner-120-f",
+          "fileDataId": 1688326,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/1688326/VO_73_Alleria_Windrunner_120_F.ogg",
+          "text": "Figure out their motives... and put a stop to their efforts.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 88067,
+          "filename": "vo-73-alleria-windrunner-131-f",
+          "fileDataId": 1689360,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/16/1689360/VO_73_Alleria_Windrunner_131_F.ogg",
+          "text": "Dark portals are tearing open reality, allowing shadow energy to pour into our realm. Put a stop to this, heroes!",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87553,
+          "filename": "vo-73-alleria-windrunner-114-f",
+          "fileDataId": 1688312,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/248/1688312/VO_73_Alleria_Windrunner_114_F.ogg",
+          "text": "How did a being of the Light become a creature of Shadow?",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87554,
+          "filename": "vo-73-alleria-windrunner-115-f",
+          "fileDataId": 1688313,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/1688313/VO_73_Alleria_Windrunner_115_F.ogg",
+          "text": "I feel the fallen naaru's power. It... beckons me.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87566,
+          "filename": "vo-73-alleria-windrunner-125-f",
+          "fileDataId": 1688331,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/11/1688331/VO_73_Alleria_Windrunner_125_F.ogg",
+          "text": "I sense great despair emanating from within. L'ura...",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87557,
+          "filename": "vo-73-alleria-windrunner-118-f",
+          "fileDataId": 1688316,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/1688316/VO_73_Alleria_Windrunner_118_F.ogg",
+          "text": "It seems my training is complete.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87552,
+          "filename": "vo-73-alleria-windrunner-113-f",
+          "fileDataId": 1688311,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/247/1688311/VO_73_Alleria_Windrunner_113_F.ogg",
+          "text": "Such chaos... such anguish. I have never sensed anything like it before.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87564,
+          "filename": "vo-73-alleria-windrunner-123-f",
+          "fileDataId": 1688329,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/9/1688329/VO_73_Alleria_Windrunner_123_F.ogg",
+          "text": "The Shadowguard is building up its presence near the temple.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 88069,
+          "filename": "vo-73-alleria-windrunner-133-f",
+          "fileDataId": 1689362,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/18/1689362/VO_73_Alleria_Windrunner_133_F.ogg",
+          "text": "The beast has been defeated. Well done, champions.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87556,
+          "filename": "vo-73-alleria-windrunner-117-f",
+          "fileDataId": 1688315,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/1688315/VO_73_Alleria_Windrunner_117_F.ogg",
+          "text": "The voices are louder now. More insistent. But they do not control me.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 89414,
+          "filename": "vo-73-alleria-windrunner-143-f",
+          "fileDataId": 1708193,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/161/1708193/VO_73_Alleria_Windrunner_143_F.ogg",
+          "text": "The way is open! Hurry, heroes!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 125836,
+      "name": "Alleria Windrunner",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 87567,
+          "filename": "vo-73-alleria-windrunner-126-f",
+          "fileDataId": 1688332,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/12/1688332/VO_73_Alleria_Windrunner_126_F.ogg",
+          "text": "Understood. Champions, once the door is open, clear the way to L'ura. We will be right behind you.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 123187,
+      "name": "Alleria Windrunner",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 87562,
+          "filename": "vo-73-alleria-windrunner-121-f",
+          "fileDataId": 1688327,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/1688327/VO_73_Alleria_Windrunner_121_F.ogg",
+          "text": "Champions! Over Here!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 88064,
+          "filename": "vo-73-alleria-windrunner-128-f",
+          "fileDataId": 1689357,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/13/1689357/VO_73_Alleria_Windrunner_128_F.ogg",
+          "text": "An entity from the Void has emerged into our world. It must not be allowed to spread its corruption.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 88065,
+          "filename": "vo-73-alleria-windrunner-129-f",
+          "fileDataId": 1689358,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/14/1689358/VO_73_Alleria_Windrunner_129_F.ogg",
+          "text": "Something foul is stalking these grounds, heroes. Hunt it down and destroy it.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 125099,
+      "name": "Locus-Walker",
+      "elite": false,
+      "quotes": [
+        {
+          "soundId": 87824,
+          "filename": "vo-73-locus-walker-15-m",
+          "fileDataId": 1688860,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/28/1688860/VO_73_Locus-Walker_15_M.ogg",
+          "text": "Disrupting their efforts would benefit us all. Also, their commander here has a particular item that would be useful to me.",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87829,
+          "filename": "vo-73-locus-walker-20-m",
+          "fileDataId": 1688865,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/1688865/VO_73_Locus-Walker_20_M.ogg",
+          "text": "It is rare that a naaru falls into Void this way. The few cases I know of have occurred when mortals were involved. What fascinating implications...",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87836,
+          "filename": "vo-73-locus-walker-27-m",
+          "fileDataId": 1688872,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/40/1688872/VO_73_Locus-Walker_27_M.ogg",
+          "text": "Let's not get ahead of ourselves. We need to test the limits of this newfound power. Come.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87830,
+          "filename": "vo-73-locus-walker-21-m",
+          "fileDataId": 1688866,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/34/1688866/VO_73_Locus-Walker_21_M.ogg",
+          "text": "Such musings can wait, though. This entity must die.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87825,
+          "filename": "vo-73-locus-walker-16-m",
+          "fileDataId": 1688861,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/1688861/VO_73_Locus-Walker_16_M.ogg",
+          "text": "Thank you for removing the obstacles between me and this staff, heroes.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87831,
+          "filename": "vo-73-locus-walker-22-m",
+          "fileDataId": 1688867,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/1688867/VO_73_Locus-Walker_22_M.ogg",
+          "text": "The Void is a force of change... of transformation. Shadows are fluid, ever shifting.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87857,
+          "filename": "vo-73-locus-walker-48-m",
+          "fileDataId": 1688922,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/90/1688922/VO_73_Locus-Walker_48_M.ogg",
+          "text": "Yes, the naaru. We must get inside. Alleria, the skills you have learned can open the way.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87835,
+          "filename": "vo-73-locus-walker-26-m",
+          "fileDataId": 1688871,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/39/1688871/VO_73_Locus-Walker_26_M.ogg",
+          "text": "You asked me to teach you to use the Void as a weapon. Now that weapon is you.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87832,
+          "filename": "vo-73-locus-walker-23-m",
+          "fileDataId": 1688868,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/36/1688868/VO_73_Locus-Walker_23_M.ogg",
+          "text": "You stand on the cusp of destiny, Alleria. There will be choices to make... and consequences to face.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87834,
+          "filename": "vo-73-locus-walker-25-m",
+          "fileDataId": 1688870,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/38/1688870/VO_73_Locus-Walker_25_M.ogg",
+          "text": "You survived... interesting! How do you feel?",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 125840,
+      "name": "Locus-Walker",
+      "elite": false,
+      "quotes": [
+        {
+          "soundId": 87827,
+          "filename": "vo-73-locus-walker-18-m",
+          "fileDataId": 1688863,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/1688863/VO_73_Locus-Walker_18_M.ogg",
+          "text": "Eliminating him will give us an opportunity to get in ourselves.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87828,
+          "filename": "vo-73-locus-walker-19-m",
+          "fileDataId": 1688864,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/32/1688864/VO_73_Locus-Walker_19_M.ogg",
+          "text": "I'll see to opening the way once he's taken care of.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87826,
+          "filename": "vo-73-locus-walker-17-m",
+          "fileDataId": 1688862,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/30/1688862/VO_73_Locus-Walker_17_M.ogg",
+          "text": "Yes, this will do nicely. You'll find their viceroy near the entrance to the temple, feebly trying to break in.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 122316,
+      "name": "Saprish",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 87075,
+          "filename": "vo-73-saprish-02-m",
+          "fileDataId": 1686220,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/204/1686220/VO_73_Saprish_02_M.ogg",
+          "text": "My pets hunger.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87076,
+          "filename": "VO_73_Saprish_03_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/205/1686221/VO_73_Saprish_03_M.ogg",
+          "text": "A simple tactical error.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "A simple tactical error.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87084,
+          "filename": "VO_73_Saprish_11_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/1686229/VO_73_Saprish_11_M.ogg",
+          "text": "We are being overrun! Get in there and deal with this incursion!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "We are being overrun! Get in there and deal with this incursion!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87085,
+          "filename": "VO_73_Saprish_12_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/214/1686230/VO_73_Saprish_12_M.ogg",
+          "text": "It seems this nuisance requires a more personal touch. I shall handle you myself!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "It seems this nuisance requires a more personal touch. I shall handle you myself!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87074,
+          "filename": "VO_73_Saprish_01_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/203/1686219/VO_73_Saprish_01_M.ogg",
+          "text": "Our efforts will not be interrupted!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Our efforts will not be interrupted!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87077,
+          "filename": "VO_73_Saprish_04_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/206/1686222/VO_73_Saprish_04_M.ogg",
+          "text": "I did not foresee this.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "I did not foresee this.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87078,
+          "filename": "VO_73_Saprish_05_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/1686223/VO_73_Saprish_05_M.ogg",
+          "text": "I shall always be one step ahead!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "I shall always be one step ahead!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87079,
+          "filename": "VO_73_Saprish_06_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/1686224/VO_73_Saprish_06_M.ogg",
+          "text": "Strike hard and fast!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Strike hard and fast!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87080,
+          "filename": "VO_73_Saprish_07_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/1686225/VO_73_Saprish_07_M.ogg",
+          "text": "More father for my beauties!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "More father for my beauties!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87081,
+          "filename": "VO_73_Saprish_08_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/210/1686226/VO_73_Saprish_08_M.ogg",
+          "text": "So easily outclassed!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "So easily outclassed!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87082,
+          "filename": "VO_73_Saprish_09_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/1686227/VO_73_Saprish_09_M.ogg",
+          "text": "Fools! We shall push you back! Our mission will not be jeopardized!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Fools! We shall push you back! Our mission will not be jeopardized!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87083,
+          "filename": "VO_73_Saprish_10_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/212/1686228/VO_73_Saprish_10_M.ogg",
+          "text": "We will not be pushed out! Bring in more forces from the void to deal with these intruders!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "We will not be pushed out! Bring in more forces from the void to deal with these intruders!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 122056,
+      "name": "Viceroy Nezhar",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 87091,
+          "filename": "vo-73-viceroy-nezhar-02-m",
+          "fileDataId": 1686252,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/236/1686252/VO_73_Viceroy_Nezhar_02_M.ogg",
+          "text": "I shall bring you to your twilight!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87090,
+          "filename": "VO_73_Viceroy_Nezhar_01_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/235/1686251/VO_73_Viceroy_Nezhar_01_M.ogg",
+          "text": "The void calls to me.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "The void calls to me.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87097,
+          "filename": "VO_73_Viceroy_Nezhar_08_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/242/1686258/VO_73_Viceroy_Nezhar_08_M.ogg",
+          "text": "The darkness takes you.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "The darkness takes you.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87092,
+          "filename": "VO_73_Viceroy_Nezhar_03_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/237/1686253/VO_73_Viceroy_Nezhar_03_M.ogg",
+          "text": "No, the darkness was to be mine.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "No, the darkness was to be mine.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87093,
+          "filename": "VO_73_Viceroy_Nezhar_04_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/238/1686254/VO_73_Viceroy_Nezhar_04_M.ogg",
+          "text": "My death cannot stop it. The void will consume all.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "My death cannot stop it. The void will consume all.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87094,
+          "filename": "VO_73_Viceroy_Nezhar_05_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/239/1686255/VO_73_Viceroy_Nezhar_05_M.ogg",
+          "text": "Your life ends now!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Your life ends now!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87095,
+          "filename": "VO_73_Viceroy_Nezhar_06_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/240/1686256/VO_73_Viceroy_Nezhar_06_M.ogg",
+          "text": "Stare into the abyss, and no despair.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Stare into the abyss, and no despair.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87096,
+          "filename": "VO_73_Viceroy_Nezhar_07_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/241/1686257/VO_73_Viceroy_Nezhar_07_M.ogg",
+          "text": "Your light fades.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Your light fades.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87098,
+          "filename": "VO_73_Viceroy_Nezhar_09_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/243/1686259/VO_73_Viceroy_Nezhar_09_M.ogg",
+          "text": "Let me satisfy your curiosity.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Let me satisfy your curiosity.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 122313,
+      "name": "Zuraal the Ascended",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 87134,
+          "filename": "vo-73-zuraal-the-ascended-04-m",
+          "fileDataId": 1686336,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/1686336/VO_73_Zuraal_the_Ascended_04_M.ogg",
+          "text": "Clarity... comes to me. The Void... was weak.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87135,
+          "filename": "vo-73-zuraal-the-ascended-05-m",
+          "fileDataId": 1686337,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/1686337/VO_73_Zuraal_the_Ascended_05_M.ogg",
+          "text": "Darkness give me strength!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 89529,
+          "filename": "VO_73_ZURAAL_THE_ASCENDED_WOUNDCRIT",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/93/1709661/VO_73_Zuraal_the_Ascended_WoundCrit_01.ogg",
+          "text": "Local level",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Local level",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87131,
+          "filename": "VO_73_Zuraal_the_Ascended_01_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/61/1686333/VO_73_Zuraal_the_Ascended_01_M.ogg",
+          "text": "The void consumes the weak.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "The void consumes the weak.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87133,
+          "filename": "VO_73_Zuraal_the_Ascended_03_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/1686335/VO_73_Zuraal_the_Ascended_03_M.ogg",
+          "text": "Uuuh, such strength.",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Uuuh, such strength.",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87137,
+          "filename": "VO_73_Zuraal_the_Ascended_07_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1686339/VO_73_Zuraal_the_Ascended_07_M.ogg",
+          "text": "To the void with you!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "To the void with you!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87136,
+          "filename": "VO_73_Zuraal_the_Ascended_06_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/66/1686338/VO_73_Zuraal_the_Ascended_06_M.ogg",
+          "text": "I will end you!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "I will end you!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 87138,
+          "filename": "VO_73_Zuraal_the_Ascended_08_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/1686340/VO_73_Zuraal_the_Ascended_08_M.ogg",
+          "text": "I shall send you to the darkness!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "I shall send you to the darkness!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

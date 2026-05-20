@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "npc": "Amalgam of Souls",
+    "dungeon": "Black Rook Hold",
+    "filterName": "amalgam_of_souls",
+    "namePattern": "",
+    "generated": "2026-05-19T17:08:44-07:00",
+    "soundCount": 13
+  },
+  "sounds": [
+    {
+      "soundId": 54509,
+      "filename": "VO_70_Amalgam_of_Souls_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/1275354/VO_70_Amalgam_of_Souls_01.ogg",
+      "npc": "Amalgam of Souls",
+      "dungeon": "Black Rook Hold",
+      "transcript": "This... this hunger!"
+    },
+    {
+      "soundId": 54522,
+      "filename": "VO_70_Amalgam_of_Souls_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/245/1275381/VO_70_Amalgam_of_Souls_05.ogg",
+      "npc": "Amalgam of Souls",
+      "dungeon": "Black Rook Hold",
+      "transcript": "I feed on your essence!"
+    },
+    {
+      "soundId": 54516,
+      "filename": "VO_70_Amalgam_of_Souls_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/232/1275368/VO_70_Amalgam_of_Souls_02.ogg",
+      "npc": "Amalgam of Souls",
+      "dungeon": "Black Rook Hold",
+      "transcript": "The harvest has come!"
+    },
+    {
+      "soundId": 54521,
+      "filename": "VO_70_Amalgam_of_Souls_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/243/1275379/VO_70_Amalgam_of_Souls_04.ogg",
+      "npc": "Amalgam of Souls",
+      "dungeon": "Black Rook Hold",
+      "transcript": "This is energy. It is too much!"
+    },
+    {
+      "soundId": 54562,
+      "filename": "VO_70_Amalgam_of_Souls_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/161/1275553/VO_70_Amalgam_of_Souls_06.ogg",
+      "npc": "Amalgam of Souls",
+      "dungeon": "Black Rook Hold",
+      "transcript": "You! Join us!"
+    },
+    {
+      "soundId": 54564,
+      "filename": "VO_70_Amalgam_of_Souls_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/165/1275557/VO_70_Amalgam_of_Souls_08.ogg",
+      "npc": "Amalgam of Souls",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Leave this meegra vessel!"
+    },
+    {
+      "soundId": 54639,
+      "filename": "VO_70_Amalgam_of_Souls_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/1275749/VO_70_Amalgam_of_Souls_09.ogg",
+      "npc": "Amalgam of Souls",
+      "dungeon": "Black Rook Hold",
+      "transcript": "What are we?"
+    },
+    {
+      "soundId": 54518,
+      "filename": "VO_70_Amalgam_of_Souls_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/236/1275372/VO_70_Amalgam_of_Souls_03.ogg",
+      "npc": "Amalgam of Souls",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Consume De-Power!"
+    },
+    {
+      "soundId": 72873,
+      "filename": "VO_70_AMALGAM_OF_SOULS_STAELLIS_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/1495751/VO_70_Amalgam_of_Souls_Staellis_Attack_01.ogg",
+      "npc": "Amalgam of Souls",
+      "dungeon": "Black Rook Hold",
+      "transcript": "demo"
+    },
+    {
+      "soundId": 72875,
+      "filename": "VO_70_AMALGAM_OF_SOULS_STAELLIS_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/1495765/VO_70_Amalgam_of_Souls_Staellis_Wound_01.ogg",
+      "npc": "Amalgam of Souls",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 54563,
+      "filename": "VO_70_Amalgam_of_Souls_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/163/1275555/VO_70_Amalgam_of_Souls_07.ogg",
+      "npc": "Amalgam of Souls",
+      "dungeon": "Black Rook Hold",
+      "transcript": "Ancient souls of the Black Rook, rise and join our chorus!"
+    },
+    {
+      "soundId": 72874,
+      "filename": "VO_70_AMALGAM_OF_SOULS_STAELLIS_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/1495760/VO_70_Amalgam_of_Souls_Staellis_AttackCrit_01.ogg",
+      "npc": "Amalgam of Souls",
+      "dungeon": "Black Rook Hold",
+      "transcript": "NAH!"
+    },
+    {
+      "soundId": 72876,
+      "filename": "VO_70_AMALGAM_OF_SOULS_STAELLIS_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/222/1495774/VO_70_Amalgam_of_Souls_Staellis_WoundCrit_01.ogg",
+      "npc": "Amalgam of Souls",
+      "dungeon": "Black Rook Hold",
+      "transcript": "AAH!"
+    }
+  ]
+}

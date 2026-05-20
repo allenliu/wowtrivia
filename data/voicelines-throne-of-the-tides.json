@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "schemaVersion": 2,
+    "dungeon": "Throne of the Tides",
+    "wowheadZoneId": 5004,
+    "expansion": "Cataclysm",
+    "generated": "2026-05-19T05:36:36-07:00"
+  },
+  "npcs": [
+    {
+      "id": 40765,
+      "name": "Commander Ulthok",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 18542,
+          "filename": "vo-tt-ulthok-death03",
+          "fileDataId": 562997,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/562997/VO_TT_Ulthok_Death03.ogg",
+          "text": "Ywaq maq oou.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 40825,
+      "name": "Erunak Stonespeaker",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 18664,
+          "filename": "vo-tt-erunak-postfight01",
+          "fileDataId": 548233,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/137/548233/VO_TT__Erunak_PostFight01.ogg",
+          "text": "I am... weary. You must carry on without me. I shall take my leave once my strength has returned.",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 40586,
+      "name": "Lady Naz'jar",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 18893,
+          "filename": "vo-tt-nazjar-event08",
+          "fileDataId": 556280,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/248/556280/VO_TT_Nazjar_Event08.ogg",
+          "text": "Destroy these intruders! Leave them for the great dark beyond!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 18892,
+          "filename": "vo-tt-nazjar-event07",
+          "fileDataId": 556245,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/556245/VO_TT_Nazjar_Event07.ogg",
+          "text": "Take arms, minions! Rise from the icy depths!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 18889,
+          "filename": "vo-tt-nazjar-event04",
+          "fileDataId": 556220,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/188/556220/VO_TT_Nazjar_Event04.ogg",
+          "text": "Ulthok, stop them...",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 18886,
+          "filename": "vo-tt-nazjar-event01",
+          "fileDataId": 556226,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/194/556226/VO_TT_Nazjar_Event01.ogg",
+          "text": "You have interfered with our plans for the last time, mortals!",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 40792,
+      "name": "Neptulon",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 19476,
+          "filename": "vo-tt-neptulon-fight05",
+          "fileDataId": 556444,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/156/556444/VO_TT_Neptulon_Fight05.ogg",
+          "text": "The beast has returned! It must not pollute my waters!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

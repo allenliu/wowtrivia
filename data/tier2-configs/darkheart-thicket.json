@@ -1,0 +1,38 @@
+{
+  "dungeon": "Darkheart Thicket",
+  "slug": "darkheart-thicket",
+  "wowheadZoneId": 7673,
+  "expansion": "Legion",
+  "bosses": [
+    { "id": 96512, "name": "Archdruid Glaidalis", "filterName": "glaidalis", "quotes": [
+      { "context": "Intro", "text": "Defilers... I can smell the Nightmare in your blood. Be gone from these woods or suffer nature's wrath!" },
+      { "context": "Aggro", "text": "Defilers... so it is you who have befouled these woods with the Nightmare." },
+      { "context": "Druid in party", "text": "I sense a powerful druid among you. You dare to challenge my authority?" },
+      { "context": "Grievous Leap", "text": "I will bleed the Nightmare from you!" },
+      { "context": "Primal Rampage", "text": "I am nature's fury incarnate!" },
+      { "context": "Nightfall", "text": "Be purified in the light of the stars!" },
+      { "context": "Player Kill", "text": "The Nightmare will not take these sacred woods." },
+      { "context": "Death", "text": "I see now... I am the defiler..." }
+    ]},
+    { "id": 99192, "name": "Shade of Xavius", "filterName": "xavius", "namePattern": "^VO_.*Xavius", "quotes": [
+      { "context": "Aggro", "text": "I will break you!" },
+      { "context": "Aggro", "text": "What is this? Don't make me laugh!" },
+      { "context": "Aggro", "text": "You wish to die? So be it!" },
+      { "context": "Aggro", "text": "None may challenge me and live!" },
+      { "context": "Aggro", "text": "Trespassers will be punished." },
+      { "context": "Apocalyptic Nightmare", "text": "You will waste away slowly, painfully." },
+      { "context": "Apocalyptic Nightmare", "text": "I will fracture your feeble mind!" },
+      { "context": "Player Killed", "text": "Don't act surprised." },
+      { "context": "Player Killed", "text": "You never stood a chance." },
+      { "context": "Player Killed", "text": "Weak!" },
+      { "context": "Player Killed", "text": "You deserve nothing less." },
+      { "context": "Wipe", "text": "What other outcome could there be against a god?" },
+      { "context": "Wipe", "text": "The same fate awaits all who oppose Xavius!" },
+      { "context": "Defeated", "text": "You cannot... defeat a... god." },
+      { "context": "Defeated", "text": "This must be some kind of... mistake..." },
+      { "context": "Defeated", "text": "No, no! I refuse to... accept..." }
+    ]},
+    { "id": 103344, "name": "Oakheart", "filterName": "oakheart", "namePattern": "^VO_.*Oakheart", "quotes": [] },
+    { "id": 99200, "name": "Dresaron", "filterName": "dresaron", "quotes": [] }
+  ]
+}

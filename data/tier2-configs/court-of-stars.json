@@ -1,0 +1,50 @@
+{
+  "dungeon": "Court of Stars",
+  "slug": "court-of-stars",
+  "wowheadZoneId": 8079,
+  "expansion": "Legion",
+  "bosses": [
+    { "id": 104215, "name": "Patrol Captain Gerdo", "filterName": "gerdo", "quotes": [
+      { "context": "Aggro", "text": "No trespassers allowed!" },
+      { "context": "Signal Beacon", "text": "Guards! To me!" },
+      { "context": "Signal Beacon", "text": "I need reinforcements!" },
+      { "context": "Arcane Lockdown", "text": "Stay where you are!" },
+      { "context": "Arcane Lockdown", "text": "Halt!" },
+      { "context": "Flask of the Solemn Night", "text": "This will even the odds!" },
+      { "context": "Player Killed", "text": "Just what you deserved!" },
+      { "context": "Player Killed", "text": "That should teach you!" },
+      { "context": "Player Killed", "text": "A job well done!" },
+      { "context": "Death", "text": "My watch... is ended." },
+      { "context": "Death (poisoned)", "text": "Basely done... cowards!" }
+    ]},
+    { "id": 104217, "name": "Talixae Flamewreath", "filterName": "talixae", "quotes": [
+      { "context": "Event", "text": "Make yourself useful and take a look around!" },
+      { "context": "Event", "text": "What are you waiting for? Check out that noise!" },
+      { "context": "Event", "text": "You! Have a look over there!" },
+      { "context": "Aggro", "text": "Who needs henchmen? I'll burn you myself!" },
+      { "context": "Aggro", "text": "Not very clever of you to challenge all of us!" },
+      { "context": "Burning Intensity", "text": "Mortal flesh... so pretty when it burns!" },
+      { "context": "Burning Intensity", "text": "It will amuse me to watch you melt!" },
+      { "context": "Burning Intensity", "text": "Scorched bones... so delightful!" },
+      { "context": "Player Kill", "text": "More kindling for the bonfire!" },
+      { "context": "Player Kill", "text": "I'm feeling positively radiant!" },
+      { "context": "Wipe", "text": "Looks like I have a roast to prepare!" },
+      { "context": "Death", "text": "My funeral pyre... will be... glorious..." }
+    ]},
+    { "id": 101831, "name": "Advisor Melandrus", "filterName": "melandrus", "quotes": [
+      { "context": "Intro", "text": "Must you leave so soon, Grand Magistrix?" },
+      { "context": "Aggro", "text": "Finally. I'll make this quick!" },
+      { "context": "Slicing Maelstrom", "text": "Death by a thousand cuts!" },
+      { "context": "Slicing Maelstrom", "text": "You can't counter what you can't see!" },
+      { "context": "Slicing Maelstrom", "text": "Bleed for the Grand Magistrix!" },
+      { "context": "Blade Surge", "text": "I will speed you towards your demise!" },
+      { "context": "Blade Surge", "text": "The wind slices to the bone!" },
+      { "context": "Blade Surge", "text": "If you blink... you bleed!" },
+      { "context": "Player Kill", "text": "Another victim of my artistry!" },
+      { "context": "Player Kill", "text": "Never heard my blade coming!" },
+      { "context": "Player Kill", "text": "Let your names be forgotten!" },
+      { "context": "Wipe", "text": "How dare you interrupt your betters!" },
+      { "context": "Death", "text": "Elisande... forgive me!" }
+    ]}
+  ]
+}

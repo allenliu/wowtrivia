@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "npc": "Kokia Blazehoof",
+    "dungeon": "Ruby Life Pools",
+    "filterName": "kokia",
+    "namePattern": "",
+    "generated": "2026-05-19T18:18:06-07:00",
+    "soundCount": 12
+  },
+  "sounds": [
+    {
+      "soundId": 202171,
+      "filename": "VO_100_Kokia_Blazehoof_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/246/4642550/VO_100_Kokia_Blazehoof_05_F.ogg",
+      "npc": "Kokia Blazehoof",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Nothing but ashes!"
+    },
+    {
+      "soundId": 202168,
+      "filename": "VO_100_Kokia_Blazehoof_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/243/4642547/VO_100_Kokia_Blazehoof_02_F.ogg",
+      "npc": "Kokia Blazehoof",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "FIRE CONSUME MY ENEMIES!"
+    },
+    {
+      "soundId": 202172,
+      "filename": "VO_100_Kokia_Blazehoof_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/247/4642551/VO_100_Kokia_Blazehoof_06_F.ogg",
+      "npc": "Kokia Blazehoof",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Crispy!"
+    },
+    {
+      "soundId": 202178,
+      "filename": "VO_100_Kokia_Blazehoof_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/253/4642557/VO_100_Kokia_Blazehoof_12_F.ogg",
+      "npc": "Kokia Blazehoof",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Be overwhelmed by the flame!"
+    },
+    {
+      "soundId": 202167,
+      "filename": "VO_100_Kokia_Blazehoof_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/242/4642546/VO_100_Kokia_Blazehoof_01_F.ogg",
+      "npc": "Kokia Blazehoof",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Quickly, take the eggs! Save as many as you can!"
+    },
+    {
+      "soundId": 202173,
+      "filename": "VO_100_Kokia_Blazehoof_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/248/4642552/VO_100_Kokia_Blazehoof_07_F.ogg",
+      "npc": "Kokia Blazehoof",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "You were warned not to play with fire!"
+    },
+    {
+      "soundId": 202174,
+      "filename": "VO_100_Kokia_Blazehoof_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/4642553/VO_100_Kokia_Blazehoof_08_F.ogg",
+      "npc": "Kokia Blazehoof",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Snuffed out... too... soon."
+    },
+    {
+      "soundId": 202177,
+      "filename": "VO_100_Kokia_Blazehoof_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/4642556/VO_100_Kokia_Blazehoof_11_F.ogg",
+      "npc": "Kokia Blazehoof",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "EROPT WITH THEIR POWER!"
+    },
+    {
+      "soundId": 202169,
+      "filename": "VO_100_Kokia_Blazehoof_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/244/4642548/VO_100_Kokia_Blazehoof_03_F.ogg",
+      "npc": "Kokia Blazehoof",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "You cannot escape the heat!"
+    },
+    {
+      "soundId": 202170,
+      "filename": "VO_100_Kokia_Blazehoof_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/245/4642549/VO_100_Kokia_Blazehoof_04_F.ogg",
+      "npc": "Kokia Blazehoof",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "I will honor the sacrifice of my allies and burn through you myself!"
+    },
+    {
+      "soundId": 202176,
+      "filename": "VO_100_Kokia_Blazehoof_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/4642555/VO_100_Kokia_Blazehoof_10_F.ogg",
+      "npc": "Kokia Blazehoof",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Fend to the flame!"
+    },
+    {
+      "soundId": 202175,
+      "filename": "VO_100_Kokia_Blazehoof_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/250/4642554/VO_100_Kokia_Blazehoof_09_F.ogg",
+      "npc": "Kokia Blazehoof",
+      "dungeon": "Ruby Life Pools",
+      "transcript": "Can you feel the hit?"
+    }
+  ]
+}

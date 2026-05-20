@@ -1,0 +1,748 @@
+{
+  "meta": {
+    "npc": "Shade of Xavius",
+    "dungeon": "Darkheart Thicket",
+    "filterName": "xavius",
+    "namePattern": "^VO_.*Xavius",
+    "generated": "2026-05-19T17:47:37-07:00",
+    "soundCount": 92
+  },
+  "sounds": [
+    {
+      "soundId": 58176,
+      "filename": "VO_701_Xavius_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/108/1344620/VO_701_Xavius_07.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "She will aid me in my conquest of Valshara, starting with your precious Temple of Elune."
+    },
+    {
+      "soundId": 58092,
+      "filename": "VO_701_Xavius_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/1343283/VO_701_Xavius_01.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Such a dilemma, High Priestess."
+    },
+    {
+      "soundId": 54487,
+      "filename": "VO_70_Shade_of_Xavius_PH_20",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/39/1275175/VO_70_Shade_of_Xavius_PH_20.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "You never stood a chance."
+    },
+    {
+      "soundId": 54483,
+      "filename": "VO_70_Shade_of_Xavius_PH_16",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/1275167/VO_70_Shade_of_Xavius_PH_16.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "This must be some kind of... ...mistake."
+    },
+    {
+      "soundId": 54478,
+      "filename": "VO_70_Shade_of_Xavius_PH_14",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/21/1275157/VO_70_Shade_of_Xavius_PH_14.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Your attacks are of little concern. The nightmare will restore me!"
+    },
+    {
+      "soundId": 52107,
+      "filename": "VO_70_Xavius_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/69/1241413/VO_70_Xavius_05.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Surrender to the dark while you still can."
+    },
+    {
+      "soundId": 58173,
+      "filename": "VO_701_Xavius_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/102/1344614/VO_701_Xavius_04.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Duranda Whisperwind, I have longed for this encounter for many years."
+    },
+    {
+      "soundId": 54482,
+      "filename": "VO_70_Shade_of_Xavius_PH_15",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/1275165/VO_70_Shade_of_Xavius_PH_15.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Force! Ha! So says the insect to the god!"
+    },
+    {
+      "soundId": 54492,
+      "filename": "VO_70_Shade_of_Xavius_PH_25",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/1275185/VO_70_Shade_of_Xavius_PH_25.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "You wish to die. So be it!"
+    },
+    {
+      "soundId": 54056,
+      "filename": "VO_70_XAVIUS_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/1270079/VO_70_Xavius_AttackCrit_01.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "L개Ow"
+    },
+    {
+      "soundId": 54474,
+      "filename": "VO_70_Shade_of_Xavius_PH_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/13/1275149/VO_70_Shade_of_Xavius_PH_11.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "You will waste away slowly, painfully."
+    },
+    {
+      "soundId": 54485,
+      "filename": "VO_70_Shade_of_Xavius_PH_18",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/1275171/VO_70_Shade_of_Xavius_PH_18.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "No, no! I refuse to... accept!"
+    },
+    {
+      "soundId": 52109,
+      "filename": "VO_70_Xavius_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/73/1241417/VO_70_Xavius_07.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Do you have forever, child? The Legion does!"
+    },
+    {
+      "soundId": 58736,
+      "filename": "VO_701_Xavius_17",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/1358109/VO_701_Xavius_17.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Nightmares are never forgotten."
+    },
+    {
+      "soundId": 58751,
+      "filename": "VO_701_Xavius_28",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/76/1358156/VO_701_Xavius_28.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Time to crush your dreams!"
+    },
+    {
+      "soundId": 58901,
+      "filename": "VO_701_Xavius_34",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/137/1360521/VO_701_Xavius_34.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "They are lying to you."
+    },
+    {
+      "soundId": 54465,
+      "filename": "VO_70_Shade_of_Xavius_PH_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/1275131/VO_70_Shade_of_Xavius_PH_05.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "A pity you have come this far only to die at the hands of Xavius."
+    },
+    {
+      "soundId": 54473,
+      "filename": "VO_70_Shade_of_Xavius_PH_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/11/1275147/VO_70_Shade_of_Xavius_PH_10.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I will fracture your feeble mind."
+    },
+    {
+      "soundId": 54484,
+      "filename": "VO_70_Shade_of_Xavius_PH_17",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/1275169/VO_70_Shade_of_Xavius_PH_17.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "You cannot defeat a god."
+    },
+    {
+      "soundId": 54493,
+      "filename": "VO_70_Shade_of_Xavius_PH_26",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/1275187/VO_70_Shade_of_Xavius_PH_26.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "What other outcome could there be when one is faced with the wrath of a god?"
+    },
+    {
+      "soundId": 58093,
+      "filename": "VO_701_Xavius_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/1343285/VO_701_Xavius_02.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Kneel beside your beloved as he draws his final breath, or watch the temple of your goddess burn."
+    },
+    {
+      "soundId": 58725,
+      "filename": "VO_701_Xavius_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/254/1358078/VO_701_Xavius_08.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "You dare trespass at the heart of the nightmare itself? Foolish mortals! Here, my will is absolute. Here, I am the master!"
+    },
+    {
+      "soundId": 58726,
+      "filename": "VO_701_Xavius_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/0/1358080/VO_701_Xavius_09.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "The nightmare has corrupted dragons, gods and legends. Your downfall will be simple and swift."
+    },
+    {
+      "soundId": 58729,
+      "filename": "VO_701_Xavius_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/1358086/VO_701_Xavius_12.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "This fate awaits you all!"
+    },
+    {
+      "soundId": 58730,
+      "filename": "VO_701_Xavius_13",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/8/1358088/VO_701_Xavius_13.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Your souls are mine! Woven for all time into the fabric of the nightmare!"
+    },
+    {
+      "soundId": 58735,
+      "filename": "VO_701_Xavius_16",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/27/1358107/VO_701_Xavius_16.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Your respite is over. Awaken and face your doom!"
+    },
+    {
+      "soundId": 58754,
+      "filename": "VO_701_Xavius_31",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/79/1358159/VO_701_Xavius_31.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Your dreams are mine!"
+    },
+    {
+      "soundId": 70990,
+      "filename": "VO_703_Shade_of_Xavius_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/236/1449452/VO_703_Shade_of_Xavius_04_M.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I must go attend to my prize. Malathar, I leave the claws to you. Use them to exterminate this filth."
+    },
+    {
+      "soundId": 64605,
+      "filename": "VO_703_Xavius_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/145/1401233/VO_703_Xavius_02.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "But what's this? Which Melfurion is real? And which is part of the nightmare? Hahahaha"
+    },
+    {
+      "soundId": 64611,
+      "filename": "VO_703_Xavius_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/151/1401239/VO_703_Xavius_03.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Yes again mortal! Hahahahaha!"
+    },
+    {
+      "soundId": 54486,
+      "filename": "VO_70_Shade_of_Xavius_PH_19",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/37/1275173/VO_70_Shade_of_Xavius_PH_19.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Don't act surprised!"
+    },
+    {
+      "soundId": 54495,
+      "filename": "VO_70_Shade_of_Xavius_PH_28",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/55/1275191/VO_70_Shade_of_Xavius_PH_28.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "None may challenge me and live!"
+    },
+    {
+      "soundId": 52179,
+      "filename": "VO_70_Xavius_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/1241557/VO_70_Xavius_01.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "This will not be the last ally you lose! Even rats abandon a sinking ship!"
+    },
+    {
+      "soundId": 52914,
+      "filename": "VO_70_Xavius_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/28/1243420/VO_70_Xavius_10.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Oh, but I am not without mercy. You shall live long enough to watch your precious temple be destroyed."
+    },
+    {
+      "soundId": 58094,
+      "filename": "VO_701_Xavius_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/55/1343287/VO_701_Xavius_03.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Hahaha..."
+    },
+    {
+      "soundId": 58174,
+      "filename": "VO_701_Xavius_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/1344616/VO_701_Xavius_05.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Your adoring husband will be joining me in the nightmare. His was a special invitation."
+    },
+    {
+      "soundId": 58175,
+      "filename": "VO_701_Xavius_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/106/1344618/VO_701_Xavius_06.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "And our dear Ysera, would you believe she's had a change of heart?"
+    },
+    {
+      "soundId": 58731,
+      "filename": "VO_701_Xavius_14",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/18/1358098/VO_701_Xavius_14.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "No! I will not permit it!"
+    },
+    {
+      "soundId": 58742,
+      "filename": "VO_701_Xavius_19",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1358147/VO_701_Xavius_19.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "You will never stir again."
+    },
+    {
+      "soundId": 58744,
+      "filename": "VO_701_Xavius_21",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/69/1358149/VO_701_Xavius_21.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "My victory is absolute! The power of Nightmare grows!"
+    },
+    {
+      "soundId": 58753,
+      "filename": "VO_701_Xavius_30",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/1358158/VO_701_Xavius_30.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Give in to the nightmare!"
+    },
+    {
+      "soundId": 58755,
+      "filename": "VO_701_Xavius_32",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/80/1358160/VO_701_Xavius_32.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Your torment will be unending!"
+    },
+    {
+      "soundId": 58904,
+      "filename": "VO_701_Xavius_35",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/1360523/VO_701_Xavius_35.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Yes, my son. It is your father, Malorn. Do not trust these invaders. You must purge them from a dream."
+    },
+    {
+      "soundId": 62298,
+      "filename": "VO_703_Shade_of_Xavius_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/206/1384654/VO_703_Shade_of_Xavius_02.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "No, Ursak! When next you bear your fangs, it will be at my command!"
+    },
+    {
+      "soundId": 68235,
+      "filename": "VO_703_Xavius_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/81/1411409/VO_703_Xavius_05.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Ah, the mother of dreams has arrived at last."
+    },
+    {
+      "soundId": 54459,
+      "filename": "VO_70_Shade_of_Xavius_PH_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/239/1275119/VO_70_Shade_of_Xavius_PH_01.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Those who challenge me only speed themselves to an agonizing death."
+    },
+    {
+      "soundId": 54462,
+      "filename": "VO_70_Shade_of_Xavius_PH_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/245/1275125/VO_70_Shade_of_Xavius_PH_03.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "A fluke. Savor it and pray you do not face me next."
+    },
+    {
+      "soundId": 54464,
+      "filename": "VO_70_Shade_of_Xavius_PH_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/1275129/VO_70_Shade_of_Xavius_PH_04.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Silence, weakling. When you open your mouth again, it will be to cry for mercy."
+    },
+    {
+      "soundId": 54467,
+      "filename": "VO_70_Shade_of_Xavius_PH_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/255/1275135/VO_70_Shade_of_Xavius_PH_06.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Bold words for a prisoner! Even an echo of my power was enough to overwhelm you!"
+    },
+    {
+      "soundId": 54471,
+      "filename": "VO_70_Shade_of_Xavius_PH_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/1275143/VO_70_Shade_of_Xavius_PH_09.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "First you suffer, then you die!"
+    },
+    {
+      "soundId": 54475,
+      "filename": "VO_70_Shade_of_Xavius_PH_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/15/1275151/VO_70_Shade_of_Xavius_PH_12.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "You can trust no one, not even your comrades!"
+    },
+    {
+      "soundId": 54490,
+      "filename": "VO_70_Shade_of_Xavius_PH_23",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/1275181/VO_70_Shade_of_Xavius_PH_23.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "What is this? Don't make me laugh!"
+    },
+    {
+      "soundId": 54494,
+      "filename": "VO_70_Shade_of_Xavius_PH_27",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/1275189/VO_70_Shade_of_Xavius_PH_27.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "The same fate awaits all who oppose Xavius."
+    },
+    {
+      "soundId": 52106,
+      "filename": "VO_70_Xavius_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1241411/VO_70_Xavius_04.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I've seen your deepest fears, and they are delicious."
+    },
+    {
+      "soundId": 52915,
+      "filename": "VO_70_Xavius_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/30/1243422/VO_70_Xavius_11.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Hahahahaha! Our game is at an end! Behold, your dear Melfurion! It is the last you will see of him."
+    },
+    {
+      "soundId": 54055,
+      "filename": "VO_70_XAVIUS_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/1270069/VO_70_Xavius_Attack_01.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "opp Panting"
+    },
+    {
+      "soundId": 54057,
+      "filename": "VO_70_XAVIUS_DEATH",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/1270084/VO_70_Xavius_Death_01.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "aww SSH"
+    },
+    {
+      "soundId": 54058,
+      "filename": "VO_70_XAVIUS_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/73/1270089/VO_70_Xavius_Wound_01.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "AR ж"
+    },
+    {
+      "soundId": 54059,
+      "filename": "VO_70_XAVIUS_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/82/1270098/VO_70_Xavius_WoundCrit_01.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Uauuu Qu"
+    },
+    {
+      "soundId": 58727,
+      "filename": "VO_701_Xavius_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/1358082/VO_701_Xavius_10.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Another dreamer for my nightmare!"
+    },
+    {
+      "soundId": 58728,
+      "filename": "VO_701_Xavius_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/4/1358084/VO_701_Xavius_11.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Eternal slumber, eternal madness."
+    },
+    {
+      "soundId": 58734,
+      "filename": "VO_701_Xavius_15",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/24/1358104/VO_701_Xavius_15.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "No more dreams, holy nightmare!"
+    },
+    {
+      "soundId": 58737,
+      "filename": "VO_701_Xavius_18",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/1358111/VO_701_Xavius_18.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I'll slice into the heart of you!"
+    },
+    {
+      "soundId": 58743,
+      "filename": "VO_701_Xavius_20",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/1358148/VO_701_Xavius_20.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "My victory draws near."
+    },
+    {
+      "soundId": 58745,
+      "filename": "VO_701_Xavius_22",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/70/1358150/VO_701_Xavius_22.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "They are mine, Ysera! You cannot save them!"
+    },
+    {
+      "soundId": 58746,
+      "filename": "VO_701_Xavius_23",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/1358151/VO_701_Xavius_23.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "My work left unfinished."
+    },
+    {
+      "soundId": 58747,
+      "filename": "VO_701_Xavius_24",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/72/1358152/VO_701_Xavius_24.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I will sever you from the waking world!"
+    },
+    {
+      "soundId": 58748,
+      "filename": "VO_701_Xavius_25",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/73/1358153/VO_701_Xavius_25.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Time to cut the last tether to your mortal life!"
+    },
+    {
+      "soundId": 58749,
+      "filename": "VO_701_Xavius_26",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/1358154/VO_701_Xavius_26.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Feel the devastation of the nightmare!"
+    },
+    {
+      "soundId": 58750,
+      "filename": "VO_701_Xavius_27",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/1358155/VO_701_Xavius_27.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I'll level you one by one!"
+    },
+    {
+      "soundId": 58752,
+      "filename": "VO_701_Xavius_29",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/1358157/VO_701_Xavius_29.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "To come to the madness!"
+    },
+    {
+      "soundId": 58756,
+      "filename": "VO_701_Xavius_33",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/81/1358161/VO_701_Xavius_33.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "THERE IS NO ESCAPE!"
+    },
+    {
+      "soundId": 62296,
+      "filename": "VO_703_Shade_of_Xavius_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/204/1384652/VO_703_Shade_of_Xavius_01.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Foolish bear! You've fallen for my trap!"
+    },
+    {
+      "soundId": 62301,
+      "filename": "VO_703_Shade_of_Xavius_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/1384657/VO_703_Shade_of_Xavius_03.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I am Lord of the Nightmare! I have been shaped by the powers of the Old Gods! Tramble before me!"
+    },
+    {
+      "soundId": 64604,
+      "filename": "VO_703_Xavius_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/144/1401232/VO_703_Xavius_01.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Welcome to my dream home. Your beloved Malfurion awaits within."
+    },
+    {
+      "soundId": 64614,
+      "filename": "VO_703_Xavius_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/154/1401242/VO_703_Xavius_04.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Ha ha ha ha ha ha ha!"
+    },
+    {
+      "soundId": 52154,
+      "filename": "VO_70_Image_of_Xavius_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/163/1241507/VO_70_Image_of_Xavius_01.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Hahahahaha! Foolish mortal! The tears of a loom are mine now!"
+    },
+    {
+      "soundId": 52155,
+      "filename": "VO_70_Image_of_Xavius_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/165/1241509/VO_70_Image_of_Xavius_02.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "If Malfurion wants them back so badly, he can seek me out. I'll be waiting."
+    },
+    {
+      "soundId": 54461,
+      "filename": "VO_70_Shade_of_Xavius_PH_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/243/1275123/VO_70_Shade_of_Xavius_PH_02.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Be still, worm! I will deal with you shortly."
+    },
+    {
+      "soundId": 54468,
+      "filename": "VO_70_Shade_of_Xavius_PH_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/1275137/VO_70_Shade_of_Xavius_PH_07.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "A pity you have come this far only to die at the hands of Xavius."
+    },
+    {
+      "soundId": 54470,
+      "filename": "VO_70_Shade_of_Xavius_PH_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/5/1275141/VO_70_Shade_of_Xavius_PH_08.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Your mind games hold no sway over me, dog."
+    },
+    {
+      "soundId": 54477,
+      "filename": "VO_70_Shade_of_Xavius_PH_13",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/19/1275155/VO_70_Shade_of_Xavius_PH_13.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "For every blow you strike, I will return even stronger!"
+    },
+    {
+      "soundId": 54488,
+      "filename": "VO_70_Shade_of_Xavius_PH_21",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/41/1275177/VO_70_Shade_of_Xavius_PH_21.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "WEEK!"
+    },
+    {
+      "soundId": 54489,
+      "filename": "VO_70_Shade_of_Xavius_PH_22",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/43/1275179/VO_70_Shade_of_Xavius_PH_22.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "You deserve nothing less!"
+    },
+    {
+      "soundId": 54491,
+      "filename": "VO_70_Shade_of_Xavius_PH_24",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/47/1275183/VO_70_Shade_of_Xavius_PH_24.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I will break you!"
+    },
+    {
+      "soundId": 54497,
+      "filename": "VO_70_Shade_of_Xavius_PH_29",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/59/1275195/VO_70_Shade_of_Xavius_PH_29.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Trespassers will be punished!"
+    },
+    {
+      "soundId": 52178,
+      "filename": "VO_70_Xavius_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/1241555/VO_70_Xavius_02.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": ""
+    },
+    {
+      "soundId": 52177,
+      "filename": "VO_70_Xavius_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/1241553/VO_70_Xavius_03.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "He put up quite a fight, but your arch druid belongs to me now."
+    },
+    {
+      "soundId": 52108,
+      "filename": "VO_70_Xavius_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/1241415/VO_70_Xavius_06.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "The Legion will not spare this world!"
+    },
+    {
+      "soundId": 52110,
+      "filename": "VO_70_Xavius_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/1241419/VO_70_Xavius_08.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "Azeroth cannot resist its fate forever!"
+    },
+    {
+      "soundId": 52111,
+      "filename": "VO_70_Xavius_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/1241421/VO_70_Xavius_09.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "I'll see you writhe in pain!"
+    },
+    {
+      "soundId": 53185,
+      "filename": "VO_70_Xavius_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/112/1245296/VO_70_Xavius_12.ogg",
+      "npc": "Shade of Xavius",
+      "dungeon": "Darkheart Thicket",
+      "transcript": ""
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+    "meta":  {
+                 "schemaVersion":  2,
+                 "dungeon":  "Shrine of the Storm",
+                 "wowheadZoneId":  9525,
+                 "expansion":  "Battle for Azeroth",
+                 "generated":  "2026-05-19T07:29:57-07:00"
+             },
+    "npcs":  [
+                 {
+                     "id":  139970,
+                     "name":  "Brother Pike",
+                     "elite":  true,
+                     "quotes":  [
+                                    {
+                                        "soundId":  108711,
+                                        "filename":  "vo-801-brother-pike-05-m",
+                                        "fileDataId":  2013848,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/152/2013848/VO_801_Brother_Pike_05_M.ogg",
+                                        "text":  "Master! Stop this madness at once! The Kul Tiran fleet must not fall to darkness!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  108715,
+                                        "filename":  "vo-801-brother-pike-09-m",
+                                        "fileDataId":  2013854,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/158/2013854/VO_801_Brother_Pike_09_M.ogg",
+                                        "text":  "Be wary, heroes. Some unseen evil still lurks in the dark. We must press on to remove its influence from the shrine.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  108716,
+                                        "filename":  "vo-801-brother-pike-10-m",
+                                        "fileDataId":  2013855,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/159/2013855/VO_801_Brother_Pike_10_M.ogg",
+                                        "text":  "By the Tidemother!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  108718,
+                                        "filename":  "vo-801-brother-pike-12-m",
+                                        "fileDataId":  2013858,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/162/2013858/VO_801_Brother_Pike_12_M.ogg",
+                                        "text":  "I can feel the dark presence receding. The shrine will be whole again.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  111905,
+                                        "filename":  "vo-801-brother-pike-151-m",
+                                        "fileDataId":  2058272,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/32/2058272/VO_801_Brother_Pike_151_M.ogg",
+                                        "text":  "My magic is strongest here. If there is any hope the fleet can yet be found, now is the time to try.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  108709,
+                                        "filename":  "vo-801-brother-pike-03-m",
+                                        "fileDataId":  2013843,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/147/2013843/VO_801_Brother_Pike_03_M.ogg",
+                                        "text":  "Quickly, heroes! Stop them before the fleet is lost!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  108710,
+                                        "filename":  "vo-801-brother-pike-04-m",
+                                        "fileDataId":  2013846,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/150/2013846/VO_801_Brother_Pike_04_M.ogg",
+                                        "text":  "Sea to sea, ashes to ashes, tide to tide. May your souls find peaceful currents.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  108714,
+                                        "filename":  "vo-801-brother-pike-08-m",
+                                        "fileDataId":  2013852,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/156/2013852/VO_801_Brother_Pike_08_M.ogg",
+                                        "text":  "Something is not right. Darkness still festers here.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  108708,
+                                        "filename":  "vo-801-brother-pike-02-m",
+                                        "fileDataId":  2013842,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/146/2013842/VO_801_Brother_Pike_02_M.ogg",
+                                        "text":  "Stormsong has twisted this sacred place. We must press on and undo his foul work.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  108719,
+                                        "filename":  "vo-801-brother-pike-13-m",
+                                        "fileDataId":  2013859,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/163/2013859/VO_801_Brother_Pike_13_M.ogg",
+                                        "text":  "Thank you, heroes. You've returned hope to the Kul Tiran people.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  111907,
+                                        "filename":  "vo-801-brother-pike-153-m",
+                                        "fileDataId":  2058274,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/34/2058274/VO_801_Brother_Pike_153_M.ogg",
+                                        "text":  "Though I cannot call our mariners home, at least we know those ships are out there... somewhere. The fate of our fleet lies with the Proudmoores now.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  108721,
+                                        "filename":  "vo-801-brother-pike-15-m",
+                                        "fileDataId":  2013861,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/165/2013861/VO_801_Brother_Pike_15_M.ogg",
+                                        "text":  "Tread carefully. Some dark presence watches us even now.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  111906,
+                                        "filename":  "vo-801-brother-pike-152-m",
+                                        "fileDataId":  2058273,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/33/2058273/VO_801_Brother_Pike_152_M.ogg",
+                                        "text":  "Yes... I can sense the ships... our fleet! The dark mists surrounding them are dissipating!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  108713,
+                                        "filename":  "vo-801-brother-pike-07-m",
+                                        "fileDataId":  2013851,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/155/2013851/VO_801_Brother_Pike_07_M.ogg",
+                                        "text":  "You turned against the tide, Master, and now you have been pulled underneath it.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 },
+                 {
+                     "id":  139971,
+                     "name":  "Rexxar",
+                     "elite":  true,
+                     "quotes":  [
+                                    {
+                                        "soundId":  103085,
+                                        "filename":  "vo-801-rexxar-04-m",
+                                        "fileDataId":  1960321,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/129/1960321/VO_801_Rexxar_04_M.ogg",
+                                        "text":  "Your head will soon be mounted on my wall!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  103082,
+                                        "filename":  "vo-801-rexxar-01-m",
+                                        "fileDataId":  1960318,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/126/1960318/VO_801_Rexxar_01_M.ogg",
+                                        "text":  "A fine kill... but our true prey retreated into the shrine.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  103083,
+                                        "filename":  "vo-801-rexxar-02-m",
+                                        "fileDataId":  1960319,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/127/1960319/VO_801_Rexxar_02_M.ogg",
+                                        "text":  "Dark powers or no, you will be our next kill!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  103087,
+                                        "filename":  "vo-801-rexxar-06-m",
+                                        "fileDataId":  1960323,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/131/1960323/VO_801_Rexxar_06_M.ogg",
+                                        "text":  "Hmm... The trail leads deeper into this foul-smelling passage.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  103091,
+                                        "filename":  "vo-801-rexxar-10-m",
+                                        "fileDataId":  1960327,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/135/1960327/VO_801_Rexxar_10_M.ogg",
+                                        "text":  "It is the law of the wild. The strong take from the weak.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  103089,
+                                        "filename":  "vo-801-rexxar-08-m",
+                                        "fileDataId":  1960325,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/133/1960325/VO_801_Rexxar_08_M.ogg",
+                                        "text":  "It led us into its lair!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  103088,
+                                        "filename":  "vo-801-rexxar-07-m",
+                                        "fileDataId":  1960324,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/132/1960324/VO_801_Rexxar_07_M.ogg",
+                                        "text":  "Keep your senses sharp. Some unseen force stalks us.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  103084,
+                                        "filename":  "vo-801-rexxar-03-m",
+                                        "fileDataId":  1960320,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/128/1960320/VO_801_Rexxar_03_M.ogg",
+                                        "text":  "Make peace with your queen, for your life ends here.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  103093,
+                                        "filename":  "vo-801-rexxar-12-m",
+                                        "fileDataId":  1960329,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/137/1960329/VO_801_Rexxar_12_M.ogg",
+                                        "text":  "Now then... time to carve a trophy.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  103096,
+                                        "filename":  "vo-801-rexxar-15-m",
+                                        "fileDataId":  1960332,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/140/1960332/VO_801_Rexxar_15_M.ogg",
+                                        "text":  "Now... let the hunt begin!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  103090,
+                                        "filename":  "vo-801-rexxar-09-m",
+                                        "fileDataId":  1960326,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/134/1960326/VO_801_Rexxar_09_M.ogg",
+                                        "text":  "Prepare yourselves. This beast will be a worthy hunt!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  103095,
+                                        "filename":  "vo-801-rexxar-14-m",
+                                        "fileDataId":  1960331,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/139/1960331/VO_801_Rexxar_14_M.ogg",
+                                        "text":  "The Alliance must not claim this prize. All who oppose us will fall!",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  103086,
+                                        "filename":  "vo-801-rexxar-05-m",
+                                        "fileDataId":  1960322,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/130/1960322/VO_801_Rexxar_05_M.ogg",
+                                        "text":  "The pearl is not here. Perhaps Azshara's minion was more clever than he appeared.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  103092,
+                                        "filename":  "vo-801-rexxar-11-m",
+                                        "fileDataId":  1960328,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/136/1960328/VO_801_Rexxar_11_M.ogg",
+                                        "text":  "The pearl is ours! With it, our vessels will become predators of the sea.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    },
+                                    {
+                                        "soundId":  103094,
+                                        "filename":  "vo-801-rexxar-13-m",
+                                        "fileDataId":  1960330,
+                                        "audioUrl":  "https://wow.zamimg.com/sound-ids/live/enus/138/1960330/VO_801_Rexxar_13_M.ogg",
+                                        "text":  "With the power of the Tide Pearl, our fleets will be unstoppable.",
+                                        "status":  "pending",
+                                        "selected":  false,
+                                        "notes":  ""
+                                    }
+                                ]
+                 }
+             ]
+}

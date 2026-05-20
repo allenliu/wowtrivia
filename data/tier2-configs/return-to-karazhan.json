@@ -1,0 +1,81 @@
+{
+  "dungeon": "Return to Karazhan",
+  "slug": "return-to-karazhan",
+  "wowheadZoneId": 8443,
+  "expansion": "Legion",
+  "bosses": [
+    { "id": 114312, "name": "Moroes", "filterName": "moroes", "namePattern": "^VO_.*Moroes", "quotes": [
+      { "context": "Garrison", "text": "May I take your cloak? No? Very well, commander. The commander is, of course, welcome to continue dripping mud all over the floor that I have spent just this morning polishing." }
+    ]},
+    { "id": 114262, "name": "Attumen the Huntsman", "filterName": "attumen", "quotes": [
+      { "context": "Phase Two", "text": "Who dares attack the steed of the Huntsman?" },
+      { "context": "Phase Two", "text": "Perhaps you would rather test yourselves against a more formidable opponent?!" },
+      { "context": "Phase Two", "text": "Cowards! Wretches!" },
+      { "context": "Disarmed", "text": "Weapons are merely a convenience for a warrior of my skill!" },
+      { "context": "Phase Three", "text": "Come Midnight, let's disperse this petty rabble!" },
+      { "context": "Taunting", "text": "Such easy sport!" },
+      { "context": "Taunting", "text": "Amateurs! Do not think you can best me! I kill for a living!" },
+      { "context": "Player Killed", "text": "Another trophy to add to my collection!" },
+      { "context": "Player Killed", "text": "It was... inevitable." },
+      { "context": "Death", "text": "Always knew... someday I would become... the hunted." }
+    ]},
+    { "id": 113971, "name": "Maiden of Virtue", "filterName": "maiden_of_virtue", "namePattern": "^VO_.*Maiden_of_Virtue", "quotes": [
+      { "context": "Aggro", "text": "Your behavior will not be tolerated." },
+      { "context": "Repentance", "text": "Cast out your corrupt thoughts." },
+      { "context": "Holy Fire", "text": "Your impurity must be cleansed." },
+      { "context": "Player Killed", "text": "Impure thoughts lead to profane actions." },
+      { "context": "Player Killed", "text": "Ah ah ah..." },
+      { "context": "Player Killed", "text": "This is for the best." },
+      { "context": "Death", "text": "Death comes. Will your conscience be clear?" }
+    ]},
+    { "id": 114350, "name": "Shade of Medivh", "filterName": "shade_of_medivh", "namePattern": "^VO_.*Shade_of_Medivh", "quotes": [
+      { "context": "Intro", "text": "This is who I am. I was tainted from birth, polluted from before my conception, a bad seed grown to bear bitter fruit." },
+      { "context": "Aggro", "text": "Hello, champions. I've been expecting you." },
+      { "context": "Aggro", "text": "You're just like the others, aren't you?" },
+      { "context": "Piercing Missiles", "text": "A basic spell... but effective." },
+      { "context": "Piercing Missiles", "text": "You grow weaker... I grow stronger!" },
+      { "context": "Inferno Bolt", "text": "The inherent nature of fire..." },
+      { "context": "Inferno Bolt", "text": "Burn... just like that dragon!" },
+      { "context": "Frostbite", "text": "A memory, frozen in time!" },
+      { "context": "Ceaseless Winter", "text": "Keep still. Let it end." },
+      { "context": "Ceaseless Winter", "text": "Winter is here!" },
+      { "context": "Flame Wreath", "text": "I suggest staying put." },
+      { "context": "Flame Wreath", "text": "It burns, burns, burns!" },
+      { "context": "Player Killed", "text": "Just. Gets. Easier." },
+      { "context": "Player Killed", "text": "A fitting end for a thief!" },
+      { "context": "Player Killed", "text": "All goes as planned." },
+      { "context": "Player Killed", "text": "The tower needed a new decoration." },
+      { "context": "Wipe", "text": "You have no idea what it's like to do the things I've done. Harsh things. Necessary things." },
+      { "context": "Wipe", "text": "Once you get used to it, you can kill friends as easily as anyone else." },
+      { "context": "Death", "text": "I fought it... for as long as... I could..." },
+      { "context": "Death", "text": "So... it comes... to this..." },
+      { "context": "Death", "text": "Atiesh... will be... splintered..." }
+    ]},
+    { "id": 114790, "name": "Viz'aduum the Watcher", "filterName": "viz_aduum", "namePattern": "^VO_.*Viz", "quotes": [
+      { "context": "Intro", "text": "Karazhan's presence radiates through the Nether... a beacon drawing in the Legion's might." },
+      { "context": "Intro", "text": "Our Burning Crusade has consumed countless worlds. This tower will serve as a conduit to each of them." },
+      { "context": "Intro", "text": "One battle remains. One final conquest to complete the grand design!" },
+      { "context": "Aggro", "text": "I have foreseen your world's doom!" },
+      { "context": "Aggro", "text": "This tower belongs to the Legion!" },
+      { "context": "Command Bombardment", "text": "Annihilate them!" },
+      { "context": "Command Bombardment", "text": "Begin the barrage!" },
+      { "context": "Command Bombardment", "text": "Incinerate that one!" },
+      { "context": "Command Bombardment", "text": "Take out the target!" },
+      { "context": "Chaotic Shadows", "text": "Feel the grip of entropy!" },
+      { "context": "Chaotic Shadows", "text": "Darkness will take you!" },
+      { "context": "Phase 2", "text": "Your resistance is misguided. Yield to us!" },
+      { "context": "Phase 2", "text": "You will kneel! You will serve!" },
+      { "context": "Phase 3", "text": "Enough interruptions! The grand design must be realized." },
+      { "context": "Phase 3", "text": "Preparations are complete. It is time to begin the end!" },
+      { "context": "Stabilize Rift", "text": "An infinite army will be brought forth from innumerable worlds!" },
+      { "context": "Stabilize Rift", "text": "Behold! The doorway opens to your doom!" },
+      { "context": "Player Killed", "text": "Meaningless... and inevitable." },
+      { "context": "Player Killed", "text": "One by one... you fall!" },
+      { "context": "Player Killed", "text": "It ends for the mortals, as I saw it would." },
+      { "context": "Rift completion", "text": "The grand design is complete! Every Legion world is now tethered to this tower!" },
+      { "context": "Rift completion", "text": "Master! My mission is accomplished! Come forth, and claim this world!" },
+      { "context": "Death", "text": "But the design... was flawless..." },
+      { "context": "Death", "text": "Could not... foresee... such an end..." }
+    ]}
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "meta": {
+    "schemaVersion": 3,
+    "dungeon": "Tazavesh, the Veiled Market",
+    "wowheadZoneId": 13577,
+    "expansion": "Shadowlands",
+    "generated": "2026-05-19T16:09:45-07:00",
+    "notes": "Mixed Tier-1 (Wowhead Quotes) + Tier-2 (wiki + Whisper) entries."
+  },
+  "npcs": [
+    {
+      "id": 178074,
+      "name": "Al'dalil",
+      "elite": false,
+      "quotes": [
+        {
+          "soundId": 181536,
+          "filename": "vo-91-aldalil-02-m",
+          "fileDataId": 4082389,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/4082389/VO_91_Aldalil_02_M.ogg",
+          "text": "A friend here may be of help in acquiring Zo's signature.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 181563,
+          "filename": "vo-91-aldalil-29-m",
+          "fileDataId": 4082468,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/36/4082468/VO_91_Aldalil_29_M.ogg",
+          "text": "A necessary tragedy. Unfortunately, we have now drawn the ire of Cartel Zo.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 181539,
+          "filename": "vo-91-aldalil-05-m",
+          "fileDataId": 4082392,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/216/4082392/VO_91_Aldalil_05_M.ogg",
+          "text": "Ah... yes, thank you.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 181544,
+          "filename": "vo-91-aldalil-10-m",
+          "fileDataId": 4082397,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/221/4082397/VO_91_Aldalil_10_M.ogg",
+          "text": "Au'myza! It is a pleasure. My friends and I are here to...",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 181568,
+          "filename": "vo-91-aldalil-34-m",
+          "fileDataId": 4082473,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/41/4082473/VO_91_Aldalil_34_M.ogg",
+          "text": "Cartel Xy has a profitable venture. Hopefully this inclines them to aid our own.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 181565,
+          "filename": "vo-91-aldalil-31-m",
+          "fileDataId": 4082470,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/38/4082470/VO_91_Aldalil_31_M.ogg",
+          "text": "If she escapes to your world, the artifacts she covets will be in her grasp.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 181540,
+          "filename": "vo-91-aldalil-06-m",
+          "fileDataId": 4082393,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/217/4082393/VO_91_Aldalil_06_M.ogg",
+          "text": "Myza's Oasis. The most intoxicating establishment in Tazavesh. Gaining the owner's favor will secure Cartel Au's signature.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 181542,
+          "filename": "vo-91-aldalil-08-m",
+          "fileDataId": 4082395,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/219/4082395/VO_91_Aldalil_08_M.ogg",
+          "text": "No matter. There are many doors to success. I have friends nearby who may be of assistance.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 181545,
+          "filename": "vo-91-aldalil-11-m",
+          "fileDataId": 4082398,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/222/4082398/VO_91_Aldalil_11_M.ogg",
+          "text": "Our path reveals itself! Perform well, and Au'myza's favor is ours.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 181543,
+          "filename": "vo-91-aldalil-09-m",
+          "fileDataId": 4082396,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/220/4082396/VO_91_Aldalil_09_M.ogg",
+          "text": "Someone in this market must possess what we seek.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 181562,
+          "filename": "vo-91-aldalil-28-m",
+          "fileDataId": 4082467,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/4082467/VO_91_Aldalil_28_M.ogg",
+          "text": "Surely we can come to an alternate agreement?",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 181537,
+          "filename": "vo-91-aldalil-03-m",
+          "fileDataId": 4082390,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/214/4082390/VO_91_Aldalil_03_M.ogg",
+          "text": "Wait, who is that? Where is Ba'sim?",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 181564,
+          "filename": "vo-91-aldalil-30-m",
+          "fileDataId": 4082469,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/37/4082469/VO_91_Aldalil_30_M.ogg",
+          "text": "We require signatures from the city's leading cartels to gain access to So'leah.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 181538,
+          "filename": "vo-91-aldalil-04-m",
+          "fileDataId": 4082391,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/215/4082391/VO_91_Aldalil_04_M.ogg",
+          "text": "You are quite welcome... whoever you are. Now, we are in need of Zo's signature...",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 176445,
+      "name": "Au'myza",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 180768,
+          "filename": "vo-91-aumyza-05-f",
+          "fileDataId": 4077679,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/4077679/VO_91_Aumyza_05_F.ogg",
+          "text": "Pity. The band broke up. They were quite entertaining.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 180770,
+          "filename": "vo-91-aumyza-07-f",
+          "fileDataId": 4077681,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/4077681/VO_91_Aumyza_07_F.ogg",
+          "text": "Ah. The next band has arrived. Please take the stage. And remember: I am quite generous with those who manage to entertain my guests.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 180773,
+          "filename": "vo-91-aumyza-10-f",
+          "fileDataId": 4077684,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/116/4077684/VO_91_Aumyza_10_F.ogg",
+          "text": "Cartel So's underhanded dealings have not escaped my attention. You may have my signature... as long as you never again bring destruction to my oasis.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 180782,
+          "filename": "vo-91-aumyza-19-f",
+          "fileDataId": 4077729,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/161/4077729/VO_91_Aumyza_19_F.ogg",
+          "text": "I believe the crowd has heard enough.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 180772,
+          "filename": "vo-91-aumyza-09-f",
+          "fileDataId": 4077683,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/115/4077683/VO_91_Aumyza_09_F.ogg",
+          "text": "It has been an age since I witnessed such a... vigorous show. My establishment would not survive another.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 180771,
+          "filename": "vo-91-aumyza-08-f",
+          "fileDataId": 4077682,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/114/4077682/VO_91_Aumyza_08_F.ogg",
+          "text": "Stop the performance! There is no one left to hear it.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 176384,
+      "name": "Katy Stampwhistle",
+      "elite": false,
+      "quotes": [
+        {
+          "soundId": 181600,
+          "filename": "vo-91-katy-stampwhistle-10-f",
+          "fileDataId": 4082547,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/115/4082547/VO_91_Katy_Stampwhistle_10_F.ogg",
+          "text": "No problem at all! Now to find a way back to Azeroth... after I make a few process improvements around here!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 181599,
+          "filename": "vo-91-katy-stampwhistle-09-f",
+          "fileDataId": 4082546,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/114/4082546/VO_91_Katy_Stampwhistle_09_F.ogg",
+          "text": "Oh, you mean this? There are dozens of them all over the floor. Here, take one!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 176705,
+      "name": "Venza Goldfuse",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 180381,
+          "filename": "vo-91-venza-goldfuse-14-f",
+          "fileDataId": 4075595,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/4075595/VO_91_Venza_Goldfuse_14_F.ogg",
+          "text": "This beast will do nicely.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 180380,
+          "filename": "vo-91-venza-goldfuse-13-f",
+          "fileDataId": 4075594,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/4075594/VO_91_Venza_Goldfuse_13_F.ogg",
+          "text": "What I need is a distraction. The kind with sharp teeth.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 177994,
+      "name": "Xy'har",
+      "elite": false,
+      "quotes": [
+        {
+          "soundId": 149725,
+          "filename": "vo-901-oribos-broker-friendly-02-m",
+          "fileDataId": 3429458,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/82/3429458/VO_901_Oribos_Broker_Friendly_02_M.ogg",
+          "text": "Until our next transaction.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 176759,
+      "name": "Xy'nam",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 180355,
+          "filename": "vo-91-xynam-04-m",
+          "fileDataId": 4075535,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/15/4075535/VO_91_Xynam_04_M.ogg",
+          "text": "Cartel Xy is not responsible for any loss of limb that occurs during this demonstration!",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 177995,
+      "name": "Xy'zaro",
+      "elite": false,
+      "quotes": [
+        {
+          "soundId": 149723,
+          "filename": "vo-901-oribos-broker-friendly-01-m",
+          "fileDataId": 3429456,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/80/3429456/VO_901_Oribos_Broker_Friendly_01_M.ogg",
+          "text": "You struck a hard bargain. Good show!",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 176302,
+      "name": "Corsair Cannoneer",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 179790,
+          "filename": "VO_91_Corsair_Cannoneer_01_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/4070139/VO_91_Corsair_Cannoneer_01_M.ogg",
+          "text": "We brought out the big guns, Captain!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "We brought out the big guns, Captain!",
+          "matchScore": null,
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 179795,
+          "filename": "VO_91_Corsair_Cannoneer_03_F",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/0/4070144/VO_91_Corsair_Cannoneer_03_F.ogg",
+          "text": "Right away, Captain!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Right away, Captain!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 179798,
+          "filename": "VO_91_Corsair_Cannoneer_05_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/3/4070147/VO_91_Corsair_Cannoneer_05_M.ogg",
+          "text": "A-ha! Captain is a dragon!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "A-ha! Captain is a dragon!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 179794,
+          "filename": "VO_91_Corsair_Cannoneer_03_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/255/4070143/VO_91_Corsair_Cannoneer_03_M.ogg",
+          "text": "свое Howard go the the r bar start bricks go she",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "свое Howard go the the r bar start bricks go she",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 179793,
+          "filename": "VO_91_Corsair_Cannoneer_02_F",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/254/4070142/VO_91_Corsair_Cannoneer_02_F.ogg",
+          "text": "Aye aye, Captain!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Aye aye, Captain!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 179792,
+          "filename": "VO_91_Corsair_Cannoneer_02_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/253/4070141/VO_91_Corsair_Cannoneer_02_M.ogg",
+          "text": "Oi-oi, Captain!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Oi-oi, Captain!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 179796,
+          "filename": "VO_91_Corsair_Cannoneer_04_M",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/4070145/VO_91_Corsair_Cannoneer_04_M.ogg",
+          "text": "Our captain is a dragon!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Our captain is a dragon!",
+          "matchScore": null,
+          "status": "accepted",
+          "selected": true,
+          "notes": ""
+        },
+        {
+          "soundId": 179799,
+          "filename": "VO_91_Corsair_Cannoneer_05_F",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/4/4070148/VO_91_Corsair_Cannoneer_05_F.ogg",
+          "text": "Our captain is a dragon!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Our captain is a dragon!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 179791,
+          "filename": "VO_91_Corsair_Cannoneer_01_F",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/4070140/VO_91_Corsair_Cannoneer_01_F.ogg",
+          "text": "Oh! We brought out the big guns, Captain!",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Oh! We brought out the big guns, Captain!",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 179797,
+          "filename": "VO_91_Corsair_Cannoneer_04_F",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/4070146/VO_91_Corsair_Cannoneer_04_F.ogg",
+          "text": "Our captain is a dragon?",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "Our captain is a dragon?",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

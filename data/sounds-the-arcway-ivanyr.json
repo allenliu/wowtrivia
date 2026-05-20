@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "npc": "Ivanyr",
+    "dungeon": "The Arcway",
+    "filterName": "ivanyr",
+    "namePattern": "",
+    "generated": "2026-05-19T17:54:41-07:00",
+    "soundCount": 22
+  },
+  "sounds": [
+    {
+      "soundId": 73422,
+      "filename": "SPELL_Ivanyr_VolatileMagic_State - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/155/1417627/FX_Spell_Energy_Electrical_PreCast_LOOP1_01.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 57764,
+      "filename": "VO_701_Ivanyr_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/15/1332751/VO_701_Ivanyr_09.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": "NNN it's a Dained"
+    },
+    {
+      "soundId": 73419,
+      "filename": "SPELL_Ivanyr_VolatileMagic_Cast - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/1416775/FX_Magic_Arcane_Impact_Large_01.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": "You"
+    },
+    {
+      "soundId": 74422,
+      "filename": "SPELL_Ivanyr_VolatileMagic_Pulse_Cast - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/173/567981/SPELL_GatheredStorms_Cast_02.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 57765,
+      "filename": "VO_701_Ivanyr_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/17/1332753/VO_701_Ivanyr_10.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": "Thieves! The man that is mine!"
+    },
+    {
+      "soundId": 76120,
+      "filename": "VO_70_IVANYR_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/155/1507227/VO_70_Ivanyr_Wound_01.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": "Ah!"
+    },
+    {
+      "soundId": 73417,
+      "filename": "SPELL_Ivanyr_ArcaneBlast_Cast - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/95/1417567/FX_Spell_Energy_Electrical_Cast_Med_01.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": "You"
+    },
+    {
+      "soundId": 74399,
+      "filename": "SPELL_Ivanyr_ConsumeMana_Channel - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/156/1417628/FX_Spell_Energy_Electrical_PreCast_LOOP1_02.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 57756,
+      "filename": "VO_701_Ivanyr_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/255/1332735/VO_701_Ivanyr_01.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": "I will not be consumed!"
+    },
+    {
+      "soundId": 57758,
+      "filename": "VO_701_Ivanyr_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/3/1332739/VO_701_Ivanyr_03.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": "Get away from my mega!"
+    },
+    {
+      "soundId": 57759,
+      "filename": "VO_701_Ivanyr_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/5/1332741/VO_701_Ivanyr_04.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": "Now, I will not succumb!"
+    },
+    {
+      "soundId": 57760,
+      "filename": "VO_701_Ivanyr_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/1332743/VO_701_Ivanyr_05.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": "SLEEVING RECK!"
+    },
+    {
+      "soundId": 57762,
+      "filename": "VO_701_Ivanyr_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/11/1332747/VO_701_Ivanyr_07.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": "Stay back, it's mine!"
+    },
+    {
+      "soundId": 73418,
+      "filename": "SPELL_Ivanyr_ArcaneBlast_Impact - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/146/1417618/FX_Spell_Energy_Electrical_Impact_Small_02.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": "you"
+    },
+    {
+      "soundId": 73416,
+      "filename": "SPELL_Ivanyr_ArcaneBlast_Precast_Loop - The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/1417631/FX_Spell_Energy_Electrical_PreCast_LOOP3_01.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 75199,
+      "filename": "SPELL_Ivanyr_ConsumeMana_State_Done- The Arcway",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/800761/FX_Lightning_TKRaid_Cast01.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": ""
+    },
+    {
+      "soundId": 57757,
+      "filename": "VO_701_Ivanyr_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/1332737/VO_701_Ivanyr_02.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": "GO AWAY!"
+    },
+    {
+      "soundId": 57761,
+      "filename": "VO_701_Ivanyr_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/9/1332745/VO_701_Ivanyr_06.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": "I WON'T YOU!"
+    },
+    {
+      "soundId": 57763,
+      "filename": "VO_701_Ivanyr_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/13/1332749/VO_701_Ivanyr_08.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": "Now or any more!"
+    },
+    {
+      "soundId": 76118,
+      "filename": "VO_70_IVANYR_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/1507242/VO_70_Ivanyr_Attack_01.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": "HAH!"
+    },
+    {
+      "soundId": 76119,
+      "filename": "VO_70_IVANYR_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/153/1507225/VO_70_Ivanyr_AttackCrit_04.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": "Shit!"
+    },
+    {
+      "soundId": 76121,
+      "filename": "VO_70_IVANYR_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/165/1507237/VO_70_Ivanyr_WoundCrit_01.ogg",
+      "npc": "Ivanyr",
+      "dungeon": "The Arcway",
+      "transcript": "Agh!"
+    }
+  ]
+}

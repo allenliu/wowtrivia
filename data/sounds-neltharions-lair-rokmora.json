@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "npc": "Rokmora",
+    "dungeon": "Neltharion's Lair",
+    "filterName": "rokmora",
+    "namePattern": "",
+    "generated": "2026-05-19T17:11:33-07:00",
+    "soundCount": 21
+  },
+  "sounds": [
+    {
+      "soundId": 54531,
+      "filename": "VO_70_Rokmora_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/9/1275401/VO_70_Rokmora_01.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Nak Shutter"
+    },
+    {
+      "soundId": 54549,
+      "filename": "VO_70_Rokmora_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/1275437/VO_70_Rokmora_03.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Let me break!"
+    },
+    {
+      "soundId": 64336,
+      "filename": "Mon_Neltharion_Rokmora_Shatter_Precast_Exertion",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/151/1260695/MON_Crystal_Fury_Aggro_01.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "League of Legends"
+    },
+    {
+      "soundId": 69125,
+      "filename": "VO_70_ROKMORA_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/221/1415389/VO_70_Rokmora_Attack_01.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Hmm"
+    },
+    {
+      "soundId": 64330,
+      "filename": "Spell_Neltharion_Rokmora_RazorShards_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/155/1417627/FX_Spell_Energy_Electrical_PreCast_LOOP1_01.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 73103,
+      "filename": "Spell_Rokmora_Boss_Intro_Emerge_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/565426/GO_ExplodingStoneImpact01_05.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "BOOM!"
+    },
+    {
+      "soundId": 73825,
+      "filename": "Spell_Rokmora_CrystalineGround_Aura_Elec_Loop",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/1417631/FX_Spell_Energy_Electrical_PreCast_LOOP3_01.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 73824,
+      "filename": "Spell_Rokmora_CrystalineGround_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/244/1394932/Spell_DH_Impact_Land_MetaMorph_01.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 54555,
+      "filename": "VO_70_Rokmora_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/142/1275534/VO_70_Rokmora_06.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Nothing beat rock!"
+    },
+    {
+      "soundId": 64333,
+      "filename": "Spell_Neltharion_Rokmora_Shatter_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/567298/EVENT_TippingTheBalance_StatueImpact_02.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 73113,
+      "filename": "Spell_Neltharion_Rokmora_Shatter_Cast2",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/1417600/FX_Spell_Energy_Electrical_Impact_Large_01.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 54551,
+      "filename": "VO_70_Rokmora_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/1275441/VO_70_Rokmora_04.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Look Spaaaaaars!"
+    },
+    {
+      "soundId": 54553,
+      "filename": "VO_70_Rokmora_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/1275530/VO_70_Rokmora_05.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Tiny Pedal! Big Pedal!"
+    },
+    {
+      "soundId": 69128,
+      "filename": "VO_70_ROKMORA_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/246/1415414/VO_70_Rokmora_WoundCrit_01.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "akt"
+    },
+    {
+      "soundId": 73118,
+      "filename": "MON_Neltharion_Rokmora_Shatter_Jump_Up_Exertion",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/231/1415399/VO_70_Rokmora_AttackCrit_01.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Rrrrrrrrrrrrrrrrrr!"
+    },
+    {
+      "soundId": 64331,
+      "filename": "Spell_Neltharion_Rokmora_RazorShards_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/800801/Spell_LeiShen_Lightning_Large_Cast01.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 64332,
+      "filename": "Spell_Neltharion_Rokmora_RazorShards_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/124/568188/SPELL_LightningBolt_Impact_02.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "You"
+    },
+    {
+      "soundId": 64334,
+      "filename": "Spell_Neltharion_Rokmora_Shatter_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/797948/FX_Electrical_Zaps01.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 54548,
+      "filename": "VO_70_Rokmora_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/43/1275435/VO_70_Rokmora_02.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Look stronger!"
+    },
+    {
+      "soundId": 69126,
+      "filename": "VO_70_ROKMORA_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/231/1415399/VO_70_Rokmora_AttackCrit_01.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Whoa."
+    },
+    {
+      "soundId": 69127,
+      "filename": "VO_70_ROKMORA_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/236/1415404/VO_70_Rokmora_Wound_01.ogg",
+      "npc": "Rokmora",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "uh you"
+    }
+  ]
+}

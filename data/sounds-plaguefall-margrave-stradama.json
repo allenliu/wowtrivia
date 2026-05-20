@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "npc": "Margrave Stradama",
+    "dungeon": "Plaguefall",
+    "filterName": "stradama",
+    "namePattern": "",
+    "generated": "2026-05-19T15:41:42-07:00",
+    "soundCount": 17
+  },
+  "sounds": [
+    {
+      "soundId": 160652,
+      "filename": "VO_901_Margrave_Stradama_19_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/170/3620266/VO_901_Margrave_Stradama_19_F.ogg",
+      "npc": "Margrave Stradama",
+      "dungeon": "Plaguefall",
+      "transcript": "Dear Nerva, forgive yourself. I am lost, but you must endure."
+    },
+    {
+      "soundId": 153207,
+      "filename": "VO_901_Margrave_Stradama_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/3489889/VO_901_Margrave_Stradama_12_F.ogg",
+      "npc": "Margrave Stradama",
+      "dungeon": "Plaguefall",
+      "transcript": "Now you will know my suffering!"
+    },
+    {
+      "soundId": 153197,
+      "filename": "VO_901_Margrave_Stradama_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/87/3489879/VO_901_Margrave_Stradama_02_F.ogg",
+      "npc": "Margrave Stradama",
+      "dungeon": "Plaguefall",
+      "transcript": "If you so desire this power, then come and claim it! Or let it claim you!"
+    },
+    {
+      "soundId": 153204,
+      "filename": "VO_901_Margrave_Stradama_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/94/3489886/VO_901_Margrave_Stradama_09_F.ogg",
+      "npc": "Margrave Stradama",
+      "dungeon": "Plaguefall",
+      "transcript": "It spreads! It cannot be constrained!"
+    },
+    {
+      "soundId": 153205,
+      "filename": "VO_901_Margrave_Stradama_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/95/3489887/VO_901_Margrave_Stradama_10_F.ogg",
+      "npc": "Margrave Stradama",
+      "dungeon": "Plaguefall",
+      "transcript": "Hestilence will involve you!"
+    },
+    {
+      "soundId": 153211,
+      "filename": "VO_901_Margrave_Stradama_16_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/3489893/VO_901_Margrave_Stradama_16_F.ogg",
+      "npc": "Margrave Stradama",
+      "dungeon": "Plaguefall",
+      "transcript": "Do not trust the air."
+    },
+    {
+      "soundId": 160650,
+      "filename": "VO_901_Margrave_Stradama_17_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/168/3620264/VO_901_Margrave_Stradama_17_F.ogg",
+      "npc": "Margrave Stradama",
+      "dungeon": "Plaguefall",
+      "transcript": "Who beckons me? Who dares have their voice to my torment?"
+    },
+    {
+      "soundId": 160653,
+      "filename": "VO_901_Margrave_Stradama_20_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/3620267/VO_901_Margrave_Stradama_20_F.ogg",
+      "npc": "Margrave Stradama",
+      "dungeon": "Plaguefall",
+      "transcript": "No more! No more! No more! No more!"
+    },
+    {
+      "soundId": 153196,
+      "filename": "VO_901_Margrave_Stradama_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/86/3489878/VO_901_Margrave_Stradama_01_F.ogg",
+      "npc": "Margrave Stradama",
+      "dungeon": "Plaguefall",
+      "transcript": "Who trespasses upon the house of Blaze? Who safes that which cannot be controlled?"
+    },
+    {
+      "soundId": 153198,
+      "filename": "VO_901_Margrave_Stradama_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/88/3489880/VO_901_Margrave_Stradama_03_F.ogg",
+      "npc": "Margrave Stradama",
+      "dungeon": "Plaguefall",
+      "transcript": "He owed my final work, my pride, and my tune!"
+    },
+    {
+      "soundId": 153199,
+      "filename": "VO_901_Margrave_Stradama_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/89/3489881/VO_901_Margrave_Stradama_04_F.ogg",
+      "npc": "Margrave Stradama",
+      "dungeon": "Plaguefall",
+      "transcript": "Will be destroyed!"
+    },
+    {
+      "soundId": 153206,
+      "filename": "VO_901_Margrave_Stradama_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/96/3489888/VO_901_Margrave_Stradama_11_F.ogg",
+      "npc": "Margrave Stradama",
+      "dungeon": "Plaguefall",
+      "transcript": "Let disease embrace you!"
+    },
+    {
+      "soundId": 153208,
+      "filename": "VO_901_Margrave_Stradama_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/98/3489890/VO_901_Margrave_Stradama_13_F.ogg",
+      "npc": "Margrave Stradama",
+      "dungeon": "Plaguefall",
+      "transcript": "Such strength! Such important addition to the plague!"
+    },
+    {
+      "soundId": 160651,
+      "filename": "VO_901_Margrave_Stradama_18_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/3620265/VO_901_Margrave_Stradama_18_F.ogg",
+      "npc": "Margrave Stradama",
+      "dungeon": "Plaguefall",
+      "transcript": "Wait... This potion... ...nearly left?"
+    },
+    {
+      "soundId": 153200,
+      "filename": "VO_901_Margrave_Stradama_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/90/3489882/VO_901_Margrave_Stradama_05_F.ogg",
+      "npc": "Margrave Stradama",
+      "dungeon": "Plaguefall",
+      "transcript": "You cannot avoid this fight!"
+    },
+    {
+      "soundId": 153201,
+      "filename": "VO_901_Margrave_Stradama_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/91/3489883/VO_901_Margrave_Stradama_06_F.ogg",
+      "npc": "Margrave Stradama",
+      "dungeon": "Plaguefall",
+      "transcript": "My house wakes with blood!"
+    },
+    {
+      "soundId": 153202,
+      "filename": "VO_901_Margrave_Stradama_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/92/3489884/VO_901_Margrave_Stradama_07_F.ogg",
+      "npc": "Margrave Stradama",
+      "dungeon": "Plaguefall",
+      "transcript": "Can you feel his anger? My anger!"
+    }
+  ]
+}

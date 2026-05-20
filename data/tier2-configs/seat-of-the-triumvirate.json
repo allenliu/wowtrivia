@@ -1,0 +1,12 @@
+{
+  "dungeon": "The Seat of the Triumvirate",
+  "slug": "the-seat-of-the-triumvirate",
+  "wowheadZoneId": 8910,
+  "expansion": "Legion",
+  "bosses": [
+    { "id": 124729, "name": "L'ura", "filterName": "l_ura", "namePattern": "^VO_.*L.?ura", "quotes": [] },
+    { "id": 122313, "name": "Zuraal the Ascended", "filterName": "zuraal", "quotes": [] },
+    { "id": 122316, "name": "Saprish", "filterName": "saprish", "quotes": [] },
+    { "id": 122056, "name": "Viceroy Nezhar", "filterName": "nezhar", "namePattern": "^VO_.*Nezhar", "quotes": [] }
+  ]
+}

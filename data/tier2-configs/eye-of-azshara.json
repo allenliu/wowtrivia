@@ -1,0 +1,89 @@
+{
+  "dungeon": "Eye of Azshara",
+  "slug": "eye-of-azshara",
+  "wowheadZoneId": 7578,
+  "expansion": "Legion",
+  "bosses": [
+    {
+      "id": 96336,
+      "name": "Wrath of Azshara",
+      "filterName": "wrath_of_azshara",
+      "quotes": [
+        { "context": "Intro",        "text": "THE STORM AWAKENS." },
+        { "context": "Active",       "text": "THE TIDES RISE!" },
+        { "context": "Aggro",        "text": "ALL WILL BE ERADICATED!" },
+        { "context": "Massive Deluge", "text": "CRUSH!" },
+        { "context": "Crushing Depths", "text": "DROWN!" },
+        { "context": "Arcane Bomb",  "text": "SEEK... MAGIC..." },
+        { "context": "Arcane Bomb",  "text": "ARCANE... ENERGY..." },
+        { "context": "Cry of Wrath", "text": "TEMPEST!" },
+        { "context": "Player Killed","text": "WASHED AWAY!" },
+        { "context": "Player Killed","text": "TORN ASUNDER!" },
+        { "context": "Wipe",         "text": "THIS WORLD WILL DROWN!" },
+        { "context": "Death",        "text": "WATER... ETERNAL..." }
+      ]
+    },
+    {
+      "id": 96331,
+      "name": "Lady Hatecoil",
+      "filterName": "hatecoil",
+      "namePattern": "^VO_.*Lady_Hatecoil",
+      "quotes": [
+        { "context": "Intro",  "text": "It seems we have pests..." },
+        { "context": "Aggro",  "text": "Continue the rituals! I will handle these fools." },
+        { "context": "Static Nova",  "text": "Fly, landwalkers!" },
+        { "context": "Static Nova",  "text": "Just you wait..." },
+        { "context": "Beckon Storm", "text": "The waters rise..." },
+        { "context": "Focused Lightning", "text": "A storm is gathering..." },
+        { "context": "Focused Lightning", "text": "There is no escape!" },
+        { "context": "Player Killed", "text": "Too much to handle?" },
+        { "context": "Player Killed", "text": "Pitiful!" },
+        { "context": "Player Killed", "text": "The Hatecoil proves superior!" },
+        { "context": "Death", "text": "Can you feel the winds? They come for you..." },
+        { "context": "Death", "text": "You are too late! The Wrath of Azshara has arrived!" }
+      ]
+    },
+    {
+      "id": 96337,
+      "name": "Warlord Parjesh",
+      "filterName": "parjesh",
+      "quotes": [
+        { "context": "Intro", "text": "Guardians of the ritual, prepare yourselves! She will not be disappointed!" },
+        { "context": "Intro", "text": "Hmph. Intruders. They will not get far." },
+        { "context": "Aggro", "text": "Ah, we meet again, weakling. Now it's just you and me... and my guards!" },
+        { "context": "Reinforcements", "text": "Sssssth! Hatecoil, crush their bodies!" },
+        { "context": "Reinforcements", "text": "Hatecoil, drown them out!" },
+        { "context": "Impaling Spear", "text": "Fools! Get out of the way!" },
+        { "context": "Impaling Spear", "text": "Useless. All of you!" },
+        { "context": "Enrage", "text": "Ha, nowhere to hide!" },
+        { "context": "Player Killed", "text": "Get my point?" },
+        { "context": "Player Killed", "text": "Like fish in a net." },
+        { "context": "Player Killed", "text": "That was for Athissa!" },
+        { "context": "Player Killed", "text": "Unworthy of my time." },
+        { "context": "Death", "text": "You can't stop... the storm..." }
+      ]
+    },
+    {
+      "id": 96338,
+      "name": "King Deepbeard",
+      "filterName": "deepbeard",
+      "quotes": [
+        { "context": "Aggro", "text": "You weaklings will drown beneath these waves!" },
+        { "context": "Aggro", "text": "You killed my son! Your punishment is death!" },
+        { "context": "Gaseous Bubbles", "text": "How long can you hold your breath, high one?" },
+        { "context": "Gaseous Bubbles", "text": "Pity you cannot survive without air!" },
+        { "context": "Quake", "text": "Before the crashing waves, comes the quake!" },
+        { "context": "Quake", "text": "The earth trembles before the rising tide!" },
+        { "context": "Call the Seas", "text": "Seas! Obey my command!" },
+        { "context": "Call the Seas", "text": "The ocean will sweep you away!" },
+        { "context": "Player Killed", "text": "Justice for the son you murdered!" },
+        { "context": "Player Killed", "text": "Blood repays blood!" },
+        { "context": "Player Killed", "text": "This was as inevitable as the tides, fools." },
+        { "context": "Death", "text": "The oceans rest... but the wind still rises against you." },
+        { "context": "Death", "text": "Gaaah... The winds will finish you, intruders." },
+        { "context": "Death", "text": "You... haven't won... She... is almost here..." },
+        { "context": "Death", "text": "I... I've failed... But my queen will not..." }
+      ]
+    }
+  ]
+}

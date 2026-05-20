@@ -1,0 +1,452 @@
+{
+  "meta": {
+    "npc": "Rezan",
+    "dungeon": "Atal'Dazar",
+    "filterName": "rezan",
+    "namePattern": "",
+    "generated": "2026-05-19T13:52:31-07:00",
+    "soundCount": 55
+  },
+  "sounds": [
+    {
+      "soundId": 110841,
+      "filename": "VO_801_Rezan_GREETINGS",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/223/1993951/VO_801_Rezan_04_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Have you come to bargain?"
+    },
+    {
+      "soundId": 104877,
+      "filename": "VO_801_Rezan_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/221/1993949/VO_801_Rezan_02_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Grand Wounds upon your foes."
+    },
+    {
+      "soundId": 104892,
+      "filename": "VO_801_Rezan_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/236/1993964/VO_801_Rezan_17_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Come, little king, let us bring ruin upon these handics."
+    },
+    {
+      "soundId": 104885,
+      "filename": "VO_801_Rezan_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/229/1993957/VO_801_Rezan_10_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You bear the mark of one of my chosen. Who are you to call upon the lower of kings?"
+    },
+    {
+      "soundId": 104895,
+      "filename": "VO_801_Rezan_20_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/239/1993967/VO_801_Rezan_20_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "There is blood in the waters now."
+    },
+    {
+      "soundId": 118706,
+      "filename": "MUS_80_Zuldazar_TempleofRezan",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/1780944/MUS_80_WhispersfromtheVoid_A.mp3",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Shakoor, Batsik, Kisak, Gashak, Bata, Kisak, Bati, Kisak, Jikak, Bato, Dina, Shatak, Satsaka, Kisak, Batsak, Bata, Kisak, Bata, Kisak, Bato, Dina, Shatak, Bato. Show me the way to heaven And show me the way to heaven Show me the way to heaven"
+    },
+    {
+      "soundId": 104881,
+      "filename": "VO_801_Rezan_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/225/1993953/VO_801_Rezan_06_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You walk in my lands."
+    },
+    {
+      "soundId": 104883,
+      "filename": "VO_801_Rezan_08_M [RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/227/1993955/VO_801_Rezan_08_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "HURRITIC!"
+    },
+    {
+      "soundId": 104884,
+      "filename": "VO_801_Rezan_09_M [RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/228/1993956/VO_801_Rezan_09_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Mind your tongue, traitor."
+    },
+    {
+      "soundId": 104890,
+      "filename": "VO_801_Rezan_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/234/1993962/VO_801_Rezan_15_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Restore his spirit to his body. My priests call me back to my temple."
+    },
+    {
+      "soundId": 104891,
+      "filename": "VO_801_Rezan_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/235/1993963/VO_801_Rezan_16_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Send Rastakhan to me, when he finds his teeth he gain."
+    },
+    {
+      "soundId": 104894,
+      "filename": "VO_801_Rezan_19_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/238/1993966/VO_801_Rezan_19_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Your council challenges your authority. Your friends try to take your life."
+    },
+    {
+      "soundId": 104896,
+      "filename": "VO_801_Rezan_21_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/240/1993968/VO_801_Rezan_21_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "It is time to ask yourself, are you king or are you prey?"
+    },
+    {
+      "soundId": 114288,
+      "filename": "VO_801_Rezan_22_M [RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/146/2121106/VO_801_Rezan_22_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You trespass upon sacred ground."
+    },
+    {
+      "soundId": 118350,
+      "filename": "SPELL_8.0_Zuldazar_ReleaseRezan_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/1716533/Spell_PR_Revamp_Shadow_Crash_Impact_01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You"
+    },
+    {
+      "soundId": 118327,
+      "filename": "SPELL_8.0_Zuldazar_RezanStatue_Cleanse_Impact_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/248/2066680/FX_Holy_Magic_Impact_Large_01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 118329,
+      "filename": "SPELL_8.0_Zuldazar_RezanStatue_Cleanse_Impact_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/61/1696829/SPELL_PR_Revamp_Holy_Cast_01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Thanks for watching!"
+    },
+    {
+      "soundId": 90733,
+      "filename": "Spell_CityofGold_Rezan_Devour_OneShot",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/15/839695/FX_Blood_Impact01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 91174,
+      "filename": "Spell_CityofGold_Rezan_PileofBones_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/946439/FX_RockSpell_Impact01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 116812,
+      "filename": "Spell_CityofGold_Rezan_Pursuit_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/204/568268/Taunt.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 104876,
+      "filename": "VO_801_Rezan_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/220/1993948/VO_801_Rezan_01_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "May you savor the flesh of your enemies."
+    },
+    {
+      "soundId": 104880,
+      "filename": "VO_801_Rezan_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/224/1993952/VO_801_Rezan_05_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Be you, Precator, or pray."
+    },
+    {
+      "soundId": 104888,
+      "filename": "VO_801_Rezan_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/232/1993960/VO_801_Rezan_13_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You have taken what is mine. Release him."
+    },
+    {
+      "soundId": 110840,
+      "filename": "VO_801_Rezan_FAREWELLS",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/220/1993948/VO_801_Rezan_01_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "May you savor the flesh of your enemies."
+    },
+    {
+      "soundId": 164379,
+      "filename": "VO_901_Rezan_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/189/3724221/VO_901_Rezan_01_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Volgyn of the Dark Spear. Your soul is fierce. You seek justice."
+    },
+    {
+      "soundId": 164381,
+      "filename": "VO_901_Rezan_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/3724227/VO_901_Rezan_03_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Let all that I was be reborn within you."
+    },
+    {
+      "soundId": 110636,
+      "filename": "Item_Azerite_RezansFury_Spawn",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/37/558885/RaptorPetClickable_03.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 117194,
+      "filename": "MUS_80_DGN_CityofGold_Rezan_Intro",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/175/1780911/MUS_80_BloodSacrifice_H.mp3",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 118193,
+      "filename": "RTC_8.0_ZZF_Rezan_Battleroar",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/803539/MON_Battlesaur_BattleRoar_01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 119386,
+      "filename": "RTC_8.0_ZZF_Rezan_Bone_Foley",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/946439/FX_RockSpell_Impact01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 119387,
+      "filename": "RTC_8.0_ZZF_Rezan_Footstep",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/147/803475/MON_Dinosaur_Large_Footsteps_01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You"
+    },
+    {
+      "soundId": 118192,
+      "filename": "RTC_8.0_ZZF_Rezan_Undead_Battleroar",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/92/1777500/MON_Undead_TRex_BattleRoar_01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "honor"
+    },
+    {
+      "soundId": 119388,
+      "filename": "RTC_8.0_ZZF_Rezan_Wound",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/27/803611/MON_Battlesaur_WoundCrit_05.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "N bleibt sub continuously"
+    },
+    {
+      "soundId": 115883,
+      "filename": "SPELL_8.0_AzeriteArmor_RezansFury_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/1325383/Spell_DR_ClawShreds_Thrash01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 116960,
+      "filename": "SPELL_8.0_Trinket_RezansGleamingEye_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/167/803495/MON_Battlesaur_Aggro_01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Oh You"
+    },
+    {
+      "soundId": 118351,
+      "filename": "SPELL_8.0_Zuldazar_Rezan_MightyRoar_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/803539/MON_Battlesaur_BattleRoar_01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 118353,
+      "filename": "SPELL_8.0_Zuldazar_Rezan_RoilingThunder_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/48/567344/EVENT_TippingTheBalance_StatueImpact_01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Yay!"
+    },
+    {
+      "soundId": 118352,
+      "filename": "SPELL_8.0_Zuldazar_Rezan_Stomp_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/930440/FX_Explosion_Rock_Debris_01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 118344,
+      "filename": "SPELL_8.0_Zuldazar_ShacklesofRezan_State_Loop_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/90/568410/FX_Chains_MediumClanking_Loop_03.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 118345,
+      "filename": "SPELL_8.0_Zuldazar_ShacklesofRezan_State_Loop_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/92/986716/SPELL_VoidMagic_SummonPet_Loop_01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 118425,
+      "filename": "SPELL_8.0_Zuldazar_WorldQuest_RageofRezan_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/803539/MON_Battlesaur_BattleRoar_01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 90732,
+      "filename": "Spell_CityofGold_Rezan_Devour_Channel",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/13/839693/FX_Blood_Channel_Heavy.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 91173,
+      "filename": "Spell_CityofGold_Rezan_Devour_Periodic_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/1332475/Unarmed_Impacts_Clawed01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You"
+    },
+    {
+      "soundId": 93650,
+      "filename": "Spell_CityofGold_Rezan_TerrifyingVisage_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/803539/MON_Battlesaur_BattleRoar_01.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 104878,
+      "filename": "VO_801_Rezan_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/222/1993950/VO_801_Rezan_03_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Never cower before the weak."
+    },
+    {
+      "soundId": 104879,
+      "filename": "VO_801_Rezan_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/223/1993951/VO_801_Rezan_04_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Have you come to bargain?"
+    },
+    {
+      "soundId": 104882,
+      "filename": "VO_801_Rezan_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/1993954/VO_801_Rezan_07_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "What is it? Child of the Horde."
+    },
+    {
+      "soundId": 104886,
+      "filename": "VO_801_Rezan_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/230/1993958/VO_801_Rezan_11_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "The little king will rise. I am not finished with him."
+    },
+    {
+      "soundId": 104887,
+      "filename": "VO_801_Rezan_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/231/1993959/VO_801_Rezan_12_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "BWON SANDY"
+    },
+    {
+      "soundId": 104889,
+      "filename": "VO_801_Rezan_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/233/1993961/VO_801_Rezan_14_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Know your place, lower of graves, or I will put you in one."
+    },
+    {
+      "soundId": 104893,
+      "filename": "VO_801_Rezan_18_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/237/1993965/VO_801_Rezan_18_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Rustacan, your enemies test your borders."
+    },
+    {
+      "soundId": 164380,
+      "filename": "VO_901_Rezan_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/192/3724224/VO_901_Rezan_02_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "The last glimmer of my essence is yours. Carry it to Ardenweald."
+    },
+    {
+      "soundId": 164382,
+      "filename": "VO_901_Rezan_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/3724230/VO_901_Rezan_04_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You are the one they need."
+    },
+    {
+      "soundId": 165151,
+      "filename": "VO_901_Rezan_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/3731560/VO_901_Rezan_05_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Run away."
+    },
+    {
+      "soundId": 165152,
+      "filename": "VO_901_Rezan_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/105/3731561/VO_901_Rezan_06_M.ogg",
+      "npc": "Rezan",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Not yet."
+    }
+  ]
+}

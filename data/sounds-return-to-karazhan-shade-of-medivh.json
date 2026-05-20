@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "npc": "Shade of Medivh",
+    "dungeon": "Return to Karazhan",
+    "filterName": "shade_of_medivh",
+    "namePattern": "^VO_.*Shade_of_Medivh",
+    "generated": "2026-05-19T16:52:33-07:00",
+    "soundCount": 25
+  },
+  "sounds": [
+    {
+      "soundId": 77556,
+      "filename": "VO_71_Shade_of_Medivh_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/87/1518423/VO_71_Shade_of_Medivh_08_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "This is who I am. I was tainted from birth, polluted from before my conception. A bad seed grown to bear bitter fruit."
+    },
+    {
+      "soundId": 77552,
+      "filename": "VO_71_Shade_of_Medivh_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/83/1518419/VO_71_Shade_of_Medivh_04_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Hello champions, I've been expecting you."
+    },
+    {
+      "soundId": 77565,
+      "filename": "VO_71_Shade_of_Medivh_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/96/1518432/VO_71_Shade_of_Medivh_17_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "So many pieces of me!"
+    },
+    {
+      "soundId": 77566,
+      "filename": "VO_71_Shade_of_Medivh_18_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/97/1518433/VO_71_Shade_of_Medivh_18_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "I suggest staying put."
+    },
+    {
+      "soundId": 77567,
+      "filename": "VO_71_Shade_of_Medivh_19_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/98/1518434/VO_71_Shade_of_Medivh_19_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "So, it comes to this."
+    },
+    {
+      "soundId": 77549,
+      "filename": "VO_71_Shade_of_Medivh_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/80/1518416/VO_71_Shade_of_Medivh_01_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "A basic spell... What effective!"
+    },
+    {
+      "soundId": 77568,
+      "filename": "VO_71_Shade_of_Medivh_20_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/1518435/VO_71_Shade_of_Medivh_20_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "My staff. A relic, yes, but mine!"
+    },
+    {
+      "soundId": 77569,
+      "filename": "VO_71_Shade_of_Medivh_21_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/100/1518436/VO_71_Shade_of_Medivh_21_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "A tiesh will be splintered"
+    },
+    {
+      "soundId": 77572,
+      "filename": "VO_71_Shade_of_Medivh_24_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/103/1518439/VO_71_Shade_of_Medivh_24_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Winter is here!"
+    },
+    {
+      "soundId": 77550,
+      "filename": "VO_71_Shade_of_Medivh_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/81/1518417/VO_71_Shade_of_Medivh_02_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "It burns, burns, burns!"
+    },
+    {
+      "soundId": 77551,
+      "filename": "VO_71_Shade_of_Medivh_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/82/1518418/VO_71_Shade_of_Medivh_03_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Just gets easier."
+    },
+    {
+      "soundId": 77553,
+      "filename": "VO_71_Shade_of_Medivh_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/84/1518420/VO_71_Shade_of_Medivh_05_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "You have never seen the true Medivh."
+    },
+    {
+      "soundId": 77554,
+      "filename": "VO_71_Shade_of_Medivh_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/85/1518421/VO_71_Shade_of_Medivh_06_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "A fitting end for a thief."
+    },
+    {
+      "soundId": 77555,
+      "filename": "VO_71_Shade_of_Medivh_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/86/1518422/VO_71_Shade_of_Medivh_07_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Keep still. Let it end."
+    },
+    {
+      "soundId": 77557,
+      "filename": "VO_71_Shade_of_Medivh_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/88/1518424/VO_71_Shade_of_Medivh_09_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "All goes is planned."
+    },
+    {
+      "soundId": 77558,
+      "filename": "VO_71_Shade_of_Medivh_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/89/1518425/VO_71_Shade_of_Medivh_10_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "You're just like the others, aren't you?"
+    },
+    {
+      "soundId": 77559,
+      "filename": "VO_71_Shade_of_Medivh_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/90/1518426/VO_71_Shade_of_Medivh_11_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "You have no idea what it's like to do the things I've done. Harsh things. Necessary things."
+    },
+    {
+      "soundId": 77560,
+      "filename": "VO_71_Shade_of_Medivh_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/91/1518427/VO_71_Shade_of_Medivh_12_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "A memory frozen in time."
+    },
+    {
+      "soundId": 77561,
+      "filename": "VO_71_Shade_of_Medivh_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/92/1518428/VO_71_Shade_of_Medivh_13_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "The Inherent Nature of Fire."
+    },
+    {
+      "soundId": 77562,
+      "filename": "VO_71_Shade_of_Medivh_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/93/1518429/VO_71_Shade_of_Medivh_14_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Carrying for the birds!"
+    },
+    {
+      "soundId": 77563,
+      "filename": "VO_71_Shade_of_Medivh_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/94/1518430/VO_71_Shade_of_Medivh_15_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "I fought it for as long as I could."
+    },
+    {
+      "soundId": 77564,
+      "filename": "VO_71_Shade_of_Medivh_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/95/1518431/VO_71_Shade_of_Medivh_16_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "You grow weaker. I grow stronger."
+    },
+    {
+      "soundId": 77570,
+      "filename": "VO_71_Shade_of_Medivh_22_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/1518437/VO_71_Shade_of_Medivh_22_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Burn! Just like that dragon!"
+    },
+    {
+      "soundId": 77571,
+      "filename": "VO_71_Shade_of_Medivh_23_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/102/1518438/VO_71_Shade_of_Medivh_23_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "The tower needed a new decoration."
+    },
+    {
+      "soundId": 77573,
+      "filename": "VO_71_Shade_of_Medivh_25_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/1518440/VO_71_Shade_of_Medivh_25_M.ogg",
+      "npc": "Shade of Medivh",
+      "dungeon": "Return to Karazhan",
+      "transcript": "Once you get used to it, you can kill friends as easily as anyone else."
+    }
+  ]
+}

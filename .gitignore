@@ -21,3 +21,6 @@ yarn-error.log*
 dist/
 build/
 .cache/
+
+# Cached audio downloads (re-fetchable from zamimg)
+audio/cache/

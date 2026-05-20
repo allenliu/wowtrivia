@@ -1,0 +1,18 @@
+{
+  "dungeon": "The Nokhud Offensive",
+  "slug": "the-nokhud-offensive",
+  "wowheadZoneId": 13982,
+  "expansion": "Dragonflight",
+  "bosses": [
+    { "id": 186151, "name": "Balakar Khan", "filterName": "balakar", "quotes": [
+      { "context": "Greeting", "text": "Fight or leave." },
+      { "context": "Greeting", "text": "The Maruuk have not had a strong khan since Thousandbones himself!" },
+      { "context": "Greeting", "text": "What do you want of us, outsider?" },
+      { "context": "Irritated", "text": "How dare you touch me?!" },
+      { "context": "Farewell", "text": "Get out." },
+      { "context": "Farewell", "text": "Hmph." },
+      { "context": "Farewell", "text": "Out of my sight." },
+      { "context": "Boss", "text": "My storm will bring forth a mightier Maruuk. Greatness awaits us!" }
+    ]}
+  ]
+}

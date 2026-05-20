@@ -1,0 +1,45 @@
+{
+  "dungeon": "Grimrail Depot",
+  "slug": "grimrail-depot",
+  "wowheadZoneId": 6984,
+  "expansion": "Warlords of Draenor",
+  "bosses": [
+    {
+      "id": 80005,
+      "name": "Skylord Tovra",
+      "filterName": "tovra",
+      "quotes": [
+        { "context": "Intro",            "text": "Nobody stops the Iron Horde! Nobody!" },
+        { "context": "Aggro",            "text": "Rakun, let's give 'em hell!" },
+        { "context": "Thunderous Breath","text": "Another one!" },
+        { "context": "Thunderous Breath","text": "Light 'em up!" },
+        { "context": "Thunderous Breath","text": "Show them what you're made of!" },
+        { "context": "Player Killed",    "text": "How shocking." },
+        { "context": "Player Killed",    "text": "Hah!" },
+        { "context": "Wipe",             "text": "You can never stop this train!" },
+        { "context": "Death",            "text": "You... can't..." }
+      ]
+    },
+    {
+      "id": 79545,
+      "name": "Nitrogg Thundertower",
+      "filterName": "thundertower",
+      "quotes": [
+        { "context": "Gauntlet",         "text": "They're here... GET UP!" },
+        { "context": "Gauntlet",         "text": "Formation, NOW!" },
+        { "context": "Gauntlet",         "text": "Come on, swines! Move like you signed up for this." },
+        { "context": "Intro",            "text": "Readdyyyyyyyy!!!" },
+        { "context": "Aggro",            "text": "Who dares challenge me?" },
+        { "context": "Reinforcements",   "text": "Let 'em have it, boys!" },
+        { "context": "Reinforcements",   "text": "Give 'em all ya got." },
+        { "context": "Suppressive Fire", "text": "I've got my sights on you." },
+        { "context": "Suppressive Fire", "text": "RAPID FIRE!!!" },
+        { "context": "Phase 3",          "text": "Hah! Let's take this down to your level." },
+        { "context": "Player Killed",    "text": "Another contender down!" },
+        { "context": "Player Killed",    "text": "So weak!" },
+        { "context": "Wipe",             "text": "None can compete!" },
+        { "context": "Death",            "text": "I didn't... even... try..." }
+      ]
+    }
+  ]
+}

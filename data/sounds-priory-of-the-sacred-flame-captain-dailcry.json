@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "npc": "Captain Dailcry",
+    "dungeon": "Priory of the Sacred Flame",
+    "filterName": "dailcry",
+    "namePattern": "",
+    "generated": "2026-05-19T15:49:36-07:00",
+    "soundCount": 16
+  },
+  "sounds": [
+    {
+      "soundId": 247866,
+      "filename": "VO_110_Captain_Dailcry_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/55/5769527/VO_110_Captain_Dailcry_11_M.ogg",
+      "npc": "Captain Dailcry",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "How pitiful! You could have joined our glory!"
+    },
+    {
+      "soundId": 247859,
+      "filename": "VO_110_Captain_Dailcry_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/48/5769520/VO_110_Captain_Dailcry_04_M.ogg",
+      "npc": "Captain Dailcry",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "by Fang and Claw!"
+    },
+    {
+      "soundId": 247862,
+      "filename": "VO_110_Captain_Dailcry_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/5769523/VO_110_Captain_Dailcry_07_M.ogg",
+      "npc": "Captain Dailcry",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Finish them off, Lieutenant!"
+    },
+    {
+      "soundId": 247858,
+      "filename": "VO_110_Captain_Dailcry_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/47/5769519/VO_110_Captain_Dailcry_03_M.ogg",
+      "npc": "Captain Dailcry",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "The Faithless Fall!"
+    },
+    {
+      "soundId": 247860,
+      "filename": "VO_110_Captain_Dailcry_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/5769521/VO_110_Captain_Dailcry_05_M.ogg",
+      "npc": "Captain Dailcry",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Feel Embers wrath!"
+    },
+    {
+      "soundId": 247867,
+      "filename": "VO_110_Captain_Dailcry_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/56/5769528/VO_110_Captain_Dailcry_12_M.ogg",
+      "npc": "Captain Dailcry",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "I don't give a. I don't give glory!"
+    },
+    {
+      "soundId": 251159,
+      "filename": "VO_110_Captain_Dailcry_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/227/5839843/VO_110_Captain_Dailcry_14_M.ogg",
+      "npc": "Captain Dailcry",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Tainer, the intruders defile the altar of the Sacred Flame!"
+    },
+    {
+      "soundId": 247856,
+      "filename": "VO_110_Captain_Dailcry_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/44/5769516/VO_110_Captain_Dailcry_01_M.ogg",
+      "npc": "Captain Dailcry",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Ours is the true path for the Arethi!"
+    },
+    {
+      "soundId": 247857,
+      "filename": "VO_110_Captain_Dailcry_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/5769518/VO_110_Captain_Dailcry_02_M.ogg",
+      "npc": "Captain Dailcry",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Glory to the Empire!"
+    },
+    {
+      "soundId": 247861,
+      "filename": "VO_110_Captain_Dailcry_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/50/5769522/VO_110_Captain_Dailcry_06_M.ogg",
+      "npc": "Captain Dailcry",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "My spear aims through!"
+    },
+    {
+      "soundId": 247863,
+      "filename": "VO_110_Captain_Dailcry_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/52/5769524/VO_110_Captain_Dailcry_08_M.ogg",
+      "npc": "Captain Dailcry",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Lieutenant, eliminate these vermin!"
+    },
+    {
+      "soundId": 247864,
+      "filename": "VO_110_Captain_Dailcry_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/5769525/VO_110_Captain_Dailcry_09_M.ogg",
+      "npc": "Captain Dailcry",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Put an end to these heathens!"
+    },
+    {
+      "soundId": 247865,
+      "filename": "VO_110_Captain_Dailcry_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/54/5769526/VO_110_Captain_Dailcry_10_M.ogg",
+      "npc": "Captain Dailcry",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Show them the power of the flame!"
+    },
+    {
+      "soundId": 251158,
+      "filename": "VO_110_Captain_Dailcry_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/5839842/VO_110_Captain_Dailcry_13_M.ogg",
+      "npc": "Captain Dailcry",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Shainman, your training grounds fall to the intruders!"
+    },
+    {
+      "soundId": 251160,
+      "filename": "VO_110_Captain_Dailcry_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/228/5839844/VO_110_Captain_Dailcry_15_M.ogg",
+      "npc": "Captain Dailcry",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Helena! They have stopped the production of our weapons!"
+    },
+    {
+      "soundId": 251161,
+      "filename": "VO_110_Captain_Dailcry_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/229/5839845/VO_110_Captain_Dailcry_16_M.ogg",
+      "npc": "Captain Dailcry",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Hold! I see their gambit. They seek to ambush me without my lieutenants."
+    }
+  ]
+}

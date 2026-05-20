@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "npc": "Dresaron",
+    "dungeon": "Darkheart Thicket",
+    "filterName": "dresaron",
+    "namePattern": "",
+    "generated": "2026-05-19T17:52:58-07:00",
+    "soundCount": 6
+  },
+  "sounds": [
+    {
+      "soundId": 64499,
+      "filename": "Spell_NightmareDungeon_Dresaron_HatespawnDetonation_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/205/1120205/Spell_Corruption_Heavy_Impact03.ogg",
+      "npc": "Dresaron",
+      "dungeon": "Darkheart Thicket",
+      "transcript": "You"
+    },
+    {
+      "soundId": 64463,
+      "filename": "Spell_NightmareDungeon_Dresaron_BreathofCorruption_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/216/1120216/Spell_Corruption_Precast01.ogg",
+      "npc": "Dresaron",
+      "dungeon": "Darkheart Thicket",
+      "transcript": ""
+    },
+    {
+      "soundId": 64464,
+      "filename": "Spell_NightmareDungeon_Dresaron_EarthshakingRoar_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/0/1321216/MON_StormDragon_BattleRoar_01.ogg",
+      "npc": "Dresaron",
+      "dungeon": "Darkheart Thicket",
+      "transcript": ""
+    },
+    {
+      "soundId": 64462,
+      "filename": "Spell_NightmareDungeon_Dresaron_BreathofCorruption_Channel",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/217/1120217/Spell_Corruption_Precast02.ogg",
+      "npc": "Dresaron",
+      "dungeon": "Darkheart Thicket",
+      "transcript": ""
+    },
+    {
+      "soundId": 64461,
+      "filename": "Spell_NightmareDungeon_Dresaron_DownDraft_Channel",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/87/568151/EnvelopingWindLoop.ogg",
+      "npc": "Dresaron",
+      "dungeon": "Darkheart Thicket",
+      "transcript": ""
+    },
+    {
+      "soundId": 64465,
+      "filename": "Spell_NightmareDungeon_Dresaron_FallingRocks_Channel",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/569602/SPELL_SH_Earthquake_Loop_Persistant_01.ogg",
+      "npc": "Dresaron",
+      "dungeon": "Darkheart Thicket",
+      "transcript": ""
+    }
+  ]
+}

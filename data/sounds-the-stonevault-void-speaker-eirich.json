@@ -1,0 +1,396 @@
+{
+  "meta": {
+    "npc": "Void Speaker Eirich",
+    "dungeon": "The Stonevault",
+    "filterName": "eirich",
+    "namePattern": "",
+    "generated": "2026-05-19T15:48:14-07:00",
+    "soundCount": 48
+  },
+  "sounds": [
+    {
+      "soundId": 245761,
+      "filename": "VO_110_High_Speaker_Eirich_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/147/5726867/VO_110_High_Speaker_Eirich_05_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "I have nothing to say to you."
+    },
+    {
+      "soundId": 245939,
+      "filename": "VO_110_High_Speaker_Eirich_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/110/5727854/VO_110_High_Speaker_Eirich_09_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "When a fly annoys me, I swat it."
+    },
+    {
+      "soundId": 249379,
+      "filename": "VO_110_High_Speaker_Eirich_35_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/58/5785914/VO_110_High_Speaker_Eirich_35_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "I have no time for your misadventures."
+    },
+    {
+      "soundId": 249383,
+      "filename": "VO_110_High_Speaker_Eirich_37_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/62/5785918/VO_110_High_Speaker_Eirich_37_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "The High Speaker has spoken!"
+    },
+    {
+      "soundId": 255573,
+      "filename": "VO_110_High_Speaker_Eirich_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/147/5726867/VO_110_High_Speaker_Eirich_05_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "I have nothing to say to you."
+    },
+    {
+      "soundId": 249342,
+      "filename": "VO_110_High_Speaker_Eirich_29_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/20/5784084/VO_110_High_Speaker_Eirich_29_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "What I've done saved us all. I have found a path to our salvation."
+    },
+    {
+      "soundId": 249377,
+      "filename": "VO_110_High_Speaker_Eirich_33_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/56/5785912/VO_110_High_Speaker_Eirich_33_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "I have been busy addressing our greatest problem."
+    },
+    {
+      "soundId": 250847,
+      "filename": "VO_110_High_Speaker_Eirich_39_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/11/5835275/VO_110_High_Speaker_Eirich_39_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Earthen above us have fought that battle, and we've recovered from our own minor raid."
+    },
+    {
+      "soundId": 247915,
+      "filename": "VO_110_High_Speaker_Eirich_24_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/108/5769580/VO_110_High_Speaker_Eirich_24_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Apotheosis!"
+    },
+    {
+      "soundId": 246208,
+      "filename": "VO_110_High_Speaker_Eirich_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/32/5738528/VO_110_High_Speaker_Eirich_13_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "So you're relentless, vindictive, and misguided. Perhaps my golems can show you the error of your ways."
+    },
+    {
+      "soundId": 247911,
+      "filename": "VO_110_High_Speaker_Eirich_20_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/5769576/VO_110_High_Speaker_Eirich_20_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Shadows in Velop."
+    },
+    {
+      "soundId": 245760,
+      "filename": "VO_110_High_Speaker_Eirich_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/146/5726866/VO_110_High_Speaker_Eirich_04_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Yes, thank you for whatever it was you did."
+    },
+    {
+      "soundId": 245763,
+      "filename": "VO_110_High_Speaker_Eirich_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/149/5726869/VO_110_High_Speaker_Eirich_07_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Whatever you want, it can't be important."
+    },
+    {
+      "soundId": 246205,
+      "filename": "VO_110_High_Speaker_Eirich_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/23/5738519/VO_110_High_Speaker_Eirich_10_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "You speak the truth? Your artifact will repair the Awakening Machine!"
+    },
+    {
+      "soundId": 246206,
+      "filename": "VO_110_High_Speaker_Eirich_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/26/5738522/VO_110_High_Speaker_Eirich_11_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Because of me."
+    },
+    {
+      "soundId": 247906,
+      "filename": "VO_110_High_Speaker_Eirich_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/5769571/VO_110_High_Speaker_Eirich_15_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Perfection. Vision. Overwhelm."
+    },
+    {
+      "soundId": 250864,
+      "filename": "VO_110_High_Speaker_Eirich_41_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/5835327/VO_110_High_Speaker_Eirich_41_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "As long as she knows her place and does her job, we'll allow her to resume her work."
+    },
+    {
+      "soundId": 255574,
+      "filename": "VO_110_High_Speaker_Eirich_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/150/5726870/VO_110_High_Speaker_Eirich_08_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "I merely tolerate you. When that ends, I have an entire realm of workers ready to enact my will. Remember that."
+    },
+    {
+      "soundId": 246207,
+      "filename": "VO_110_High_Speaker_Eirich_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/5738525/VO_110_High_Speaker_Eirich_12_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Yes, yes! All Earthen will awaken!"
+    },
+    {
+      "soundId": 247907,
+      "filename": "VO_110_High_Speaker_Eirich_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/100/5769572/VO_110_High_Speaker_Eirich_16_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "I am you all bae!"
+    },
+    {
+      "soundId": 247910,
+      "filename": "VO_110_High_Speaker_Eirich_19_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/103/5769575/VO_110_High_Speaker_Eirich_19_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Corruption Consumes!"
+    },
+    {
+      "soundId": 247914,
+      "filename": "VO_110_High_Speaker_Eirich_23_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/107/5769579/VO_110_High_Speaker_Eirich_23_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Empowered!"
+    },
+    {
+      "soundId": 247919,
+      "filename": "VO_110_High_Speaker_Eirich_28_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/112/5769584/VO_110_High_Speaker_Eirich_28_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "The mighty have fallen."
+    },
+    {
+      "soundId": 249344,
+      "filename": "VO_110_High_Speaker_Eirich_30_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/22/5784086/VO_110_High_Speaker_Eirich_30_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Better to live as a scartan than die as an earthen."
+    },
+    {
+      "soundId": 249375,
+      "filename": "VO_110_High_Speaker_Eirich_31_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/54/5785910/VO_110_High_Speaker_Eirich_31_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Outlanders!"
+    },
+    {
+      "soundId": 250846,
+      "filename": "VO_110_High_Speaker_Eirich_38_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/5835271/VO_110_High_Speaker_Eirich_38_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "We're currently investigating. You would be wise to avoid that distant destination."
+    },
+    {
+      "soundId": 250848,
+      "filename": "VO_110_High_Speaker_Eirich_40_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/15/5835279/VO_110_High_Speaker_Eirich_40_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "All the more reason to restore our awakening machine."
+    },
+    {
+      "soundId": 257041,
+      "filename": "VO_110_High_Speaker_Eirich_44_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/134/5909382/VO_110_High_Speaker_Eirich_44_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "I almost forgot I sent you away."
+    },
+    {
+      "soundId": 255572,
+      "filename": "VO_110_High_Speaker_Eirich_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/142/5726862/VO_110_High_Speaker_Eirich_01_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Be more mindful of my time."
+    },
+    {
+      "soundId": 245757,
+      "filename": "VO_110_High_Speaker_Eirich_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/142/5726862/VO_110_High_Speaker_Eirich_01_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Be more mindful of my time."
+    },
+    {
+      "soundId": 245758,
+      "filename": "VO_110_High_Speaker_Eirich_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/144/5726864/VO_110_High_Speaker_Eirich_02_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "More wasted time."
+    },
+    {
+      "soundId": 245759,
+      "filename": "VO_110_High_Speaker_Eirich_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/145/5726865/VO_110_High_Speaker_Eirich_03_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Now you can go bother someone else."
+    },
+    {
+      "soundId": 245762,
+      "filename": "VO_110_High_Speaker_Eirich_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/148/5726868/VO_110_High_Speaker_Eirich_06_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Are you still here?"
+    },
+    {
+      "soundId": 245764,
+      "filename": "VO_110_High_Speaker_Eirich_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/150/5726870/VO_110_High_Speaker_Eirich_08_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "I merely tolerate you. When that ends, I have an entire realm of workers ready to enact my will. Remember that."
+    },
+    {
+      "soundId": 247905,
+      "filename": "VO_110_High_Speaker_Eirich_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/98/5769570/VO_110_High_Speaker_Eirich_14_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Mind. Crystalline. Infinite. Void."
+    },
+    {
+      "soundId": 247908,
+      "filename": "VO_110_High_Speaker_Eirich_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/5769573/VO_110_High_Speaker_Eirich_17_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Pathetic!"
+    },
+    {
+      "soundId": 247909,
+      "filename": "VO_110_High_Speaker_Eirich_18_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/102/5769574/VO_110_High_Speaker_Eirich_18_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "mods and games from OZ"
+    },
+    {
+      "soundId": 247912,
+      "filename": "VO_110_High_Speaker_Eirich_21_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/105/5769577/VO_110_High_Speaker_Eirich_21_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Entropy Binds"
+    },
+    {
+      "soundId": 247913,
+      "filename": "VO_110_High_Speaker_Eirich_22_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/106/5769578/VO_110_High_Speaker_Eirich_22_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Feel Disorder!"
+    },
+    {
+      "soundId": 247918,
+      "filename": "VO_110_High_Speaker_Eirich_27_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/5769583/VO_110_High_Speaker_Eirich_27_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Infinity awaits!"
+    },
+    {
+      "soundId": 249376,
+      "filename": "VO_110_High_Speaker_Eirich_32_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/55/5785911/VO_110_High_Speaker_Eirich_32_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "And who is this? Brith?"
+    },
+    {
+      "soundId": 249378,
+      "filename": "VO_110_High_Speaker_Eirich_34_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/5785913/VO_110_High_Speaker_Eirich_34_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "What distractions have you brought before me this time, Prince?"
+    },
+    {
+      "soundId": 257039,
+      "filename": "VO_110_High_Speaker_Eirich_42_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/132/5909380/VO_110_High_Speaker_Eirich_42_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "This is the realm of the machine!"
+    },
+    {
+      "soundId": 257040,
+      "filename": "VO_110_High_Speaker_Eirich_43_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/133/5909381/VO_110_High_Speaker_Eirich_43_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "And I am the High Speaker!"
+    },
+    {
+      "soundId": 257042,
+      "filename": "VO_110_High_Speaker_Eirich_45_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/5909383/VO_110_High_Speaker_Eirich_45_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "The Awakening Machine"
+    },
+    {
+      "soundId": 257043,
+      "filename": "VO_110_High_Speaker_Eirich_46_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/5909384/VO_110_High_Speaker_Eirich_46_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Outlanders, you may wander where you will."
+    },
+    {
+      "soundId": 257044,
+      "filename": "VO_110_High_Speaker_Eirich_47_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/137/5909385/VO_110_High_Speaker_Eirich_47_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "But when you are done, return from whence you came."
+    },
+    {
+      "soundId": 249381,
+      "filename": "VO_110_High_Speaker_Eirich_36_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/60/5785916/VO_110_High_Speaker_Eirich_36_M.ogg",
+      "npc": "Void Speaker Eirich",
+      "dungeon": "The Stonevault",
+      "transcript": "Enough!"
+    }
+  ]
+}

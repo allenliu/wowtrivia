@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "npc": "Dread Captain Lockwood",
+    "dungeon": "Siege of Boralus",
+    "filterName": "lockwood",
+    "namePattern": "",
+    "generated": "2026-05-19T15:50:55-07:00",
+    "soundCount": 31
+  },
+  "sounds": [
+    {
+      "soundId": 102105,
+      "filename": "VO_801_Dread_Captain_Lockwood_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/1941105/VO_801_Dread_Captain_Lockwood_04_F.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Clear the deck!"
+    },
+    {
+      "soundId": 115578,
+      "filename": "SPELL_8.0_SiegeofBoralus_CaptainLockwood_Broadside_Cast_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/121/2066553/FX_Fire_Magic_Cast_Large_02.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Thanks for watching!"
+    },
+    {
+      "soundId": 115584,
+      "filename": "SPELL_8.0_SiegeofBoralus_CaptainLockwood_DreadVolley_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/20/2144788/FX_80_AzeriteKit_Missile_loop_01.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": ""
+    },
+    {
+      "soundId": 109994,
+      "filename": "VO_801_DREAD_CAPTAIN_LOCKWOOD_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/174/2020782/VO_801_Dread_Captain_Lockwood_AttackCrit_01.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "YEAH!"
+    },
+    {
+      "soundId": 115565,
+      "filename": "SPELL_8.0_SiegeofBoralus_CaptainLockwood_BoundingRetreat_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/1302923/FX_Whoosh_Small_Revamp_01.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": ""
+    },
+    {
+      "soundId": 115575,
+      "filename": "SPELL_8.0_SiegeofBoralus_CaptainLockwood_Broadside_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/20/2144788/FX_80_AzeriteKit_Missile_loop_01.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": ""
+    },
+    {
+      "soundId": 115579,
+      "filename": "SPELL_8.0_SiegeofBoralus_CaptainLockwood_GutShot_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/160/921248/Spell_HU_Blunderbuss_WeaponFire_01.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "You"
+    },
+    {
+      "soundId": 115587,
+      "filename": "SPELL_8.0_SiegeofBoralus_CaptainLockwood_GutShot_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/23/1315095/Projectile_Bullet_Impact04.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": ""
+    },
+    {
+      "soundId": 102103,
+      "filename": "VO_801_Dread_Captain_Lockwood_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/1941103/VO_801_Dread_Captain_Lockwood_02_F.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Decimator rounds! FIRE!"
+    },
+    {
+      "soundId": 102107,
+      "filename": "VO_801_Dread_Captain_Lockwood_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/115/1941107/VO_801_Dread_Captain_Lockwood_06_F.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "I TIRE OF THIS!"
+    },
+    {
+      "soundId": 102109,
+      "filename": "VO_801_Dread_Captain_Lockwood_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/117/1941109/VO_801_Dread_Captain_Lockwood_08_F.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "All hands, attack!"
+    },
+    {
+      "soundId": 102111,
+      "filename": "VO_801_Dread_Captain_Lockwood_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/119/1941111/VO_801_Dread_Captain_Lockwood_10_F.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Another notch in me blade!"
+    },
+    {
+      "soundId": 109995,
+      "filename": "VO_801_DREAD_CAPTAIN_LOCKWOOD_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/180/2020788/VO_801_Dread_Captain_Lockwood_Attack_01.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Yeah!"
+    },
+    {
+      "soundId": 109996,
+      "filename": "VO_801_DREAD_CAPTAIN_LOCKWOOD_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/190/2020798/VO_801_Dread_Captain_Lockwood_BattleShout_01.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Ahh!"
+    },
+    {
+      "soundId": 115581,
+      "filename": "SPELL_8.0_SiegeofBoralus_CaptainLockwood_Azerite_Explosion",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/48/2735664/FX_80_AzeriteKit_Explosion_01.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "BOOM!"
+    },
+    {
+      "soundId": 115580,
+      "filename": "SPELL_8.0_SiegeofBoralus_CaptainLockwood_Azerite_Missile_Loop",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/20/2144788/FX_80_AzeriteKit_Missile_loop_01.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": ""
+    },
+    {
+      "soundId": 115576,
+      "filename": "SPELL_8.0_SiegeofBoralus_CaptainLockwood_Broadside_Cast_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/148/2144916/FX_80_AzeriteKit_CannonFire_01.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": ""
+    },
+    {
+      "soundId": 115582,
+      "filename": "SPELL_8.0_SiegeofBoralus_CaptainLockwood_Cannon_Toss_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/946439/FX_RockSpell_Impact01.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": ""
+    },
+    {
+      "soundId": 115585,
+      "filename": "SPELL_8.0_SiegeofBoralus_CaptainLockwood_DreadVolley_Cast_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/148/2144916/FX_80_AzeriteKit_CannonFire_01.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": ""
+    },
+    {
+      "soundId": 115586,
+      "filename": "SPELL_8.0_SiegeofBoralus_CaptainLockwood_DreadVolley_Cast_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/121/2066553/FX_Fire_Magic_Cast_Large_02.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Thanks for watching!"
+    },
+    {
+      "soundId": 102102,
+      "filename": "VO_801_Dread_Captain_Lockwood_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/110/1941102/VO_801_Dread_Captain_Lockwood_01_F.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "All cannons, fire!"
+    },
+    {
+      "soundId": 102104,
+      "filename": "VO_801_Dread_Captain_Lockwood_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/112/1941104/VO_801_Dread_Captain_Lockwood_03_F.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Here's Latin, you're gut!"
+    },
+    {
+      "soundId": 102106,
+      "filename": "VO_801_Dread_Captain_Lockwood_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/114/1941106/VO_801_Dread_Captain_Lockwood_05_F.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "I'll carve you to ribbons!"
+    },
+    {
+      "soundId": 102108,
+      "filename": "VO_801_Dread_Captain_Lockwood_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/116/1941108/VO_801_Dread_Captain_Lockwood_07_F.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "No survivors!"
+    },
+    {
+      "soundId": 102110,
+      "filename": "VO_801_Dread_Captain_Lockwood_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/118/1941110/VO_801_Dread_Captain_Lockwood_09_F.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "I sail to uncharted waters."
+    },
+    {
+      "soundId": 102112,
+      "filename": "VO_801_Dread_Captain_Lockwood_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/120/1941112/VO_801_Dread_Captain_Lockwood_11_F.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Your inertial dangle from me, Master!"
+    },
+    {
+      "soundId": 102113,
+      "filename": "VO_801_Dread_Captain_Lockwood_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/121/1941113/VO_801_Dread_Captain_Lockwood_12_F.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "The city is ours, mates!"
+    },
+    {
+      "soundId": 102114,
+      "filename": "VO_801_Dread_Captain_Lockwood_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/122/1941114/VO_801_Dread_Captain_Lockwood_13_F.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Bring me their thumbs! Do what you will with the rest!"
+    },
+    {
+      "soundId": 102115,
+      "filename": "VO_801_Dread_Captain_Lockwood_14_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/123/1941115/VO_801_Dread_Captain_Lockwood_14_F.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "It makes no difference! Me cannons will soon reduce the opposition to rubble!"
+    },
+    {
+      "soundId": 109998,
+      "filename": "VO_801_DREAD_CAPTAIN_LOCKWOOD_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/2020806/VO_801_Dread_Captain_Lockwood_Wound_01.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Ahem."
+    },
+    {
+      "soundId": 109997,
+      "filename": "VO_801_DREAD_CAPTAIN_LOCKWOOD_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/193/2020801/VO_801_Dread_Captain_Lockwood_WoundCrit_01.ogg",
+      "npc": "Dread Captain Lockwood",
+      "dungeon": "Siege of Boralus",
+      "transcript": "Ahhhhh"
+    }
+  ]
+}

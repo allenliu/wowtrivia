@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "npc": "Agronox",
+    "dungeon": "Cathedral of Eternal Night",
+    "filterName": "agronox",
+    "namePattern": "",
+    "generated": "2026-05-19T17:59:31-07:00",
+    "soundCount": 13
+  },
+  "sounds": [
+    {
+      "soundId": 81718,
+      "filename": "VO_72_Agronox_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/52/1589300/VO_72_Agronox_09_M.ogg",
+      "npc": "Agronox",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Food for the Worms!"
+    },
+    {
+      "soundId": 81719,
+      "filename": "VO_72_Agronox_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/1589301/VO_72_Agronox_10_M.ogg",
+      "npc": "Agronox",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "They did not show the proper respect to nature."
+    },
+    {
+      "soundId": 81711,
+      "filename": "VO_72_Agronox_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/1589293/VO_72_Agronox_02_M.ogg",
+      "npc": "Agronox",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Feel your throat tighten!"
+    },
+    {
+      "soundId": 81712,
+      "filename": "VO_72_Agronox_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/1589294/VO_72_Agronox_03_M.ogg",
+      "npc": "Agronox",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "This breath will be your last."
+    },
+    {
+      "soundId": 81713,
+      "filename": "VO_72_Agronox_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/47/1589295/VO_72_Agronox_04_M.ogg",
+      "npc": "Agronox",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "I will crush the life from you!"
+    },
+    {
+      "soundId": 81715,
+      "filename": "VO_72_Agronox_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/1589297/VO_72_Agronox_06_M.ogg",
+      "npc": "Agronox",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "These ancient grounds are not for you!"
+    },
+    {
+      "soundId": 81720,
+      "filename": "VO_72_Agronox_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/54/1589302/VO_72_Agronox_11_M.ogg",
+      "npc": "Agronox",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Mortal sound, I appreciate. Cove, beauty."
+    },
+    {
+      "soundId": 81721,
+      "filename": "VO_72_Agronox_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/55/1589303/VO_72_Agronox_12_M.ogg",
+      "npc": "Agronox",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Now I shall fill the soil."
+    },
+    {
+      "soundId": 81710,
+      "filename": "VO_72_Agronox_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/44/1589292/VO_72_Agronox_01_M.ogg",
+      "npc": "Agronox",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "Yes, my precious ones, the Fel has brought out our troll beauty!"
+    },
+    {
+      "soundId": 81714,
+      "filename": "VO_72_Agronox_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/48/1589296/VO_72_Agronox_05_M.ogg",
+      "npc": "Agronox",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "My tenderness will take you all."
+    },
+    {
+      "soundId": 81716,
+      "filename": "VO_72_Agronox_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/50/1589298/VO_72_Agronox_07_M.ogg",
+      "npc": "Agronox",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "You disturb nature's perfection!"
+    },
+    {
+      "soundId": 81717,
+      "filename": "VO_72_Agronox_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/1589299/VO_72_Agronox_08_M.ogg",
+      "npc": "Agronox",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "FARDERS OF THE COMPUSE KINTH!"
+    },
+    {
+      "soundId": 81722,
+      "filename": "VO_72_Agronox_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/56/1589304/VO_72_Agronox_13_M.ogg",
+      "npc": "Agronox",
+      "dungeon": "Cathedral of Eternal Night",
+      "transcript": "My end was written in the rings."
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "meta": {
+    "npc": "Yazma",
+    "dungeon": "Atal'Dazar",
+    "filterName": "yazma",
+    "namePattern": "",
+    "generated": "2026-05-19T13:56:41-07:00",
+    "soundCount": 73
+  },
+  "sounds": [
+    {
+      "soundId": 99409,
+      "filename": "VO_801_Yazma_19_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/117/1894517/VO_801_Yazma_19_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Did I dismiss you?"
+    },
+    {
+      "soundId": 97372,
+      "filename": "VO_801_Yazma_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/150/1860246/VO_801_Yazma_10_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Impressive. You made it farther than I thought, but I will still be drinking your blood."
+    },
+    {
+      "soundId": 112908,
+      "filename": "VO_801_YAZMA_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/10/2069514/VO_801_Yazma_Attack_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Huh!"
+    },
+    {
+      "soundId": 97357,
+      "filename": "VO_801_Yazma_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/108/1860204/VO_801_Yazma_01_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Now you are under my power!"
+    },
+    {
+      "soundId": 99408,
+      "filename": "VO_801_Yazma_18_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/116/1894516/VO_801_Yazma_18_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Once I harness these new powers, you shall witness this empire's fall!"
+    },
+    {
+      "soundId": 99415,
+      "filename": "VO_801_Yazma_25_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/123/1894523/VO_801_Yazma_25_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "rabble should be seen and not heard."
+    },
+    {
+      "soundId": 99420,
+      "filename": "VO_801_Yazma_30_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/1894528/VO_801_Yazma_30_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Shadrach, for ages you have guided my hand. But from this day forth, I serve a new master."
+    },
+    {
+      "soundId": 101066,
+      "filename": "VO_801_Yazma_34_F [RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/141/1907597/VO_801_Yazma_34_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Should we go after them?"
+    },
+    {
+      "soundId": 99406,
+      "filename": "VO_801_Yazma_16_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/114/1894514/VO_801_Yazma_16_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Volcal, dispose of these invaders while I deal with Sadra!"
+    },
+    {
+      "soundId": 99422,
+      "filename": "VO_801_Yazma_32_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/1894530/VO_801_Yazma_32_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Blood trolls are pathetic savages. They have not been a threat for ages."
+    },
+    {
+      "soundId": 103838,
+      "filename": "VO_801_Yazma_38_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/121/1981561/VO_801_Yazma_38_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "The time of making bargains with Loa is over. The time of blood has come."
+    },
+    {
+      "soundId": 91202,
+      "filename": "Spell_CityofGold_Yazma_DarkEmanmation_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/1120199/Spell_Corruption_Cast01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Thanks for watching!"
+    },
+    {
+      "soundId": 91201,
+      "filename": "Spell_CityofGold_Yazma_DarkEmanmation_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/84/987220/SPELL_Breath_Shadow_01_Loop.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 91203,
+      "filename": "Spell_CityofGold_Yazma_ShadowMend_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/164/985252/SPELL_VoidMagic_Explosion_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "I BOOOOO"
+    },
+    {
+      "soundId": 91198,
+      "filename": "Spell_CityofGold_Yazma_Skewer_Impact_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/255/1332479/Unarmed_Impacts_Clawed05.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 97362,
+      "filename": "VO_801_Yazma_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/1860209/VO_801_Yazma_06_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Zools! Zool will reap your spirit! Apart!"
+    },
+    {
+      "soundId": 97375,
+      "filename": "VO_801_Yazma_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/153/1860249/VO_801_Yazma_13_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Bolt-Karl, in pieces again? No matter. I can rebuild him. But when you die, there will be no coming back."
+    },
+    {
+      "soundId": 99412,
+      "filename": "VO_801_Yazma_22_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/120/1894520/VO_801_Yazma_22_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "I am the High Priestess of Shadra, lower of spies and poisons. And who are you?"
+    },
+    {
+      "soundId": 99413,
+      "filename": "VO_801_Yazma_23_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/121/1894521/VO_801_Yazma_23_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "By whose authority do you address me?"
+    },
+    {
+      "soundId": 112906,
+      "filename": "VO_801_Yazma_Aggro",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/255/2069503/VO_801_Yazma_Aggro_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 90726,
+      "filename": "Spell_CityofGold_Yazma_Skewer_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/228/644580/FX_SONIC_DEBUFF_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "T"
+    },
+    {
+      "soundId": 90725,
+      "filename": "Spell_CityofGold_Yazma_Skewer_Impact_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/839715/FX_Blood_Impact_Heavy01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 91200,
+      "filename": "Spell_CityofGold_Yazma_Soulrend_Missile_Loop",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/642927/FX_Spirit_Channel02.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 91199,
+      "filename": "Spell_CityofGold_Yazma_Soulrend_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/86/987222/SPELL_Breath_Shadow_Precast_State_Loop.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 93651,
+      "filename": "Spell_CityofGold_Yazma_Soulrend_Precast_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/1488068/SPELL_WL_Shadow_PreCast_Loop_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "I'm here. I'm here. I'm here."
+    },
+    {
+      "soundId": 90724,
+      "filename": "Spell_CityofGold_Yazma_WrackingPain_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/182/985270/SPELL_VoidMagic_Impact_Chest_03.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You"
+    },
+    {
+      "soundId": 97359,
+      "filename": "VO_801_Yazma_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/110/1860206/VO_801_Yazma_03_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "I will tear your soul apart!"
+    },
+    {
+      "soundId": 97376,
+      "filename": "VO_801_Yazma_14_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/154/1860250/VO_801_Yazma_14_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You are too late, outsiders. The temple belongs to my master now."
+    },
+    {
+      "soundId": 97377,
+      "filename": "VO_801_Yazma_15_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/155/1860251/VO_801_Yazma_15_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Soon, Jule will awaken Dazaar. Then the Troll Empire will rise again."
+    },
+    {
+      "soundId": 99407,
+      "filename": "VO_801_Yazma_17_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/115/1894515/VO_801_Yazma_17_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Fool! If I had the time, I would crush you for what you did to Volkahl."
+    },
+    {
+      "soundId": 99416,
+      "filename": "VO_801_Yazma_26_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/124/1894524/VO_801_Yazma_26_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "A rich noble and sold as a poor that me like this once, once."
+    },
+    {
+      "soundId": 99419,
+      "filename": "VO_801_Yazma_29_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/127/1894527/VO_801_Yazma_29_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You are too late. The blood of the lower has been spilled."
+    },
+    {
+      "soundId": 103841,
+      "filename": "VO_801_Yazma_41_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/124/1981564/VO_801_Yazma_41_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Yes, yes, so perhaps we have a teensy bit of a problem down here. It is nothing we need to murder the king with."
+    },
+    {
+      "soundId": 112912,
+      "filename": "VO_801_YAZMA_BOSS_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/39/2069543/VO_801_Yazma_Boss_BattleShout_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Guaaaa"
+    },
+    {
+      "soundId": 112914,
+      "filename": "VO_801_YAZMA_BOSS_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/48/2069552/VO_801_Yazma_Boss_Wound_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Uh!"
+    },
+    {
+      "soundId": 112913,
+      "filename": "VO_801_YAZMA_BOSS_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/43/2069547/VO_801_Yazma_Boss_WoundCrit_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "This is completelyствеble"
+    },
+    {
+      "soundId": 112918,
+      "filename": "VO_801_YAZMA_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/73/2069577/VO_801_Yazma_Wound_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Oh!"
+    },
+    {
+      "soundId": 94502,
+      "filename": "Spell_CityofGold_Yazma_Soulfeast_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/194/1583042/Spell_7LG_LegionMagic_Ghostly_Cast_02.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You"
+    },
+    {
+      "soundId": 90721,
+      "filename": "Spell_CityofGold_Yazma_Soulrend_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/32/1716512/Spell_PR_Revamp_Shadow_VoidBolt_Impact_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 90723,
+      "filename": "Spell_CityofGold_Yazma_WrackingPain_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/140/985228/SPELL_VoidMagic_Cast_02.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You"
+    },
+    {
+      "soundId": 90722,
+      "filename": "Spell_CityofGold_Yazma_WrackingPain_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/14/1664270/SPELL_VoidMagic_NPC_Channel_loop_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 97358,
+      "filename": "VO_801_Yazma_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/109/1860205/VO_801_Yazma_02_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Your soul is mine!"
+    },
+    {
+      "soundId": 97360,
+      "filename": "VO_801_Yazma_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/1860207/VO_801_Yazma_04_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Let your soul be shattered!"
+    },
+    {
+      "soundId": 97361,
+      "filename": "VO_801_Yazma_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/112/1860208/VO_801_Yazma_05_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Desire will awaken soon, but you will not live to see it!"
+    },
+    {
+      "soundId": 97363,
+      "filename": "VO_801_Yazma_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/114/1860210/VO_801_Yazma_07_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "You have made a fine sacrifice!"
+    },
+    {
+      "soundId": 97364,
+      "filename": "VO_801_Yazma_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/115/1860211/VO_801_Yazma_08_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Your blood is mine!"
+    },
+    {
+      "soundId": 97365,
+      "filename": "VO_801_Yazma_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/116/1860212/VO_801_Yazma_09_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "I will put your blood to good use, now that you no longer need it."
+    },
+    {
+      "soundId": 97373,
+      "filename": "VO_801_Yazma_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/151/1860247/VO_801_Yazma_11_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "My thanks for killing the priestess. You have only succeeded in strengthening my hold on the temple."
+    },
+    {
+      "soundId": 97374,
+      "filename": "VO_801_Yazma_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/152/1860248/VO_801_Yazma_12_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Resan was a powerful lower. Perhaps you will make a worthy sacrifice for Zul."
+    },
+    {
+      "soundId": 99410,
+      "filename": "VO_801_Yazma_20_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/118/1894518/VO_801_Yazma_20_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Remember, I have eyes everywhere. Everywhere."
+    },
+    {
+      "soundId": 99411,
+      "filename": "VO_801_Yazma_21_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/119/1894519/VO_801_Yazma_21_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Be gone and take that foul smell with you."
+    },
+    {
+      "soundId": 99414,
+      "filename": "VO_801_Yazma_24_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/122/1894522/VO_801_Yazma_24_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "I have no time for nonsense."
+    },
+    {
+      "soundId": 99417,
+      "filename": "VO_801_Yazma_27_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/1894525/VO_801_Yazma_27_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "I will put your head on a spike and then put that spike in a box and put that box inside a bigger box and then crush it with a hammer."
+    },
+    {
+      "soundId": 99418,
+      "filename": "VO_801_Yazma_28_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/126/1894526/VO_801_Yazma_28_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Keep this up and the poison in your veins will be so potent that even that 3D fool one someday will be afraid to touch your soul."
+    },
+    {
+      "soundId": 99421,
+      "filename": "VO_801_Yazma_31_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/129/1894529/VO_801_Yazma_31_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Die, Chatra! Die forever! By the old ways I claim your power as my own!"
+    },
+    {
+      "soundId": 101065,
+      "filename": "VO_801_Yazma_33_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/140/1907596/VO_801_Yazma_33_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 101067,
+      "filename": "VO_801_Yazma_35_F [RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/142/1907598/VO_801_Yazma_35_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Your visions had best be right about this."
+    },
+    {
+      "soundId": 101068,
+      "filename": "VO_801_Yazma_36_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/143/1907599/VO_801_Yazma_36_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": ""
+    },
+    {
+      "soundId": 103837,
+      "filename": "VO_801_Yazma_37_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/120/1981560/VO_801_Yazma_37_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Do not concern yourself with a few petty crimes. We have far more important matters to address."
+    },
+    {
+      "soundId": 103839,
+      "filename": "VO_801_Yazma_39_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/122/1981562/VO_801_Yazma_39_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Zul has but hold of this day. Rise, rise, disciples of blood. Make ready for the next age of this world."
+    },
+    {
+      "soundId": 103840,
+      "filename": "VO_801_Yazma_40_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/123/1981563/VO_801_Yazma_40_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "The neutral empire is upon us. Our long stagnation is ended."
+    },
+    {
+      "soundId": 103842,
+      "filename": "VO_801_Yazma_42_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/1981565/VO_801_Yazma_42_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "I will inform Zool. He will decide whether it is worthy of Rastakhan's attention."
+    },
+    {
+      "soundId": 103843,
+      "filename": "VO_801_Yazma_43_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/126/1981566/VO_801_Yazma_43_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Minions, kill them!"
+    },
+    {
+      "soundId": 112907,
+      "filename": "VO_801_YAZMA_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/5/2069509/VO_801_Yazma_AttackCrit_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "meric"
+    },
+    {
+      "soundId": 112909,
+      "filename": "VO_801_YAZMA_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/20/2069524/VO_801_Yazma_BattleShout_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Yeah!"
+    },
+    {
+      "soundId": 112911,
+      "filename": "VO_801_YAZMA_BOSS_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/2069533/VO_801_Yazma_Boss_Attack_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Huh!"
+    },
+    {
+      "soundId": 112910,
+      "filename": "VO_801_YAZMA_BOSS_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/24/2069528/VO_801_Yazma_Boss_AttackCrit_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Yeeaaaaah."
+    },
+    {
+      "soundId": 112915,
+      "filename": "VO_801_YAZMA_DEATH",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/58/2069562/VO_801_Yazma_Death_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "H handle."
+    },
+    {
+      "soundId": 112920,
+      "filename": "VO_801_Yazma_FAREWELLS",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/117/1894517/VO_801_Yazma_19_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Did I dismiss you?"
+    },
+    {
+      "soundId": 112919,
+      "filename": "VO_801_Yazma_GREETINGS",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/120/1894520/VO_801_Yazma_22_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "I am the High Priestess of Shadra, lower of spies and poisons. And who are you?"
+    },
+    {
+      "soundId": 112921,
+      "filename": "VO_801_Yazma_PISSED",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/124/1894524/VO_801_Yazma_26_F.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "A rich noble and sold as a poor that me like this once, once."
+    },
+    {
+      "soundId": 112916,
+      "filename": "VO_801_Yazma_PreAggro",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/2069567/VO_801_Yazma_PreAggro_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Huh?"
+    },
+    {
+      "soundId": 112917,
+      "filename": "VO_801_YAZMA_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/2069572/VO_801_Yazma_WoundCrit_01.ogg",
+      "npc": "Yazma",
+      "dungeon": "Atal'Dazar",
+      "transcript": "Maria Li"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "dungeon": "Iron Docks",
+  "slug": "iron-docks",
+  "wowheadZoneId": 6951,
+  "expansion": "Warlords of Draenor",
+  "bosses": [
+    {
+      "id": 81305,
+      "name": "Fleshrender Nok'gar",
+      "filterName": "nok_gar",
+      "quotes": [
+        { "context": "Aggro",             "text": "Warsong arrows will sing from the sky! They'll be the last thing you hear as I crush your skull." },
+        { "context": "Burning Arrows",    "text": "Start the funeral pyres!" },
+        { "context": "Barbed Arrow",      "text": "Let 'em have it!" },
+        { "context": "Reckless",          "text": "That's it? You barely drew blood!" },
+        { "context": "Reckless",          "text": "Terror overwhelms you, death is near." },
+        { "context": "Reckless",          "text": "A death worthy of a warrior!" },
+        { "context": "Player Killed",     "text": "Revel in the slaughter!" },
+        { "context": "Player Killed",     "text": "My blade thirsts for more!" },
+        { "context": "Death",             "text": "You will burn with me." }
+      ]
+    },
+    {
+      "id": 83613,
+      "name": "Koramar",
+      "filterName": "koramar",
+      "quotes": [
+        { "context": "Intro",         "text": "How dare you march into MY DOCKS and so brazenly set foot on MY SHIP. Nothing will stop the Iron Horde, least of all you. Enjoy your death, weaklings. Zoggosh, man the machine turret!" },
+        { "context": "Skulloc dies",  "text": "Zoggosh, ready your axe. This ends now!" },
+        { "context": "Player Killed", "text": "So WEAK!" },
+        { "context": "Player Killed", "text": "Bow before the might of the Iron Horde!" }
+      ]
+    },
+    {
+      "id": 83616,
+      "name": "Zoggosh",
+      "filterName": "zoggosh",
+      "quotes": [
+        { "context": "Intro",         "text": "Aye aye, sir!" },
+        { "context": "Skulloc dies",  "text": "Yes, captain!" },
+        { "context": "Koramar dies",  "text": "Koramar, no! I will avenge you!" }
+      ]
+    }
+  ]
+}

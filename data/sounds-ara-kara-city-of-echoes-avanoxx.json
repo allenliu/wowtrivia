@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "npc": "Avanoxx",
+    "dungeon": "Ara-Kara, City of Echoes",
+    "filterName": "avanoxx",
+    "namePattern": "",
+    "generated": "2026-05-19T15:55:19-07:00",
+    "soundCount": 9
+  },
+  "sounds": [
+    {
+      "soundId": 260418,
+      "filename": "11.0_Dungeon_Ara-Kara_Avanoxx_Lieutenant_Trill_of_the_Satiated_Brood_Channel_Loop_5917797",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/5917797/11.ogg",
+      "npc": "Avanoxx",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": "V ε h i f O"
+    },
+    {
+      "soundId": 261643,
+      "filename": "11.0_Dungeon_Ara-Kara_Avanoxx_Lieutenant_Trill_of_the_Satiated_Brood_Channel_Loop_5917809",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/5917809/11.ogg",
+      "npc": "Avanoxx",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": "Mu then chuckled, 350 feet loi"
+    },
+    {
+      "soundId": 260075,
+      "filename": "11.0_Dungeon_Ara-Kara_Avanoxx_Lieutenant_Trill_of_the_Satiated_Brood_Channel_Loop_5917809",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/5917809/11.ogg",
+      "npc": "Avanoxx",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": "SONG"
+    },
+    {
+      "soundId": 260419,
+      "filename": "11.0_Dungeon_Ara-Kara_Avanoxx_Lieutenant_Trill_of_the_Satiated_Brood_Channel_Loop_5917809",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/5917809/11.ogg",
+      "npc": "Avanoxx",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": "ok"
+    },
+    {
+      "soundId": 258405,
+      "filename": "11.0 Dungeon - Ara-Kara - Avanoxx - Lieutenant - Trill of the Satiated Brood - Channel Loop",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/91/5917787/11.ogg",
+      "npc": "Avanoxx",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": ""
+    },
+    {
+      "soundId": 258407,
+      "filename": "11.0 Dungeon - Ara-Kara - Avanoxx - Lieutenant - Trill of the Satiated Brood - Periodic A",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/5917797/11.ogg",
+      "npc": "Avanoxx",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": "Don't worry원't mind."
+    },
+    {
+      "soundId": 258408,
+      "filename": "11.0 Dungeon - Ara-Kara - Avanoxx - Lieutenant - Trill of the Satiated Brood - Periodic B",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/5917809/11.ogg",
+      "npc": "Avanoxx",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": "Surprise!"
+    },
+    {
+      "soundId": 260417,
+      "filename": "11.0_Dungeon_Ara-Kara_Avanoxx_Lieutenant_Trill_of_the_Satiated_Brood_Channel_Loop_5917787",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/91/5917787/11.ogg",
+      "npc": "Avanoxx",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": ""
+    },
+    {
+      "soundId": 267445,
+      "filename": "11.0_Dungeon_Ara-Kara_Avanoxx_Lieutenant_Trill_of_the_Satiated_Brood_Channel_Loop_5917797",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/5917797/11.ogg",
+      "npc": "Avanoxx",
+      "dungeon": "Ara-Kara, City of Echoes",
+      "transcript": "Thank you for watching, don't forget to subscribe!"
+    }
+  ]
+}

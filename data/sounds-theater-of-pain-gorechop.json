@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "npc": "Gorechop",
+    "dungeon": "Theater of Pain",
+    "filterName": "gorechop",
+    "namePattern": "^VO_.*Gorechop",
+    "generated": "2026-05-19T15:40:54-07:00",
+    "soundCount": 17
+  },
+  "sounds": [
+    {
+      "soundId": 158604,
+      "filename": "VO_901_Gorechop_Attack_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/3598208/VO_901_Gorechop_Attack_01.ogg",
+      "npc": "Gorechop",
+      "dungeon": "Theater of Pain",
+      "transcript": "Hrph!"
+    },
+    {
+      "soundId": 152515,
+      "filename": "VO_901_Gorechop_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/34/3482402/VO_901_Gorechop_02_M.ogg",
+      "npc": "Gorechop",
+      "dungeon": "Theater of Pain",
+      "transcript": "More spare parts!"
+    },
+    {
+      "soundId": 158607,
+      "filename": "VO_901_Gorechop_WoundCrit_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/3598258/VO_901_Gorechop_WoundCrit_01.ogg",
+      "npc": "Gorechop",
+      "dungeon": "Theater of Pain",
+      "transcript": "OOOOOH"
+    },
+    {
+      "soundId": 152516,
+      "filename": "VO_901_Gorechop_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/3482403/VO_901_Gorechop_03_M.ogg",
+      "npc": "Gorechop",
+      "dungeon": "Theater of Pain",
+      "transcript": "I take all your vres"
+    },
+    {
+      "soundId": 152518,
+      "filename": "VO_901_Gorechop_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/37/3482405/VO_901_Gorechop_05_M.ogg",
+      "npc": "Gorechop",
+      "dungeon": "Theater of Pain",
+      "transcript": "The need, bad板,"
+    },
+    {
+      "soundId": 158608,
+      "filename": "VO_901_Gorechop_BattleShout_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/148/3598228/VO_901_Gorechop_BattleShout_01.ogg",
+      "npc": "Gorechop",
+      "dungeon": "Theater of Pain",
+      "transcript": "example"
+    },
+    {
+      "soundId": 152514,
+      "filename": "VO_901_Gorechop_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/3482401/VO_901_Gorechop_01_M.ogg",
+      "npc": "Gorechop",
+      "dungeon": "Theater of Pain",
+      "transcript": "I am made of only the best!"
+    },
+    {
+      "soundId": 152517,
+      "filename": "VO_901_Gorechop_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/36/3482404/VO_901_Gorechop_04_M.ogg",
+      "npc": "Gorechop",
+      "dungeon": "Theater of Pain",
+      "transcript": "Look what we have here! Fresh meat!"
+    },
+    {
+      "soundId": 152519,
+      "filename": "VO_901_Gorechop_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/38/3482406/VO_901_Gorechop_06_M.ogg",
+      "npc": "Gorechop",
+      "dungeon": "Theater of Pain",
+      "transcript": "RENDS AND TURN!"
+    },
+    {
+      "soundId": 152521,
+      "filename": "VO_901_Gorechop_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/40/3482408/VO_901_Gorechop_08_M.ogg",
+      "npc": "Gorechop",
+      "dungeon": "Theater of Pain",
+      "transcript": "Open you up!"
+    },
+    {
+      "soundId": 152522,
+      "filename": "VO_901_Gorechop_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/41/3482409/VO_901_Gorechop_09_M.ogg",
+      "npc": "Gorechop",
+      "dungeon": "Theater of Pain",
+      "transcript": "Bleed you dry!"
+    },
+    {
+      "soundId": 152523,
+      "filename": "VO_901_Gorechop_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/42/3482410/VO_901_Gorechop_10_M.ogg",
+      "npc": "Gorechop",
+      "dungeon": "Theater of Pain",
+      "transcript": "I'll catch something good!"
+    },
+    {
+      "soundId": 152525,
+      "filename": "VO_901_Gorechop_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/44/3482412/VO_901_Gorechop_12_M.ogg",
+      "npc": "Gorechop",
+      "dungeon": "Theater of Pain",
+      "transcript": "SMASH YOU THE PIECES!"
+    },
+    {
+      "soundId": 152526,
+      "filename": "VO_901_Gorechop_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/3482413/VO_901_Gorechop_13_M.ogg",
+      "npc": "Gorechop",
+      "dungeon": "Theater of Pain",
+      "transcript": "Gonna chop you up!"
+    },
+    {
+      "soundId": 152524,
+      "filename": "VO_901_Gorechop_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/43/3482411/VO_901_Gorechop_11_M.ogg",
+      "npc": "Gorechop",
+      "dungeon": "Theater of Pain",
+      "transcript": "No escape!"
+    },
+    {
+      "soundId": 158605,
+      "filename": "VO_901_Gorechop_AttackCrit_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/118/3598198/VO_901_Gorechop_AttackCrit_01.ogg",
+      "npc": "Gorechop",
+      "dungeon": "Theater of Pain",
+      "transcript": "yes"
+    },
+    {
+      "soundId": 158606,
+      "filename": "VO_901_Gorechop_Wound_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/188/3598268/VO_901_Gorechop_Wound_01.ogg",
+      "npc": "Gorechop",
+      "dungeon": "Theater of Pain",
+      "transcript": "Ugh!"
+    }
+  ]
+}

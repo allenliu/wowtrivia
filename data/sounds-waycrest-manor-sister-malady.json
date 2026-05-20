@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "npc": "Sister Malady",
+    "dungeon": "Waycrest Manor",
+    "filterName": "malady",
+    "namePattern": "",
+    "generated": "2026-05-19T12:29:50-07:00",
+    "soundCount": 14
+  },
+  "sounds": [
+    {
+      "soundId": 112884,
+      "filename": "VO_801_SISTER_MALADY_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/51/2069299/VO_801_Sister_Malady_Attack_01.ogg",
+      "npc": "Sister Malady",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Kawa��"
+    },
+    {
+      "soundId": 112887,
+      "filename": "VO_801_SISTER_MALADY_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/2069319/VO_801_Sister_Malady_Wound_01.ogg",
+      "npc": "Sister Malady",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Yeah!"
+    },
+    {
+      "soundId": 97511,
+      "filename": "VO_801_Sister_Malady_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/121/1860729/VO_801_Sister_Malady_01_F.ogg",
+      "npc": "Sister Malady",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Ha ha! I'll carve screams from your flesh!"
+    },
+    {
+      "soundId": 97512,
+      "filename": "VO_801_Sister_Malady_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/122/1860730/VO_801_Sister_Malady_02_F.ogg",
+      "npc": "Sister Malady",
+      "dungeon": "Waycrest Manor",
+      "transcript": "My body cracks, but my curse shall linger."
+    },
+    {
+      "soundId": 97513,
+      "filename": "VO_801_Sister_Malady_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/123/1860731/VO_801_Sister_Malady_03_F.ogg",
+      "npc": "Sister Malady",
+      "dungeon": "Waycrest Manor",
+      "transcript": "What? Such lovely agony!"
+    },
+    {
+      "soundId": 97514,
+      "filename": "VO_801_Sister_Malady_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/124/1860732/VO_801_Sister_Malady_04_F.ogg",
+      "npc": "Sister Malady",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Your torment is far from over! Ha ha ha ha ha ha ha ha!"
+    },
+    {
+      "soundId": 97515,
+      "filename": "VO_801_Sister_Malady_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/1860733/VO_801_Sister_Malady_05_F.ogg",
+      "npc": "Sister Malady",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Ha! You've had your turn!"
+    },
+    {
+      "soundId": 97516,
+      "filename": "VO_801_Sister_Malady_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/126/1860734/VO_801_Sister_Malady_06_F.ogg",
+      "npc": "Sister Malady",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Ha ha ha ha ha ha! Your destruction is at hand!"
+    },
+    {
+      "soundId": 97517,
+      "filename": "VO_801_Sister_Malady_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/127/1860735/VO_801_Sister_Malady_07_F.ogg",
+      "npc": "Sister Malady",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Rotted flesh and screams so dire, making music like a choir!"
+    },
+    {
+      "soundId": 97518,
+      "filename": "VO_801_Sister_Malady_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/1860736/VO_801_Sister_Malady_08_F.ogg",
+      "npc": "Sister Malady",
+      "dungeon": "Waycrest Manor",
+      "transcript": "You bear the black mark!"
+    },
+    {
+      "soundId": 102092,
+      "filename": "VO_801_Sister_Malady_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/1941067/VO_801_Sister_Malady_09_F.ogg",
+      "npc": "Sister Malady",
+      "dungeon": "Waycrest Manor",
+      "transcript": "As you command, mistress."
+    },
+    {
+      "soundId": 112883,
+      "filename": "VO_801_SISTER_MALADY_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/2069293/VO_801_Sister_Malady_AttackCrit_01.ogg",
+      "npc": "Sister Malady",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Yeah!"
+    },
+    {
+      "soundId": 112885,
+      "filename": "VO_801_SISTER_MALADY_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/61/2069309/VO_801_Sister_Malady_BattleShout_01.ogg",
+      "npc": "Sister Malady",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Ahhhhhhh!!!!"
+    },
+    {
+      "soundId": 112886,
+      "filename": "VO_801_SISTER_MALADY_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/66/2069314/VO_801_Sister_Malady_WoundCrit_01.ogg",
+      "npc": "Sister Malady",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Ugh!"
+    }
+  ]
+}

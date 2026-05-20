@@ -1,0 +1,72 @@
+{
+  "dungeon": "De Other Side",
+  "slug": "de-other-side",
+  "wowheadZoneId": 13309,
+  "expansion": "Shadowlands",
+  "bosses": [
+    {
+      "id": 166608,
+      "name": "Mueh'zala",
+      "filterName": "muehzala",
+      "quotes": [
+        { "context": "to Aram Thorne", "text": "Not yet, Son of Thorne. Not yet. This is not the day. The day comes. It comes. But Mueh'zala will not engage you here or now." }
+      ]
+    },
+    {
+      "id": 164450,
+      "name": "Dealer Xy'exa",
+      "filterName": "xyexa",
+      "quotes": [
+        { "context": "Aggro",  "text": "You will pay dearly for this." },
+        { "context": "Aggro",  "text": "I would step lightly if I were you." },
+        { "context": "Combat", "text": "Away with you." },
+        { "context": "Combat", "text": "Care to give this one a try?" },
+        { "context": "Combat", "text": "Have you ever wished you could fly?" },
+        { "context": "Combat", "text": "Hold this a moment." },
+        { "context": "Combat", "text": "My curios can prove quite deadly." },
+        { "context": "Combat", "text": "Now, where to put you?" },
+        { "context": "Combat", "text": "These are more than mere trinkets." },
+        { "context": "Combat", "text": "This concludes our transaction." },
+        { "context": "Combat", "text": "This should prove... entertaining." },
+        { "context": "Combat", "text": "You overestimated your worth." },
+        { "context": "Death",  "text": "All... my... plans..." },
+        { "context": "Death",  "text": "You strike... a hard... bargain..." }
+      ]
+    },
+    {
+      "id": 164556,
+      "name": "Millhouse Manastorm",
+      "filterName": "millhouse",
+      "quotes": [
+        { "context": "Approach",     "text": "What have we here? That dusty old loa has sent debt collectors already?!" },
+        { "context": "Approach",     "text": "Well, I, uh... Hey, hold on a minute!" },
+        { "context": "Aggro",        "text": "I'll teach you to mess with genius!" },
+        { "context": "Summon Power Crystal", "text": "Power beyond your comprehension!" },
+        { "context": "Combat",       "text": "Hah! How's that for some Manastorm mojo?" },
+        { "context": "Combat",       "text": "I'm gonna light you... uh, shadow you up!" },
+        { "context": "Combat",       "text": "Lumbering?! The mighty Millhouse Manastorm has never lumbered a day in life!" },
+        { "context": "Combat",       "text": "Now you'll witness my full power for sure!" },
+        { "context": "Combat",       "text": "Ouch! Watch what you're doing, Millificent!" },
+        { "context": "Defeat",       "text": "Stop! I'd rather give up the mojo than lose her!" },
+        { "context": "Defeat",       "text": "You're the best, Milly! Let's never fight again!" }
+      ]
+    },
+    {
+      "id": 164555,
+      "name": "Millificent Manastorm",
+      "filterName": "millificent",
+      "quotes": [
+        { "context": "Approach", "text": "Wait, YOU made a deal with Bwonsamdi too?" },
+        { "context": "Approach", "text": "Has-been!" },
+        { "context": "Defeat",   "text": "Awwww sweetie! You DO care!" }
+      ]
+    },
+    {
+      "id": 164558,
+      "name": "Hakkar the Soulflayer",
+      "filterName": "hakkar",
+      "namePattern": "^VO_.*Hakkar",
+      "quotes": []
+    }
+  ]
+}

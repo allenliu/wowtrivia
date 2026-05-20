@@ -1,0 +1,55 @@
+{
+  "dungeon": "Priory of the Sacred Flame",
+  "slug": "priory-of-the-sacred-flame",
+  "wowheadZoneId": 14954,
+  "expansion": "The War Within",
+  "bosses": [
+    {
+      "id": 207946,
+      "name": "Captain Dailcry",
+      "filterName": "dailcry",
+      "quotes": [
+        { "context": "Suleyman killed", "text": "The training grounds have been breached!" },
+        { "context": "Suleyman killed", "text": "Shaynemail, your training grounds fall to the intruders!" },
+        { "context": "Aemya killed",    "text": "Intruders have desecrated the altar!" },
+        { "context": "Aemya killed",    "text": "Taener, the intruders defile the altar of the Sacred Flame!" },
+        { "context": "Damian killed",   "text": "Intruders have infiltrated the forge!" },
+        { "context": "Damian killed",   "text": "Elaena, they have stopped the production of our weapons!" },
+        { "context": "Send guard",      "text": "Put an end to these heathens!" },
+        { "context": "Send guard",      "text": "Finish them off, lieutenant!" },
+        { "context": "Guards down",     "text": "Hold! I see their gambit. They seek to ambush me without my lieutenants." },
+        { "context": "Aggro",           "text": "Ours is the true path for the Arathi!" },
+        { "context": "Savage Mauling",  "text": "Feel Ember's wrath!" },
+        { "context": "Savage Mauling",  "text": "By fang and claw!" },
+        { "context": "Earthshattering", "text": "My spear aims true!" },
+        { "context": "Guard cast",      "text": "Show them the power of the Flame!" },
+        { "context": "Guard cast",      "text": "Lieutenant! Eliminate these vermin." },
+        { "context": "Player Killed",   "text": "The faithless fall." },
+        { "context": "Player Killed",   "text": "Glory to the empire!" },
+        { "context": "Wipe",            "text": "How pitiful. You could have joined our glory!" },
+        { "context": "Death",           "text": "I go... in glory..." }
+      ]
+    },
+    {
+      "id": 207939,
+      "name": "Baron Braunpyke",
+      "filterName": "braunpyke",
+      "quotes": [
+        { "context": "Clear room",     "text": "Those who oppose the emperor will fall at our feet!" },
+        { "context": "Aggro",          "text": "By the emperor's will!" },
+        { "context": "Burning Light",  "text": "By fire I am healed!" },
+        { "context": "Burning Light",  "text": "Flame's wrath heal me!" },
+        { "context": "Hammer of Purity","text": "By my holy hammer!" },
+        { "context": "Hammer of Purity","text": "Glory guides my hammer!" },
+        { "context": "Castigator's Shield", "text": "By my shield!" },
+        { "context": "Castigator's Shield", "text": "Shielded by Flame's light!" },
+        { "context": "Vindictive Wrath","text": "The Flame empowers me!" },
+        { "context": "Sacrificial Pyre","text": "Flame cleanse you!" },
+        { "context": "Player Killed",  "text": "Of course you fall." },
+        { "context": "Wipe",           "text": "Another victory." },
+        { "context": "Death",          "text": "My first... defeat..." }
+      ]
+    },
+    { "id": 207940, "name": "Prioress Murrpray", "filterName": "murrpray", "namePattern": "^VO_.*Murrpray", "quotes": [] }
+  ]
+}

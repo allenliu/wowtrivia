@@ -1,0 +1,292 @@
+{
+  "meta": {
+    "npc": "Speaker Shadowcrown",
+    "dungeon": "The Dawnbreaker",
+    "filterName": "shadowcrown",
+    "namePattern": "",
+    "generated": "2026-05-19T18:05:46-07:00",
+    "soundCount": 35
+  },
+  "sounds": [
+    {
+      "soundId": 253260,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Collapsing Night - Area Loop",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/241/5163505/10.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": ""
+    },
+    {
+      "soundId": 253505,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Darkness Comes - Explosion - Neste",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/181/953781/FX_Distant_Explosion_Sweetner01.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Father"
+    },
+    {
+      "soundId": 247675,
+      "filename": "VO_110_Shadowcrown_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/105/5769321/VO_110_Shadowcrown_06_F.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Let night be unending!"
+    },
+    {
+      "soundId": 247683,
+      "filename": "VO_110_Shadowcrown_14_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/5769329/VO_110_Shadowcrown_14_F.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "I feel... ...DUX replace. Ugh."
+    },
+    {
+      "soundId": 253507,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Collapsing Night - Area Loop - Nes",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/236/5348588/10.1.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": ""
+    },
+    {
+      "soundId": 253935,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Darkness Comes - Channel - Nested",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/5355553/10.1.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Thank you."
+    },
+    {
+      "soundId": 247680,
+      "filename": "VO_110_Shadowcrown_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/110/5769326/VO_110_Shadowcrown_11_F.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "An eternal night!"
+    },
+    {
+      "soundId": 247681,
+      "filename": "VO_110_Shadowcrown_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/5769327/VO_110_Shadowcrown_12_F.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "The herbinger shall claim Hallowfall."
+    },
+    {
+      "soundId": 253342,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Collapsing Night - Missile Impact ",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/1260401/1H_MaceHit_MTL_MetalShield_01.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "you"
+    },
+    {
+      "soundId": 254528,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Darkness Comes - Bubble Area - Nes",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/183/5389495/10.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": ""
+    },
+    {
+      "soundId": 253503,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Darkness Comes - Explosion",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/124/5341052/10.1.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": ""
+    },
+    {
+      "soundId": 253115,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Shadow Bolt - Impact (Target) - Ne",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/124/5341052/10.1.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": ""
+    },
+    {
+      "soundId": 247670,
+      "filename": "VO_110_Shadowcrown_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/99/5769315/VO_110_Shadowcrown_01_F.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "We have learned to embrace the dark. Be not afraid. Let it embrace you."
+    },
+    {
+      "soundId": 247676,
+      "filename": "VO_110_Shadowcrown_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/106/5769322/VO_110_Shadowcrown_07_F.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Let's peer into the dark!"
+    },
+    {
+      "soundId": 247677,
+      "filename": "VO_110_Shadowcrown_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/107/5769323/VO_110_Shadowcrown_08_F.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "The shadows bless you."
+    },
+    {
+      "soundId": 247679,
+      "filename": "VO_110_Shadowcrown_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/109/5769325/VO_110_Shadowcrown_10_F.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Oh, shall be shadow!"
+    },
+    {
+      "soundId": 256160,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Burning Shadows - State",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/19/1664275/SPELL_VoidMagic_NPC_Precast_loop_01.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "You"
+    },
+    {
+      "soundId": 253268,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Collapsing Night - Area Loop - Nes",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/11/3186699/FX_Madness_Loop_Stereo_Wind_Spirit_Screams_02.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": ""
+    },
+    {
+      "soundId": 267652,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Collapsing Night - State - Screen ",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/241/5163505/10.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": ""
+    },
+    {
+      "soundId": 253481,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Darkness Comes - Bubble Area - Nes",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/84/2066516/FX_Weather_Void_Storm_Stereo_Loop_01.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": ""
+    },
+    {
+      "soundId": 253482,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Darkness Comes - Bubble Area - Nes",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/5735622/11.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "0413 Dortmund orbits Munich G.R.B."
+    },
+    {
+      "soundId": 254527,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Darkness Comes - Bubble Area - Nes",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/203/5389515/10.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": ""
+    },
+    {
+      "soundId": 253479,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Darkness Comes - Bubble Area - Sto",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/236/5348588/10.1.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": ""
+    },
+    {
+      "soundId": 253483,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Darkness Comes - Bubble Area - Sto",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/235/5163499/10.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": ""
+    },
+    {
+      "soundId": 253930,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Darkness Comes - Channel",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/166/5333414/10.1.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": ""
+    },
+    {
+      "soundId": 255673,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Darkness Comes - Channel - Nested ",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/4205425/FX_Torghast_Sylvanas_Cast_BansheeVox_Scream_01.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "🐰"
+    },
+    {
+      "soundId": 253504,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Darkness Comes - Explosion - Neste",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/56/1006904/FX_Grenade_Explosion01.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "oon"
+    },
+    {
+      "soundId": 253506,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Darkness Comes - Explosion - Neste",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/152/1712536/Spell_PR_Revamp_Shadow_Impact_Slow_Attack_01.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "You"
+    },
+    {
+      "soundId": 253107,
+      "filename": "11.0 Dungeon - Dawnbreaker Airship - Boss - Speaker Shadowcrown - Shadow Bolt - Impact (Target)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/96/5382496/10.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Ricoh"
+    },
+    {
+      "soundId": 247671,
+      "filename": "VO_110_Shadowcrown_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/5769317/VO_110_Shadowcrown_02_F.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Embrace the darkness!"
+    },
+    {
+      "soundId": 247672,
+      "filename": "VO_110_Shadowcrown_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/102/5769318/VO_110_Shadowcrown_03_F.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "The knight guides me, empowers me!"
+    },
+    {
+      "soundId": 247673,
+      "filename": "VO_110_Shadowcrown_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/103/5769319/VO_110_Shadowcrown_04_F.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "And so you fall."
+    },
+    {
+      "soundId": 247674,
+      "filename": "VO_110_Shadowcrown_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/5769320/VO_110_Shadowcrown_05_F.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Darkness prevails."
+    },
+    {
+      "soundId": 247678,
+      "filename": "VO_110_Shadowcrown_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/108/5769324/VO_110_Shadowcrown_09_F.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Fill Knights Embrace."
+    },
+    {
+      "soundId": 247682,
+      "filename": "VO_110_Shadowcrown_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/112/5769328/VO_110_Shadowcrown_13_F.ogg",
+      "npc": "Speaker Shadowcrown",
+      "dungeon": "The Dawnbreaker",
+      "transcript": "Let all be given to the eternal night!"
+    }
+  ]
+}

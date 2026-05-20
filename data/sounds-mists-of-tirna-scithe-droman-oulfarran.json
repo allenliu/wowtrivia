@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "npc": "Droman Oulfarran",
+    "dungeon": "Mists of Tirna Scithe",
+    "filterName": "oulfarran",
+    "namePattern": "",
+    "generated": "2026-05-19T15:28:59-07:00",
+    "soundCount": 21
+  },
+  "sounds": [
+    {
+      "soundId": 152809,
+      "filename": "VO_901_Droman_Oulfarran_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/145/3486097/VO_901_Droman_Oulfarran_13_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Hey... Confusion..."
+    },
+    {
+      "soundId": 155307,
+      "filename": "VO_901_Droman_Oulfarran_14_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/3555330/VO_901_Droman_Oulfarran_14_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Brave the mists, the danger beyond, then our reunion."
+    },
+    {
+      "soundId": 152797,
+      "filename": "VO_901_Droman_Oulfarran_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/133/3486085/VO_901_Droman_Oulfarran_01_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Tyrnasside withers as the Gorm Feast. Balance must be restored."
+    },
+    {
+      "soundId": 152800,
+      "filename": "VO_901_Droman_Oulfarran_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/3486088/VO_901_Droman_Oulfarran_04_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "No!"
+    },
+    {
+      "soundId": 152803,
+      "filename": "VO_901_Droman_Oulfarran_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/139/3486091/VO_901_Droman_Oulfarran_07_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Place your faith in the world."
+    },
+    {
+      "soundId": 152804,
+      "filename": "VO_901_Droman_Oulfarran_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/140/3486092/VO_901_Droman_Oulfarran_08_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "The forest yearns for your victory, mortals."
+    },
+    {
+      "soundId": 152807,
+      "filename": "VO_901_Droman_Oulfarran_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/143/3486095/VO_901_Droman_Oulfarran_11_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Please, survive this."
+    },
+    {
+      "soundId": 155323,
+      "filename": "VO_901_Droman_Oulfarran_19_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/3555374/VO_901_Droman_Oulfarran_19_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Lakali slumbers, knowledge intact. Time will be his sad."
+    },
+    {
+      "soundId": 155324,
+      "filename": "VO_901_Droman_Oulfarran_20_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/47/3555375/VO_901_Droman_Oulfarran_20_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Tyrnicide will remember you... always."
+    },
+    {
+      "soundId": 152799,
+      "filename": "VO_901_Droman_Oulfarran_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/135/3486087/VO_901_Droman_Oulfarran_03_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "This fate was not to be."
+    },
+    {
+      "soundId": 152801,
+      "filename": "VO_901_Droman_Oulfarran_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/137/3486089/VO_901_Droman_Oulfarran_05_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Ingra mallock falls silent. The forest sighs in gratitude."
+    },
+    {
+      "soundId": 152802,
+      "filename": "VO_901_Droman_Oulfarran_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/3486090/VO_901_Droman_Oulfarran_06_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "You must run, my mind betrays me."
+    },
+    {
+      "soundId": 152808,
+      "filename": "VO_901_Droman_Oulfarran_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/144/3486096/VO_901_Droman_Oulfarran_12_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "I cannot control it."
+    },
+    {
+      "soundId": 157819,
+      "filename": "VO_901_Droman_Oulfarran_24_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/173/3592365/VO_901_Droman_Oulfarran_24_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Approach the stones, reveal their sitles."
+    },
+    {
+      "soundId": 152798,
+      "filename": "VO_901_Droman_Oulfarran_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/134/3486086/VO_901_Droman_Oulfarran_02_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "The time for play has passed. The winds purge us forward."
+    },
+    {
+      "soundId": 152806,
+      "filename": "VO_901_Droman_Oulfarran_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/142/3486094/VO_901_Droman_Oulfarran_10_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "You must endure."
+    },
+    {
+      "soundId": 155311,
+      "filename": "VO_901_Droman_Oulfarran_17_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/6/3555334/VO_901_Droman_Oulfarran_17_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "The Collie, lower of knowledge, a feast for the gore."
+    },
+    {
+      "soundId": 155312,
+      "filename": "VO_901_Droman_Oulfarran_18_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/3555335/VO_901_Droman_Oulfarran_18_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Their queen enlightened by every bite."
+    },
+    {
+      "soundId": 157678,
+      "filename": "VO_901_Droman_Oulfarran_21_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/3590342/VO_901_Droman_Oulfarran_21_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Matching sigils, a path to nowhere. Only one way, only one sigil of its kind."
+    },
+    {
+      "soundId": 157817,
+      "filename": "VO_901_Droman_Oulfarran_22_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/3592363/VO_901_Droman_Oulfarran_22_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Dissern the path, pierce the mist."
+    },
+    {
+      "soundId": 157818,
+      "filename": "VO_901_Droman_Oulfarran_23_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/172/3592364/VO_901_Droman_Oulfarran_23_F.ogg",
+      "npc": "Droman Oulfarran",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Stone and Sital showed the way. One does not belong. One you must follow."
+    }
+  ]
+}

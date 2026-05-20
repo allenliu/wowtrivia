@@ -1,0 +1,292 @@
+{
+  "meta": {
+    "npc": "Ularogg Cragshaper",
+    "dungeon": "Neltharion's Lair",
+    "filterName": "ularogg",
+    "namePattern": "",
+    "generated": "2026-05-19T17:13:17-07:00",
+    "soundCount": 35
+  },
+  "sounds": [
+    {
+      "soundId": 73750,
+      "filename": "Spell_Ularogg_Idols_Slide_1shot",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/1489055/FX_Stone_Rock_Slide_Loop_02.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 68063,
+      "filename": "MON_Drogbar_Aggro (Ularogg Cragshaper)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/164/1258404/MON_Drogbar_Aggro01.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Ow!"
+    },
+    {
+      "soundId": 73123,
+      "filename": "Spell_Neltharions Lair_Ularogg_Cragshaper_BossIntro_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/121/1417593/FX_Spell_Energy_Electrical_Channel_LOOP3_02.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 73742,
+      "filename": "Spell_Ularogg_Boss_Summon_Idol_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/7/946439/FX_RockSpell_Impact01.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 73240,
+      "filename": "Spell_Ularogg_IntroJump_Land_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/930440/FX_Explosion_Rock_Debris_01.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 54701,
+      "filename": "VO_70_Ularogg_Cragshaper_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/176/1276080/VO_70_Ularogg_Cragshaper_08.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Go ahead and run! Ha ha ha! It will change nothing!"
+    },
+    {
+      "soundId": 54703,
+      "filename": "VO_70_Ularogg_Cragshaper_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/180/1276084/VO_70_Ularogg_Cragshaper_10.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "So this is what it feels like to break."
+    },
+    {
+      "soundId": 68062,
+      "filename": "MON_Drogbar_Attack (Ularogg Cragshaper)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/133/1373061/VO_60_ULAROGG_Attack_01.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "BOOM!"
+    },
+    {
+      "soundId": 68061,
+      "filename": "MON_Drogbar_AttackCrit (Ularogg Cragshaper)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/1258419/MON_Drogbar_ArrackCrit01.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Is rejection."
+    },
+    {
+      "soundId": 73792,
+      "filename": "Spell_Ularogg_StrikeMountain_HandsMove_StoneGrind",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/17/943377/FX_Ogre_RollingBoulder_Rock_Loop.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Thank you for watching."
+    },
+    {
+      "soundId": 54698,
+      "filename": "VO_70_Ularogg_Cragshaper_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/169/1276073/VO_70_Ularogg_Cragshaper_05.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "High mountain itself rises against you!"
+    },
+    {
+      "soundId": 68060,
+      "filename": "MON_Drogbar_Death (Ularogg Cragshaper)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/187/1258427/MON_Drogbar_Death01.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "停"
+    },
+    {
+      "soundId": 68059,
+      "filename": "MON_Drogbar_PreAggro (Ularogg Cragshaper)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/192/1258432/MON_Drogbar_PreAggro01.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Pseudboro=="
+    },
+    {
+      "soundId": 68057,
+      "filename": "MON_Drogbar_WoundCrit (Ularogg Cragshaper)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/158/1373086/VO_60_ULAROGG_WoundCrit_01.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "arian"
+    },
+    {
+      "soundId": 73787,
+      "filename": "Spell_Ularogg_StrikeMoutain_HandsMove_Slide",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/160/1489056/FX_Stone_Rock_Slide_Loop_03.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 54700,
+      "filename": "VO_70_Ularogg_Cragshaper_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/173/1276077/VO_70_Ularogg_Cragshaper_07.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "High Mountain will be your tomb."
+    },
+    {
+      "soundId": 54704,
+      "filename": "VO_70_Ularogg_Cragshaper_11",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/182/1276086/VO_70_Ularogg_Cragshaper_11.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Pay attention, Nava Ragh. I want you to see your heroes die."
+    },
+    {
+      "soundId": 68058,
+      "filename": "MON_Drogbar_Wound (Ularogg Cragshaper)",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/148/1373076/VO_60_ULAROGG_Wound_01.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Yeah."
+    },
+    {
+      "soundId": 73733,
+      "filename": "Spell_Ularogg_FallingDebris_Iimpact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/136/930440/FX_Explosion_Rock_Debris_01.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 73789,
+      "filename": "Spell_Ularogg_StrikeMoutain_HandsMove_Slide2",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/188/566460/GO_TBDestroyTowerFX_Collapse_07.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "You"
+    },
+    {
+      "soundId": 60788,
+      "filename": "VO_60_ULAROGG_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/133/1373061/VO_60_ULAROGG_Attack_01.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "BOOM!"
+    },
+    {
+      "soundId": 60791,
+      "filename": "VO_60_ULAROGG_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/158/1373086/VO_60_ULAROGG_WoundCrit_01.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "P trail"
+    },
+    {
+      "soundId": 54702,
+      "filename": "VO_70_Ularogg_Cragshaper_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/1276082/VO_70_Ularogg_Cragshaper_09.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "You will never wield the power of Karsgaras!"
+    },
+    {
+      "soundId": 54707,
+      "filename": "VO_70_Ularogg_Cragshaper_14",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/188/1276092/VO_70_Ularogg_Cragshaper_14.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Ah, that felt wonderful."
+    },
+    {
+      "soundId": 73790,
+      "filename": "Spell_Ularogg_StrikeMoutain_HandsMove_Slide3_StartEnd",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/245/946421/FX_RockSpell_Cast01.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 73744,
+      "filename": "Spell_Ularogg_Summon_Idols_Precast_Loop",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/1489055/FX_Stone_Rock_Slide_Loop_02.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": ""
+    },
+    {
+      "soundId": 60789,
+      "filename": "VO_60_ULAROGG_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/143/1373071/VO_60_ULAROGG_AttackCrit_01.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "MMMMMMMMMMMMMMMMMMMMM幸g that I had two units in one run."
+    },
+    {
+      "soundId": 60790,
+      "filename": "VO_60_ULAROGG_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/148/1373076/VO_60_ULAROGG_Wound_01.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Yeah."
+    },
+    {
+      "soundId": 54277,
+      "filename": "VO_70_Ularogg_Cragshaper_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/216/1274584/VO_70_Ularogg_Cragshaper_01.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "My under king, this one still lives."
+    },
+    {
+      "soundId": 54633,
+      "filename": "VO_70_Ularogg_Cragshaper_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/89/1275737/VO_70_Ularogg_Cragshaper_02.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Navarag, the Traier, you would lead these intruders against us!"
+    },
+    {
+      "soundId": 54678,
+      "filename": "VO_70_Ularogg_Cragshaper_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/1275933/VO_70_Ularogg_Cragshaper_03.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Either way, I will enjoy every moment of it. Rock Mora! Crush them!"
+    },
+    {
+      "soundId": 54696,
+      "filename": "VO_70_Ularogg_Cragshaper_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/129/1276033/VO_70_Ularogg_Cragshaper_04.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "So brittle! So easy to break!"
+    },
+    {
+      "soundId": 54699,
+      "filename": "VO_70_Ularogg_Cragshaper_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/1276075/VO_70_Ularogg_Cragshaper_06.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Your bones shatter so easily!"
+    },
+    {
+      "soundId": 54705,
+      "filename": "VO_70_Ularogg_Cragshaper_12",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/184/1276088/VO_70_Ularogg_Cragshaper_12.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "Stand against the Dragbar and face the might of Kogarath himself!"
+    },
+    {
+      "soundId": 54706,
+      "filename": "VO_70_Ularogg_Cragshaper_13",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/186/1276090/VO_70_Ularogg_Cragshaper_13.ogg",
+      "npc": "Ularogg Cragshaper",
+      "dungeon": "Neltharion's Lair",
+      "transcript": "High Mountain Take You!"
+    }
+  ]
+}

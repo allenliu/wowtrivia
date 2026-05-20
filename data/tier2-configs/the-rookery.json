@@ -1,0 +1,22 @@
+{
+  "dungeon": "The Rookery",
+  "slug": "the-rookery",
+  "wowheadZoneId": 14938,
+  "expansion": "The War Within",
+  "bosses": [
+    { "id": 207207, "name": "Voidstone Monstrosity", "filterName": "voidstone_monstrosity", "namePattern": "^VO_.*Voidstone", "quotes": [
+      { "context": "Combat", "text": "Corrupt." },
+      { "context": "Combat", "text": "Ruin." },
+      { "context": "Combat", "text": "Break." },
+      { "context": "Combat", "text": "Be one." },
+      { "context": "Combat", "text": "Join us." },
+      { "context": "Combat", "text": "Ravage!" },
+      { "context": "Combat", "text": "Destroy!" },
+      { "context": "Combat", "text": "It hurts!" },
+      { "context": "Combat", "text": "Void... consume..." },
+      { "context": "Combat", "text": "All. Will. Join." },
+      { "context": "Combat", "text": "Smash." }
+    ]},
+    { "id": 207205, "name": "Stormguard Gorren", "filterName": "gorren", "quotes": [] }
+  ]
+}

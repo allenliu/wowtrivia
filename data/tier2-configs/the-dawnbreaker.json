@@ -1,0 +1,25 @@
+{
+  "dungeon": "The Dawnbreaker",
+  "slug": "the-dawnbreaker",
+  "wowheadZoneId": 14971,
+  "expansion": "The War Within",
+  "bosses": [
+    { "id": 211089, "name": "Anub'ikkaj", "filterName": "anubikkaj", "namePattern": "^VO_.*Anub", "quotes": [
+      { "context": "Combat", "text": "Darkness comes!" },
+      { "context": "Combat", "text": "I still have power enough to defeat you!" },
+      { "context": "Combat", "text": "I'll feast on you!" },
+      { "context": "Combat", "text": "Lost in shade!" },
+      { "context": "Combat", "text": "Shade take you!" },
+      { "context": "Combat", "text": "Shadows! Gather to me!" },
+      { "context": "Aggro", "text": "So you dare to face me? Very well." },
+      { "context": "Combat", "text": "The Arathi will be but the first to fall." },
+      { "context": "Combat", "text": "The Arathi will fall to ruin!" },
+      { "context": "Combat", "text": "The shadows consume!" },
+      { "context": "Death", "text": "They all... failed me..." },
+      { "context": "Combat", "text": "You're nothing against Azj-Kahet." },
+      { "context": "Combat", "text": "Your flesh is weak." }
+    ]},
+    { "id": 211087, "name": "Speaker Shadowcrown", "filterName": "shadowcrown", "quotes": [] },
+    { "id": 213937, "name": "Rasha'nan", "filterName": "rashanan", "quotes": [] }
+  ]
+}

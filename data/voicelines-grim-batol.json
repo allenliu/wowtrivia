@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "schemaVersion": 3,
+    "dungeon": "Grim Batol",
+    "wowheadZoneId": 4950,
+    "expansion": "Cataclysm",
+    "generated": "2026-05-19T14:06:11-07:00",
+    "notes": "Mixed Tier-1 (Wowhead Quotes) + Tier-2 (wiki + Whisper) entries."
+  },
+  "npcs": [
+    {
+      "id": 40484,
+      "name": "Erudax",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 18638,
+          "filename": "VO_GB_Erudax_Event01",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/548200/VO_GB_Erudax_Event01.ogg",
+          "text": "The darkest days are still ahead!",
+          "source": "wiki",
+          "wikiContext": "Aggro",
+          "transcript": "The darkest days are still ahead.",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 18646,
+          "filename": "VO_GB_Erudax_Event06",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/105/548201/VO_GB_Erudax_Event06.ogg",
+          "text": "Come, suffering... Enter, chaos!",
+          "source": "wiki",
+          "wikiContext": "Summon Guardian",
+          "transcript": "Come suffering, into chaos!",
+          "matchScore": 0.885,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 18644,
+          "filename": "VO_GB_Erudax_Event05",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/83/548179/VO_GB_Erudax_Event05.ogg",
+          "text": "F'lakh ghet! The shadow's hunger cannot be sated!",
+          "source": "wiki",
+          "wikiContext": "Shadow Gale",
+          "transcript": "Flak'yat, the Shadow Zonga cannot be sainted!",
+          "matchScore": 0.723,
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 18640,
+          "filename": "VO_GB_Erudax_Event03",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/94/548190/VO_GB_Erudax_Event03.ogg",
+          "text": "Flesh for the offering!",
+          "source": "wiki",
+          "wikiContext": "Player Killed",
+          "transcript": "Flesh for the offering!",
+          "matchScore": 1,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 18634,
+          "filename": "VO_GB_Erudax_AttackCrit",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/548173/VO_GB_Erudax_AttackCrit01.ogg",
+          "text": "RO schedules",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "RO schedules",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 18649,
+          "filename": "VO_GB_Erudax_Wound",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/548174/VO_GB_Erudax_Wound04.ogg",
+          "text": "ABSOLUTELY",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "ABSOLUTELY",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 18641,
+          "filename": "VO_GB_Erudax_Event04",
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/112/548208/VO_GB_Erudax_Event04.ogg",
+          "text": "What the gift of Staccato doesn't take in the fairy tale of Magician Circa",
+          "source": "transcript",
+          "wikiContext": null,
+          "transcript": "What the gift of Staccato doesn't take in the fairy tale of Magician Circa",
+          "matchScore": null,
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

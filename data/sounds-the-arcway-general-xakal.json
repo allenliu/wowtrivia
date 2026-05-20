@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "npc": "General Xakal",
+    "dungeon": "The Arcway",
+    "filterName": "xakal",
+    "namePattern": "^VO_.*Xakal",
+    "generated": "2026-05-19T17:56:34-07:00",
+    "soundCount": 10
+  },
+  "sounds": [
+    {
+      "soundId": 57771,
+      "filename": "VO_701_General_Xakal_06",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/1332765/VO_701_General_Xakal_06.ogg",
+      "npc": "General Xakal",
+      "dungeon": "The Arcway",
+      "transcript": "No! No! None can best the Great Zakao!"
+    },
+    {
+      "soundId": 57772,
+      "filename": "VO_701_General_Xakal_07",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/1332767/VO_701_General_Xakal_07.ogg",
+      "npc": "General Xakal",
+      "dungeon": "The Arcway",
+      "transcript": "God! Some entertainment! I was getting restless!"
+    },
+    {
+      "soundId": 57767,
+      "filename": "VO_701_General_Xakal_02",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/21/1332757/VO_701_General_Xakal_02.ogg",
+      "npc": "General Xakal",
+      "dungeon": "The Arcway",
+      "transcript": "More fuel to stop the Felfires!"
+    },
+    {
+      "soundId": 57769,
+      "filename": "VO_701_General_Xakal_04",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/25/1332761/VO_701_General_Xakal_04.ogg",
+      "npc": "General Xakal",
+      "dungeon": "The Arcway",
+      "transcript": "No match for the Great Zakaal!"
+    },
+    {
+      "soundId": 57774,
+      "filename": "VO_701_General_Xakal_09",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/1332771/VO_701_General_Xakal_09.ogg",
+      "npc": "General Xakal",
+      "dungeon": "The Arcway",
+      "transcript": "All in my shadow will crumble and fall."
+    },
+    {
+      "soundId": 57766,
+      "filename": "VO_701_General_Xakal_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/19/1332755/VO_701_General_Xakal_01.ogg",
+      "npc": "General Xakal",
+      "dungeon": "The Arcway",
+      "transcript": "Gather minions, feast on their corpses, while the blood is still warm."
+    },
+    {
+      "soundId": 57768,
+      "filename": "VO_701_General_Xakal_03",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/23/1332759/VO_701_General_Xakal_03.ogg",
+      "npc": "General Xakal",
+      "dungeon": "The Arcway",
+      "transcript": "But never notch on my toe blade!"
+    },
+    {
+      "soundId": 57770,
+      "filename": "VO_701_General_Xakal_05",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/27/1332763/VO_701_General_Xakal_05.ogg",
+      "npc": "General Xakal",
+      "dungeon": "The Arcway",
+      "transcript": "Form up maggots! Secure the breach until we receive orders from Go-Bang!"
+    },
+    {
+      "soundId": 57773,
+      "filename": "VO_701_General_Xakal_08",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/1332769/VO_701_General_Xakal_08.ogg",
+      "npc": "General Xakal",
+      "dungeon": "The Arcway",
+      "transcript": "And who lies against the region are doomed!"
+    },
+    {
+      "soundId": 57775,
+      "filename": "VO_701_General_Xakal_10",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/37/1332773/VO_701_General_Xakal_10.ogg",
+      "npc": "General Xakal",
+      "dungeon": "The Arcway",
+      "transcript": "What the fuck was that? No!"
+    }
+  ]
+}

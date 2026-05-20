@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "npc": "Baron Braunpyke",
+    "dungeon": "Priory of the Sacred Flame",
+    "filterName": "braunpyke",
+    "namePattern": "",
+    "generated": "2026-05-19T15:50:01-07:00",
+    "soundCount": 15
+  },
+  "sounds": [
+    {
+      "soundId": 247852,
+      "filename": "VO_110_Baron_Braunpyke_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/40/5769512/VO_110_Baron_Braunpyke_11_M.ogg",
+      "npc": "Baron Braunpyke",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Flame cleans you!"
+    },
+    {
+      "soundId": 247843,
+      "filename": "VO_110_Baron_Braunpyke_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/31/5769503/VO_110_Baron_Braunpyke_02_M.ogg",
+      "npc": "Baron Braunpyke",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Another victory!"
+    },
+    {
+      "soundId": 247842,
+      "filename": "VO_110_Baron_Braunpyke_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/29/5769501/VO_110_Baron_Braunpyke_01_M.ogg",
+      "npc": "Baron Braunpyke",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "What have we here? Intruders!"
+    },
+    {
+      "soundId": 247846,
+      "filename": "VO_110_Baron_Braunpyke_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/34/5769506/VO_110_Baron_Braunpyke_05_M.ogg",
+      "npc": "Baron Braunpyke",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Buy my shield!"
+    },
+    {
+      "soundId": 247844,
+      "filename": "VO_110_Baron_Braunpyke_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/32/5769504/VO_110_Baron_Braunpyke_03_M.ogg",
+      "npc": "Baron Braunpyke",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Of course you fall!"
+    },
+    {
+      "soundId": 247847,
+      "filename": "VO_110_Baron_Braunpyke_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/35/5769507/VO_110_Baron_Braunpyke_06_M.ogg",
+      "npc": "Baron Braunpyke",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Shielded by flames light!"
+    },
+    {
+      "soundId": 247850,
+      "filename": "VO_110_Baron_Braunpyke_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/38/5769510/VO_110_Baron_Braunpyke_09_M.ogg",
+      "npc": "Baron Braunpyke",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Glory guides my hammer!"
+    },
+    {
+      "soundId": 247851,
+      "filename": "VO_110_Baron_Braunpyke_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/39/5769511/VO_110_Baron_Braunpyke_10_M.ogg",
+      "npc": "Baron Braunpyke",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "By my holy hammer!"
+    },
+    {
+      "soundId": 247853,
+      "filename": "VO_110_Baron_Braunpyke_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/41/5769513/VO_110_Baron_Braunpyke_12_M.ogg",
+      "npc": "Baron Braunpyke",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "By the Empress will!"
+    },
+    {
+      "soundId": 251168,
+      "filename": "VO_110_Baron_Braunpyke_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/236/5839852/VO_110_Baron_Braunpyke_15_M.ogg",
+      "npc": "Baron Braunpyke",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Those who oppose the Emperor will fall at our feet."
+    },
+    {
+      "soundId": 247845,
+      "filename": "VO_110_Baron_Braunpyke_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/33/5769505/VO_110_Baron_Braunpyke_04_M.ogg",
+      "npc": "Baron Braunpyke",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "The flame empowers me!"
+    },
+    {
+      "soundId": 247848,
+      "filename": "VO_110_Baron_Braunpyke_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/36/5769508/VO_110_Baron_Braunpyke_07_M.ogg",
+      "npc": "Baron Braunpyke",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "Flames rat, heal me!"
+    },
+    {
+      "soundId": 247849,
+      "filename": "VO_110_Baron_Braunpyke_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/37/5769509/VO_110_Baron_Braunpyke_08_M.ogg",
+      "npc": "Baron Braunpyke",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "By fire, I am healed!"
+    },
+    {
+      "soundId": 247854,
+      "filename": "VO_110_Baron_Braunpyke_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/42/5769514/VO_110_Baron_Braunpyke_13_M.ogg",
+      "npc": "Baron Braunpyke",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "You had no chance against me!"
+    },
+    {
+      "soundId": 247855,
+      "filename": "VO_110_Baron_Braunpyke_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/43/5769515/VO_110_Baron_Braunpyke_14_M.ogg",
+      "npc": "Baron Braunpyke",
+      "dungeon": "Priory of the Sacred Flame",
+      "transcript": "My first defeat."
+    }
+  ]
+}

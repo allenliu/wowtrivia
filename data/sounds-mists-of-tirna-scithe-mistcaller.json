@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "npc": "Mistcaller",
+    "dungeon": "Mists of Tirna Scithe",
+    "filterName": "mistcaller",
+    "namePattern": "^VO_.*Mistcaller",
+    "generated": "2026-05-19T15:28:00-07:00",
+    "soundCount": 42
+  },
+  "sounds": [
+    {
+      "soundId": 154204,
+      "filename": "VO_901_Mistcaller_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/183/3522231/VO_901_Mistcaller_01_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Yay! My friends are here to play! Come along!"
+    },
+    {
+      "soundId": 154205,
+      "filename": "VO_901_Mistcaller_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/184/3522232/VO_901_Mistcaller_02_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Can you find your way through the mist? Choose wisely!"
+    },
+    {
+      "soundId": 154214,
+      "filename": "VO_901_Mistcaller_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/193/3522241/VO_901_Mistcaller_11_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Let's play a guessing game!"
+    },
+    {
+      "soundId": 154236,
+      "filename": "VO_901_Mistcaller_33_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/215/3522263/VO_901_Mistcaller_33_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Aww, okay. No more myths."
+    },
+    {
+      "soundId": 154211,
+      "filename": "VO_901_Mistcaller_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/190/3522238/VO_901_Mistcaller_08_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Sorry, try again!"
+    },
+    {
+      "soundId": 154226,
+      "filename": "VO_901_Mistcaller_23_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/205/3522253/VO_901_Mistcaller_23_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "A special game, just for us!"
+    },
+    {
+      "soundId": 167091,
+      "filename": "VO_901_Mistcaller_Wound_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/221/3749597/VO_901_Mistcaller_Wound_01.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Duh!"
+    },
+    {
+      "soundId": 154213,
+      "filename": "VO_901_Mistcaller_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/192/3522240/VO_901_Mistcaller_10_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Which one's the real me?"
+    },
+    {
+      "soundId": 154209,
+      "filename": "VO_901_Mistcaller_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/188/3522236/VO_901_Mistcaller_06_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Oops! Don't get lost!"
+    },
+    {
+      "soundId": 154210,
+      "filename": "VO_901_Mistcaller_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/189/3522237/VO_901_Mistcaller_07_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Uh oh! That wasn't right!"
+    },
+    {
+      "soundId": 154212,
+      "filename": "VO_901_Mistcaller_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/191/3522239/VO_901_Mistcaller_09_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "One of us is not like the others."
+    },
+    {
+      "soundId": 154215,
+      "filename": "VO_901_Mistcaller_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/194/3522242/VO_901_Mistcaller_12_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "You found me! Great job!"
+    },
+    {
+      "soundId": 154216,
+      "filename": "VO_901_Mistcaller_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/3522243/VO_901_Mistcaller_13_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Wow! You're really good at this!"
+    },
+    {
+      "soundId": 154220,
+      "filename": "VO_901_Mistcaller_17_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/3522247/VO_901_Mistcaller_17_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Yay! I win this round!"
+    },
+    {
+      "soundId": 154221,
+      "filename": "VO_901_Mistcaller_18_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/3522248/VO_901_Mistcaller_18_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Bet you can't touch this!"
+    },
+    {
+      "soundId": 154224,
+      "filename": "VO_901_Mistcaller_21_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/203/3522251/VO_901_Mistcaller_21_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "You! I wanna play with you!"
+    },
+    {
+      "soundId": 154232,
+      "filename": "VO_901_Mistcaller_29_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/3522259/VO_901_Mistcaller_29_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Don't you wanna keep playing?"
+    },
+    {
+      "soundId": 154235,
+      "filename": "VO_901_Mistcaller_32_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/214/3522262/VO_901_Mistcaller_32_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "That was fun! I haven't played like that in so long! Let's do it again!"
+    },
+    {
+      "soundId": 167094,
+      "filename": "VO_901_Mistcaller_PreAggro_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/201/3749577/VO_901_Mistcaller_PreAggro_01.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Oh."
+    },
+    {
+      "soundId": 154206,
+      "filename": "VO_901_Mistcaller_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/185/3522233/VO_901_Mistcaller_03_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "You did it! Good guess!"
+    },
+    {
+      "soundId": 154207,
+      "filename": "VO_901_Mistcaller_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/186/3522234/VO_901_Mistcaller_04_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "No fooling you!"
+    },
+    {
+      "soundId": 154208,
+      "filename": "VO_901_Mistcaller_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/187/3522235/VO_901_Mistcaller_05_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Hooray! You're almost there!"
+    },
+    {
+      "soundId": 154218,
+      "filename": "VO_901_Mistcaller_15_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/197/3522245/VO_901_Mistcaller_15_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "That wasn't me, silly!"
+    },
+    {
+      "soundId": 154223,
+      "filename": "VO_901_Mistcaller_20_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/202/3522250/VO_901_Mistcaller_20_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Think fast!"
+    },
+    {
+      "soundId": 154228,
+      "filename": "VO_901_Mistcaller_25_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/3522255/VO_901_Mistcaller_25_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "My friend wants to play with us too!"
+    },
+    {
+      "soundId": 154229,
+      "filename": "VO_901_Mistcaller_26_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/3522256/VO_901_Mistcaller_26_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Ooh, let's play tag!"
+    },
+    {
+      "soundId": 154230,
+      "filename": "VO_901_Mistcaller_27_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/3522257/VO_901_Mistcaller_27_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "We're gonna have so much fun!"
+    },
+    {
+      "soundId": 154231,
+      "filename": "VO_901_Mistcaller_28_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/210/3522258/VO_901_Mistcaller_28_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Aww, are you feeling tired?"
+    },
+    {
+      "soundId": 167090,
+      "filename": "VO_901_Mistcaller_AttackCrit_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/155/3749531/VO_901_Mistcaller_AttackCrit_01.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "H lines"
+    },
+    {
+      "soundId": 167089,
+      "filename": "VO_901_Mistcaller_Attack_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/165/3749541/VO_901_Mistcaller_Attack_01.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 167092,
+      "filename": "VO_901_Mistcaller_WoundCrit_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/3749587/VO_901_Mistcaller_WoundCrit_01.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "вкус"
+    },
+    {
+      "soundId": 154217,
+      "filename": "VO_901_Mistcaller_14_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/3522244/VO_901_Mistcaller_14_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Hello, yo!"
+    },
+    {
+      "soundId": 154219,
+      "filename": "VO_901_Mistcaller_16_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/3522246/VO_901_Mistcaller_16_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Nope. For you."
+    },
+    {
+      "soundId": 154222,
+      "filename": "VO_901_Mistcaller_19_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/201/3522249/VO_901_Mistcaller_19_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Hey, catch!"
+    },
+    {
+      "soundId": 154225,
+      "filename": "VO_901_Mistcaller_22_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/204/3522252/VO_901_Mistcaller_22_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Will you play with me? Pretty please!"
+    },
+    {
+      "soundId": 154227,
+      "filename": "VO_901_Mistcaller_24_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/206/3522254/VO_901_Mistcaller_24_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Don't get caught!"
+    },
+    {
+      "soundId": 154233,
+      "filename": "VO_901_Mistcaller_30_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/212/3522260/VO_901_Mistcaller_30_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "No more fun?"
+    },
+    {
+      "soundId": 154234,
+      "filename": "VO_901_Mistcaller_31_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/3522261/VO_901_Mistcaller_31_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Thank you for playing with me! Please come back again!"
+    },
+    {
+      "soundId": 154237,
+      "filename": "VO_901_Mistcaller_34_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/216/3522264/VO_901_Mistcaller_34_F.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Hey! This doesn't look right! It doesn't look right at all!"
+    },
+    {
+      "soundId": 167095,
+      "filename": "VO_901_Mistcaller_Aggro_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/145/3749521/VO_901_Mistcaller_Aggro_01.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "Gyச karma"
+    },
+    {
+      "soundId": 167096,
+      "filename": "VO_901_Mistcaller_BattleShout_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/185/3749561/VO_901_Mistcaller_BattleShout_01.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "HAAAAAAA"
+    },
+    {
+      "soundId": 167093,
+      "filename": "VO_901_Mistcaller_Death_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/193/3749569/VO_901_Mistcaller_Death_01.ogg",
+      "npc": "Mistcaller",
+      "dungeon": "Mists of Tirna Scithe",
+      "transcript": "GAH!"
+    }
+  ]
+}

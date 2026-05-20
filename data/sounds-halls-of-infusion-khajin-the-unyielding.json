@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "npc": "Khajin the Unyielding",
+    "dungeon": "Halls of Infusion",
+    "filterName": "khajin",
+    "namePattern": "^VO_.*Khajin",
+    "generated": "2026-05-19T15:47:56-07:00",
+    "soundCount": 9
+  },
+  "sounds": [
+    {
+      "soundId": 208426,
+      "filename": "VO_100_Khajin_the_Unyielding_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/44/4690732/VO_100_Khajin_the_Unyielding_04_F.ogg",
+      "npc": "Khajin the Unyielding",
+      "dungeon": "Halls of Infusion",
+      "transcript": "Too cold, boyer!"
+    },
+    {
+      "soundId": 208424,
+      "filename": "VO_100_Khajin_the_Unyielding_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/42/4690730/VO_100_Khajin_the_Unyielding_02_F.ogg",
+      "npc": "Khajin the Unyielding",
+      "dungeon": "Halls of Infusion",
+      "transcript": "You're gonna catch your death!"
+    },
+    {
+      "soundId": 208430,
+      "filename": "VO_100_Khajin_the_Unyielding_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/48/4690736/VO_100_Khajin_the_Unyielding_08_F.ogg",
+      "npc": "Khajin the Unyielding",
+      "dungeon": "Halls of Infusion",
+      "transcript": "Not strong enough."
+    },
+    {
+      "soundId": 208431,
+      "filename": "VO_100_Khajin_the_Unyielding_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/49/4690737/VO_100_Khajin_the_Unyielding_09_F.ogg",
+      "npc": "Khajin the Unyielding",
+      "dungeon": "Halls of Infusion",
+      "transcript": "Heh! A weak pawn!"
+    },
+    {
+      "soundId": 208432,
+      "filename": "VO_100_Khajin_the_Unyielding_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/50/4690738/VO_100_Khajin_the_Unyielding_10_F.ogg",
+      "npc": "Khajin the Unyielding",
+      "dungeon": "Halls of Infusion",
+      "transcript": "Our power will always overcome."
+    },
+    {
+      "soundId": 208423,
+      "filename": "VO_100_Khajin_the_Unyielding_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/41/4690729/VO_100_Khajin_the_Unyielding_01_F.ogg",
+      "npc": "Khajin the Unyielding",
+      "dungeon": "Halls of Infusion",
+      "transcript": "Let me show you the power of the Elevants!"
+    },
+    {
+      "soundId": 208425,
+      "filename": "VO_100_Khajin_the_Unyielding_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/43/4690731/VO_100_Khajin_the_Unyielding_03_F.ogg",
+      "npc": "Khajin the Unyielding",
+      "dungeon": "Halls of Infusion",
+      "transcript": "Stay frosty!"
+    },
+    {
+      "soundId": 208427,
+      "filename": "VO_100_Khajin_the_Unyielding_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/45/4690733/VO_100_Khajin_the_Unyielding_05_F.ogg",
+      "npc": "Khajin the Unyielding",
+      "dungeon": "Halls of Infusion",
+      "transcript": "We'll build a new world free from their corruption!"
+    },
+    {
+      "soundId": 208428,
+      "filename": "VO_100_Khajin_the_Unyielding_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/46/4690734/VO_100_Khajin_the_Unyielding_06_F.ogg",
+      "npc": "Khajin the Unyielding",
+      "dungeon": "Halls of Infusion",
+      "transcript": "Nothing can stop us."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "dungeon": "Operation: Floodgate",
+  "slug": "operation-floodgate",
+  "wowheadZoneId": 15452,
+  "expansion": "The War Within",
+  "bosses": [
+    {
+      "id": 226404,
+      "name": "Geezle Gigazap",
+      "filterName": "gigazap",
+      "quotes": [
+        { "context": "Combat", "text": "And to think... they called me... mad..." },
+        { "context": "Combat", "text": "Fry and... DIE!" },
+        { "context": "Combat", "text": "Giga... ZAP!" },
+        { "context": "Combat", "text": "It's working... IT'S WORKING!" },
+        { "context": "Combat", "text": "No one can stop me." },
+        { "context": "Combat", "text": "Power... power! POWER!" },
+        { "context": "Combat", "text": "Soon I shall have the POWER I require!" },
+        { "context": "Combat", "text": "The superior mind wins." },
+        { "context": "Combat", "text": "You dare pit your wits against mine..." },
+        { "context": "Combat", "text": "You dare question ME? Face annihilation!" }
+      ]
+    }
+  ]
+}

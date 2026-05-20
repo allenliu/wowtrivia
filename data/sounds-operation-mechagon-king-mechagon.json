@@ -1,0 +1,756 @@
+{
+  "meta": {
+    "npc": "King Mechagon",
+    "dungeon": "Operation: Mechagon",
+    "filterName": "king_mechagon",
+    "namePattern": "",
+    "generated": "2026-05-19T17:49:02-07:00",
+    "soundCount": 93
+  },
+  "sounds": [
+    {
+      "soundId": 135182,
+      "filename": "VO_82_KING_MECHAGON_SOLDIER_M_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/122/2993786/VO_82_King_Mechagon_Soldier_M_BattleShout_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "AAAAAAAAGH!"
+    },
+    {
+      "soundId": 135181,
+      "filename": "VO_82_KING_MECHAGON_SOLDIER_M_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/2993777/VO_82_King_Mechagon_Soldier_M_Attack_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Eh!"
+    },
+    {
+      "soundId": 131059,
+      "filename": "VO_82_King_Mechagon_Soldier_01_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/105/2917481/VO_82_King_Mechagon_Soldier_01_F.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Submit for mechanization."
+    },
+    {
+      "soundId": 131078,
+      "filename": "VO_82_King_Mechagon_Soldier_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/124/2917500/VO_82_King_Mechagon_Soldier_11_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "But I was superior."
+    },
+    {
+      "soundId": 132203,
+      "filename": "VO_82_King_Mechagon_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/210/2928594/VO_82_King_Mechagon_07_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "IMPRITENT IMMERSALS! YOU WILL PAY FOR THIS!"
+    },
+    {
+      "soundId": 132207,
+      "filename": "VO_82_King_Mechagon_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/2929615/VO_82_King_Mechagon_11_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "You cannot elude my targeting systems!"
+    },
+    {
+      "soundId": 132401,
+      "filename": "VO_82_King_Mechagon_34_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/251/2931451/VO_82_King_Mechagon_34_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "So, you possess a modicum of skill."
+    },
+    {
+      "soundId": 131085,
+      "filename": "VO_82_King_Mechagon_Soldier_14_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/131/2917507/VO_82_King_Mechagon_Soldier_14_F.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Data. Damage. Detectives."
+    },
+    {
+      "soundId": 135184,
+      "filename": "VO_82_KING_MECHAGON_SOLDIER_M_PREAGGRO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/132/2993796/VO_82_King_Mechagon_Soldier_M_PreAggro_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Huh?"
+    },
+    {
+      "soundId": 132206,
+      "filename": "VO_82_King_Mechagon_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/214/2928598/VO_82_King_Mechagon_10_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Nothing can topple my technology!"
+    },
+    {
+      "soundId": 132218,
+      "filename": "VO_82_King_Mechagon_22_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/2929626/VO_82_King_Mechagon_22_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "You think you have defeated me? Ha! Fools!"
+    },
+    {
+      "soundId": 132390,
+      "filename": "VO_82_King_Mechagon_27_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/240/2931440/VO_82_King_Mechagon_27_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "So, my misguided son returns. I'm impressed you made it this far."
+    },
+    {
+      "soundId": 131076,
+      "filename": "VO_82_King_Mechagon_Soldier_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/122/2917498/VO_82_King_Mechagon_Soldier_10_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Shrestham Malfunction"
+    },
+    {
+      "soundId": 131082,
+      "filename": "VO_82_King_Mechagon_Soldier_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/128/2917504/VO_82_King_Mechagon_Soldier_13_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Progress cannot be stopped."
+    },
+    {
+      "soundId": 135180,
+      "filename": "VO_82_KING_MECHAGON_SOLDIER_M_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/108/2993772/VO_82_King_Mechagon_Soldier_M_AttackCrit_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "H iconic"
+    },
+    {
+      "soundId": 132197,
+      "filename": "VO_82_King_Mechagon_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/204/2928588/VO_82_King_Mechagon_01_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Prepare for annihilation!"
+    },
+    {
+      "soundId": 131067,
+      "filename": "VO_82_King_Mechagon_Soldier_05_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/2917489/VO_82_King_Mechagon_Soldier_05_F.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "You will be neutralized."
+    },
+    {
+      "soundId": 131070,
+      "filename": "VO_82_King_Mechagon_Soldier_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/116/2917492/VO_82_King_Mechagon_Soldier_07_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Surrender or be destroyed."
+    },
+    {
+      "soundId": 135179,
+      "filename": "VO_82_KING_MECHAGON_SOLDIER_M_AGGRO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/105/2993769/VO_82_King_Mechagon_Soldier_M_Aggro_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "N� chapel"
+    },
+    {
+      "soundId": 132198,
+      "filename": "VO_82_King_Mechagon_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/205/2928589/VO_82_King_Mechagon_02_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "All cannons, fire!"
+    },
+    {
+      "soundId": 132208,
+      "filename": "VO_82_King_Mechagon_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/2929616/VO_82_King_Mechagon_12_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "All power to weapons!"
+    },
+    {
+      "soundId": 132212,
+      "filename": "VO_82_King_Mechagon_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/212/2929620/VO_82_King_Mechagon_16_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Witness perfection!"
+    },
+    {
+      "soundId": 132683,
+      "filename": "VO_82_King_Mechagon_40_M [RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/2958585/VO_82_King_Mechagon_40_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "incompatible presence detected."
+    },
+    {
+      "soundId": 135664,
+      "filename": "VO_82_King_Mechagon_Alert",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/82/2999634/VO_82_King_Mechagon_PreAggro_02.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "What?"
+    },
+    {
+      "soundId": 131064,
+      "filename": "VO_82_King_Mechagon_Soldier_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/110/2917486/VO_82_King_Mechagon_Soldier_04_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Initiating hostile action."
+    },
+    {
+      "soundId": 131072,
+      "filename": "VO_82_King_Mechagon_Soldier_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/118/2917494/VO_82_King_Mechagon_Soldier_08_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "I will be rebuilt."
+    },
+    {
+      "soundId": 131084,
+      "filename": "VO_82_King_Mechagon_Soldier_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/2917506/VO_82_King_Mechagon_Soldier_14_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "한� Citadel Damage Detector"
+    },
+    {
+      "soundId": 135191,
+      "filename": "VO_82_KING_MECHAGON_SOLDIER_F_DEATH",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/185/2993849/VO_82_King_Mechagon_Soldier_F_Death_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "HU发"
+    },
+    {
+      "soundId": 135186,
+      "filename": "VO_82_KING_MECHAGON_SOLDIER_M_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/149/2993813/VO_82_King_Mechagon_Soldier_M_Wound_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "B."
+    },
+    {
+      "soundId": 132199,
+      "filename": "VO_82_King_Mechagon_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/206/2928590/VO_82_King_Mechagon_03_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "WEAPONS FREE!"
+    },
+    {
+      "soundId": 132200,
+      "filename": "VO_82_King_Mechagon_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/2928591/VO_82_King_Mechagon_04_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Reinforcements to these coordinates!"
+    },
+    {
+      "soundId": 132201,
+      "filename": "VO_82_King_Mechagon_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/2928592/VO_82_King_Mechagon_05_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Deploy the reinforcements!"
+    },
+    {
+      "soundId": 132202,
+      "filename": "VO_82_King_Mechagon_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/2928593/VO_82_King_Mechagon_06_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Excellent target practice!"
+    },
+    {
+      "soundId": 132213,
+      "filename": "VO_82_King_Mechagon_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/213/2929621/VO_82_King_Mechagon_17_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Flesh is a flaw! And I will purge it to create a perfect world!"
+    },
+    {
+      "soundId": 132397,
+      "filename": "VO_82_King_Mechagon_30_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/247/2931447/VO_82_King_Mechagon_30_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Attention, citizens! Please remain in your domiciles."
+    },
+    {
+      "soundId": 132402,
+      "filename": "VO_82_King_Mechagon_35_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/252/2931452/VO_82_King_Mechagon_35_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "It will prove insufficient against my newest prototype!"
+    },
+    {
+      "soundId": 132668,
+      "filename": "VO_82_King_Mechagon_37_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/224/2958560/VO_82_King_Mechagon_37_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "But no more. At long last, the perfection of our original Titanforged design will be restored!"
+    },
+    {
+      "soundId": 132684,
+      "filename": "VO_82_King_Mechagon_41_M [RTC]",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/250/2958586/VO_82_King_Mechagon_41_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Unworthy subjects will be neutralized."
+    },
+    {
+      "soundId": 135665,
+      "filename": "VO_82_King_Mechagon_Aggro",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/53/2999605/VO_82_King_Mechagon_Aggro_08.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Heh!"
+    },
+    {
+      "soundId": 135666,
+      "filename": "VO_82_King_Mechagon_BattleShout",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/71/2999623/VO_82_King_Mechagon_BattleShout_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "AAAAAAAAHHHHHHHHHH"
+    },
+    {
+      "soundId": 135663,
+      "filename": "VO_82_King_Mechagon_Death",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/76/2999628/VO_82_King_Mechagon_Death_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Ah! No!"
+    },
+    {
+      "soundId": 131066,
+      "filename": "VO_82_King_Mechagon_Soldier_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/112/2917488/VO_82_King_Mechagon_Soldier_05_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "You will be neutralized."
+    },
+    {
+      "soundId": 131069,
+      "filename": "VO_82_King_Mechagon_Soldier_06_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/115/2917491/VO_82_King_Mechagon_Soldier_06_F.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Prepare to be exterminated."
+    },
+    {
+      "soundId": 131074,
+      "filename": "VO_82_King_Mechagon_Soldier_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/120/2917496/VO_82_King_Mechagon_Soldier_09_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "My B-B-B-Life for Mechagod"
+    },
+    {
+      "soundId": 131083,
+      "filename": "VO_82_King_Mechagon_Soldier_13_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/129/2917505/VO_82_King_Mechagon_Soldier_13_F.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Progress cannot be stopped."
+    },
+    {
+      "soundId": 135189,
+      "filename": "VO_82_KING_MECHAGON_SOLDIER_F_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/171/2993835/VO_82_King_Mechagon_Soldier_F_Attack_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Yights!"
+    },
+    {
+      "soundId": 135190,
+      "filename": "VO_82_KING_MECHAGON_SOLDIER_F_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/180/2993844/VO_82_King_Mechagon_Soldier_F_BattleShout_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Pascalme"
+    },
+    {
+      "soundId": 135193,
+      "filename": "VO_82_KING_MECHAGON_SOLDIER_F_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/2993859/VO_82_King_Mechagon_Soldier_F_WoundCrit_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "DOG!!!! Pied goodness"
+    },
+    {
+      "soundId": 135183,
+      "filename": "VO_82_KING_MECHAGON_SOLDIER_M_DEATH",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/127/2993791/VO_82_King_Mechagon_Soldier_M_Death_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Bye!"
+    },
+    {
+      "soundId": 135185,
+      "filename": "VO_82_KING_MECHAGON_SOLDIER_M_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/137/2993801/VO_82_King_Mechagon_Soldier_M_WoundCrit_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "No!"
+    },
+    {
+      "soundId": 135662,
+      "filename": "VO_82_King_Mechagon_WoundCrit",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/96/2999648/VO_82_King_Mechagon_WoundCrit_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "AHHHHH!"
+    },
+    {
+      "soundId": 132204,
+      "filename": "VO_82_King_Mechagon_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/2928595/VO_82_King_Mechagon_08_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Eradicated!"
+    },
+    {
+      "soundId": 132205,
+      "filename": "VO_82_King_Mechagon_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/212/2928596/VO_82_King_Mechagon_09_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "ATTAMIZED!"
+    },
+    {
+      "soundId": 132209,
+      "filename": "VO_82_King_Mechagon_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/2929617/VO_82_King_Mechagon_13_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Canon fully charged!"
+    },
+    {
+      "soundId": 132210,
+      "filename": "VO_82_King_Mechagon_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/210/2929618/VO_82_King_Mechagon_14_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Magnetic grapple engaged!"
+    },
+    {
+      "soundId": 132211,
+      "filename": "VO_82_King_Mechagon_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/211/2929619/VO_82_King_Mechagon_15_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Activating... ...Frusters!"
+    },
+    {
+      "soundId": 132214,
+      "filename": "VO_82_King_Mechagon_18_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/214/2929622/VO_82_King_Mechagon_18_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "But you are inferior!"
+    },
+    {
+      "soundId": 132215,
+      "filename": "VO_82_King_Mechagon_19_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/215/2929623/VO_82_King_Mechagon_19_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Total Protonic Reversal!"
+    },
+    {
+      "soundId": 132216,
+      "filename": "VO_82_King_Mechagon_20_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/216/2929624/VO_82_King_Mechagon_20_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "complete particle deletion!"
+    },
+    {
+      "soundId": 132217,
+      "filename": "VO_82_King_Mechagon_21_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/217/2929625/VO_82_King_Mechagon_21_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Thank you for helping to calibrate my weapon!"
+    },
+    {
+      "soundId": 132219,
+      "filename": "VO_82_King_Mechagon_23_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/219/2929627/VO_82_King_Mechagon_23_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "All you have done is dismantle a piece of furniture!"
+    },
+    {
+      "soundId": 132220,
+      "filename": "VO_82_King_Mechagon_24_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/220/2929628/VO_82_King_Mechagon_24_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "You wish to test my true ordinance? I will happily oblige."
+    },
+    {
+      "soundId": 132386,
+      "filename": "VO_82_King_Mechagon_25_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/236/2931436/VO_82_King_Mechagon_25_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Spark Flux! The invaders have made it past the outer defenses!"
+    },
+    {
+      "soundId": 132387,
+      "filename": "VO_82_King_Mechagon_26_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/237/2931437/VO_82_King_Mechagon_26_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "I want their stents removed from my city!"
+    },
+    {
+      "soundId": 132392,
+      "filename": "VO_82_King_Mechagon_28_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/242/2931442/VO_82_King_Mechagon_28_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Poor child, if only you could accept the truth!"
+    },
+    {
+      "soundId": 132393,
+      "filename": "VO_82_King_Mechagon_29_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/243/2931443/VO_82_King_Mechagon_29_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "The cursor flesh has run rampant across Azeroth, and I will replace it with mechanical purity!"
+    },
+    {
+      "soundId": 132398,
+      "filename": "VO_82_King_Mechagon_31_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/248/2931448/VO_82_King_Mechagon_31_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Gods are currently on route to quell the disturbance."
+    },
+    {
+      "soundId": 132399,
+      "filename": "VO_82_King_Mechagon_32_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/249/2931449/VO_82_King_Mechagon_32_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "So, you dismantled a few of my lesser inventions."
+    },
+    {
+      "soundId": 132400,
+      "filename": "VO_82_King_Mechagon_33_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/250/2931450/VO_82_King_Mechagon_33_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Let us see how you fare against something more advanced!"
+    },
+    {
+      "soundId": 132667,
+      "filename": "VO_82_King_Mechagon_36_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/223/2958559/VO_82_King_Mechagon_36_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Brothers and sisters of nomality. For generations, the curse of flesh has condemned us to obsolescence."
+    },
+    {
+      "soundId": 132669,
+      "filename": "VO_82_King_Mechagon_38_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/225/2958561/VO_82_King_Mechagon_38_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "All who are worthy shall join me in Mechagon and be cleansed of the old God's corruption."
+    },
+    {
+      "soundId": 132670,
+      "filename": "VO_82_King_Mechagon_39_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/2958562/VO_82_King_Mechagon_39_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Step forth and be judged in the eyes of invention. Together, we will reclaim our true legacy."
+    },
+    {
+      "soundId": 135659,
+      "filename": "VO_82_King_Mechagon_Attack",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/61/2999613/VO_82_King_Mechagon_Attack_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Ha!"
+    },
+    {
+      "soundId": 135660,
+      "filename": "VO_82_King_Mechagon_AttackCrit",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/56/2999608/VO_82_King_Mechagon_AttackCrit_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "HA!"
+    },
+    {
+      "soundId": 131058,
+      "filename": "VO_82_King_Mechagon_Soldier_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/2917480/VO_82_King_Mechagon_Soldier_01_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Submit for mechanization."
+    },
+    {
+      "soundId": 131061,
+      "filename": "VO_82_King_Mechagon_Soldier_02_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/107/2917483/VO_82_King_Mechagon_Soldier_02_F.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Your presence is unauthorized."
+    },
+    {
+      "soundId": 131060,
+      "filename": "VO_82_King_Mechagon_Soldier_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/106/2917482/VO_82_King_Mechagon_Soldier_02_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Your presence is unauthorized."
+    },
+    {
+      "soundId": 131063,
+      "filename": "VO_82_King_Mechagon_Soldier_03_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/109/2917485/VO_82_King_Mechagon_Soldier_03_F.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "by King Mechagon's Decree."
+    },
+    {
+      "soundId": 131062,
+      "filename": "VO_82_King_Mechagon_Soldier_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/108/2917484/VO_82_King_Mechagon_Soldier_03_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "by King Megagon's Decree."
+    },
+    {
+      "soundId": 131065,
+      "filename": "VO_82_King_Mechagon_Soldier_04_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/2917487/VO_82_King_Mechagon_Soldier_04_F.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Initiating hostile action."
+    },
+    {
+      "soundId": 131068,
+      "filename": "VO_82_King_Mechagon_Soldier_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/114/2917490/VO_82_King_Mechagon_Soldier_06_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Prepare to be exterminated."
+    },
+    {
+      "soundId": 131071,
+      "filename": "VO_82_King_Mechagon_Soldier_07_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/117/2917493/VO_82_King_Mechagon_Soldier_07_F.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Surrender or be destroyed."
+    },
+    {
+      "soundId": 131073,
+      "filename": "VO_82_King_Mechagon_Soldier_08_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/119/2917495/VO_82_King_Mechagon_Soldier_08_F.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "I will be rebuilt."
+    },
+    {
+      "soundId": 131075,
+      "filename": "VO_82_King_Mechagon_Soldier_09_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/121/2917497/VO_82_King_Mechagon_Soldier_09_F.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "My life for Megagome."
+    },
+    {
+      "soundId": 131077,
+      "filename": "VO_82_King_Mechagon_Soldier_10_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/123/2917499/VO_82_King_Mechagon_Soldier_10_F.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "System malfunction."
+    },
+    {
+      "soundId": 131079,
+      "filename": "VO_82_King_Mechagon_Soldier_11_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/125/2917501/VO_82_King_Mechagon_Soldier_11_F.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "But I was superior."
+    },
+    {
+      "soundId": 131081,
+      "filename": "VO_82_King_Mechagon_Soldier_12_F",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/127/2917503/VO_82_King_Mechagon_Soldier_12_F.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "More iteration. Require."
+    },
+    {
+      "soundId": 131080,
+      "filename": "VO_82_King_Mechagon_Soldier_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/126/2917502/VO_82_King_Mechagon_Soldier_12_M.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "More iteration required."
+    },
+    {
+      "soundId": 135187,
+      "filename": "VO_82_KING_MECHAGON_SOLDIER_F_AGGRO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/163/2993827/VO_82_King_Mechagon_Soldier_F_Aggro_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "HA!"
+    },
+    {
+      "soundId": 135188,
+      "filename": "VO_82_KING_MECHAGON_SOLDIER_F_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/166/2993830/VO_82_King_Mechagon_Soldier_F_AttackCrit_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Nyaaaaaa!"
+    },
+    {
+      "soundId": 135192,
+      "filename": "VO_82_KING_MECHAGON_SOLDIER_F_PREAGGRO",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/190/2993854/VO_82_King_Mechagon_Soldier_F_PreAggro_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "Huh?"
+    },
+    {
+      "soundId": 135194,
+      "filename": "VO_82_KING_MECHAGON_SOLDIER_F_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/2993871/VO_82_King_Mechagon_Soldier_F_Wound_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "UGH!"
+    },
+    {
+      "soundId": 135661,
+      "filename": "VO_82_King_Mechagon_Wound",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/101/2999653/VO_82_King_Mechagon_Wound_01.ogg",
+      "npc": "King Mechagon",
+      "dungeon": "Operation: Mechagon",
+      "transcript": "UGH!"
+    }
+  ]
+}

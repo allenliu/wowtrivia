@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "schemaVersion": 2,
+    "dungeon": "City of Threads",
+    "wowheadZoneId": 14979,
+    "expansion": "The War Within",
+    "generated": "2026-05-19T09:39:13-07:00"
+  },
+  "npcs": [
+    {
+      "id": 220777,
+      "name": "Executor Nizrek",
+      "elite": true,
+      "quotes": [
+        {
+          "soundId": 250798,
+          "filename": "vo-110-executor-nizrek-the-vizier-65-m",
+          "fileDataId": 5834753,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/1/5834753/VO_110_Executor_Nizrek_The_Vizier_65_M.ogg",
+          "text": "Ansurek will be absolutely furious when she learns of Izo's demise. I cannot wait to witness it.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 250786,
+          "filename": "vo-110-executor-nizrek-the-vizier-63-m",
+          "fileDataId": 5834741,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/245/5834741/VO_110_Executor_Nizrek_The_Vizier_63_M.ogg",
+          "text": "Izo has made a mockery of our traditions, at the queen's comm--",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 250783,
+          "filename": "vo-110-executor-nizrek-the-vizier-60-m",
+          "fileDataId": 5834738,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/242/5834738/VO_110_Executor_Nizrek_The_Vizier_60_M.ogg",
+          "text": "Stay close and be quiet.",
+          "status": "accepted",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 250789,
+          "filename": "vo-110-executor-nizrek-the-vizier-64-m",
+          "fileDataId": 5834744,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/248/5834744/VO_110_Executor_Nizrek_The_Vizier_64_M.ogg",
+          "text": "Thank you. Would that I could do more to repay you, but this is as far as I go.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        },
+        {
+          "soundId": 250785,
+          "filename": "vo-110-executor-nizrek-the-vizier-62-m",
+          "fileDataId": 5834740,
+          "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/244/5834740/VO_110_Executor_Nizrek_The_Vizier_62_M.ogg",
+          "text": "The Transformatory was once the home of our sacred evolution.",
+          "status": "pending",
+          "selected": false,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

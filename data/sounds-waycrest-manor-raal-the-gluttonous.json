@@ -1,0 +1,908 @@
+{
+  "meta": {
+    "npc": "Raal the Gluttonous",
+    "dungeon": "Waycrest Manor",
+    "filterName": "raal",
+    "namePattern": "",
+    "generated": "2026-05-19T12:31:49-07:00",
+    "soundCount": 112
+  },
+  "sounds": [
+    {
+      "soundId": 86096,
+      "filename": "SPELL_7.3_Triumvirate_Zuraal_NullPalm_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/985226/SPELL_VoidMagic_Cast_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 119502,
+      "filename": "SPELL_8.0_WaycrestManor_Raal_Tenderize_Cast_Nested",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/163/632227/FX_Amber_Oneshot01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 325174,
+      "filename": "VO_73_Zuraal_the_Ascended_WoundCrit_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/93/1709661/VO_73_Zuraal_the_Ascended_WoundCrit_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "award"
+    },
+    {
+      "soundId": 110101,
+      "filename": "VO_801_Hexlord_Raal_45_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/98/2021986/VO_801_Hexlord_Raal_45_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Their numbers are recovering quickly. Ah, they always do! No doubt we will face them again."
+    },
+    {
+      "soundId": 49377,
+      "filename": "FangraalEntanglingRoots",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/60/568636/EntanglingRoots.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 325172,
+      "filename": "VO_73_Zuraal_the_Ascended_AttackCrit_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/1709642/VO_73_Zuraal_the_Ascended_AttackCrit_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Service up!"
+    },
+    {
+      "soundId": 110172,
+      "filename": "VO_801_Hexlord_Raal_47_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/108/2022764/VO_801_Hexlord_Raal_47_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Rubber sauce stomach lining has many uses. You can boil it, dry it, saute it, or am I thinking of something else? Say, is it time for lunch?"
+    },
+    {
+      "soundId": 112291,
+      "filename": "VO_801_Hexlord_Raal_55_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/79/2061135/VO_801_Hexlord_Raal_55_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "If you think that was harsh, you should see what some of the other lower half there follow us do."
+    },
+    {
+      "soundId": 89529,
+      "filename": "VO_73_ZURAAL_THE_ASCENDED_WOUNDCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/93/1709661/VO_73_Zuraal_the_Ascended_WoundCrit_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Arh!"
+    },
+    {
+      "soundId": 109202,
+      "filename": "VO_801_Hexlord_Raal_31_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/57/2016313/VO_801_Hexlord_Raal_31_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Some of our merchants have requested guards for their caravans, up for a little escort."
+    },
+    {
+      "soundId": 109207,
+      "filename": "VO_801_Hexlord_Raal_36_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/62/2016318/VO_801_Hexlord_Raal_36_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Sure, if you like running, if you want to soar, see Paku, lower of winds. Her totems are fewer, but provide flying shortcuts throughout the city."
+    },
+    {
+      "soundId": 110776,
+      "filename": "VO_801_Hexlord_Raal_49_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/2029375/VO_801_Hexlord_Raal_49_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "HA HA HA! I must tell Pako about this!"
+    },
+    {
+      "soundId": 110485,
+      "filename": "SPELL_8.0_WaycrestManor_Raal_Rotten_Debuff",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/159/978335/SPELL_Breath_Poison01_Loop.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 87131,
+      "filename": "VO_73_Zuraal_the_Ascended_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/61/1686333/VO_73_Zuraal_the_Ascended_01_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "The void consumes the weak."
+    },
+    {
+      "soundId": 325171,
+      "filename": "VO_73_Zuraal_the_Ascended_Attack_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/70/1709638/VO_73_Zuraal_the_Ascended_Attack_07.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "my god"
+    },
+    {
+      "soundId": 89527,
+      "filename": "VO_73_ZURAAL_THE_ASCENDED_BATTLESHOUT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/79/1709647/VO_73_Zuraal_the_Ascended_Battleshout_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "GRRRRRapplause"
+    },
+    {
+      "soundId": 98078,
+      "filename": "VO_801_Hexlord_Raal_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/186/1863866/VO_801_Hexlord_Raal_01_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Lutty's method is too grounded for my taste. I prefer pterodaxus ivyuu."
+    },
+    {
+      "soundId": 98097,
+      "filename": "VO_801_Hexlord_Raal_20_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/205/1863885/VO_801_Hexlord_Raal_20_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Like my lower always says, don't touch that."
+    },
+    {
+      "soundId": 86283,
+      "filename": "SPELL_7.3_Triumvirate_Zuraal_NullPalm_Missile_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/178/985266/SPELL_VoidMagic_Impact_Chest_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "BOOM!"
+    },
+    {
+      "soundId": 86431,
+      "filename": "SPELL_7.3_Triumvirate_Zuraal_VoidSludge_Loop",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/14/1664270/SPELL_VoidMagic_NPC_Channel_loop_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 325192,
+      "filename": "VO_73_Zuraal_the_Ascended_WoundCrit_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/93/1709661/VO_73_Zuraal_the_Ascended_WoundCrit_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "edges"
+    },
+    {
+      "soundId": 98088,
+      "filename": "VO_801_Hexlord_Raal_11_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/1863876/VO_801_Hexlord_Raal_11_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "May the winds of war be ever in your favor."
+    },
+    {
+      "soundId": 98093,
+      "filename": "VO_801_Hexlord_Raal_16_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/201/1863881/VO_801_Hexlord_Raal_16_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "The skies be my eyes."
+    },
+    {
+      "soundId": 98094,
+      "filename": "VO_801_Hexlord_Raal_17_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/202/1863882/VO_801_Hexlord_Raal_17_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "You want to saw with these saws?"
+    },
+    {
+      "soundId": 109205,
+      "filename": "VO_801_Hexlord_Raal_34_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/60/2016316/VO_801_Hexlord_Raal_34_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Take my hexing stick and transform some of these priests into something more interesting."
+    },
+    {
+      "soundId": 109208,
+      "filename": "VO_801_Hexlord_Raal_37_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/2016319/VO_801_Hexlord_Raal_37_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Our enemies are infesting the Garden of the Loa once more, and they need to learn a good lesson in manners. The power of the Loa be with you!"
+    },
+    {
+      "soundId": 109212,
+      "filename": "VO_801_Hexlord_Raal_41_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/2016323/VO_801_Hexlord_Raal_41_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Ever since Hakkar, there is a weakness in the Guruvashi's mind. Their path can be too easily corrupted and must be purged."
+    },
+    {
+      "soundId": 110100,
+      "filename": "VO_801_Hexlord_Raal_44_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/95/2021983/VO_801_Hexlord_Raal_44_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "These feathered vipers are known for their aggressive infestations. But this is getting out of hand. Destroy their eggs to keep their population in check."
+    },
+    {
+      "soundId": 325175,
+      "filename": "VO_73_Zuraal_the_Ascended_Battleshout_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/79/1709647/VO_73_Zuraal_the_Ascended_Battleshout_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "R дальше logic"
+    },
+    {
+      "soundId": 98095,
+      "filename": "VO_801_Hexlord_Raal_18_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/203/1863883/VO_801_Hexlord_Raal_18_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Like my Loa always says. Doc! Ha ha ha ha ha ha ha!"
+    },
+    {
+      "soundId": 101060,
+      "filename": "VO_801_Hexlord_Raal_25_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/215/1907415/VO_801_Hexlord_Raal_25_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "That will give the Restari a bit of breathing room. You have done well, champion."
+    },
+    {
+      "soundId": 101062,
+      "filename": "VO_801_Hexlord_Raal_27_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/217/1907417/VO_801_Hexlord_Raal_27_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "The Rastari have been working to flush the Mogu out of the war port, but to no avail. Rally them and crush any Mogu that get in your way."
+    },
+    {
+      "soundId": 109201,
+      "filename": "VO_801_Hexlord_Raal_30_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/56/2016312/VO_801_Hexlord_Raal_30_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Loti had you picking up packages? I would have just had you hexed-y-bees and called it a day. But the merchants always complain when I do that."
+    },
+    {
+      "soundId": 109203,
+      "filename": "VO_801_Hexlord_Raal_32_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/58/2016314/VO_801_Hexlord_Raal_32_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "It will take time to mess up enough guards to hold the old merchant road as we once did. Your help is appreciated."
+    },
+    {
+      "soundId": 109206,
+      "filename": "VO_801_Hexlord_Raal_35_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/61/2016317/VO_801_Hexlord_Raal_35_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Ha ha! They don't call me the Hex Lord for nothing!"
+    },
+    {
+      "soundId": 109210,
+      "filename": "VO_801_Hexlord_Raal_39_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/2016321/VO_801_Hexlord_Raal_39_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Ha! A fine show of respect for Parkour!"
+    },
+    {
+      "soundId": 109211,
+      "filename": "VO_801_Hexlord_Raal_40_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/66/2016322/VO_801_Hexlord_Raal_40_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "The Guru Basi have worked themselves into a murderous frenzy. Let us help them out with dying, hit the gong and watch them come running."
+    },
+    {
+      "soundId": 109213,
+      "filename": "VO_801_Hexlord_Raal_42_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/2016324/VO_801_Hexlord_Raal_42_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "The villagers of Zebihari still live under the knife of Zul's assassins. Save them and slay those who target innocents from the shadows."
+    },
+    {
+      "soundId": 110171,
+      "filename": "VO_801_Hexlord_Raal_46_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/107/2022763/VO_801_Hexlord_Raal_46_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "My wife claims the ramasaws can eat whatever they like. If true, the linings of their stomachs must be like iron. Gather some of those linings for me before she takes notice."
+    },
+    {
+      "soundId": 110775,
+      "filename": "VO_801_Hexlord_Raal_48_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/62/2029374/VO_801_Hexlord_Raal_48_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "The Nightborne have an idea of how to handle the invaders in Shibala. This should be fun to watch."
+    },
+    {
+      "soundId": 112288,
+      "filename": "VO_801_Hexlord_Raal_52_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/76/2061132/VO_801_Hexlord_Raal_52_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "These dwarf things are not taking the hint. They are not welcome here. Show them how the Zandalari deal with Intrudas."
+    },
+    {
+      "soundId": 112289,
+      "filename": "VO_801_Hexlord_Raal_53_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/77/2061133/VO_801_Hexlord_Raal_53_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "That was a proper lesson you taught them. We will see if they learn from it."
+    },
+    {
+      "soundId": 112290,
+      "filename": "VO_801_Hexlord_Raal_54_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/78/2061134/VO_801_Hexlord_Raal_54_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Gaunt Druids are too uptight. Play some pranks on their altars to get them to lighten up. Oh, and they may try to kill you for this."
+    },
+    {
+      "soundId": 115036,
+      "filename": "VO_801_Hexlord_Raal_59_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/104/2133608/VO_801_Hexlord_Raal_59_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Merlux invade our shores. If they aren't called immediately, they will quickly grow beyond our control."
+    },
+    {
+      "soundId": 115037,
+      "filename": "VO_801_Hexlord_Raal_60_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/105/2133609/VO_801_Hexlord_Raal_60_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Better to deal with a threat now, then regret it later."
+    },
+    {
+      "soundId": 115039,
+      "filename": "VO_801_Hexlord_Raal_62_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/111/2133615/VO_801_Hexlord_Raal_62_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Their prophet has been proven false."
+    },
+    {
+      "soundId": 86435,
+      "filename": "SPELL_7.3_Triumvirate_Zuraal_MaddenedFrenzy_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/985226/SPELL_VoidMagic_Cast_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 86093,
+      "filename": "SPELL_7.3_Triumvirate_Zuraal_NullPalm_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/86/987222/SPELL_Breath_Shadow_Precast_State_Loop.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 86434,
+      "filename": "SPELL_7.3_Triumvirate_Zuraal_VoidPhased_State_Loop",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/86/987222/SPELL_Breath_Shadow_Precast_State_Loop.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 110589,
+      "filename": "SPELL_8.0_WaycrestManor_Raal_ConsumeAll_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/118/1729654/Spell_DeathMagic_Cast_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "You"
+    },
+    {
+      "soundId": 110587,
+      "filename": "SPELL_8.0_WaycrestManor_Raal_ConsumeAll_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/116/1729652/Spell_DeathMagic_Precast_Loop_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 87135,
+      "filename": "VO_73_Zuraal_the_Ascended_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/65/1686337/VO_73_Zuraal_the_Ascended_05_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Darkness, give me strength!"
+    },
+    {
+      "soundId": 89525,
+      "filename": "VO_73_ZURAAL_THE_ASCENDED_ATTACK",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/70/1709638/VO_73_Zuraal_the_Ascended_Attack_07.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "ambassador"
+    },
+    {
+      "soundId": 98081,
+      "filename": "VO_801_Hexlord_Raal_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/189/1863869/VO_801_Hexlord_Raal_04_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "I will call out the best spots and you can have the honor of tossing down a century totem."
+    },
+    {
+      "soundId": 98083,
+      "filename": "VO_801_Hexlord_Raal_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/191/1863871/VO_801_Hexlord_Raal_06_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "That was when we got our first taste of real blood magic. Not that petty nonsense practiced by the lesser tribes."
+    },
+    {
+      "soundId": 98085,
+      "filename": "VO_801_Hexlord_Raal_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/193/1863873/VO_801_Hexlord_Raal_08_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Not a week goes by that we do not see some Zandalari turning to blood magics learned from those heretics in Nazmir."
+    },
+    {
+      "soundId": 98086,
+      "filename": "VO_801_Hexlord_Raal_09_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/194/1863874/VO_801_Hexlord_Raal_09_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Hmm, something feels different. I sense a great power resonating inside Zanchul."
+    },
+    {
+      "soundId": 98090,
+      "filename": "VO_801_Hexlord_Raal_13_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/198/1863878/VO_801_Hexlord_Raal_13_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Like my lower always says. Go away!"
+    },
+    {
+      "soundId": 109204,
+      "filename": "VO_801_Hexlord_Raal_33_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/59/2016315/VO_801_Hexlord_Raal_33_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "You are still not allowed to mention my sister."
+    },
+    {
+      "soundId": 115120,
+      "filename": "VO_801_Hexlord_Raal_FAREWELLS",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/196/1863876/VO_801_Hexlord_Raal_11_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "May the winds of war be ever in your favor."
+    },
+    {
+      "soundId": 110597,
+      "filename": "MON_Swine_Butcher_Raal_Laugh",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/2/1806338/MON_Quilboar_V2_AttackCrit_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Nobody is escape."
+    },
+    {
+      "soundId": 86430,
+      "filename": "SPELL_7.3_Triumvirate_Zuraal_Decimate_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/9/1345033/SPELL_NightmareMagic_Cast_SML_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 86432,
+      "filename": "SPELL_7.3_Triumvirate_Zuraal_ReleaseVoidEnergy_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/985226/SPELL_VoidMagic_Cast_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 86099,
+      "filename": "SPELL_7.3_Triumvirate_Zuraal_VoidSpawnIn_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/179/978355/SPELL_Poison_Cast_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 110581,
+      "filename": "SPELL_8.0_WaycrestManor_Raal_ConsumeAll_Target",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/113/1729649/Spell_DeathMagic_Impact_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "BOOM!"
+    },
+    {
+      "soundId": 110491,
+      "filename": "SPELL_8.0_WaycrestManor_Raal_Rotten_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/163/632227/FX_Amber_Oneshot01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 110484,
+      "filename": "SPELL_8.0_WaycrestManor_Raal_Rotten_Missile",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/1725154/FX_Blood_Magic_State_Loop_Medium_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 110592,
+      "filename": "SPELL_8.0_WaycrestManor_Raal_Tenderize_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/118/1729654/Spell_DeathMagic_Cast_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "You"
+    },
+    {
+      "soundId": 284584,
+      "filename": "VO_112_Nyzraal_the_Umbral_Blade_01_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/189/6723261/VO_112_Nyzraal_the_Umbral_Blade_01_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 87133,
+      "filename": "VO_73_Zuraal_the_Ascended_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/63/1686335/VO_73_Zuraal_the_Ascended_03_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "No such strength."
+    },
+    {
+      "soundId": 87137,
+      "filename": "VO_73_Zuraal_the_Ascended_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/67/1686339/VO_73_Zuraal_the_Ascended_07_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "To the void with you!"
+    },
+    {
+      "soundId": 89528,
+      "filename": "VO_73_ZURAAL_THE_ASCENDED_WOUND",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/83/1709651/VO_73_Zuraal_the_Ascended_Wound_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Bish!"
+    },
+    {
+      "soundId": 98079,
+      "filename": "VO_801_Hexlord_Raal_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/187/1863867/VO_801_Hexlord_Raal_02_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "It is like my lower always says, if you cannot see the source of corruption, go higher!"
+    },
+    {
+      "soundId": 98080,
+      "filename": "VO_801_Hexlord_Raal_03_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/188/1863868/VO_801_Hexlord_Raal_03_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "We shall ride after the Wing Lord on this journey. Hop on and keep your eyes open!"
+    },
+    {
+      "soundId": 98082,
+      "filename": "VO_801_Hexlord_Raal_05_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/190/1863870/VO_801_Hexlord_Raal_05_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "A few years back, this whole land shook during the cataclysm. Our northern gates fell and swarms of bloodthrow savages poured through."
+    },
+    {
+      "soundId": 98084,
+      "filename": "VO_801_Hexlord_Raal_07_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/192/1863872/VO_801_Hexlord_Raal_07_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Our defenses grow weaker. Princess Telangji has been asking for more troops, but her father has not acted fast enough and she has turned to the Horde."
+    },
+    {
+      "soundId": 98092,
+      "filename": "VO_801_Hexlord_Raal_15_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/1863880/VO_801_Hexlord_Raal_15_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "I serve Paku, one of the oldest of the Loa."
+    },
+    {
+      "soundId": 98099,
+      "filename": "VO_801_Hexlord_Raal_22_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/207/1863887/VO_801_Hexlord_Raal_22_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Oh, oh, oh, oh, yeah. Keep doing that. Just a little bit to your right."
+    },
+    {
+      "soundId": 98101,
+      "filename": "VO_801_Hexlord_Raal_24_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/209/1863889/VO_801_Hexlord_Raal_24_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Ha! I knew you would make the right choice. Come over here, and I will fly you out to see Paku face to face."
+    },
+    {
+      "soundId": 101063,
+      "filename": "VO_801_Hexlord_Raal_28_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/218/1907418/VO_801_Hexlord_Raal_28_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "What? Where?"
+    },
+    {
+      "soundId": 101064,
+      "filename": "VO_801_Hexlord_Raal_29_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/219/1907419/VO_801_Hexlord_Raal_29_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Promises, promises!"
+    },
+    {
+      "soundId": 113364,
+      "filename": "VO_801_Hexlord_Raal_57_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/163/2101923/VO_801_Hexlord_Raal_57_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Do not worry. Your wing friend will be fine. I have a plan."
+    },
+    {
+      "soundId": 115119,
+      "filename": "VO_801_Hexlord_Raal_GREETINGS",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/200/1863880/VO_801_Hexlord_Raal_15_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "I serve Paku, one of the oldest of the Loa."
+    },
+    {
+      "soundId": 115121,
+      "filename": "VO_801_Hexlord_Raal_PISSED",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/205/1863885/VO_801_Hexlord_Raal_20_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Like my lower always says, don't touch that."
+    },
+    {
+      "soundId": 86229,
+      "filename": "SPELL_7.3_Triumvirate_Zuraal_DarkExpulsion_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/156/985244/SPELL_VoidMagic_Death_04.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "You"
+    },
+    {
+      "soundId": 86433,
+      "filename": "SPELL_7.3_Triumvirate_Zuraal_VoidTear_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/985226/SPELL_VoidMagic_Cast_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 110482,
+      "filename": "SPELL_8.0_WaycrestManor_Raal_ConsumeAll_Missile",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/116/1729652/Spell_DeathMagic_Precast_Loop_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 110591,
+      "filename": "SPELL_8.0_WaycrestManor_Raal_ConsumeServant_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/241/1970161/FX_Bite_Eat_Flesh_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Thank you for watching!"
+    },
+    {
+      "soundId": 110492,
+      "filename": "SPELL_8.0_WaycrestManor_Raal_Rotten_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/60/631612/FX_Amber_GenericSpell01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "THANKS FOR WATCHING!"
+    },
+    {
+      "soundId": 110490,
+      "filename": "SPELL_8.0_WaycrestManor_Raal_Rotten_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/1725136/FX_Blood_Magic_Channel_Large_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 110594,
+      "filename": "SPELL_8.0_WaycrestManor_Raal_Tenderize_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/103/1784423/Spell_DeathMagic_Enthralled_State_Loop_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 110595,
+      "filename": "SPELL_8.0_WaycrestManor_Raal_Tenderize_Precast_Nested",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/226/1725154/FX_Blood_Magic_State_Loop_Medium_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": ""
+    },
+    {
+      "soundId": 87132,
+      "filename": "VO_73_Zuraal_the_Ascended_02_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/62/1686334/VO_73_Zuraal_the_Ascended_02_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Affaitic!"
+    },
+    {
+      "soundId": 87134,
+      "filename": "VO_73_Zuraal_the_Ascended_04_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/1686336/VO_73_Zuraal_the_Ascended_04_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Clarity comes to me. The void was weak."
+    },
+    {
+      "soundId": 87136,
+      "filename": "VO_73_Zuraal_the_Ascended_06_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/66/1686338/VO_73_Zuraal_the_Ascended_06_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "I will end you!"
+    },
+    {
+      "soundId": 87138,
+      "filename": "VO_73_Zuraal_the_Ascended_08_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/68/1686340/VO_73_Zuraal_the_Ascended_08_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "I shall send you to the darkness!"
+    },
+    {
+      "soundId": 89526,
+      "filename": "VO_73_ZURAAL_THE_ASCENDED_ATTACKCRIT",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/1709642/VO_73_Zuraal_the_Ascended_AttackCrit_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "No."
+    },
+    {
+      "soundId": 325173,
+      "filename": "VO_73_Zuraal_the_Ascended_Wound_01",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/83/1709651/VO_73_Zuraal_the_Ascended_Wound_01.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Bish!"
+    },
+    {
+      "soundId": 98087,
+      "filename": "VO_801_Hexlord_Raal_10_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/195/1863875/VO_801_Hexlord_Raal_10_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "I will leave you with Lottie. Let her know the cause of all this trouble may lie within Zanchul itself."
+    },
+    {
+      "soundId": 98089,
+      "filename": "VO_801_Hexlord_Raal_12_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/197/1863877/VO_801_Hexlord_Raal_12_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "May Pakul spy your enemies before they spy you."
+    },
+    {
+      "soundId": 98091,
+      "filename": "VO_801_Hexlord_Raal_14_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/199/1863879/VO_801_Hexlord_Raal_14_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Choose your lower wisely."
+    },
+    {
+      "soundId": 98096,
+      "filename": "VO_801_Hexlord_Raal_19_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/204/1863884/VO_801_Hexlord_Raal_19_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Greetings, Bakura Eye!"
+    },
+    {
+      "soundId": 98098,
+      "filename": "VO_801_Hexlord_Raal_21_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/206/1863886/VO_801_Hexlord_Raal_21_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Now if I could just get my wife to give me this much attention."
+    },
+    {
+      "soundId": 98100,
+      "filename": "VO_801_Hexlord_Raal_23_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/208/1863888/VO_801_Hexlord_Raal_23_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Oh, perfect! That really hit the spot!"
+    },
+    {
+      "soundId": 101061,
+      "filename": "VO_801_Hexlord_Raal_26_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/216/1907416/VO_801_Hexlord_Raal_26_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Lottie, what took you so long?"
+    },
+    {
+      "soundId": 109209,
+      "filename": "VO_801_Hexlord_Raal_38_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/2016320/VO_801_Hexlord_Raal_38_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "The lower favor you. That is a good thing. Just do not let it go to your head."
+    },
+    {
+      "soundId": 109214,
+      "filename": "VO_801_Hexlord_Raal_43_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/69/2016325/VO_801_Hexlord_Raal_43_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "That should teach those who pray on villagers from the shadows. Well done."
+    },
+    {
+      "soundId": 112286,
+      "filename": "VO_801_Hexlord_Raal_50_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/74/2061130/VO_801_Hexlord_Raal_50_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "The great Pakhu has decided that Jiharak has outgrown her time with us. Gather your forces and slay this creature!"
+    },
+    {
+      "soundId": 112287,
+      "filename": "VO_801_Hexlord_Raal_51_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/75/2061131/VO_801_Hexlord_Raal_51_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Well done! Her passing will allow future generations to thrive."
+    },
+    {
+      "soundId": 113363,
+      "filename": "VO_801_Hexlord_Raal_56_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/162/2101922/VO_801_Hexlord_Raal_56_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "we will lead the way. Trust in each other and the rest will come. Now, to the skies!"
+    },
+    {
+      "soundId": 113365,
+      "filename": "VO_801_Hexlord_Raal_58_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/164/2101924/VO_801_Hexlord_Raal_58_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "Ah, I see now. Perhaps he is not meant to soar in the clouds. But with you at his side, it will still be a good life."
+    },
+    {
+      "soundId": 115038,
+      "filename": "VO_801_Hexlord_Raal_61_M",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/110/2133614/VO_801_Hexlord_Raal_61_M.ogg",
+      "npc": "Raal the Gluttonous",
+      "dungeon": "Waycrest Manor",
+      "transcript": "They say Rastakhan has no power here. Show them the error of their ways. Drive their heresy from Tal Ghorub."
+    }
+  ]
+}

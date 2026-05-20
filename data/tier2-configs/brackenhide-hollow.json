@@ -1,0 +1,32 @@
+{
+  "dungeon": "Brackenhide Hollow",
+  "slug": "brackenhide-hollow",
+  "wowheadZoneId": 13991,
+  "expansion": "Dragonflight",
+  "bosses": [
+    { "id": 186121, "name": "Decatriarch Wratheye", "filterName": "wratheye", "quotes": [
+      { "context": "Aggro", "text": "Your corpses will spread the rot!" },
+      { "context": "Combat", "text": "Choke and wither!" },
+      { "context": "Combat", "text": "Corpse falls, decay spreads!" },
+      { "context": "Combat", "text": "Rot and die!" },
+      { "context": "Combat", "text": "This power obeys ME!" },
+      { "context": "Combat", "text": "Wither into nothing..." },
+      { "context": "Combat", "text": "Your rotting flesh feeds my strength!" },
+      { "context": "Combat", "text": "Your weakling meat will rot!" },
+      { "context": "Treemouth dies", "text": "You killed Treemouth?! Strong meat!" },
+      { "context": "Treemouth dies", "text": "Come to me, clever meat. I'll wither your strength myself!" },
+      { "context": "Gutshot dies", "text": "You killed the hunt leader? Clever meat..." },
+      { "context": "Defeated", "text": "NO! I will not lose more! The rot will come for you! And I... I will claim your withered bones... your homes... Everything!" }
+    ]},
+    { "id": 186120, "name": "Treemouth", "filterName": "treemouth", "quotes": [
+      { "context": "Combat", "text": "Dead... feed... earth..." },
+      { "context": "Combat", "text": "Feed... Treemouth!" },
+      { "context": "Combat", "text": "Get... back!" },
+      { "context": "Combat", "text": "Treemouth hungry!" },
+      { "context": "Death", "text": "Treemouth... withers... away..." },
+      { "context": "Combat", "text": "Wither... and... spread...!" }
+    ]},
+    { "id": 186116, "name": "Gutshot", "filterName": "gutshot", "quotes": [] },
+    { "id": 186122, "name": "Rira Hackclaw", "filterName": "hackclaw", "quotes": [] }
+  ]
+}

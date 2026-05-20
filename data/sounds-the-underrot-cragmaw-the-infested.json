@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "npc": "Cragmaw the Infested",
+    "dungeon": "The Underrot",
+    "filterName": "cragmaw",
+    "namePattern": "",
+    "generated": "2026-05-19T18:13:25-07:00",
+    "soundCount": 10
+  },
+  "sounds": [
+    {
+      "soundId": 109975,
+      "filename": "Spell_Dungeon_Underrot_Cragmaw_CreateLarva_Missile",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/64/631616/FX_Amber_GenericSpell03.ogg",
+      "npc": "Cragmaw the Infested",
+      "dungeon": "The Underrot",
+      "transcript": "That is about it for this video.希望"
+    },
+    {
+      "soundId": 119878,
+      "filename": "Spell_UnderRot_Cragmaw_Devour_BloodSquishes",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/41/668969/FX_GIBS_ChunkSquish09.ogg",
+      "npc": "Cragmaw the Infested",
+      "dungeon": "The Underrot",
+      "transcript": "You"
+    },
+    {
+      "soundId": 109970,
+      "filename": "Spell_Dungeon_Underrot_Cragmaw_DestroyLarva",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/130/631682/FX_Amber_ImpactMedium04.ogg",
+      "npc": "Cragmaw the Infested",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    },
+    {
+      "soundId": 109974,
+      "filename": "Spell_Dungeon_Underrot_Cragmaw_SummonBloodTick_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/205/1725133/FX_Blood_Magic_Cast_Medium_03.ogg",
+      "npc": "Cragmaw the Infested",
+      "dungeon": "The Underrot",
+      "transcript": "You"
+    },
+    {
+      "soundId": 109972,
+      "filename": "Spell_Dungeon_Underrot_Cragmaw_SummonLarva_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/165/632229/FX_Amber_Oneshot02.ogg",
+      "npc": "Cragmaw the Infested",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    },
+    {
+      "soundId": 109959,
+      "filename": "Spell_Dungeon_Underrot_Cragmaw_Indigestion_cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/42/632874/FX_Amber_ExplosionHeavy02.ogg",
+      "npc": "Cragmaw the Infested",
+      "dungeon": "The Underrot",
+      "transcript": "THANKS FOR WATCHING!"
+    },
+    {
+      "soundId": 109971,
+      "filename": "Spell_Dungeon_Underrot_Cragmaw_SummonLarva_Impact",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/112/631664/FX_Amber_ImpactLight06.ogg",
+      "npc": "Cragmaw the Infested",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    },
+    {
+      "soundId": 109973,
+      "filename": "Spell_Dungeon_Underrot_Cragmaw_Tantrum_Cast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/138/930442/FX_Explosion_Rock_Debris_02.ogg",
+      "npc": "Cragmaw the Infested",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    },
+    {
+      "soundId": 119876,
+      "filename": "Spell_UnderRot_Cragmaw_Devour_Periodic_DifferentSound",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/241/1970161/FX_Bite_Eat_Flesh_01.ogg",
+      "npc": "Cragmaw the Infested",
+      "dungeon": "The Underrot",
+      "transcript": "Thank you for watching!"
+    },
+    {
+      "soundId": 118604,
+      "filename": "Spell_Underrot_Cragmaw_Indigestion_Precast",
+      "audioUrl": "https://wow.zamimg.com/sound-ids/live/enus/13/839693/FX_Blood_Channel_Heavy.ogg",
+      "npc": "Cragmaw the Infested",
+      "dungeon": "The Underrot",
+      "transcript": ""
+    }
+  ]
+}

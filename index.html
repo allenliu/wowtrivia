@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>WoW Dungeon Trivia — Know Your Voicelines?</title>
+<title>WoW Dungeon Trivia — Know Your Dungeon RP?</title>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 <style>
   :root {
@@ -71,13 +71,6 @@
     text-shadow: 0 0 30px var(--gold-glow), 0 2px 4px rgba(0,0,0,0.8);
     line-height: 1.1;
     letter-spacing: 1px;
-  }
-
-  .header-sub {
-    font-size: 15px;
-    color: var(--text-dim);
-    font-style: italic;
-    margin-top: 6px;
   }
 
   /* ─── GOLD DIVIDER ─── */
@@ -275,29 +268,6 @@
     border-left: 3px solid var(--gold);
     border-right: 3px solid var(--gold);
     box-sizing: border-box;
-  }
-
-  .replay-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    background: none;
-    border: 1px solid var(--stone-border);
-    color: var(--text-dim);
-    font-family: 'Cinzel', serif;
-    font-size: 10px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    padding: 8px 16px;
-    border-radius: 3px;
-    cursor: pointer;
-    margin-top: 10px;
-    transition: all 0.2s ease;
-  }
-
-  .replay-btn:hover {
-    border-color: var(--gold-dark);
-    color: var(--gold);
   }
 
   /* ─── ANSWER BUTTONS ─── */
@@ -530,12 +500,6 @@
 
   .result-score span { color: var(--text-dim); font-size: 32px; }
 
-  .result-subtitle {
-    font-size: 15px;
-    font-style: italic;
-    color: var(--text-dim);
-  }
-
   /* Question breakdown grid */
   .result-grid {
     padding: 20px 36px;
@@ -695,8 +659,7 @@
 <div class="container">
   <div class="header">
     <div class="header-eyebrow">World of Warcraft</div>
-    <h1>Know Your Voicelines?</h1>
-    <p class="header-sub">15 dungeon quotes. Which boss said it?</p>
+    <h1>Know Your Dungeon RP?</h1>
   </div>
 
   <div class="panel">
@@ -707,9 +670,9 @@
       <div class="start-content">
         <p>You'll hear a voiceline from a WoW dungeon boss or NPC.<br>Guess which dungeon it's from.</p>
         <ul class="start-rules">
-          <li>15 questions — all expansions from Legion to The War Within</li>
+          <li>15 questions — all expansions from Legion through Midnight</li>
           <li>4 choices per question — pick the right dungeon</li>
-          <li>Answer revealed after each guess, win or lose</li>
+          <li>Answer revealed after each guess</li>
           <li>Your result card is shareable when you're done</li>
         </ul>
         <button class="start-btn" onclick="startGame()">Enter the Instance</button>
@@ -749,10 +712,6 @@
               <span></span><span></span><span></span><span></span><span></span>
             </span>
           </button>
-          <br>
-          <button class="replay-btn" id="replay-btn" onclick="replayAudio()" style="display:none">
-            ↺ &nbsp;Replay
-          </button>
         </div>
 
         <!-- Answers -->
@@ -771,10 +730,9 @@
     <!-- RESULT SCREEN -->
     <div class="screen" id="screen-result">
       <div class="result-header">
-        <div class="result-rank-label">Your Rank</div>
+        <div class="result-rank-label">Your Grade</div>
         <div class="result-rank" id="result-rank"></div>
         <div class="result-score" id="result-score"></div>
-        <div class="result-subtitle" id="result-subtitle"></div>
       </div>
 
       <div class="result-grid">
@@ -800,166 +758,161 @@
 
 <script>
 // ─────────────────────────────────────────────
-// QUESTION DATA
-// Each question: { wowheadId, filename, npc, quote, dungeon, expansion }
-// Audio URL: https://www.wowhead.com/sound={wowheadId}/{filename}
+// POOL DATA — loaded from data/game-pool.json on demand
+// Each quote: { soundId, audioUrl, text, filename, npc, dungeon, expansion, source }
 // ─────────────────────────────────────────────
-const ALL_QUESTIONS = [
-  {
-    wowheadId: 60103,
-    filename: "vo-701-odyn-17",
-    npc: "Odyn",
-    quote: "It has been ages since I faced a worthy opponent. Let the battle begin!",
-    dungeon: "Halls of Valor",
-    expansion: "Legion"
-  },
-  {
-    wowheadId: 208066,
-    filename: "vo-100-headteacher-doragosa-08-f",
-    npc: "Echo of Doragosa",
-    quote: "Your continued existence is... unacceptable.",
-    dungeon: "Algeth'ar Academy",
-    expansion: "Dragonflight"
-  },
-  // ── Placeholders — fill in wowheadId + filename from Wowhead Sounds tab ──
-  // The quotes and dungeon assignments below are confirmed correct.
-  // Replace wowheadId: 0 and filename: "TBD" once you look up each sound.
-  {
-    wowheadId: 0,
-    filename: "TBD",
-    npc: "Mueh'zala",
-    quote: "Death comes for you, little mortal. Mueh'zala is dat death.",
-    dungeon: "De Other Side",
-    expansion: "Shadowlands"
-  },
-  {
-    wowheadId: 0,
-    filename: "TBD",
-    npc: "Dargrul the Underking",
-    quote: "I AM THE SHAPER AND FORGER OF THIS WORLD!",
-    dungeon: "Neltharion's Lair",
-    expansion: "Legion"
-  },
-  {
-    wowheadId: 0,
-    filename: "TBD",
-    npc: "Priscilla Ashvane",
-    quote: "This city should have been mine!",
-    dungeon: "Siege of Boralus",
-    expansion: "Battle for Azeroth"
-  },
-  {
-    wowheadId: 0,
-    filename: "TBD",
-    npc: "Gorak Tul",
-    quote: "The coven is mine to command. As is your soul.",
-    dungeon: "Waycrest Manor",
-    expansion: "Battle for Azeroth"
-  },
-  {
-    wowheadId: 0,
-    filename: "TBD",
-    npc: "Scourgelord Tyrannus",
-    quote: "Rimefang! To me!",
-    dungeon: "Pit of Saron",
-    expansion: "Wrath of the Lich King"
-  },
-  {
-    wowheadId: 0,
-    filename: "TBD",
-    npc: "Mordretha",
-    quote: "I have ruled death since before your world was born!",
-    dungeon: "Theater of Pain",
-    expansion: "Shadowlands"
-  },
-  {
-    wowheadId: 0,
-    filename: "TBD",
-    npc: "Goldie Baronbottom",
-    quote: "Nobody ruins my meadery! NOBODY!",
-    dungeon: "Cinderbrew Meadery",
-    expansion: "The War Within"
-  },
-  {
-    wowheadId: 0,
-    filename: "TBD",
-    npc: "Moroes",
-    quote: "Dinner... is served.",
-    dungeon: "Return to Karazhan: Lower",
-    expansion: "Legion"
-  },
-  {
-    wowheadId: 0,
-    filename: "TBD",
-    npc: "Advisor Vandros",
-    quote: "I have not survived for ten thousand years just to fall to a swarm of rats.",
-    dungeon: "The Arcway",
-    expansion: "Legion"
-  },
-  {
-    wowheadId: 0,
-    filename: "TBD",
-    npc: "King Mechagon",
-    quote: "Flesh is weakness. The future is mechanical!",
-    dungeon: "Operation: Mechagon – Workshop",
-    expansion: "Battle for Azeroth"
-  },
-  {
-    wowheadId: 0,
-    filename: "TBD",
-    npc: "Balakar Khan",
-    quote: "I am the storm that ends all things!",
-    dungeon: "Nokhud Offensive",
-    expansion: "Dragonflight"
-  },
-  {
-    wowheadId: 0,
-    filename: "TBD",
-    npc: "E.D.N.A.",
-    quote: "UNAUTHORIZED ACCESS DETECTED. INITIATING EXTERMINATION PROTOCOL.",
-    dungeon: "The Stonevault",
-    expansion: "The War Within"
-  },
-  {
-    wowheadId: 0,
-    filename: "TBD",
-    npc: "Devos, Paragon of Loyalty",
-    quote: "I serve a higher justice now. One the Arbiter could never understand.",
-    dungeon: "Spires of Ascension",
-    expansion: "Shadowlands"
-  },
-];
+let allQuotes   = [];   // filtered pool (in-scope expansions), used for random picks + distractors
+let allDungeons = [];   // unique dungeon names from allQuotes (for wrong-answer distractors)
+let quoteById   = {};   // full pool indexed by soundId — used to resolve shared ?q= URLs (incl. legacy)
 
-// All dungeon names (for wrong answer pool)
-const ALL_DUNGEONS = [
-  "Black Rook Hold","Court of Stars","Darkheart Thicket","Eye of Azshara","Halls of Valor",
-  "Maw of Souls","Neltharion's Lair","The Arcway","Vault of the Wardens","Cathedral of Eternal Night",
-  "Return to Karazhan: Lower","Return to Karazhan: Upper","Seat of the Triumvirate",
-  "Grimrail Depot","Iron Docks","Skyreach","The Everbloom",
-  "Atal'Dazar","Freehold","Kings' Rest","Operation: Mechagon – Junkyard","Operation: Mechagon – Workshop",
-  "Shrine of the Storm","Siege of Boralus","Temple of Sethraliss","The MOTHERLODE!!","Tol Dagor",
-  "The Underrot","Waycrest Manor",
-  "Throne of the Tides","Vortex Pinnacle","Grim Batol",
-  "De Other Side","Halls of Atonement","Mists of Tirna Scithe","Plaguefall","Sanguine Depths",
-  "Spires of Ascension","Tazavesh: So'leah's Gambit","Tazavesh: Streets of Wonder",
-  "The Necrotic Wake","Theater of Pain",
-  "Pit of Saron",
-  "Algeth'ar Academy","Azure Vault","Brackenhide Hollow","Dawn of the Infinite: Galakrond's Fall",
-  "Dawn of the Infinite: Murozond's Rise","Halls of Infusion","Neltharus","Nokhud Offensive",
-  "Ruby Life Pools","Uldaman: Legacy of Tyr",
-  "Ara-Kara, City of Echoes","Cinderbrew Meadery","City of Threads","Darkflame Cleft",
-  "Operation: Floodgate","Priory of the Sacred Flame","The Dawnbreaker","The Rookery","The Stonevault",
-];
+const NUM_QUESTIONS = 15;
+const Q_PARAM = 'q';    // URL query param: comma-separated soundIds for resilient sharing
 
-// Rank thresholds — lore characters, ordered high to low.
+// Game scope: Legion onward (the M+ era). Older expansions (WotLK/Cata/WoD)
+// are still in the pool but excluded from random pick + distractors.
+const INCLUDE_EXPANSIONS = new Set([
+  'Legion',
+  'Battle for Azeroth',
+  'Shadowlands',
+  'Dragonflight',
+  'The War Within',
+  'Midnight',
+]);
+
+async function loadPool() {
+  if (allQuotes.length > 0) return;
+  const resp = await fetch('data/game-pool.json');
+  if (!resp.ok) throw new Error('Failed to load game-pool.json: ' + resp.status);
+  const data = await resp.json();
+  const raw = data.quotes || [];
+  quoteById   = Object.fromEntries(raw.map(q => [q.soundId, q]));
+  allQuotes   = raw.filter(q => INCLUDE_EXPANSIONS.has(q.expansion));
+  allDungeons = Array.from(new Set(allQuotes.map(q => q.dungeon))).sort();
+}
+
+// Resilient share link: URL contains the actual sound IDs, not a seed.
+// Pool changes (curation, new quotes) don't affect existing share URLs.
+//
+// Encoding (current): pack each sound ID as a 20-bit big-endian int, then
+// base64url-encode the byte stream. 15 IDs → 300 bits → 38 bytes → 51 chars.
+// Supports IDs up to 2^20-1 = 1,048,575 (current pool max ≈ 308k).
+//
+// Two legacy formats are still accepted for old share links:
+//   - comma-separated decimal: "156541,87561,..."
+//   - dot-separated base36:    "4eu9.2bvp.3eo1..."
+const ID_BITS = 20;
+
+function encodeQuestionIds(ids) {
+  const byteLen = Math.ceil(ids.length * ID_BITS / 8);
+  const bytes = new Uint8Array(byteLen);
+  let bitPos = 0;
+  for (const id of ids) {
+    for (let b = ID_BITS - 1; b >= 0; b--) {
+      if ((id >> b) & 1) bytes[bitPos >> 3] |= 1 << (7 - (bitPos & 7));
+      bitPos++;
+    }
+  }
+  let bin = '';
+  for (const byte of bytes) bin += String.fromCharCode(byte);
+  return btoa(bin).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+}
+
+function decodePackedIds(str) {
+  let s = str.replace(/-/g, '+').replace(/_/g, '/');
+  while (s.length % 4) s += '=';
+  const bin = atob(s);
+  const bytes = new Uint8Array(bin.length);
+  for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+  const n = Math.floor(bytes.length * 8 / ID_BITS);
+  const ids = [];
+  let bitPos = 0;
+  for (let i = 0; i < n; i++) {
+    let val = 0;
+    for (let b = 0; b < ID_BITS; b++) {
+      val = (val << 1) | ((bytes[bitPos >> 3] >> (7 - (bitPos & 7))) & 1);
+      bitPos++;
+    }
+    ids.push(val);
+  }
+  return ids;
+}
+
+function parseUrlQuestionIds() {
+  const params = new URLSearchParams(window.location.search);
+  const qs = params.get(Q_PARAM);
+  if (!qs) return null;
+  if (qs.includes(',')) {
+    return qs.split(',').map(s => parseInt(s, 10)).filter(n => !isNaN(n) && n > 0);
+  }
+  if (qs.includes('.')) {
+    return qs.split('.').map(s => parseInt(s, 36)).filter(n => !isNaN(n) && n > 0);
+  }
+  try { return decodePackedIds(qs).filter(n => n > 0); } catch { return null; }
+}
+
+// Pick N quotes with guardrails:
+//   - quotes marked `selected` in curate.html are always included (NPC-deduped,
+//     not subject to the per-dungeon cap — curator's explicit choice wins)
+//   - then fill remaining slots randomly, max 1 per NPC and max 2 per dungeon
+//   - graceful fallbacks if the pool is too narrow to satisfy either cap
+const MAX_PER_DUNGEON = 2;
+function pickRandomQuestions(pool, n = NUM_QUESTIONS) {
+  if (pool.length === 0) return [];
+
+  const picked = [];
+  const usedNpcs = new Set();
+  const dungeonCount = {};
+  const bump = (q) => { dungeonCount[q.dungeon] = (dungeonCount[q.dungeon] || 0) + 1; };
+
+  // 1. Always-include: shuffle `selected` quotes (NPC-deduped only).
+  for (const q of shuffle(pool.filter(q => q.selected))) {
+    if (picked.length >= n) break;
+    if (usedNpcs.has(q.npc)) continue;
+    picked.push(q); usedNpcs.add(q.npc); bump(q);
+  }
+
+  // 2. Fill remaining: NPC-dedup + max-2-per-dungeon.
+  const rest = shuffle(pool.filter(q => !q.selected));
+  for (const q of rest) {
+    if (picked.length >= n) break;
+    if (usedNpcs.has(q.npc)) continue;
+    if ((dungeonCount[q.dungeon] || 0) >= MAX_PER_DUNGEON) continue;
+    picked.push(q); usedNpcs.add(q.npc); bump(q);
+  }
+
+  // 3. Relax dungeon cap if still short (keep NPC dedupe).
+  if (picked.length < n) {
+    for (const q of rest) {
+      if (picked.length >= n) break;
+      if (usedNpcs.has(q.npc)) continue;
+      if (picked.includes(q)) continue;
+      picked.push(q); usedNpcs.add(q.npc);
+    }
+  }
+
+  // 4. Last resort: allow NPC repeats too.
+  if (picked.length < n) {
+    for (const q of shuffle(pool)) {
+      if (picked.length >= n) break;
+      if (picked.includes(q)) continue;
+      picked.push(q);
+    }
+  }
+  return picked.slice(0, n);
+}
+
+// Letter-grade scale for 15 questions, ordered high to low.
 const RANKS = [
-  { min: 15, title: "Chromie",   flavor: "You've walked every timeline. Nothing surprised you." },
-  { min: 13, title: "Odyn",      flavor: "Most impressive. You have proven your worthiness." },
-  { min: 11, title: "Hyrja",     flavor: "A capable Valarjar. Odyn nods approvingly." },
-  { min:  9, title: "Murozond",  flavor: "You glimpsed the truth but lost the thread somewhere in the timeways." },
-  { min:  7, title: "Moroes",    flavor: "You've been here a long time. Something still isn't right." },
-  { min:  5, title: "Globgrog",  flavor: "HUNGRY. EAT. GUESS." },
-  { min:  0, title: "Hogger",    flavor: "A classic. Not a compliment." },
+  { min: 15, title: "S"  },
+  { min: 14, title: "A+" },
+  { min: 13, title: "A"  },
+  { min: 12, title: "B+" },
+  { min: 11, title: "B"  },
+  { min: 10, title: "C+" },
+  { min:  9, title: "C"  },
+  { min:  8, title: "D+" },
+  { min:  7, title: "D"  },
+  { min:  0, title: "F"  },
 ];
 
 // ─────────────────────────────────────────────
@@ -983,13 +936,22 @@ function shuffle(arr) {
 }
 
 function getWrongAnswers(correct) {
-  const pool = ALL_DUNGEONS.filter(d => d !== correct);
+  const pool = allDungeons.filter(d => d !== correct);
   return shuffle(pool).slice(0, 3);
 }
 
 function buildQuestions() {
-  // Use all 15 questions in fixed order (swap for shuffle if desired)
-  questions = ALL_QUESTIONS;
+  // If the URL has ?q=ids, replay that specific run (resilient to pool changes).
+  const ids = parseUrlQuestionIds();
+  if (ids && ids.length > 0) {
+    const found = ids.map(id => quoteById[id]).filter(Boolean);
+    if (found.length > 0) {
+      questions = found;
+      return;
+    }
+    // Fall through to random if none of the IDs resolve
+  }
+  questions = pickRandomQuestions(allQuotes);
 }
 
 // ─────────────────────────────────────────────
@@ -1000,8 +962,10 @@ function showScreen(id) {
   document.getElementById('screen-' + id).classList.add('active');
 }
 
-function startGame() {
+async function startGame() {
+  try { await loadPool(); } catch (e) { console.error(e); alert('Could not load the voiceline pool. Please reload.'); return; }
   buildQuestions();
+  if (questions.length === 0) { alert('No quotes available in pool.'); return; }
   current = 0;
   score = 0;
   results = [];
@@ -1011,9 +975,13 @@ function startGame() {
   loadQuestion();
 }
 
-function resetGame() {
+async function resetGame() {
   stopAudio();
-  startGame();
+  // Replay = fresh random selection; clear any ?q= from URL
+  const url = new URL(window.location.href);
+  url.searchParams.delete(Q_PARAM);
+  window.history.replaceState({}, '', url);
+  await startGame();
 }
 
 // ─────────────────────────────────────────────
@@ -1054,7 +1022,6 @@ function loadQuestion() {
   document.getElementById('play-icon').classList.remove('pause');
   document.getElementById('play-text').textContent = 'Play Voiceline';
   document.getElementById('waveform').classList.add('paused');
-  document.getElementById('replay-btn').style.display = 'none';
 
   // Reset answer/reveal/next
   document.getElementById('reveal-box').style.display = 'none';
@@ -1070,13 +1037,9 @@ function loadQuestion() {
     </button>`
   ).join('');
 
-  // Load audio
+  // Load audio (zamimg CDN URL, directly playable)
   audioEl = document.getElementById('audio-player');
-  if (q.wowheadId && q.wowheadId !== 0) {
-    audioEl.src = `https://www.wowhead.com/sound=${q.wowheadId}/${q.filename}`;
-  } else {
-    audioEl.src = ''; // No audio yet for this question
-  }
+  audioEl.src = q.audioUrl || '';
 
   audioEl.onended = () => {
     isPlaying = false;
@@ -1084,7 +1047,6 @@ function loadQuestion() {
     document.getElementById('play-icon').classList.remove('pause');
     document.getElementById('play-text').textContent = 'Play Voiceline';
     document.getElementById('waveform').classList.add('paused');
-    document.getElementById('replay-btn').style.display = 'inline-flex';
   };
 }
 
@@ -1112,19 +1074,7 @@ function toggleAudio() {
     document.getElementById('play-icon').classList.add('pause');
     document.getElementById('play-text').textContent = 'Playing...';
     document.getElementById('waveform').classList.remove('paused');
-    document.getElementById('replay-btn').style.display = 'inline-flex';
   }
-}
-
-function replayAudio() {
-  if (!audioEl.src || audioEl.src === window.location.href) return;
-  audioEl.currentTime = 0;
-  audioEl.play().catch(() => {});
-  isPlaying = true;
-  document.getElementById('play-btn').classList.add('playing');
-  document.getElementById('play-icon').classList.add('pause');
-  document.getElementById('play-text').textContent = 'Playing...';
-  document.getElementById('waveform').classList.remove('paused');
 }
 
 function stopAudio() {
@@ -1133,6 +1083,15 @@ function stopAudio() {
     audioEl.currentTime = 0;
   }
   isPlaying = false;
+  // Reset play-button visuals so the UI doesn't look stuck on "Playing..."
+  // when audio is interrupted by an answer selection or navigation.
+  const playBtn = document.getElementById('play-btn');
+  if (playBtn) {
+    playBtn.classList.remove('playing');
+    document.getElementById('play-icon').classList.remove('pause');
+    document.getElementById('play-text').textContent = 'Play Voiceline';
+    document.getElementById('waveform').classList.add('paused');
+  }
 }
 
 function showNoAudio() {
@@ -1178,7 +1137,7 @@ function guess(selected) {
   reveal.style.display = 'block';
   reveal.innerHTML = `
     <div class="reveal-npc">${q.npc} &mdash; ${q.dungeon}</div>
-    <div class="reveal-quote">"${q.quote}"</div>
+    <div class="reveal-quote">"${q.text}"</div>
     <div class="reveal-result ${correct ? 'correct' : 'wrong'}">
       ${correct ? '✓ Correct' : '✗ Wrong — the answer was ' + q.dungeon}
     </div>`;
@@ -1208,19 +1167,22 @@ function getRank(s) {
 }
 
 function buildShareText(rank) {
-  const grid = results.map(r => r ? '🟩' : '🟥').join('');
-  // Group into rows of 5
+  // Group results into rows of 5 for the emoji grid
   const rows = [];
   for (let i = 0; i < results.length; i += 5) {
     rows.push(results.slice(i, i+5).map(r => r ? '🟩' : '🟥').join(''));
   }
-  return `🔊 WoW Dungeon Trivia
+  // Encode this specific run's question IDs in the share URL so friends
+  // play the same 15 quotes (resilient to pool changes).
+  const ids = encodeQuestionIds(questions.map(q => q.soundId));
+  const shareUrl = `https://allenliu.github.io/wowtrivia/?${Q_PARAM}=${ids}`;
+  return `🔊 WoW Dungeon RP Trivia
 ${rank.title} — ${score}/${questions.length}
 
 ${rows.join('\n')}
 
 Can you beat me?
-https://allenliu.github.io/wowtrivia/`;
+${shareUrl}`;
 }
 
 function showResults() {
@@ -1229,7 +1191,6 @@ function showResults() {
 
   document.getElementById('result-rank').textContent = rank.title;
   document.getElementById('result-score').innerHTML = `${score}<span>/${questions.length}</span>`;
-  document.getElementById('result-subtitle').textContent = rank.flavor;
 
   // Dots
   const dotsEl = document.getElementById('result-dots');
@@ -1256,6 +1217,18 @@ function copyResult() {
     }, 2000);
   });
 }
+
+// ─────────────────────────────────────────────
+// PAGE INIT — preload the pool and surface a hint if URL specifies a shared run
+// ─────────────────────────────────────────────
+(async () => {
+  try {
+    await loadPool();
+  } catch (e) {
+    console.error('Failed to preload pool:', e);
+    return;
+  }
+})();
 </script>
 </body>
 </html>

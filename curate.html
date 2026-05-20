@@ -482,6 +482,27 @@
   }
   .selected-toggle:hover { color: var(--gold); }
 
+  /* Read-only browse mode (?browse=1) — hide all per-quote edit controls.
+     Status badges from .status-rejected etc. still apply via the quote-row
+     class, so visitors can see what the curator marked. */
+  body.readonly .status-pill[data-sid],
+  body.readonly .selected-toggle {
+    display: none;
+  }
+  body.readonly .readonly-badge {
+    display: inline-block;
+    padding: 4px 10px;
+    margin-left: 8px;
+    border: 1px solid var(--gold-dark);
+    border-radius: 3px;
+    color: var(--gold);
+    font-family: 'Cinzel', serif;
+    font-size: 10px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+  }
+  .readonly-badge { display: none; }
+
   @media (max-width: 720px) {
     .quote-row { grid-template-columns: 1fr; }
     .quote-actions { align-items: flex-start; }
@@ -493,7 +514,7 @@
 
 <header>
   <div>
-    <h1 id="title">Voiceline Curation</h1>
+    <h1 id="title"><span id="title-text">Voiceline Curation</span><span class="readonly-badge">Read-only</span></h1>
     <div class="sub" id="subtitle">No data loaded</div>
   </div>
   <div class="toolbar">
@@ -535,10 +556,23 @@
 <audio id="player" preload="none"></audio>
 
 <script>
-  // Browser support check
-  if (!('showDirectoryPicker' in window)) {
+  // ?browse=1 puts the page in read-only mode: auto-loads voicelines via HTTP
+  // (no File System Access API needed) and hides all per-quote edit controls.
+  const READONLY = new URLSearchParams(location.search).get('browse') === '1';
+
+  // Browser support check only matters in edit mode — readonly uses fetch.
+  if (!READONLY && !('showDirectoryPicker' in window)) {
     document.getElementById('app').innerHTML = '<div class="empty-state"><h2>Browser not supported</h2><p>This page requires Chrome, Edge, or Opera — Firefox and Safari do not implement the File System Access API. Please reopen in one of those browsers.</p></div>';
     document.getElementById('btn-open').disabled = true;
+  }
+
+  if (READONLY) {
+    document.body.classList.add('readonly');
+    document.getElementById('title-text').textContent = 'Voiceline Browser';
+    document.getElementById('subtitle').textContent = 'Browse the curated voiceline pool';
+    document.getElementById('btn-open').style.display = 'none';
+    document.getElementById('btn-export').style.display = 'none';
+    document.getElementById('save-indicator').style.display = 'none';
   }
 
   /** @type {{ handle: FileSystemFileHandle, data: any }[]} */
@@ -573,6 +607,13 @@
 
   document.getElementById('btn-open').addEventListener('click', openFolder);
   document.getElementById('btn-export').addEventListener('click', exportSelected);
+
+  if (READONLY) {
+    // Default to "show everything" — user explicitly asked for full transparency
+    // including transcript-only and rejected entries.
+    document.getElementById('filter-transcript').checked = true;
+    loadFromHttp();
+  }
   document.getElementById('filter-wowhead').addEventListener('change', render);
   document.getElementById('filter-wiki').addEventListener('change', render);
   document.getElementById('filter-transcript').addEventListener('change', render);
@@ -657,9 +698,45 @@
     }
   }
 
+  // Read-only loader — fetches data/dungeons.json then each voicelines-<slug>.json
+  // over HTTP. No File System Access required; works on any modern browser.
+  async function loadFromHttp() {
+    try {
+      const catResp = await fetch('data/dungeons.json');
+      if (!catResp.ok) throw new Error(`dungeons.json: ${catResp.status}`);
+      const catalog = (await catResp.json()).dungeons || [];
+
+      const loaded = [];
+      for (const d of catalog) {
+        try {
+          const resp = await fetch(`data/voicelines-${d.slug}.json`);
+          if (!resp.ok) continue;
+          const data = await resp.json();
+          if (!data.meta || !data.npcs) continue;
+          loaded.push({ handle: null, data });   // handle=null signals read-only
+        } catch {/* skip missing dungeon */}
+      }
+
+      if (loaded.length === 0) {
+        document.getElementById('app').innerHTML =
+          '<div class="empty-state"><h2>No data found</h2><p>Could not load any voicelines files over HTTP.</p></div>';
+        return;
+      }
+
+      loaded.sort((a, b) => a.data.meta.dungeon.localeCompare(b.data.meta.dungeon));
+      dungeons = loaded;
+      activeIdx = 0;
+      render();
+    } catch (e) {
+      document.getElementById('app').innerHTML =
+        `<div class="empty-state"><h2>Load failed</h2><p>${e.message}</p></div>`;
+    }
+  }
+
   async function saveCurrent() {
+    if (READONLY) return;
     const cur = current();
-    if (!cur) return;
+    if (!cur || !cur.handle) return;
     try {
       setSaveStatus('saving');
       const writable = await cur.handle.createWritable();
@@ -843,7 +920,7 @@
       document.getElementById('expansion-tabs').style.display = 'none';
       document.getElementById('source-filters').style.display = 'none';
       app.innerHTML = '<div class="empty-state"><h2>No data loaded</h2><p>Click <strong>Open data folder</strong> and choose the <code>data/</code> directory.</p></div>';
-      document.getElementById('title').textContent = 'Voiceline Curation';
+      document.getElementById('title-text').textContent = READONLY ? 'Voiceline Browser' : 'Voiceline Curation';
       document.getElementById('subtitle').textContent = 'No data loaded';
       document.getElementById('btn-export').disabled = true;
       return;
@@ -865,7 +942,7 @@
     const totalAllAcross      = dungeons.reduce((a, d) => a + countQuotes(d.data, { all: true }), 0);
     const hiddenCount         = totalAllAcross - totalQuotesAcross;
 
-    document.getElementById('title').textContent = `${cur.data.meta.dungeon} — Voiceline Curation`;
+    document.getElementById('title-text').textContent = `${cur.data.meta.dungeon} — ${READONLY ? 'Voiceline Browser' : 'Voiceline Curation'}`;
     const hiddenSuffix = hiddenCount > 0 ? `  ·  ${hiddenCount} hidden by filters` : '';
     document.getElementById('subtitle').textContent =
       `${dungeons.length} dungeon${dungeons.length !== 1 ? 's' : ''} loaded  ·  ${totalQuotesAcross} quotes${hiddenSuffix}  ·  ${totalSelectedAcross} selected`;
@@ -978,7 +1055,7 @@
     }
     rows.sort((a, b) => b.accepted - a.accepted || a.name.localeCompare(b.name));
 
-    document.getElementById('title').textContent = 'Review — Accepted Voicelines';
+    document.getElementById('title-text').textContent = 'Review — Accepted Voicelines';
     document.getElementById('subtitle').textContent = `${totalAccepted} accepted  ·  ${totalSelected} picked for game across ${rows.length} dungeon${rows.length !== 1 ? 's' : ''}`;
     document.getElementById('btn-export').disabled = totalSelected === 0;
 

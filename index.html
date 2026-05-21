@@ -878,10 +878,12 @@
 // ─────────────────────────────────────────────
 let allQuotes   = [];   // filtered pool (in-scope expansions), used for random picks + distractors
 let allDungeons = [];   // unique dungeon names from allQuotes (for wrong-answer distractors)
-let quoteById   = {};   // full pool indexed by soundId — used to resolve shared ?q= URLs (incl. legacy)
+let quoteById   = {};   // full pool indexed by soundId   — for resolving legacy ?q= URLs
+let quoteByIdx  = {};   // full pool indexed by stable idx — for resolving compact ?r= URLs
 
 const NUM_QUESTIONS = 15;
-const Q_PARAM = 'q';    // URL query param: comma-separated soundIds for resilient sharing
+const R_PARAM = 'r';    // New compact share format: packed 12-bit pool indices
+const Q_PARAM = 'q';    // Legacy share format: encoded sound IDs (still supported)
 
 // Game scope: whatever is in the curated pool. build-game-pool.ps1 filters to
 // quotes the curator has Accepted in curate.html, so we trust that here and
@@ -916,31 +918,34 @@ async function loadPool() {
   const data = await resp.json();
   const raw = data.quotes || [];
   quoteById   = Object.fromEntries(raw.map(q => [q.soundId, q]));
+  quoteByIdx  = Object.fromEntries(raw.filter(q => q.idx != null).map(q => [q.idx, q]));
   allQuotes   = raw;
   allDungeons = Array.from(new Set(allQuotes.map(q => q.dungeon))).sort();
   const rule = document.getElementById('rule-scope');
   if (rule) rule.textContent = `15 questions — ${describeExpansionScope()}`;
 }
 
-// Resilient share link: URL contains the actual sound IDs, not a seed.
-// Pool changes (curation, new quotes) don't affect existing share URLs.
+// Share link encoding. Two formats, both resilient to curation changes:
 //
-// Encoding (current): pack each sound ID as a 20-bit big-endian int, then
-// base64url-encode the byte stream. 15 IDs → 300 bits → 38 bytes → 51 chars.
-// Supports IDs up to 2^20-1 = 1,048,575 (current pool max ≈ 308k).
+//   Current (?r=): pack each quote's stable pool-index (assigned by
+//     build-game-pool.ps1, persisted in data/pool-index.json) as a 12-bit
+//     big-endian int, then base64url-encode. 15 quotes → 180 bits → 23 bytes
+//     → 31 base64url chars. Supports up to 4,096 unique pool entries.
 //
-// Two legacy formats are still accepted for old share links:
-//   - comma-separated decimal: "156541,87561,..."
-//   - dot-separated base36:    "4eu9.2bvp.3eo1..."
-const ID_BITS = 20;
+//   Legacy (?q=): three sub-formats, all encoding actual soundIds (20-bit
+//     packed base64url, dot-separated base36, or comma-separated decimal).
+//     Older share links still work because pool-index doesn't help if you
+//     only know the soundId.
+const IDX_BITS = 12;
+const ID_BITS  = 20;
 
-function encodeQuestionIds(ids) {
-  const byteLen = Math.ceil(ids.length * ID_BITS / 8);
+function packBits(values, bitsPerValue) {
+  const byteLen = Math.ceil(values.length * bitsPerValue / 8);
   const bytes = new Uint8Array(byteLen);
   let bitPos = 0;
-  for (const id of ids) {
-    for (let b = ID_BITS - 1; b >= 0; b--) {
-      if ((id >> b) & 1) bytes[bitPos >> 3] |= 1 << (7 - (bitPos & 7));
+  for (const v of values) {
+    for (let b = bitsPerValue - 1; b >= 0; b--) {
+      if ((v >> b) & 1) bytes[bitPos >> 3] |= 1 << (7 - (bitPos & 7));
       bitPos++;
     }
   }
@@ -949,28 +954,50 @@ function encodeQuestionIds(ids) {
   return btoa(bin).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
 }
 
-function decodePackedIds(str) {
+function unpackBits(str, bitsPerValue) {
   let s = str.replace(/-/g, '+').replace(/_/g, '/');
   while (s.length % 4) s += '=';
   const bin = atob(s);
   const bytes = new Uint8Array(bin.length);
   for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
-  const n = Math.floor(bytes.length * 8 / ID_BITS);
-  const ids = [];
+  const n = Math.floor(bytes.length * 8 / bitsPerValue);
+  const out = [];
   let bitPos = 0;
   for (let i = 0; i < n; i++) {
     let val = 0;
-    for (let b = 0; b < ID_BITS; b++) {
+    for (let b = 0; b < bitsPerValue; b++) {
       val = (val << 1) | ((bytes[bitPos >> 3] >> (7 - (bitPos & 7))) & 1);
       bitPos++;
     }
-    ids.push(val);
+    out.push(val);
   }
-  return ids;
+  return out;
+}
+
+// Encode the current run for sharing. Prefers compact ?r= if every quote has
+// a stable idx (true for any quote from game-pool.json); falls back to ?q=
+// otherwise.
+function encodeRun(quotes) {
+  if (quotes.every(q => q.idx != null)) {
+    return { param: R_PARAM, value: packBits(quotes.map(q => q.idx), IDX_BITS) };
+  }
+  return { param: Q_PARAM, value: packBits(quotes.map(q => q.soundId), ID_BITS) };
 }
 
 function parseUrlQuestionIds() {
   const params = new URLSearchParams(window.location.search);
+
+  // Preferred: compact pool-index encoding
+  const rs = params.get(R_PARAM);
+  if (rs) {
+    try {
+      const indices = unpackBits(rs, IDX_BITS);
+      const ids = indices.map(i => quoteByIdx[i]?.soundId).filter(Boolean);
+      if (ids.length > 0) return ids;
+    } catch {/* fall through to legacy */}
+  }
+
+  // Legacy: encoded sound IDs in any of three sub-formats
   const qs = params.get(Q_PARAM);
   if (!qs) return null;
   if (qs.includes(',')) {
@@ -979,7 +1006,7 @@ function parseUrlQuestionIds() {
   if (qs.includes('.')) {
     return qs.split('.').map(s => parseInt(s, 36)).filter(n => !isNaN(n) && n > 0);
   }
-  try { return decodePackedIds(qs).filter(n => n > 0); } catch { return null; }
+  try { return unpackBits(qs, ID_BITS).filter(n => n > 0); } catch { return null; }
 }
 
 // Pick N quotes with guardrails:
@@ -1111,8 +1138,9 @@ async function startGame() {
 
 async function resetGame() {
   stopAudio();
-  // Replay = fresh random selection; clear any ?q= from URL
+  // Replay = fresh random selection; clear any shared-run params from URL
   const url = new URL(window.location.href);
+  url.searchParams.delete(R_PARAM);
   url.searchParams.delete(Q_PARAM);
   window.history.replaceState({}, '', url);
   await startGame();
@@ -1309,8 +1337,8 @@ function buildShareText(rank) {
   }
   // Encode this specific run's question IDs in the share URL so friends
   // play the same 15 quotes (resilient to pool changes).
-  const ids = encodeQuestionIds(questions.map(q => q.soundId));
-  const shareUrl = `https://allenliu.github.io/wowtrivia/?${Q_PARAM}=${ids}`;
+  const enc = encodeRun(questions);
+  const shareUrl = `https://allenliu.github.io/wowtrivia/?${enc.param}=${enc.value}`;
   return `🔊 WoW Dungeon RP Trivia
 ${rank.title} — ${score}/${questions.length}
 

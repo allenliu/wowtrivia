@@ -110,7 +110,7 @@ NPC IDs link to their Wowhead page so you can verify "is this really X talking?"
 
 ## Generating the game pool
 
-[scripts/build-game-pool.ps1](scripts/build-game-pool.ps1) walks every `data/voicelines-*.json`, applies the filter, and writes [data/game-pool.json](data/game-pool.json).
+[scripts/build-game-pool.ps1](scripts/build-game-pool.ps1) walks every `data/voicelines-*.json`, applies the filter, and writes [data/game-pool.json](data/game-pool.json). It also maintains [data/pool-index.json](data/pool-index.json) — an append-only registry that assigns each accepted soundId a permanent integer index. The game uses these indices for compact share URLs (`?r=` param, 12 bits per index, base64url-packed). Once assigned, an index is never reused even if the quote is later rejected, so share links remain valid forever.
 
 Default filter:
 

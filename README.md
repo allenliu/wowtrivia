@@ -10,7 +10,7 @@ Hear a voiceline from a World of Warcraft dungeon boss or NPC. Guess which dunge
 - Pool of curator-accepted voicelines lives in [data/game-pool.json](data/game-pool.json), generated from per-dungeon source files.
 - Each game picks 15 questions: any `selected` quotes are always included; the rest fill randomly with max 1 per NPC and max 2 per dungeon.
 - Audio streams directly from Wowhead's CDN (zamimg).
-- Share URL encodes the run's actual sound IDs (packed 20-bit base64url, ~51 chars) so the link replays the same questions even after the pool changes.
+- Share URL encodes the run as compact stable pool-indices (packed 12-bit base64url, ~31 chars in the `?r=` param). The link replays the same questions even after curation changes, since indices are append-only and never reassigned. Older `?q=` links (encoded soundIds) still resolve.
 
 Game scope is whatever has been accepted in `curate.html` — there is no expansion filter on the client. Tier-2 configs and voicelines files for every dungeon (Wrath of the Lich King through Midnight) live in the repo; a dungeon appears in the game once one of its quotes is marked Accepted.
 
@@ -26,6 +26,7 @@ Game scope is whatever has been accepted in `curate.html` — there is no expans
 | [`data/voicelines-*.json`](data/) | Per-dungeon curation source of truth (one file per dungeon) |
 | [`data/sounds-*.json`](data/) | Per-NPC manifests with cached Whisper transcripts |
 | [`data/game-pool.json`](data/game-pool.json) | Aggregated accepted+selected quotes served to the game |
+| [`data/pool-index.json`](data/pool-index.json) | Append-only registry: stable integer index per soundId, used for compact share URLs |
 | [`voiceline-pipeline.md`](voiceline-pipeline.md) | How the scraping + curation pipeline works end-to-end |
 
 ## Run locally
